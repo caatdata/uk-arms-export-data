@@ -1,0 +1,33 @@
+# UK Arms Export Data
+
+A list of all controlled goods approved for export from the UK since January 2008.
+
+Also available through a searchable application the [Campaign Against Arms Trade](http://www.caat.org.uk/resources/export-licences] website.
+
+Source data from the [Strategic Export Controls database](https://www.exportcontroldb.berr.gov.uk/eng/fox) of the UK Department for Business, Innovation and Skills.
+
+## Included Files
+
+-   *items.csv* - Items approved for export to specific countries
+-   *values.csv* - Values in GBP, and rating codes of goods approved for export to specific countries
+-   *ratings.csv* - Explanations of rating codes, and whether they are considered "military" or "dual-use"
+-   *sources.csv* - Source countries of items passing through the UK
+-   *destinations.csv* - Destination countries for items assembled abroad from UK components
+-   *refusal-criteria.csv* - Reasons given for licence applications that were refused
+
+## Cross referencing
+
+Several files contain a column named "licence_group" which lists unique licence IDs for cross referencing.
+
+## Caveats
+
+Due to ambiguity in source documents from which these data were compiled, the following columns may include small amounts of bad data.
+
+-   Refusal criteria may contain some false-positive matches.
+-   Source and destination countries may contain some false-positive matches.
+-   Low price values may be inaccurate by one or two pounds.
+
+## Feedback
+
+Contact [data@caat.org.uk](mailto:data@caat.org.uk) with any comments, questions or requests for specific data or alternative formats.
+
