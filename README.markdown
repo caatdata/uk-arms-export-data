@@ -2,7 +2,7 @@
 
 A list of all controlled goods approved for export from the UK since January 2008.
 
-Also available through a searchable application the [Campaign Against Arms Trade](http://www.caat.org.uk/resources/export-licences] website.
+The data is also available via a searchable application on the [Campaign Against Arms Trade](http://www.caat.org.uk/resources/export-licences) website.
 
 Source data from the [Strategic Export Controls database](https://www.exportcontroldb.berr.gov.uk/eng/fox) of the UK Department for Business, Innovation and Skills.
 
@@ -21,7 +21,7 @@ Several files contain a column named "licence_group" which lists unique licence 
 
 ## Caveats
 
-Due to ambiguity in source documents from which these data were compiled, the following columns may include small amounts of bad data.
+Due to ambiguity in the source documents from which these data were compiled, the following columns may include some inaccuracies.
 
 -   Refusal criteria may contain some false-positive matches.
 -   Source and destination countries may contain some false-positive matches.
