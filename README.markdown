@@ -8,12 +8,12 @@ Source data from the [Strategic Export Controls database](https://www.exportcont
 
 ## Included Files
 
--   *items.csv* - Items approved for export to specific countries
+-   *items.csv* - Items approved, revoked or refused for export to specific countries
 -   *values.csv* - Values in GBP, and rating codes of goods approved for export to specific countries
 -   *ratings.csv* - Explanations of rating codes, and whether they are considered "military" or "dual-use"
--   *sources.csv* - Source countries of items passing through the UK
--   *destinations.csv* - Destination countries for items assembled abroad from UK components
--   *refusal-criteria.csv* - Reasons given for licence applications that were refused
+-   *sources.csv* - Source countries of items transiting the UK to a third country
+-   *destinations.csv* - Final destination countries for items incorporated into overseas equipment for onward export
+-   *refusal-criteria.csv* - Reasons given for the refusal of licence applications
 
 ## Cross referencing
 
