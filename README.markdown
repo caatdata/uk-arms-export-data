@@ -1,6 +1,6 @@
 # UK Arms Export Data
 
-A list of all controlled goods approved for export from the UK since January 2008.
+A list of all controlled goods approved or refused for export from the UK since January 2008.
 
 The data is also available via a searchable application on the [Campaign Against Arms Trade](http://www.caat.org.uk/resources/export-licences) website.
 
