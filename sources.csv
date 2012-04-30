@@ -1,2406 +1,3756 @@
 licence_group,source
-34911,Germany
-34912,Ireland
-34913,Romania
-34913,Bulgaria
-34913,Serbia
-34914,"United States of America"
-34915,Israel
-34916,Bulgaria
-34916,Romania
-34917,"United States of America"
-34917,"United States of America"
-34918,"United Arab Emirates"
-34919,Ukraine
-34920,Romania
-34921,Ireland
-34921,Ireland
-34922,China
-34922,Hungary
-34922,Switzerland
-34923,Australia
-34924,Canada
-34925,"South Africa"
-34926,Turkey
-34927,Jordan
-34928,"Bosnia and Herzegovina"
-34929,"Bosnia and Herzegovina"
-34930,Jordan
-34931,"Bosnia and Herzegovina"
-34932,Germany
-34933,"Bosnia and Herzegovina"
-34934,Pakistan
-34935,Jordan
-34936,China
-34937,"United States of America"
-34938,"South Africa"
-34939,"South Africa"
-34940,Malaysia
-34941,India
-34942,Jordan
-34943,Jordan
-34944,Jordan
-34945,Jordan
-34946,Jordan
-34947,Serbia
-34948,Thailand
-34949,"South Africa"
-34950,Ireland
-34951,"South Africa"
-34951,"South Africa"
-34951,"South Africa"
-34953,"United States of America"
-34954,China
-34955,"United States of America"
-34956,Thailand
-34957,Ireland
-34957,Ireland
-34957,Ireland
-34957,Ireland
-34958,"United States of America"
-34959,Jordan
-34960,Jordan
-34961,"South Africa"
-34962,"United Arab Emirates"
-34963,Israel
-34963,Brazil
-34964,Ireland
-34965,Jordan
-34966,Ireland
-34967,"United States of America"
-34968,Brazil
-34969,Jordan
-34970,Romania
-34971,"United Arab Emirates"
-34972,"South Africa"
-34973,"United States of America"
-34974,Jordan
-34975,Ireland
-34976,"South Africa"
-34977,"Sri Lanka"
-34978,"Bosnia and Herzegovina"
-34979,Bulgaria
-34980,Jordan
-34981,Jordan
-34982,"United States of America"
-34983,"United States of America"
-34984,"Korea, South"
-34985,"South Africa"
-34985,Ireland
-34985,Ireland
-34985,"United States of America"
-34986,"United States of America"
-34987,"United States of America"
-34988,Iraq
-34989,Jordan
-34990,Romania
-34991,"Sri Lanka"
-34992,Serbia
-34993,Iraq
-34994,Serbia
-34995,Brazil
-34995,India
-34996,Germany
-34997,Jordan
-34998,"South Africa"
-34999,Jordan
-35000,Brazil
-35001,Jordan
-35002,"United States of America"
-35003,"United States of America"
-35004,Turkey
-35005,"United States of America"
-35006,"South Africa"
-35007,Germany
-35008,Brazil
-35009,"United States of America"
-35010,Romania
-35010,Montenegro
-35010,Serbia
-35010,Kazakhstan
-35011,Romania
-35011,Kazakhstan
-35012,Serbia
-35013,"South Africa"
-35014,Serbia
-35015,"Bosnia and Herzegovina"
-35016,"South Africa"
-35017,Namibia
-35018,Germany
-35019,Germany
-35020,"South Africa"
-35020,"South Africa"
-35021,Lebanon
-35022,Taiwan
-35023,Bulgaria
-35024,Ireland
-35025,"United States of America"
-35026,"Sri Lanka"
-35027,"United States of America"
-35028,Romania
-35029,"South Africa"
-35030,"South Africa"
-35031,Romania
-35032,"South Africa"
-35033,"Korea, South"
-35034,"Czech Republic"
-35035,Romania
-35035,Romania
-35036,"United States of America"
-35037,Ukraine
-35038,"South Africa"
-35039,"South Africa"
-35040,"Non Specific Country"
-35041,Germany
-35042,"United States of America"
-35043,"Bosnia and Herzegovina"
-35044,Germany
-35045,Turkey
-35046,Brazil
-35047,Germany
-35048,Germany
-35049,"South Africa"
-35050,Germany
-35051,China
-35052,"United States of America"
-35053,"South Africa"
-35054,"South Africa"
-35055,Romania
-35055,Malaysia
-35056,"South Africa"
-35057,"United Arab Emirates"
-35058,"United Arab Emirates"
-35059,"Czech Republic"
-35060,Germany
-35061,"South Africa"
-35062,"South Africa"
-35063,"South Africa"
-35064,"South Africa"
-35065,"South Africa"
-35066,"United Arab Emirates"
-35067,Bulgaria
-35068,"South Africa"
-35069,"United Arab Emirates"
-35070,Germany
-35071,Jordan
-35072,Canada
-35073,"South Africa"
-35074,"South Africa"
-35075,"South Africa"
-35076,"United Arab Emirates"
-35077,Israel
-35078,India
-35079,Germany
-35080,"South Africa"
-35081,Israel
-35082,"South Africa"
-35083,"South Africa"
-35084,Germany
-35085,"United Arab Emirates"
-35086,"South Africa"
-35087,"South Africa"
-35088,"South Africa"
-35089,Romania
-35090,"South Africa"
-35091,Canada
-35092,"South Africa"
-35092,"South Africa"
-35092,"South Africa"
-35093,India
-35094,Kuwait
-35095,"South Africa"
-35096,"South Africa"
-35097,"South Africa"
-35098,"South Africa"
-35098,"South Africa"
-35098,"South Africa"
-35099,Serbia
-35100,"Bosnia and Herzegovina"
-35101,Germany
-35102,India
-35103,Romania
-35104,"United States of America"
-35105,"South Africa"
-35106,Germany
-35107,"United States of America"
-35108,"South Africa"
-35109,"South Africa"
-35109,"South Africa"
-35110,Brazil
-35111,"United States of America"
-35112,Bulgaria
-35113,"South Africa"
-35114,India
-35115,"South Africa"
-35116,Russia
-35117,Germany
-35118,"South Africa"
-35119,Israel
-35120,Serbia
-35121,"South Africa"
-35122,"South Africa"
-35123,China
-35123,China
-35124,"South Africa"
-35124,"South Africa"
-35124,"South Africa"
-35125,Turkey
-35126,"South Africa"
-35127,"South Africa"
-35127,"South Africa"
-35128,Malaysia
-35129,"South Africa"
-35130,Germany
-35130,Germany
-35131,India
-35132,"United Arab Emirates"
-35133,Germany
-35134,"Czech Republic"
-35135,Jordan
-35136,France
-35137,Brazil
-35138,Netherlands
-35139,"South Africa"
-35140,"Bosnia and Herzegovina"
-35140,Turkey
-35141,"South Africa"
-35142,Singapore
-35143,China
-35144,Bulgaria
-35144,Romania
-35145,"United States of America"
-35146,"South Africa"
-35147,Turkey
-35148,Namibia
-35149,"United States of America"
-35150,"South Africa"
-35151,"South Africa"
-35152,"South Africa"
-35153,Brazil
-35154,Canada
-35155,"United States of America"
-35156,Belarus
-35157,"United Arab Emirates"
-35158,Jordan
-35159,China
-35160,Belarus
-35161,Germany
-35162,Belarus
-35163,"South Africa"
-35164,"United States of America"
-35165,Jordan
-35166,Bulgaria
-35167,Belarus
-35168,Bulgaria
-35169,Belarus
-35170,Iraq
-35171,Kuwait
-35171,"United States of America"
-35172,"South Africa"
-35173,China
-35174,"United States of America"
-35175,"United States of America"
-35176,Austria
-35177,"United States of America"
-35178,"South Africa"
-35179,"United States of America"
-35180,Bulgaria
-35180,Croatia
-35181,"South Africa"
-35182,Romania
-35183,"United States of America"
-35184,France
-35185,Jordan
-35186,"South Africa"
-35187,Jordan
-35188,"United States of America"
-35189,"United States of America"
-35190,"South Africa"
-35191,India
-35192,"South Africa"
-35193,"United States of America"
-35194,"Bosnia and Herzegovina"
-35195,"South Africa"
-35196,"United States of America"
-35197,Brazil
-35197,"United States of America"
-35198,Germany
-35199,Malta
-35200,"South Africa"
-35201,"Korea, South"
-35202,Jordan
-35203,Israel
-35204,"South Africa"
-35205,Serbia
-35206,"South Africa"
-35207,Ukraine
-35208,"South Africa"
-35209,"Bosnia and Herzegovina"
-35210,Jordan
-35211,Canada
-35212,Jordan
-35213,Australia
-35214,"South Africa"
-35215,Australia
-35216,Australia
-35217,Australia
-35218,Australia
-35219,"South Africa"
-35220,"South Africa"
-35221,Australia
-35222,"United States of America"
-35223,"South Africa"
-35224,Australia
-35225,"South Africa"
-35226,"South Africa"
-35227,"South Africa"
-35228,"South Africa"
-35229,Turkey
-35230,Turkey
-35231,"South Africa"
-35232,Bulgaria
-35232,Serbia
-35232,Romania
-35232,"Bosnia and Herzegovina"
-35233,Jordan
-35234,Ukraine
-35235,Ireland
-35236,Jordan
-35237,"South Africa"
-35238,Malta
-35239,"South Africa"
-35240,Jordan
-35241,"Bosnia and Herzegovina"
-35242,"United States of America"
-35243,Turkey
-35244,"South Africa"
-35245,"South Africa"
-35246,Jordan
-35247,Malta
-35247,Malta
-35247,Malta
-35247,Malta
-35248,Malta
-35248,Malta
-35248,Malta
-35249,Malta
-35249,Malta
-35249,Malta
-35249,Malta
-35249,Malta
-35249,Malta
-35250,Malta
-35251,China
-35252,Jordan
-35253,Malta
-35254,Malta
-35254,Malta
-35255,Malta
-35255,Malta
-35255,Malta
-35255,Malta
-35256,Malta
-35256,Malta
-35257,Malta
-35257,Malta
-35258,Malta
-35259,Malta
-35260,"South Africa"
-35261,"South Africa"
-35262,Australia
-35263,Malta
-35264,Malta
-35264,Malta
-35264,Malta
-35265,Malta
-35266,Malta
-35266,Malta
-35266,Malta
-35267,Malta
-35267,Malta
-35268,Malta
-35268,Malta
-35269,Malta
-35270,Malta
-35271,Malta
-35272,Malta
-35273,Malta
-35273,Malta
-35274,Malta
-35274,Malta
-35275,Malta
-35276,Bulgaria
-35277,Canada
-35278,Malta
-35279,Jordan
-35280,"South Africa"
-35281,Iraq
-35282,Jordan
-35283,Malta
-35284,Australia
-35285,Hungary
-35286,"South Africa"
-35287,"South Africa"
-35288,Jordan
-35289,India
-35289,Serbia
-35290,Malta
-35291,Jordan
-35292,Romania
-35293,"South Africa"
-35294,Poland
-35295,Ukraine
-35295,Serbia
-35296,Montenegro
-35297,Ukraine
-35298,Belgium
-35299,Belgium
-35300,Turkey
-35301,Israel
-35302,"Czech Republic"
-35303,Israel
-35304,Romania
-35304,"Bosnia and Herzegovina"
-35304,Turkey
-35305,"United Arab Emirates"
-35306,"Czech Republic"
-35306,Montenegro
-35307,Ukraine
-35308,Israel
-35309,Belarus
-35310,China
-35310,China
-35311,Jordan
-35312,Iraq
-35314,Jordan
-35314,"United Kingdom"
-35315,Jordan
-35315,"United Kingdom"
-35316,Israel
-35317,Israel
-35318,Israel
-35319,Israel
-35320,Jordan
-35320,"United Kingdom"
-35321,Israel
-35322,Jordan
-35322,"United Kingdom"
-35323,Israel
-35324,Jordan
-35324,"United Kingdom"
-35325,Israel
-35326,Israel
-35327,"United Kingdom"
-35328,"United Kingdom"
-35329,"United Kingdom"
-35330,"United Kingdom"
-35331,"United Kingdom"
-35332,"United Kingdom"
-35333,"United Kingdom"
-35334,"United Kingdom"
-35335,"United Kingdom"
-35336,"United Kingdom"
-35337,Taiwan
-35338,"Korea, South"
-35339,Singapore
-35339,Israel
-35339,"Czech Republic"
-35339,"South Africa"
-35340,Italy
-35341,Italy
-35342,Italy
-35343,Italy
-35344,Italy
-35345,Italy
-35346,Italy
-35347,Italy
-35348,Italy
-35349,Italy
-35350,Italy
-35351,Italy
-35352,Italy
-35353,"Non Specific Country"
-35353,"United States of America"
-35354,Sweden
-35355,"United Kingdom"
-35356,Jordan
-35357,Jordan
-35358,Jordan
-35359,Jordan
-35360,Jordan
-35361,Jordan
-35362,Jordan
-35363,Jordan
-35364,Jordan
-35365,Jordan
-35366,Jordan
-35367,Jordan
-35368,Jordan
-35369,"United States of America"
-35371,Kuwait
-35372,Colombia
-35372,"United Arab Emirates"
-35373,"Non Specific Country"
-35375,"South Africa"
-35376,Russia
-35378,Ireland
-35379,Ireland
-35380,"Non Specific Country"
-35381,Italy
-35381,Malaysia
-35382,Italy
-35382,Malaysia
-35383,Italy
-35383,Malaysia
-35384,Italy
-35384,Malaysia
-35385,Italy
-35385,Malaysia
-35386,Italy
-35386,Malaysia
-35387,Italy
-35387,Malaysia
-35388,Italy
-35388,Malaysia
-35389,Italy
-35389,Malaysia
-35390,Italy
-35390,Malaysia
-35391,Italy
-35391,Malaysia
-35392,Italy
-35392,Malaysia
-35393,Italy
-35393,Malaysia
-35394,Italy
-35394,Malaysia
-35395,Italy
-35395,Malaysia
-35396,"Non Specific Country"
-35397,"South Africa"
-35398,"South Africa"
-35399,"South Africa"
-35400,"South Africa"
-35401,"South Africa"
-35402,"South Africa"
-35403,"South Africa"
-35404,"Non Specific Country"
-35405,"South Africa"
-35406,"South Africa"
-35407,"South Africa"
-35408,"South Africa"
-35409,"South Africa"
-35410,Brunei
-35411,Brunei
-35412,Malaysia
-35412,Singapore
-35412,Germany
-35413,"Non Specific Country"
-35414,"Non Specific Country"
-35415,Sweden
-35416,Angola
-35416,Austria
-35416,Botswana
-35416,Bulgaria
-35416,Cameroon
-35416,Chad
-35416,Denmark
-35416,"Equatorial Guinea"
-35416,France
-35416,Gabon
-35416,Germany
-35416,Ghana
-35416,Greece
-35416,"Guinea, Republic of"
-35416,Hungary
-35416,Israel
-35416,Italy
-35416,Kenya
-35416,Mauritania
-35416,Morocco
-35416,Mozambique
-35416,Namibia
-35416,Netherlands
-35416,Nigeria
-35416,Norway
-35416,Poland
-35416,Portugal
-35416,"Republic of Congo"
-35416,Romania
-35416,Senegal
-35416,Slovenia
-35416,"South Africa"
-35416,Spain
-35416,Switzerland
-35416,Tanzania
-35416,Turkey
-35416,Uganda
-35416,Ukraine
-35416,"United States of America"
-35417,Angola
-35417,Austria
-35417,Botswana
-35417,Bulgaria
-35417,Cameroon
-35417,Chad
-35417,Denmark
-35417,"Equatorial Guinea"
-35417,France
-35417,Gabon
-35417,Germany
-35417,Ghana
-35417,Greece
-35417,"Guinea, Republic of"
-35417,Hungary
-35417,Israel
-35417,Italy
-35417,Kenya
-35417,Mauritania
-35417,Morocco
-35417,Mozambique
-35417,Namibia
-35417,Netherlands
-35417,Nigeria
-35417,Norway
-35417,Poland
-35417,Portugal
-35417,"Republic of Congo"
-35417,Romania
-35417,Senegal
-35417,Slovenia
-35417,"South Africa"
-35417,Spain
-35417,Switzerland
-35417,Tanzania
-35417,Turkey
-35417,Uganda
-35417,Ukraine
-35417,"United States of America"
-35418,Angola
-35418,Austria
-35418,Botswana
-35418,Bulgaria
-35418,Cameroon
-35418,Chad
-35418,Denmark
-35418,"Equatorial Guinea"
-35418,France
-35418,Gabon
-35418,Germany
-35418,Ghana
-35418,Greece
-35418,"Guinea, Republic of"
-35418,Hungary
-35418,Israel
-35418,Italy
-35418,Kenya
-35418,Mauritania
-35418,Morocco
-35418,Mozambique
-35418,Namibia
-35418,Netherlands
-35418,Nigeria
-35418,Norway
-35418,Poland
-35418,Portugal
-35418,"Republic of Congo"
-35418,Romania
-35418,Senegal
-35418,Slovenia
-35418,"South Africa"
-35418,Spain
-35418,Switzerland
-35418,Tanzania
-35418,Turkey
-35418,Uganda
-35418,Ukraine
-35418,"United States of America"
-35419,Angola
-35419,Austria
-35419,Botswana
-35419,Bulgaria
-35419,Cameroon
-35419,Chad
-35419,Denmark
-35419,"Equatorial Guinea"
-35419,France
-35419,Gabon
-35419,Germany
-35419,Ghana
-35419,Greece
-35419,"Guinea, Republic of"
-35419,Hungary
-35419,Israel
-35419,Italy
-35419,Kenya
-35419,Mauritania
-35419,Morocco
-35419,Mozambique
-35419,Namibia
-35419,Netherlands
-35419,Nigeria
-35419,Norway
-35419,Poland
-35419,Portugal
-35419,"Republic of Congo"
-35419,Romania
-35419,Senegal
-35419,Slovenia
-35419,"South Africa"
-35419,Spain
-35419,Switzerland
-35419,Tanzania
-35419,Turkey
-35419,Uganda
-35419,Ukraine
-35419,"United States of America"
-35420,Angola
-35420,Austria
-35420,Botswana
-35420,Bulgaria
-35420,Cameroon
-35420,Chad
-35420,Denmark
-35420,"Equatorial Guinea"
-35420,France
-35420,Gabon
-35420,Germany
-35420,Ghana
-35420,Greece
-35420,"Guinea, Republic of"
-35420,Hungary
-35420,Israel
-35420,Italy
-35420,Kenya
-35420,Mauritania
-35420,Morocco
-35420,Mozambique
-35420,Namibia
-35420,Netherlands
-35420,Nigeria
-35420,Norway
-35420,Poland
-35420,Portugal
-35420,"Republic of Congo"
-35420,Romania
-35420,Senegal
-35420,Slovenia
-35420,"South Africa"
-35420,Spain
-35420,Switzerland
-35420,Tanzania
-35420,Turkey
-35420,Uganda
-35420,Ukraine
-35420,"United States of America"
-35421,Angola
-35421,Austria
-35421,Botswana
-35421,Bulgaria
-35421,Cameroon
-35421,Chad
-35421,Denmark
-35421,"Equatorial Guinea"
-35421,France
-35421,Gabon
-35421,Germany
-35421,Ghana
-35421,Greece
-35421,"Guinea, Republic of"
-35421,Hungary
-35421,Israel
-35421,Italy
-35421,Kenya
-35421,Mauritania
-35421,Morocco
-35421,Mozambique
-35421,Namibia
-35421,Netherlands
-35421,Nigeria
-35421,Norway
-35421,Poland
-35421,Portugal
-35421,"Republic of Congo"
-35421,Romania
-35421,Senegal
-35421,Slovenia
-35421,"South Africa"
-35421,Spain
-35421,Switzerland
-35421,Tanzania
-35421,Turkey
-35421,Uganda
-35421,Ukraine
-35421,"United States of America"
-35422,Angola
-35422,Austria
-35422,Botswana
-35422,Bulgaria
-35422,Cameroon
-35422,Chad
-35422,Denmark
-35422,"Equatorial Guinea"
-35422,France
-35422,Gabon
-35422,Germany
-35422,Ghana
-35422,Greece
-35422,"Guinea, Republic of"
-35422,Hungary
-35422,Israel
-35422,Italy
-35422,Kenya
-35422,Mauritania
-35422,Morocco
-35422,Mozambique
-35422,Namibia
-35422,Netherlands
-35422,Nigeria
-35422,Norway
-35422,Poland
-35422,Portugal
-35422,"Republic of Congo"
-35422,Romania
-35422,Senegal
-35422,Slovenia
-35422,"South Africa"
-35422,Spain
-35422,Switzerland
-35422,Tanzania
-35422,Turkey
-35422,Uganda
-35422,Ukraine
-35422,"United States of America"
-35423,Angola
-35423,Austria
-35423,Botswana
-35423,Bulgaria
-35423,Cameroon
-35423,Chad
-35423,Denmark
-35423,"Equatorial Guinea"
-35423,France
-35423,Gabon
-35423,Germany
-35423,Ghana
-35423,Greece
-35423,"Guinea, Republic of"
-35423,Hungary
-35423,Israel
-35423,Italy
-35423,Kenya
-35423,Mauritania
-35423,Morocco
-35423,Mozambique
-35423,Namibia
-35423,Netherlands
-35423,Nigeria
-35423,Norway
-35423,Poland
-35423,Portugal
-35423,"Republic of Congo"
-35423,Romania
-35423,Senegal
-35423,Slovenia
-35423,"South Africa"
-35423,Spain
-35423,Switzerland
-35423,Tanzania
-35423,Turkey
-35423,Uganda
-35423,Ukraine
-35423,"United States of America"
-35424,Angola
-35424,Austria
-35424,Botswana
-35424,Bulgaria
-35424,Cameroon
-35424,Chad
-35424,Denmark
-35424,"Equatorial Guinea"
-35424,France
-35424,Gabon
-35424,Germany
-35424,Ghana
-35424,Greece
-35424,"Guinea, Republic of"
-35424,Hungary
-35424,Israel
-35424,Italy
-35424,Kenya
-35424,Mauritania
-35424,Morocco
-35424,Mozambique
-35424,Namibia
-35424,Netherlands
-35424,Nigeria
-35424,Norway
-35424,Poland
-35424,Portugal
-35424,"Republic of Congo"
-35424,Romania
-35424,Senegal
-35424,Slovenia
-35424,"South Africa"
-35424,Spain
-35424,Switzerland
-35424,Tanzania
-35424,Turkey
-35424,Uganda
-35424,Ukraine
-35424,"United States of America"
-35425,Angola
-35425,Austria
-35425,Botswana
-35425,Bulgaria
-35425,Cameroon
-35425,Chad
-35425,Denmark
-35425,"Equatorial Guinea"
-35425,France
-35425,Gabon
-35425,Germany
-35425,Ghana
-35425,Greece
-35425,"Guinea, Republic of"
-35425,Hungary
-35425,Israel
-35425,Italy
-35425,Kenya
-35425,Mauritania
-35425,Morocco
-35425,Mozambique
-35425,Namibia
-35425,Netherlands
-35425,Nigeria
-35425,Norway
-35425,Poland
-35425,Portugal
-35425,"Republic of Congo"
-35425,Romania
-35425,Senegal
-35425,Slovenia
-35425,"South Africa"
-35425,Spain
-35425,Switzerland
-35425,Tanzania
-35425,Turkey
-35425,Uganda
-35425,Ukraine
-35425,"United States of America"
-35426,Angola
-35426,Austria
-35426,Botswana
-35426,Bulgaria
-35426,Cameroon
-35426,Chad
-35426,Denmark
-35426,"Equatorial Guinea"
-35426,France
-35426,Gabon
-35426,Germany
-35426,Ghana
-35426,Greece
-35426,"Guinea, Republic of"
-35426,Hungary
-35426,Israel
-35426,Italy
-35426,Kenya
-35426,Mauritania
-35426,Morocco
-35426,Mozambique
-35426,Namibia
-35426,Netherlands
-35426,Nigeria
-35426,Norway
-35426,Poland
-35426,Portugal
-35426,"Republic of Congo"
-35426,Romania
-35426,Senegal
-35426,Slovenia
-35426,"South Africa"
-35426,Spain
-35426,Switzerland
-35426,Tanzania
-35426,Turkey
-35426,Uganda
-35426,Ukraine
-35426,"United States of America"
-35427,Angola
-35427,Austria
-35427,Botswana
-35427,Bulgaria
-35427,Cameroon
-35427,Chad
-35427,Denmark
-35427,"Equatorial Guinea"
-35427,France
-35427,Gabon
-35427,Germany
-35427,Ghana
-35427,Greece
-35427,"Guinea, Republic of"
-35427,Hungary
-35427,Israel
-35427,Italy
-35427,Kenya
-35427,Mauritania
-35427,Morocco
-35427,Mozambique
-35427,Namibia
-35427,Netherlands
-35427,Nigeria
-35427,Norway
-35427,Poland
-35427,Portugal
-35427,"Republic of Congo"
-35427,Romania
-35427,Senegal
-35427,Slovenia
-35427,"South Africa"
-35427,Spain
-35427,Switzerland
-35427,Tanzania
-35427,Turkey
-35427,Uganda
-35427,Ukraine
-35427,"United States of America"
-35428,Angola
-35428,Austria
-35428,Botswana
-35428,Bulgaria
-35428,Cameroon
-35428,Chad
-35428,Denmark
-35428,"Equatorial Guinea"
-35428,France
-35428,Gabon
-35428,Germany
-35428,Ghana
-35428,Greece
-35428,"Guinea, Republic of"
-35428,Hungary
-35428,Israel
-35428,Italy
-35428,Kenya
-35428,Mauritania
-35428,Morocco
-35428,Mozambique
-35428,Namibia
-35428,Netherlands
-35428,Nigeria
-35428,Norway
-35428,Poland
-35428,Portugal
-35428,"Republic of Congo"
-35428,Romania
-35428,Senegal
-35428,Slovenia
-35428,"South Africa"
-35428,Spain
-35428,Switzerland
-35428,Tanzania
-35428,Turkey
-35428,Uganda
-35428,Ukraine
-35428,"United States of America"
-35429,Angola
-35429,Austria
-35429,Botswana
-35429,Bulgaria
-35429,Cameroon
-35429,Chad
-35429,Denmark
-35429,"Equatorial Guinea"
-35429,France
-35429,Gabon
-35429,Germany
-35429,Ghana
-35429,Greece
-35429,"Guinea, Republic of"
-35429,Hungary
-35429,Israel
-35429,Italy
-35429,Kenya
-35429,Mauritania
-35429,Morocco
-35429,Mozambique
-35429,Namibia
-35429,Netherlands
-35429,Nigeria
-35429,Norway
-35429,Poland
-35429,Portugal
-35429,"Republic of Congo"
-35429,Romania
-35429,Senegal
-35429,Slovenia
-35429,"South Africa"
-35429,Spain
-35429,Switzerland
-35429,Tanzania
-35429,Turkey
-35429,Uganda
-35429,Ukraine
-35429,"United States of America"
-35430,Angola
-35430,Austria
-35430,Botswana
-35430,Bulgaria
-35430,Cameroon
-35430,Chad
-35430,Denmark
-35430,"Equatorial Guinea"
-35430,France
-35430,Gabon
-35430,Germany
-35430,Ghana
-35430,Greece
-35430,"Guinea, Republic of"
-35430,Hungary
-35430,Israel
-35430,Italy
-35430,Kenya
-35430,Mauritania
-35430,Morocco
-35430,Mozambique
-35430,Namibia
-35430,Netherlands
-35430,Nigeria
-35430,Norway
-35430,Poland
-35430,Portugal
-35430,"Republic of Congo"
-35430,Romania
-35430,Senegal
-35430,Slovenia
-35430,"South Africa"
-35430,Spain
-35430,Switzerland
-35430,Tanzania
-35430,Turkey
-35430,Uganda
-35430,Ukraine
-35430,"United States of America"
-35431,Angola
-35431,Austria
-35431,Botswana
-35431,Bulgaria
-35431,Cameroon
-35431,Chad
-35431,Denmark
-35431,"Equatorial Guinea"
-35431,France
-35431,Gabon
-35431,Germany
-35431,Ghana
-35431,Greece
-35431,"Guinea, Republic of"
-35431,Hungary
-35431,Israel
-35431,Italy
-35431,Kenya
-35431,Mauritania
-35431,Morocco
-35431,Mozambique
-35431,Namibia
-35431,Netherlands
-35431,Nigeria
-35431,Norway
-35431,Poland
-35431,Portugal
-35431,"Republic of Congo"
-35431,Romania
-35431,Senegal
-35431,Slovenia
-35431,"South Africa"
-35431,Spain
-35431,Switzerland
-35431,Tanzania
-35431,Turkey
-35431,Uganda
-35431,Ukraine
-35431,"United States of America"
-35432,Angola
-35432,Austria
-35432,Botswana
-35432,Bulgaria
-35432,Cameroon
-35432,Chad
-35432,Denmark
-35432,"Equatorial Guinea"
-35432,France
-35432,Gabon
-35432,Germany
-35432,Ghana
-35432,Greece
-35432,"Guinea, Republic of"
-35432,Hungary
-35432,Israel
-35432,Italy
-35432,Kenya
-35432,Mauritania
-35432,Morocco
-35432,Mozambique
-35432,Namibia
-35432,Netherlands
-35432,Nigeria
-35432,Norway
-35432,Poland
-35432,Portugal
-35432,"Republic of Congo"
-35432,Romania
-35432,Senegal
-35432,Slovenia
-35432,"South Africa"
-35432,Spain
-35432,Switzerland
-35432,Tanzania
-35432,Turkey
-35432,Uganda
-35432,Ukraine
-35432,"United States of America"
-35433,Angola
-35433,Austria
-35433,Botswana
-35433,Bulgaria
-35433,Cameroon
-35433,Chad
-35433,Denmark
-35433,"Equatorial Guinea"
-35433,France
-35433,Gabon
-35433,Germany
-35433,Ghana
-35433,Greece
-35433,"Guinea, Republic of"
-35433,Hungary
-35433,Israel
-35433,Italy
-35433,Kenya
-35433,Mauritania
-35433,Morocco
-35433,Mozambique
-35433,Namibia
-35433,Netherlands
-35433,Nigeria
-35433,Norway
-35433,Poland
-35433,Portugal
-35433,"Republic of Congo"
-35433,Romania
-35433,Senegal
-35433,Slovenia
-35433,"South Africa"
-35433,Spain
-35433,Switzerland
-35433,Tanzania
-35433,Turkey
-35433,Uganda
-35433,Ukraine
-35433,"United States of America"
-35434,Angola
-35434,Austria
-35434,Botswana
-35434,Bulgaria
-35434,Cameroon
-35434,Chad
-35434,Denmark
-35434,"Equatorial Guinea"
-35434,France
-35434,Gabon
-35434,Germany
-35434,Ghana
-35434,Greece
-35434,"Guinea, Republic of"
-35434,Hungary
-35434,Israel
-35434,Italy
-35434,Kenya
-35434,Mauritania
-35434,Morocco
-35434,Mozambique
-35434,Namibia
-35434,Netherlands
-35434,Nigeria
-35434,Norway
-35434,Poland
-35434,Portugal
-35434,"Republic of Congo"
-35434,Romania
-35434,Senegal
-35434,Slovenia
-35434,"South Africa"
-35434,Spain
-35434,Switzerland
-35434,Tanzania
-35434,Turkey
-35434,Uganda
-35434,Ukraine
-35434,"United States of America"
-35435,Angola
-35435,Austria
-35435,Botswana
-35435,Bulgaria
-35435,Cameroon
-35435,Chad
-35435,Denmark
-35435,"Equatorial Guinea"
-35435,France
-35435,Gabon
-35435,Germany
-35435,Ghana
-35435,Greece
-35435,"Guinea, Republic of"
-35435,Hungary
-35435,Israel
-35435,Italy
-35435,Kenya
-35435,Mauritania
-35435,Morocco
-35435,Mozambique
-35435,Namibia
-35435,Netherlands
-35435,Nigeria
-35435,Norway
-35435,Poland
-35435,Portugal
-35435,"Republic of Congo"
-35435,Romania
-35435,Senegal
-35435,Slovenia
-35435,"South Africa"
-35435,Spain
-35435,Switzerland
-35435,Tanzania
-35435,Turkey
-35435,Uganda
-35435,Ukraine
-35435,"United States of America"
-35436,Angola
-35436,Austria
-35436,Botswana
-35436,Bulgaria
-35436,Cameroon
-35436,Chad
-35436,Denmark
-35436,"Equatorial Guinea"
-35436,France
-35436,Gabon
-35436,Germany
-35436,Ghana
-35436,Greece
-35436,"Guinea, Republic of"
-35436,Hungary
-35436,Israel
-35436,Italy
-35436,Kenya
-35436,Mauritania
-35436,Morocco
-35436,Mozambique
-35436,Namibia
-35436,Netherlands
-35436,Nigeria
-35436,Norway
-35436,Poland
-35436,Portugal
-35436,"Republic of Congo"
-35436,Romania
-35436,Senegal
-35436,Slovenia
-35436,"South Africa"
-35436,Spain
-35436,Switzerland
-35436,Tanzania
-35436,Turkey
-35436,Uganda
-35436,Ukraine
-35436,"United States of America"
-35437,Angola
-35437,Austria
-35437,Botswana
-35437,Bulgaria
-35437,Cameroon
-35437,Chad
-35437,Denmark
-35437,"Equatorial Guinea"
-35437,France
-35437,Gabon
-35437,Germany
-35437,Ghana
-35437,Greece
-35437,"Guinea, Republic of"
-35437,Hungary
-35437,Israel
-35437,Italy
-35437,Kenya
-35437,Mauritania
-35437,Morocco
-35437,Mozambique
-35437,Namibia
-35437,Netherlands
-35437,Nigeria
-35437,Norway
-35437,Poland
-35437,Portugal
-35437,"Republic of Congo"
-35437,Romania
-35437,Senegal
-35437,Slovenia
-35437,"South Africa"
-35437,Spain
-35437,Switzerland
-35437,Tanzania
-35437,Turkey
-35437,Uganda
-35437,Ukraine
-35437,"United States of America"
-35438,Angola
-35438,Austria
-35438,Botswana
-35438,Bulgaria
-35438,Cameroon
-35438,Chad
-35438,Denmark
-35438,"Equatorial Guinea"
-35438,France
-35438,Gabon
-35438,Germany
-35438,Ghana
-35438,Greece
-35438,"Guinea, Republic of"
-35438,Hungary
-35438,Israel
-35438,Italy
-35438,Kenya
-35438,Mauritania
-35438,Morocco
-35438,Mozambique
-35438,Namibia
-35438,Netherlands
-35438,Nigeria
-35438,Norway
-35438,Poland
-35438,Portugal
-35438,"Republic of Congo"
-35438,Romania
-35438,Senegal
-35438,Slovenia
-35438,"South Africa"
-35438,Spain
-35438,Switzerland
-35438,Tanzania
-35438,Turkey
-35438,Uganda
-35438,Ukraine
-35438,"United States of America"
-35439,Angola
-35439,Austria
-35439,Botswana
-35439,Bulgaria
-35439,Cameroon
-35439,Chad
-35439,Denmark
-35439,"Equatorial Guinea"
-35439,France
-35439,Gabon
-35439,Germany
-35439,Ghana
-35439,Greece
-35439,"Guinea, Republic of"
-35439,Hungary
-35439,Israel
-35439,Italy
-35439,Kenya
-35439,Mauritania
-35439,Morocco
-35439,Mozambique
-35439,Namibia
-35439,Netherlands
-35439,Nigeria
-35439,Norway
-35439,Poland
-35439,Portugal
-35439,"Republic of Congo"
-35439,Romania
-35439,Senegal
-35439,Slovenia
-35439,"South Africa"
-35439,Spain
-35439,Switzerland
-35439,Tanzania
-35439,Turkey
-35439,Uganda
-35439,Ukraine
-35439,"United States of America"
-35440,Angola
-35440,Austria
-35440,Botswana
-35440,Bulgaria
-35440,Cameroon
-35440,Chad
-35440,Denmark
-35440,"Equatorial Guinea"
-35440,France
-35440,Gabon
-35440,Germany
-35440,Ghana
-35440,Greece
-35440,"Guinea, Republic of"
-35440,Hungary
-35440,Israel
-35440,Italy
-35440,Kenya
-35440,Mauritania
-35440,Morocco
-35440,Mozambique
-35440,Namibia
-35440,Netherlands
-35440,Nigeria
-35440,Norway
-35440,Poland
-35440,Portugal
-35440,"Republic of Congo"
-35440,Romania
-35440,Senegal
-35440,Slovenia
-35440,"South Africa"
-35440,Spain
-35440,Switzerland
-35440,Tanzania
-35440,Turkey
-35440,Uganda
-35440,Ukraine
-35440,"United States of America"
-35441,Angola
-35441,Austria
-35441,Botswana
-35441,Bulgaria
-35441,Cameroon
-35441,Chad
-35441,Denmark
-35441,"Equatorial Guinea"
-35441,France
-35441,Gabon
-35441,Germany
-35441,Ghana
-35441,Greece
-35441,"Guinea, Republic of"
-35441,Hungary
-35441,Israel
-35441,Italy
-35441,Kenya
-35441,Mauritania
-35441,Morocco
-35441,Mozambique
-35441,Namibia
-35441,Netherlands
-35441,Nigeria
-35441,Norway
-35441,Poland
-35441,Portugal
-35441,"Republic of Congo"
-35441,Romania
-35441,Senegal
-35441,Slovenia
-35441,"South Africa"
-35441,Spain
-35441,Switzerland
-35441,Tanzania
-35441,Turkey
-35441,Uganda
-35441,Ukraine
-35441,"United States of America"
-35442,Angola
-35442,Austria
-35442,Botswana
-35442,Bulgaria
-35442,Cameroon
-35442,Chad
-35442,Denmark
-35442,"Equatorial Guinea"
-35442,France
-35442,Gabon
-35442,Germany
-35442,Ghana
-35442,Greece
-35442,"Guinea, Republic of"
-35442,Hungary
-35442,Israel
-35442,Italy
-35442,Kenya
-35442,Mauritania
-35442,Morocco
-35442,Mozambique
-35442,Namibia
-35442,Netherlands
-35442,Nigeria
-35442,Norway
-35442,Poland
-35442,Portugal
-35442,"Republic of Congo"
-35442,Romania
-35442,Senegal
-35442,Slovenia
-35442,"South Africa"
-35442,Spain
-35442,Switzerland
-35442,Tanzania
-35442,Turkey
-35442,Uganda
-35442,Ukraine
-35442,"United States of America"
-35443,Angola
-35443,Austria
-35443,Botswana
-35443,Bulgaria
-35443,Cameroon
-35443,Chad
-35443,Denmark
-35443,"Equatorial Guinea"
-35443,France
-35443,Gabon
-35443,Germany
-35443,Ghana
-35443,Greece
-35443,"Guinea, Republic of"
-35443,Hungary
-35443,Israel
-35443,Italy
-35443,Kenya
-35443,Mauritania
-35443,Morocco
-35443,Mozambique
-35443,Namibia
-35443,Netherlands
-35443,Nigeria
-35443,Norway
-35443,Poland
-35443,Portugal
-35443,"Republic of Congo"
-35443,Romania
-35443,Senegal
-35443,Slovenia
-35443,"South Africa"
-35443,Spain
-35443,Switzerland
-35443,Tanzania
-35443,Turkey
-35443,Uganda
-35443,Ukraine
-35443,"United States of America"
-35444,Angola
-35444,Austria
-35444,Botswana
-35444,Bulgaria
-35444,Cameroon
-35444,Chad
-35444,Denmark
-35444,"Equatorial Guinea"
-35444,France
-35444,Gabon
-35444,Germany
-35444,Ghana
-35444,Greece
-35444,"Guinea, Republic of"
-35444,Hungary
-35444,Israel
-35444,Italy
-35444,Kenya
-35444,Mauritania
-35444,Morocco
-35444,Mozambique
-35444,Namibia
-35444,Netherlands
-35444,Nigeria
-35444,Norway
-35444,Poland
-35444,Portugal
-35444,"Republic of Congo"
-35444,Romania
-35444,Senegal
-35444,Slovenia
-35444,"South Africa"
-35444,Spain
-35444,Switzerland
-35444,Tanzania
-35444,Turkey
-35444,Uganda
-35444,Ukraine
-35444,"United States of America"
-35445,Angola
-35445,Austria
-35445,Botswana
-35445,Bulgaria
-35445,Cameroon
-35445,Chad
-35445,Denmark
-35445,"Equatorial Guinea"
-35445,France
-35445,Gabon
-35445,Germany
-35445,Ghana
-35445,Greece
-35445,"Guinea, Republic of"
-35445,Hungary
-35445,Israel
-35445,Italy
-35445,Kenya
-35445,Mauritania
-35445,Morocco
-35445,Mozambique
-35445,Namibia
-35445,Netherlands
-35445,Nigeria
-35445,Norway
-35445,Poland
-35445,Portugal
-35445,"Republic of Congo"
-35445,Romania
-35445,Senegal
-35445,Slovenia
-35445,"South Africa"
-35445,Spain
-35445,Switzerland
-35445,Tanzania
-35445,Turkey
-35445,Uganda
-35445,Ukraine
-35445,"United States of America"
-35446,Angola
-35446,Austria
-35446,Botswana
-35446,Bulgaria
-35446,Cameroon
-35446,Chad
-35446,Denmark
-35446,"Equatorial Guinea"
-35446,France
-35446,Gabon
-35446,Germany
-35446,Ghana
-35446,Greece
-35446,"Guinea, Republic of"
-35446,Hungary
-35446,Israel
-35446,Italy
-35446,Kenya
-35446,Mauritania
-35446,Morocco
-35446,Mozambique
-35446,Namibia
-35446,Netherlands
-35446,Nigeria
-35446,Norway
-35446,Poland
-35446,Portugal
-35446,"Republic of Congo"
-35446,Romania
-35446,Senegal
-35446,Slovenia
-35446,"South Africa"
-35446,Spain
-35446,Switzerland
-35446,Tanzania
-35446,Turkey
-35446,Uganda
-35446,Ukraine
-35446,"United States of America"
-35447,Angola
-35447,Austria
-35447,Botswana
-35447,Bulgaria
-35447,Cameroon
-35447,Chad
-35447,Denmark
-35447,"Equatorial Guinea"
-35447,France
-35447,Gabon
-35447,Germany
-35447,Ghana
-35447,Greece
-35447,"Guinea, Republic of"
-35447,Hungary
-35447,Israel
-35447,Italy
-35447,Kenya
-35447,Mauritania
-35447,Morocco
-35447,Mozambique
-35447,Namibia
-35447,Netherlands
-35447,Nigeria
-35447,Norway
-35447,Poland
-35447,Portugal
-35447,"Republic of Congo"
-35447,Romania
-35447,Senegal
-35447,Slovenia
-35447,"South Africa"
-35447,Spain
-35447,Switzerland
-35447,Tanzania
-35447,Turkey
-35447,Uganda
-35447,Ukraine
-35447,"United States of America"
-35448,Angola
-35448,Austria
-35448,Botswana
-35448,Bulgaria
-35448,Cameroon
-35448,Chad
-35448,Denmark
-35448,"Equatorial Guinea"
-35448,France
-35448,Gabon
-35448,Germany
-35448,Ghana
-35448,Greece
-35448,"Guinea, Republic of"
-35448,Hungary
-35448,Israel
-35448,Italy
-35448,Kenya
-35448,Mauritania
-35448,Morocco
-35448,Mozambique
-35448,Namibia
-35448,Netherlands
-35448,Nigeria
-35448,Norway
-35448,Poland
-35448,Portugal
-35448,"Republic of Congo"
-35448,Romania
-35448,Senegal
-35448,Slovenia
-35448,"South Africa"
-35448,Spain
-35448,Switzerland
-35448,Tanzania
-35448,Turkey
-35448,Uganda
-35448,Ukraine
-35448,"United States of America"
-35449,Angola
-35449,Austria
-35449,Botswana
-35449,Bulgaria
-35449,Cameroon
-35449,Chad
-35449,Denmark
-35449,"Equatorial Guinea"
-35449,France
-35449,Gabon
-35449,Germany
-35449,Ghana
-35449,Greece
-35449,"Guinea, Republic of"
-35449,Hungary
-35449,Israel
-35449,Italy
-35449,Kenya
-35449,Mauritania
-35449,Morocco
-35449,Mozambique
-35449,Namibia
-35449,Netherlands
-35449,Nigeria
-35449,Norway
-35449,Poland
-35449,Portugal
-35449,"Republic of Congo"
-35449,Romania
-35449,Senegal
-35449,Slovenia
-35449,"South Africa"
-35449,Spain
-35449,Switzerland
-35449,Tanzania
-35449,Turkey
-35449,Uganda
-35449,Ukraine
-35449,"United States of America"
-35450,"Saudi Arabia"
-35450,France
-35450,"South Africa"
-35450,"United States of America"
-35450,Spain
-35451,Brunei
-35452,Brunei
-35453,Malaysia
-35453,Singapore
-35453,Germany
-35454,Brunei
-35455,"United States of America"
-35456,"United States of America"
-35457,Brunei
-35458,"United States of America"
-35459,"United States of America"
-35460,"United States of America"
-35461,"South Africa"
-35462,"South Africa"
-35463,"South Africa"
-35464,"South Africa"
-35465,"South Africa"
-35466,"South Africa"
-35467,"South Africa"
-35468,"South Africa"
-35469,"South Africa"
-35470,"South Africa"
-35471,"South Africa"
-35472,"South Africa"
-35473,"South Africa"
-35474,"South Africa"
-35475,"South Africa"
-35476,"South Africa"
-35477,"South Africa"
-35478,"South Africa"
-35479,"South Africa"
-35480,"South Africa"
-35481,"South Africa"
-35482,"South Africa"
-35483,"South Africa"
-35484,Jordan
-35485,Jordan
-35486,Jordan
-35487,Jordan
-35488,Jordan
-35489,Jordan
-35490,Jordan
-35491,Jordan
-35492,"United States of America"
-35493,"South Africa"
-35494,"South Africa"
-35495,"South Africa"
-35496,"South Africa"
-35497,"South Africa"
-35498,"Non Specific Country"
-35499,"Non Specific Country"
-35500,"Non Specific Country"
-35501,Malaysia
-35501,France
-35502,Malaysia
-35502,France
-35503,Malaysia
-35503,France
-35504,Malaysia
-35504,France
-35505,Malaysia
-35505,France
-35506,Malaysia
-35506,France
-35507,Malaysia
-35507,France
-35508,Malaysia
-35508,France
-35509,Malaysia
-35509,France
-35510,Malaysia
-35510,France
-35511,Malaysia
-35511,France
-35512,Malaysia
-35512,France
-35513,Malaysia
-35513,France
-35514,Malaysia
-35514,France
-35515,Malaysia
-35515,France
-35516,Malaysia
-35516,France
-35517,Malaysia
-35517,France
-35518,Malaysia
-35518,France
-35519,Malaysia
-35519,France
-35520,Malaysia
-35520,France
-35521,"South Africa"
-35522,"South Africa"
-35523,"South Africa"
-35524,"South Africa"
-35525,"South Africa"
-35526,"South Africa"
-35527,"South Africa"
-35528,"South Africa"
-35529,"South Africa"
-35530,"South Africa"
-35531,Portugal
-35532,"Non Specific Country"
-35533,"Non Specific Country"
-35534,Turkey
-35535,"Non Specific Country"
-35536,"Non Specific Country"
-35537,France
-35538,Qatar
-35538,"United Arab Emirates"
-35539,"United States of America"
-35540,"Non Specific Country"
-35541,Djibouti
-35541,India
-35541,Kenya
-35541,Malta
-35541,Mauritius
-35541,Oman
-35541,"South Africa"
-35541,"Sri Lanka"
-35541,Tanzania
-35541,"United Arab Emirates"
-35542,Djibouti
-35542,India
-35542,Kenya
-35542,Malta
-35542,Mauritius
-35542,Oman
-35542,"South Africa"
-35542,"Sri Lanka"
-35542,Tanzania
-35542,"United Arab Emirates"
-35543,Djibouti
-35543,India
-35543,Kenya
-35543,Malta
-35543,Mauritius
-35543,Oman
-35543,"South Africa"
-35543,"Sri Lanka"
-35543,Tanzania
-35543,"United Arab Emirates"
-35544,Djibouti
-35544,India
-35544,Kenya
-35544,Malta
-35544,Mauritius
-35544,Oman
-35544,"South Africa"
-35544,"Sri Lanka"
-35544,Tanzania
-35544,"United Arab Emirates"
-35545,Djibouti
-35545,India
-35545,Kenya
-35545,Malta
-35545,Mauritius
-35545,Oman
-35545,"South Africa"
-35545,"Sri Lanka"
-35545,Tanzania
-35545,"United Arab Emirates"
-35546,Djibouti
-35546,India
-35546,Kenya
-35546,Malta
-35546,Mauritius
-35546,Oman
-35546,"South Africa"
-35546,"Sri Lanka"
-35546,Tanzania
-35546,"United Arab Emirates"
-35547,Djibouti
-35547,India
-35547,Kenya
-35547,Malta
-35547,Mauritius
-35547,Oman
-35547,"South Africa"
-35547,"Sri Lanka"
-35547,Tanzania
-35547,"United Arab Emirates"
-35548,Djibouti
-35548,India
-35548,Kenya
-35548,Malta
-35548,Mauritius
-35548,Oman
-35548,"South Africa"
-35548,"Sri Lanka"
-35548,Tanzania
-35548,"United Arab Emirates"
-35549,Djibouti
-35549,India
-35549,Kenya
-35549,Malta
-35549,Mauritius
-35549,Oman
-35549,"South Africa"
-35549,"Sri Lanka"
-35549,Tanzania
-35549,"United Arab Emirates"
-35550,"Non Specific Country"
-35551,"Non Specific Country"
-35552,"Non Specific Country"
-35553,"Non Specific Country"
-35554,"Non Specific Country"
-35555,"Non Specific Country"
-35556,"Non Specific Country"
-35557,Iraq
-35558,Jordan
-35558,"United Kingdom"
-35559,Jordan
-35560,Jordan
-35561,Jordan
-35562,Jordan
-35563,Jordan
-35565,Italy
-35565,Malaysia
-35566,Italy
-35566,Malaysia
-35567,Italy
-35567,Malaysia
-35568,Italy
-35568,Malaysia
-35569,Italy
-35569,Malaysia
-35570,Italy
-35570,Malaysia
-35571,Italy
-35571,Malaysia
-35572,Italy
-35572,Malaysia
-35573,Italy
-35573,Malaysia
-35574,Italy
-35574,Malaysia
-35575,Angola
-35575,Austria
-35575,Botswana
-35575,Bulgaria
-35575,Cameroon
-35575,Chad
-35575,Denmark
-35575,"Equatorial Guinea"
-35575,France
-35575,Gabon
-35575,Germany
-35575,Ghana
-35575,Greece
-35575,"Guinea, Republic of"
-35575,Hungary
-35575,Israel
-35575,Italy
-35575,Kenya
-35575,Mauritania
-35575,Morocco
-35575,Mozambique
-35575,Namibia
-35575,Netherlands
-35575,Nigeria
-35575,Norway
-35575,Poland
-35575,Portugal
-35575,"Republic of Congo"
-35575,Romania
-35575,Senegal
-35575,Slovenia
-35575,"South Africa"
-35575,Spain
-35575,Switzerland
-35575,Tanzania
-35575,Turkey
-35575,Uganda
-35575,Ukraine
-35575,"United States of America"
-35576,Angola
-35576,Austria
-35576,Botswana
-35576,Bulgaria
-35576,Cameroon
-35576,Chad
-35576,Denmark
-35576,"Equatorial Guinea"
-35576,France
-35576,Gabon
-35576,Germany
-35576,Ghana
-35576,Greece
-35576,"Guinea, Republic of"
-35576,Hungary
-35576,Israel
-35576,Italy
-35576,Kenya
-35576,Mauritania
-35576,Morocco
-35576,Mozambique
-35576,Namibia
-35576,Netherlands
-35576,Nigeria
-35576,Norway
-35576,Poland
-35576,Portugal
-35576,"Republic of Congo"
-35576,Romania
-35576,Senegal
-35576,Slovenia
-35576,"South Africa"
-35576,Spain
-35576,Switzerland
-35576,Tanzania
-35576,Turkey
-35576,Uganda
-35576,Ukraine
-35576,"United States of America"
-35577,Angola
-35577,Austria
-35577,Botswana
-35577,Bulgaria
-35577,Cameroon
-35577,Chad
-35577,Denmark
-35577,"Equatorial Guinea"
-35577,France
-35577,Gabon
-35577,Germany
-35577,Ghana
-35577,Greece
-35577,"Guinea, Republic of"
-35577,Hungary
-35577,Israel
-35577,Italy
-35577,Kenya
-35577,Mauritania
-35577,Morocco
-35577,Mozambique
-35577,Namibia
-35577,Netherlands
-35577,Nigeria
-35577,Norway
-35577,Poland
-35577,Portugal
-35577,"Republic of Congo"
-35577,Romania
-35577,Senegal
-35577,Slovenia
-35577,"South Africa"
-35577,Spain
-35577,Switzerland
-35577,Tanzania
-35577,Turkey
-35577,Uganda
-35577,Ukraine
-35577,"United States of America"
-35578,Angola
-35578,Austria
-35578,Botswana
-35578,Bulgaria
-35578,Cameroon
-35578,Chad
-35578,Denmark
-35578,"Equatorial Guinea"
-35578,France
-35578,Gabon
-35578,Germany
-35578,Ghana
-35578,Greece
-35578,"Guinea, Republic of"
-35578,Hungary
-35578,Israel
-35578,Italy
-35578,Kenya
-35578,Mauritania
-35578,Morocco
-35578,Mozambique
-35578,Namibia
-35578,Netherlands
-35578,Nigeria
-35578,Norway
-35578,Poland
-35578,Portugal
-35578,"Republic of Congo"
-35578,Romania
-35578,Senegal
-35578,Slovenia
-35578,"South Africa"
-35578,Spain
-35578,Switzerland
-35578,Tanzania
-35578,Turkey
-35578,Uganda
-35578,Ukraine
-35578,"United States of America"
-35579,Angola
-35579,Austria
-35579,Botswana
-35579,Bulgaria
-35579,Cameroon
-35579,Chad
-35579,Denmark
-35579,"Equatorial Guinea"
-35579,France
-35579,Gabon
-35579,Germany
-35579,Ghana
-35579,Greece
-35579,"Guinea, Republic of"
-35579,Hungary
-35579,Israel
-35579,Italy
-35579,Kenya
-35579,Mauritania
-35579,Morocco
-35579,Mozambique
-35579,Namibia
-35579,Netherlands
-35579,Nigeria
-35579,Norway
-35579,Poland
-35579,Portugal
-35579,"Republic of Congo"
-35579,Romania
-35579,Senegal
-35579,Slovenia
-35579,"South Africa"
-35579,Spain
-35579,Switzerland
-35579,Tanzania
-35579,Turkey
-35579,Uganda
-35579,Ukraine
-35579,"United States of America"
-35580,"South Africa"
-35581,"South Africa"
-35582,"South Africa"
-35583,"South Africa"
-35584,"South Africa"
-35585,Jordan
-35586,Jordan
-35587,Jordan
-35588,Jordan
-35589,Jordan
-35590,Jordan
-35591,Jordan
-35592,Malaysia
-35592,France
-35593,Malaysia
-35593,France
-35594,Malaysia
-35594,France
-35595,"South Africa"
-35596,"South Africa"
-35597,"Non Specific Country"
-35598,"Non Specific Country"
-35599,"Non Specific Country"
-35600,Australia
-35600,Belgium
-35600,Canada
-35600,Denmark
-35600,Egypt
-35600,France
-35600,Germany
-35600,Ireland
-35600,Italy
-35600,Netherlands
-35600,Norway
-35600,Singapore
-35600,Spain
-35600,Sweden
-35600,Switzerland
-35600,"United States of America"
-35601,Libya
-35602,"South Africa"
-35603,"South Africa"
+37864,Germany
+37865,Ireland
+37866,Romania
+37866,Bulgaria
+37866,Serbia
+37867,"United States of America"
+37868,Israel
+37869,Bulgaria
+37869,Romania
+37870,"United States of America"
+37870,"United States of America"
+37871,"United Arab Emirates"
+37872,Ukraine
+37873,Romania
+37874,Ireland
+37874,Ireland
+37875,China
+37875,Hungary
+37875,Switzerland
+37876,Australia
+37877,Canada
+37878,"South Africa"
+37879,Turkey
+37880,Jordan
+37881,"Bosnia and Herzegovina"
+37882,"Bosnia and Herzegovina"
+37883,Jordan
+37884,"Bosnia and Herzegovina"
+37885,Germany
+37886,"Bosnia and Herzegovina"
+37887,Pakistan
+37888,Jordan
+37889,China
+37890,"United States of America"
+37891,"South Africa"
+37892,"South Africa"
+37893,Malaysia
+37894,India
+37895,Jordan
+37896,Jordan
+37897,Jordan
+37898,Jordan
+37899,Jordan
+37900,Serbia
+37901,Thailand
+37902,"South Africa"
+37903,Ireland
+37904,"South Africa"
+37904,"South Africa"
+37904,"South Africa"
+37906,"United States of America"
+37907,China
+37908,"United States of America"
+37909,Thailand
+37910,Ireland
+37910,Ireland
+37910,Ireland
+37910,Ireland
+37911,"United States of America"
+37912,Jordan
+37913,Jordan
+37914,"South Africa"
+37915,"United Arab Emirates"
+37916,Israel
+37916,Brazil
+37917,Ireland
+37918,Jordan
+37919,Ireland
+37920,"United States of America"
+37921,Brazil
+37922,Jordan
+37923,Romania
+37924,"United Arab Emirates"
+37925,"South Africa"
+37926,"United States of America"
+37927,Jordan
+37928,Ireland
+37929,"South Africa"
+37930,"Sri Lanka"
+37931,"Bosnia and Herzegovina"
+37932,Bulgaria
+37933,Jordan
+37934,Jordan
+37935,"United States of America"
+37936,"United States of America"
+37937,"Korea, South"
+37938,"South Africa"
+37938,Ireland
+37938,Ireland
+37938,"United States of America"
+37939,"United States of America"
+37940,"United States of America"
+37941,Iraq
+37942,Jordan
+37943,Romania
+37944,"Sri Lanka"
+37945,Serbia
+37946,Iraq
+37947,Serbia
+37948,Brazil
+37948,India
+37949,Germany
+37950,Jordan
+37951,"South Africa"
+37952,Jordan
+37953,Brazil
+37954,Jordan
+37955,"United States of America"
+37956,"United States of America"
+37957,Turkey
+37958,"United States of America"
+37959,"South Africa"
+37960,Germany
+37961,Brazil
+37962,"United States of America"
+37963,Romania
+37963,Montenegro
+37963,Serbia
+37963,Kazakhstan
+37964,Romania
+37964,Kazakhstan
+37965,Serbia
+37966,"South Africa"
+37967,Serbia
+37968,"Bosnia and Herzegovina"
+37969,"South Africa"
+37970,Namibia
+37971,Germany
+37972,Germany
+37973,"South Africa"
+37973,"South Africa"
+37974,Lebanon
+37975,Taiwan
+37976,Bulgaria
+37977,Ireland
+37978,"United States of America"
+37979,"Sri Lanka"
+37980,"United States of America"
+37981,Romania
+37982,"South Africa"
+37983,"South Africa"
+37984,Romania
+37985,"South Africa"
+37986,"Korea, South"
+37987,"Czech Republic"
+37988,Romania
+37988,Romania
+37989,"United States of America"
+37990,Ukraine
+37991,"South Africa"
+37992,"South Africa"
+37993,"Non Specific Country"
+37994,Germany
+37995,"United States of America"
+37996,"Bosnia and Herzegovina"
+37997,Germany
+37998,Turkey
+37999,Brazil
+38000,Germany
+38001,Germany
+38002,"South Africa"
+38003,Germany
+38004,China
+38005,"United States of America"
+38006,"South Africa"
+38007,"South Africa"
+38008,Romania
+38008,Malaysia
+38009,"South Africa"
+38010,"United Arab Emirates"
+38011,"United Arab Emirates"
+38012,"Czech Republic"
+38013,Germany
+38014,"South Africa"
+38015,"South Africa"
+38016,"South Africa"
+38017,"South Africa"
+38018,"South Africa"
+38019,"United Arab Emirates"
+38020,Bulgaria
+38021,"South Africa"
+38022,"United Arab Emirates"
+38023,Germany
+38024,Jordan
+38025,Canada
+38026,"South Africa"
+38027,"South Africa"
+38028,"South Africa"
+38029,"United Arab Emirates"
+38030,Israel
+38031,India
+38032,Germany
+38033,"South Africa"
+38034,Israel
+38035,"South Africa"
+38036,"South Africa"
+38037,Germany
+38038,"United Arab Emirates"
+38039,"South Africa"
+38040,"South Africa"
+38041,"South Africa"
+38042,Romania
+38043,"South Africa"
+38044,Canada
+38045,"South Africa"
+38045,"South Africa"
+38045,"South Africa"
+38046,India
+38047,Kuwait
+38048,"South Africa"
+38049,"South Africa"
+38050,"South Africa"
+38051,"South Africa"
+38051,"South Africa"
+38051,"South Africa"
+38052,Serbia
+38053,"Bosnia and Herzegovina"
+38054,Germany
+38055,India
+38056,Romania
+38057,"United States of America"
+38058,"South Africa"
+38059,Germany
+38060,"United States of America"
+38061,"South Africa"
+38062,"South Africa"
+38062,"South Africa"
+38063,Brazil
+38064,"United States of America"
+38065,Bulgaria
+38066,"South Africa"
+38067,India
+38068,"South Africa"
+38069,Russia
+38070,Germany
+38071,"South Africa"
+38072,Israel
+38073,Serbia
+38074,"South Africa"
+38075,"South Africa"
+38076,China
+38076,China
+38077,"South Africa"
+38077,"South Africa"
+38077,"South Africa"
+38078,Turkey
+38079,"South Africa"
+38080,"South Africa"
+38080,"South Africa"
+38081,Malaysia
+38082,"South Africa"
+38083,Germany
+38083,Germany
+38084,India
+38085,"United Arab Emirates"
+38086,Germany
+38087,"Czech Republic"
+38088,Jordan
+38089,France
+38090,Brazil
+38091,Netherlands
+38092,"South Africa"
+38093,"Bosnia and Herzegovina"
+38093,Turkey
+38094,"South Africa"
+38095,Singapore
+38096,China
+38097,Bulgaria
+38097,Romania
+38098,"United States of America"
+38099,"South Africa"
+38100,Turkey
+38101,Namibia
+38102,"United States of America"
+38103,"South Africa"
+38104,"South Africa"
+38105,"South Africa"
+38106,Brazil
+38107,Canada
+38108,"United States of America"
+38109,Belarus
+38110,"United Arab Emirates"
+38111,Jordan
+38112,China
+38113,Belarus
+38114,Germany
+38115,Belarus
+38116,"South Africa"
+38117,"United States of America"
+38118,Jordan
+38119,Bulgaria
+38120,Belarus
+38121,Bulgaria
+38122,Belarus
+38123,Iraq
+38124,Kuwait
+38124,"United States of America"
+38125,"South Africa"
+38126,China
+38127,"United States of America"
+38128,"United States of America"
+38129,Austria
+38130,"United States of America"
+38131,"South Africa"
+38132,"United States of America"
+38133,Bulgaria
+38133,Croatia
+38134,"South Africa"
+38135,Romania
+38136,"United States of America"
+38137,France
+38138,Jordan
+38139,"South Africa"
+38140,Jordan
+38141,"United States of America"
+38142,"United States of America"
+38143,"South Africa"
+38144,India
+38145,"South Africa"
+38146,"United States of America"
+38147,"Bosnia and Herzegovina"
+38148,"South Africa"
+38149,"United States of America"
+38150,Brazil
+38150,"United States of America"
+38151,Germany
+38152,Malta
+38153,"South Africa"
+38154,"Korea, South"
+38155,Jordan
+38156,Israel
+38157,"South Africa"
+38158,Serbia
+38159,"South Africa"
+38160,Ukraine
+38161,"South Africa"
+38162,"Bosnia and Herzegovina"
+38163,Jordan
+38164,Canada
+38165,Jordan
+38166,Australia
+38167,"South Africa"
+38168,Australia
+38169,Australia
+38170,Australia
+38171,Australia
+38172,"South Africa"
+38173,"South Africa"
+38174,Australia
+38175,"United States of America"
+38176,"South Africa"
+38177,Australia
+38178,"South Africa"
+38179,"South Africa"
+38180,"South Africa"
+38181,"South Africa"
+38182,Turkey
+38183,Turkey
+38184,"South Africa"
+38185,Bulgaria
+38185,Serbia
+38185,Romania
+38185,"Bosnia and Herzegovina"
+38186,Jordan
+38187,Ukraine
+38188,Ireland
+38189,Jordan
+38190,"South Africa"
+38191,Malta
+38192,"South Africa"
+38193,Jordan
+38194,"Bosnia and Herzegovina"
+38195,"United States of America"
+38196,Turkey
+38197,"South Africa"
+38198,"South Africa"
+38199,Jordan
+38200,Malta
+38200,Malta
+38200,Malta
+38200,Malta
+38201,Malta
+38201,Malta
+38201,Malta
+38202,Malta
+38202,Malta
+38202,Malta
+38202,Malta
+38202,Malta
+38202,Malta
+38203,Malta
+38204,China
+38205,Jordan
+38206,Malta
+38207,Malta
+38207,Malta
+38208,Malta
+38208,Malta
+38208,Malta
+38208,Malta
+38209,Malta
+38209,Malta
+38210,Malta
+38210,Malta
+38211,Malta
+38212,Malta
+38213,"South Africa"
+38214,"South Africa"
+38215,Australia
+38216,Malta
+38217,Malta
+38217,Malta
+38217,Malta
+38218,Malta
+38219,Malta
+38219,Malta
+38219,Malta
+38220,Malta
+38220,Malta
+38221,Malta
+38221,Malta
+38222,Malta
+38223,Malta
+38224,Malta
+38225,Malta
+38226,Malta
+38226,Malta
+38227,Malta
+38227,Malta
+38228,Malta
+38229,Bulgaria
+38230,Canada
+38231,Malta
+38232,Jordan
+38233,"South Africa"
+38234,Iraq
+38235,Jordan
+38236,Malta
+38237,Australia
+38238,Hungary
+38239,"South Africa"
+38240,"South Africa"
+38241,Jordan
+38242,India
+38242,Serbia
+38243,Malta
+38244,Jordan
+38245,"Bosnia and Herzegovina"
+38246,Canada
+38247,Jordan
+38248,Malta
+38249,"South Africa"
+38250,Canada
+38251,Djibouti
+38251,Egypt
+38251,Kenya
+38251,Madagascar
+38251,Maldives
+38251,Mauritius
+38251,Seychelles
+38251,"South Africa"
+38251,"Sri Lanka"
+38251,Tanzania
+38252,Bulgaria
+38253,"South Africa"
+38254,"Sri Lanka"
+38255,Romania
+38255,"Bosnia and Herzegovina"
+38256,"South Africa"
+38257,Mauritius
+38258,Jordan
+38259,Jordan
+38260,Jordan
+38261,Australia
+38262,Djibouti
+38262,Egypt
+38262,Kenya
+38262,Madagascar
+38262,Maldives
+38262,Mauritius
+38262,Oman
+38262,Seychelles
+38262,"South Africa"
+38262,Tanzania
+38263,"South Africa"
+38264,Bulgaria
+38265,Jordan
+38266,Australia
+38267,Malta
+38268,Oman
+38268,Oman
+38269,Mauritius
+38270,"Bosnia and Herzegovina"
+38271,Jordan
+38272,Jordan
+38273,Serbia
+38274,Mauritius
+38275,Jordan
+38276,Romania
+38277,"South Africa"
+38278,Poland
+38279,Ukraine
+38279,Serbia
+38280,Montenegro
+38281,Ukraine
+38282,Belgium
+38283,Belgium
+38284,Turkey
+38285,Israel
+38286,"Czech Republic"
+38287,Israel
+38288,Romania
+38288,"Bosnia and Herzegovina"
+38288,Turkey
+38289,"United Arab Emirates"
+38290,"Czech Republic"
+38290,Montenegro
+38291,Ukraine
+38292,Israel
+38293,Belarus
+38294,China
+38294,China
+38295,Jordan
+38296,China
+38297,Iraq
+38299,Jordan
+38299,"United Kingdom"
+38300,Jordan
+38300,"United Kingdom"
+38301,Israel
+38302,Israel
+38303,Israel
+38304,Israel
+38305,Jordan
+38305,"United Kingdom"
+38306,Israel
+38307,Jordan
+38307,"United Kingdom"
+38308,Israel
+38309,Jordan
+38309,"United Kingdom"
+38310,Israel
+38311,Israel
+38312,"United Kingdom"
+38313,"United Kingdom"
+38314,"United Kingdom"
+38315,"United Kingdom"
+38316,"United Kingdom"
+38317,"United Kingdom"
+38318,"United Kingdom"
+38319,"United Kingdom"
+38320,"United Kingdom"
+38321,"United Kingdom"
+38322,Taiwan
+38323,"Korea, South"
+38324,Singapore
+38324,Israel
+38324,"Czech Republic"
+38324,"South Africa"
+38325,Italy
+38326,Italy
+38327,Italy
+38328,Italy
+38329,Italy
+38330,Italy
+38331,Italy
+38332,Italy
+38333,Italy
+38334,Italy
+38335,Italy
+38336,Italy
+38337,Italy
+38338,"Non Specific Country"
+38338,"United States of America"
+38339,Sweden
+38340,"United Kingdom"
+38341,Jordan
+38342,Jordan
+38343,Jordan
+38344,Jordan
+38345,Jordan
+38346,Jordan
+38347,Jordan
+38348,Jordan
+38349,Jordan
+38350,Jordan
+38351,Jordan
+38352,Jordan
+38353,Jordan
+38354,"United States of America"
+38356,Kuwait
+38357,Colombia
+38357,"United Arab Emirates"
+38358,"Non Specific Country"
+38360,"South Africa"
+38361,Russia
+38363,Ireland
+38364,Ireland
+38365,"Non Specific Country"
+38366,Italy
+38366,Malaysia
+38367,Italy
+38367,Malaysia
+38368,Italy
+38368,Malaysia
+38369,Italy
+38369,Malaysia
+38370,Italy
+38370,Malaysia
+38371,Italy
+38371,Malaysia
+38372,Italy
+38372,Malaysia
+38373,Italy
+38373,Malaysia
+38374,Italy
+38374,Malaysia
+38375,Italy
+38375,Malaysia
+38376,Italy
+38376,Malaysia
+38377,Italy
+38377,Malaysia
+38378,Italy
+38378,Malaysia
+38379,Italy
+38379,Malaysia
+38380,Italy
+38380,Malaysia
+38381,"Non Specific Country"
+38382,"South Africa"
+38383,"South Africa"
+38384,"South Africa"
+38385,"South Africa"
+38386,"South Africa"
+38387,"South Africa"
+38388,"South Africa"
+38389,"Non Specific Country"
+38390,"South Africa"
+38391,"South Africa"
+38392,"South Africa"
+38393,"South Africa"
+38394,"South Africa"
+38395,Brunei
+38396,Brunei
+38397,Malaysia
+38397,Singapore
+38397,Germany
+38398,"Non Specific Country"
+38399,"Non Specific Country"
+38400,Sweden
+38401,Angola
+38401,Austria
+38401,Botswana
+38401,Bulgaria
+38401,Cameroon
+38401,Chad
+38401,Denmark
+38401,"Equatorial Guinea"
+38401,France
+38401,Gabon
+38401,Germany
+38401,Ghana
+38401,Greece
+38401,"Guinea, Republic of"
+38401,Hungary
+38401,Israel
+38401,Italy
+38401,Kenya
+38401,Mauritania
+38401,Morocco
+38401,Mozambique
+38401,Namibia
+38401,Netherlands
+38401,Nigeria
+38401,Norway
+38401,Poland
+38401,Portugal
+38401,"Republic of Congo"
+38401,Romania
+38401,Senegal
+38401,Slovenia
+38401,"South Africa"
+38401,Spain
+38401,Switzerland
+38401,Tanzania
+38401,Turkey
+38401,Uganda
+38401,Ukraine
+38401,"United States of America"
+38402,Angola
+38402,Austria
+38402,Botswana
+38402,Bulgaria
+38402,Cameroon
+38402,Chad
+38402,Denmark
+38402,"Equatorial Guinea"
+38402,France
+38402,Gabon
+38402,Germany
+38402,Ghana
+38402,Greece
+38402,"Guinea, Republic of"
+38402,Hungary
+38402,Israel
+38402,Italy
+38402,Kenya
+38402,Mauritania
+38402,Morocco
+38402,Mozambique
+38402,Namibia
+38402,Netherlands
+38402,Nigeria
+38402,Norway
+38402,Poland
+38402,Portugal
+38402,"Republic of Congo"
+38402,Romania
+38402,Senegal
+38402,Slovenia
+38402,"South Africa"
+38402,Spain
+38402,Switzerland
+38402,Tanzania
+38402,Turkey
+38402,Uganda
+38402,Ukraine
+38402,"United States of America"
+38403,Angola
+38403,Austria
+38403,Botswana
+38403,Bulgaria
+38403,Cameroon
+38403,Chad
+38403,Denmark
+38403,"Equatorial Guinea"
+38403,France
+38403,Gabon
+38403,Germany
+38403,Ghana
+38403,Greece
+38403,"Guinea, Republic of"
+38403,Hungary
+38403,Israel
+38403,Italy
+38403,Kenya
+38403,Mauritania
+38403,Morocco
+38403,Mozambique
+38403,Namibia
+38403,Netherlands
+38403,Nigeria
+38403,Norway
+38403,Poland
+38403,Portugal
+38403,"Republic of Congo"
+38403,Romania
+38403,Senegal
+38403,Slovenia
+38403,"South Africa"
+38403,Spain
+38403,Switzerland
+38403,Tanzania
+38403,Turkey
+38403,Uganda
+38403,Ukraine
+38403,"United States of America"
+38404,Angola
+38404,Austria
+38404,Botswana
+38404,Bulgaria
+38404,Cameroon
+38404,Chad
+38404,Denmark
+38404,"Equatorial Guinea"
+38404,France
+38404,Gabon
+38404,Germany
+38404,Ghana
+38404,Greece
+38404,"Guinea, Republic of"
+38404,Hungary
+38404,Israel
+38404,Italy
+38404,Kenya
+38404,Mauritania
+38404,Morocco
+38404,Mozambique
+38404,Namibia
+38404,Netherlands
+38404,Nigeria
+38404,Norway
+38404,Poland
+38404,Portugal
+38404,"Republic of Congo"
+38404,Romania
+38404,Senegal
+38404,Slovenia
+38404,"South Africa"
+38404,Spain
+38404,Switzerland
+38404,Tanzania
+38404,Turkey
+38404,Uganda
+38404,Ukraine
+38404,"United States of America"
+38405,Angola
+38405,Austria
+38405,Botswana
+38405,Bulgaria
+38405,Cameroon
+38405,Chad
+38405,Denmark
+38405,"Equatorial Guinea"
+38405,France
+38405,Gabon
+38405,Germany
+38405,Ghana
+38405,Greece
+38405,"Guinea, Republic of"
+38405,Hungary
+38405,Israel
+38405,Italy
+38405,Kenya
+38405,Mauritania
+38405,Morocco
+38405,Mozambique
+38405,Namibia
+38405,Netherlands
+38405,Nigeria
+38405,Norway
+38405,Poland
+38405,Portugal
+38405,"Republic of Congo"
+38405,Romania
+38405,Senegal
+38405,Slovenia
+38405,"South Africa"
+38405,Spain
+38405,Switzerland
+38405,Tanzania
+38405,Turkey
+38405,Uganda
+38405,Ukraine
+38405,"United States of America"
+38406,Angola
+38406,Austria
+38406,Botswana
+38406,Bulgaria
+38406,Cameroon
+38406,Chad
+38406,Denmark
+38406,"Equatorial Guinea"
+38406,France
+38406,Gabon
+38406,Germany
+38406,Ghana
+38406,Greece
+38406,"Guinea, Republic of"
+38406,Hungary
+38406,Israel
+38406,Italy
+38406,Kenya
+38406,Mauritania
+38406,Morocco
+38406,Mozambique
+38406,Namibia
+38406,Netherlands
+38406,Nigeria
+38406,Norway
+38406,Poland
+38406,Portugal
+38406,"Republic of Congo"
+38406,Romania
+38406,Senegal
+38406,Slovenia
+38406,"South Africa"
+38406,Spain
+38406,Switzerland
+38406,Tanzania
+38406,Turkey
+38406,Uganda
+38406,Ukraine
+38406,"United States of America"
+38407,Angola
+38407,Austria
+38407,Botswana
+38407,Bulgaria
+38407,Cameroon
+38407,Chad
+38407,Denmark
+38407,"Equatorial Guinea"
+38407,France
+38407,Gabon
+38407,Germany
+38407,Ghana
+38407,Greece
+38407,"Guinea, Republic of"
+38407,Hungary
+38407,Israel
+38407,Italy
+38407,Kenya
+38407,Mauritania
+38407,Morocco
+38407,Mozambique
+38407,Namibia
+38407,Netherlands
+38407,Nigeria
+38407,Norway
+38407,Poland
+38407,Portugal
+38407,"Republic of Congo"
+38407,Romania
+38407,Senegal
+38407,Slovenia
+38407,"South Africa"
+38407,Spain
+38407,Switzerland
+38407,Tanzania
+38407,Turkey
+38407,Uganda
+38407,Ukraine
+38407,"United States of America"
+38408,Angola
+38408,Austria
+38408,Botswana
+38408,Bulgaria
+38408,Cameroon
+38408,Chad
+38408,Denmark
+38408,"Equatorial Guinea"
+38408,France
+38408,Gabon
+38408,Germany
+38408,Ghana
+38408,Greece
+38408,"Guinea, Republic of"
+38408,Hungary
+38408,Israel
+38408,Italy
+38408,Kenya
+38408,Mauritania
+38408,Morocco
+38408,Mozambique
+38408,Namibia
+38408,Netherlands
+38408,Nigeria
+38408,Norway
+38408,Poland
+38408,Portugal
+38408,"Republic of Congo"
+38408,Romania
+38408,Senegal
+38408,Slovenia
+38408,"South Africa"
+38408,Spain
+38408,Switzerland
+38408,Tanzania
+38408,Turkey
+38408,Uganda
+38408,Ukraine
+38408,"United States of America"
+38409,Angola
+38409,Austria
+38409,Botswana
+38409,Bulgaria
+38409,Cameroon
+38409,Chad
+38409,Denmark
+38409,"Equatorial Guinea"
+38409,France
+38409,Gabon
+38409,Germany
+38409,Ghana
+38409,Greece
+38409,"Guinea, Republic of"
+38409,Hungary
+38409,Israel
+38409,Italy
+38409,Kenya
+38409,Mauritania
+38409,Morocco
+38409,Mozambique
+38409,Namibia
+38409,Netherlands
+38409,Nigeria
+38409,Norway
+38409,Poland
+38409,Portugal
+38409,"Republic of Congo"
+38409,Romania
+38409,Senegal
+38409,Slovenia
+38409,"South Africa"
+38409,Spain
+38409,Switzerland
+38409,Tanzania
+38409,Turkey
+38409,Uganda
+38409,Ukraine
+38409,"United States of America"
+38410,Angola
+38410,Austria
+38410,Botswana
+38410,Bulgaria
+38410,Cameroon
+38410,Chad
+38410,Denmark
+38410,"Equatorial Guinea"
+38410,France
+38410,Gabon
+38410,Germany
+38410,Ghana
+38410,Greece
+38410,"Guinea, Republic of"
+38410,Hungary
+38410,Israel
+38410,Italy
+38410,Kenya
+38410,Mauritania
+38410,Morocco
+38410,Mozambique
+38410,Namibia
+38410,Netherlands
+38410,Nigeria
+38410,Norway
+38410,Poland
+38410,Portugal
+38410,"Republic of Congo"
+38410,Romania
+38410,Senegal
+38410,Slovenia
+38410,"South Africa"
+38410,Spain
+38410,Switzerland
+38410,Tanzania
+38410,Turkey
+38410,Uganda
+38410,Ukraine
+38410,"United States of America"
+38411,Angola
+38411,Austria
+38411,Botswana
+38411,Bulgaria
+38411,Cameroon
+38411,Chad
+38411,Denmark
+38411,"Equatorial Guinea"
+38411,France
+38411,Gabon
+38411,Germany
+38411,Ghana
+38411,Greece
+38411,"Guinea, Republic of"
+38411,Hungary
+38411,Israel
+38411,Italy
+38411,Kenya
+38411,Mauritania
+38411,Morocco
+38411,Mozambique
+38411,Namibia
+38411,Netherlands
+38411,Nigeria
+38411,Norway
+38411,Poland
+38411,Portugal
+38411,"Republic of Congo"
+38411,Romania
+38411,Senegal
+38411,Slovenia
+38411,"South Africa"
+38411,Spain
+38411,Switzerland
+38411,Tanzania
+38411,Turkey
+38411,Uganda
+38411,Ukraine
+38411,"United States of America"
+38412,Angola
+38412,Austria
+38412,Botswana
+38412,Bulgaria
+38412,Cameroon
+38412,Chad
+38412,Denmark
+38412,"Equatorial Guinea"
+38412,France
+38412,Gabon
+38412,Germany
+38412,Ghana
+38412,Greece
+38412,"Guinea, Republic of"
+38412,Hungary
+38412,Israel
+38412,Italy
+38412,Kenya
+38412,Mauritania
+38412,Morocco
+38412,Mozambique
+38412,Namibia
+38412,Netherlands
+38412,Nigeria
+38412,Norway
+38412,Poland
+38412,Portugal
+38412,"Republic of Congo"
+38412,Romania
+38412,Senegal
+38412,Slovenia
+38412,"South Africa"
+38412,Spain
+38412,Switzerland
+38412,Tanzania
+38412,Turkey
+38412,Uganda
+38412,Ukraine
+38412,"United States of America"
+38413,Angola
+38413,Austria
+38413,Botswana
+38413,Bulgaria
+38413,Cameroon
+38413,Chad
+38413,Denmark
+38413,"Equatorial Guinea"
+38413,France
+38413,Gabon
+38413,Germany
+38413,Ghana
+38413,Greece
+38413,"Guinea, Republic of"
+38413,Hungary
+38413,Israel
+38413,Italy
+38413,Kenya
+38413,Mauritania
+38413,Morocco
+38413,Mozambique
+38413,Namibia
+38413,Netherlands
+38413,Nigeria
+38413,Norway
+38413,Poland
+38413,Portugal
+38413,"Republic of Congo"
+38413,Romania
+38413,Senegal
+38413,Slovenia
+38413,"South Africa"
+38413,Spain
+38413,Switzerland
+38413,Tanzania
+38413,Turkey
+38413,Uganda
+38413,Ukraine
+38413,"United States of America"
+38414,Angola
+38414,Austria
+38414,Botswana
+38414,Bulgaria
+38414,Cameroon
+38414,Chad
+38414,Denmark
+38414,"Equatorial Guinea"
+38414,France
+38414,Gabon
+38414,Germany
+38414,Ghana
+38414,Greece
+38414,"Guinea, Republic of"
+38414,Hungary
+38414,Israel
+38414,Italy
+38414,Kenya
+38414,Mauritania
+38414,Morocco
+38414,Mozambique
+38414,Namibia
+38414,Netherlands
+38414,Nigeria
+38414,Norway
+38414,Poland
+38414,Portugal
+38414,"Republic of Congo"
+38414,Romania
+38414,Senegal
+38414,Slovenia
+38414,"South Africa"
+38414,Spain
+38414,Switzerland
+38414,Tanzania
+38414,Turkey
+38414,Uganda
+38414,Ukraine
+38414,"United States of America"
+38415,Angola
+38415,Austria
+38415,Botswana
+38415,Bulgaria
+38415,Cameroon
+38415,Chad
+38415,Denmark
+38415,"Equatorial Guinea"
+38415,France
+38415,Gabon
+38415,Germany
+38415,Ghana
+38415,Greece
+38415,"Guinea, Republic of"
+38415,Hungary
+38415,Israel
+38415,Italy
+38415,Kenya
+38415,Mauritania
+38415,Morocco
+38415,Mozambique
+38415,Namibia
+38415,Netherlands
+38415,Nigeria
+38415,Norway
+38415,Poland
+38415,Portugal
+38415,"Republic of Congo"
+38415,Romania
+38415,Senegal
+38415,Slovenia
+38415,"South Africa"
+38415,Spain
+38415,Switzerland
+38415,Tanzania
+38415,Turkey
+38415,Uganda
+38415,Ukraine
+38415,"United States of America"
+38416,Angola
+38416,Austria
+38416,Botswana
+38416,Bulgaria
+38416,Cameroon
+38416,Chad
+38416,Denmark
+38416,"Equatorial Guinea"
+38416,France
+38416,Gabon
+38416,Germany
+38416,Ghana
+38416,Greece
+38416,"Guinea, Republic of"
+38416,Hungary
+38416,Israel
+38416,Italy
+38416,Kenya
+38416,Mauritania
+38416,Morocco
+38416,Mozambique
+38416,Namibia
+38416,Netherlands
+38416,Nigeria
+38416,Norway
+38416,Poland
+38416,Portugal
+38416,"Republic of Congo"
+38416,Romania
+38416,Senegal
+38416,Slovenia
+38416,"South Africa"
+38416,Spain
+38416,Switzerland
+38416,Tanzania
+38416,Turkey
+38416,Uganda
+38416,Ukraine
+38416,"United States of America"
+38417,Angola
+38417,Austria
+38417,Botswana
+38417,Bulgaria
+38417,Cameroon
+38417,Chad
+38417,Denmark
+38417,"Equatorial Guinea"
+38417,France
+38417,Gabon
+38417,Germany
+38417,Ghana
+38417,Greece
+38417,"Guinea, Republic of"
+38417,Hungary
+38417,Israel
+38417,Italy
+38417,Kenya
+38417,Mauritania
+38417,Morocco
+38417,Mozambique
+38417,Namibia
+38417,Netherlands
+38417,Nigeria
+38417,Norway
+38417,Poland
+38417,Portugal
+38417,"Republic of Congo"
+38417,Romania
+38417,Senegal
+38417,Slovenia
+38417,"South Africa"
+38417,Spain
+38417,Switzerland
+38417,Tanzania
+38417,Turkey
+38417,Uganda
+38417,Ukraine
+38417,"United States of America"
+38418,Angola
+38418,Austria
+38418,Botswana
+38418,Bulgaria
+38418,Cameroon
+38418,Chad
+38418,Denmark
+38418,"Equatorial Guinea"
+38418,France
+38418,Gabon
+38418,Germany
+38418,Ghana
+38418,Greece
+38418,"Guinea, Republic of"
+38418,Hungary
+38418,Israel
+38418,Italy
+38418,Kenya
+38418,Mauritania
+38418,Morocco
+38418,Mozambique
+38418,Namibia
+38418,Netherlands
+38418,Nigeria
+38418,Norway
+38418,Poland
+38418,Portugal
+38418,"Republic of Congo"
+38418,Romania
+38418,Senegal
+38418,Slovenia
+38418,"South Africa"
+38418,Spain
+38418,Switzerland
+38418,Tanzania
+38418,Turkey
+38418,Uganda
+38418,Ukraine
+38418,"United States of America"
+38419,Angola
+38419,Austria
+38419,Botswana
+38419,Bulgaria
+38419,Cameroon
+38419,Chad
+38419,Denmark
+38419,"Equatorial Guinea"
+38419,France
+38419,Gabon
+38419,Germany
+38419,Ghana
+38419,Greece
+38419,"Guinea, Republic of"
+38419,Hungary
+38419,Israel
+38419,Italy
+38419,Kenya
+38419,Mauritania
+38419,Morocco
+38419,Mozambique
+38419,Namibia
+38419,Netherlands
+38419,Nigeria
+38419,Norway
+38419,Poland
+38419,Portugal
+38419,"Republic of Congo"
+38419,Romania
+38419,Senegal
+38419,Slovenia
+38419,"South Africa"
+38419,Spain
+38419,Switzerland
+38419,Tanzania
+38419,Turkey
+38419,Uganda
+38419,Ukraine
+38419,"United States of America"
+38420,Angola
+38420,Austria
+38420,Botswana
+38420,Bulgaria
+38420,Cameroon
+38420,Chad
+38420,Denmark
+38420,"Equatorial Guinea"
+38420,France
+38420,Gabon
+38420,Germany
+38420,Ghana
+38420,Greece
+38420,"Guinea, Republic of"
+38420,Hungary
+38420,Israel
+38420,Italy
+38420,Kenya
+38420,Mauritania
+38420,Morocco
+38420,Mozambique
+38420,Namibia
+38420,Netherlands
+38420,Nigeria
+38420,Norway
+38420,Poland
+38420,Portugal
+38420,"Republic of Congo"
+38420,Romania
+38420,Senegal
+38420,Slovenia
+38420,"South Africa"
+38420,Spain
+38420,Switzerland
+38420,Tanzania
+38420,Turkey
+38420,Uganda
+38420,Ukraine
+38420,"United States of America"
+38421,Angola
+38421,Austria
+38421,Botswana
+38421,Bulgaria
+38421,Cameroon
+38421,Chad
+38421,Denmark
+38421,"Equatorial Guinea"
+38421,France
+38421,Gabon
+38421,Germany
+38421,Ghana
+38421,Greece
+38421,"Guinea, Republic of"
+38421,Hungary
+38421,Israel
+38421,Italy
+38421,Kenya
+38421,Mauritania
+38421,Morocco
+38421,Mozambique
+38421,Namibia
+38421,Netherlands
+38421,Nigeria
+38421,Norway
+38421,Poland
+38421,Portugal
+38421,"Republic of Congo"
+38421,Romania
+38421,Senegal
+38421,Slovenia
+38421,"South Africa"
+38421,Spain
+38421,Switzerland
+38421,Tanzania
+38421,Turkey
+38421,Uganda
+38421,Ukraine
+38421,"United States of America"
+38422,Angola
+38422,Austria
+38422,Botswana
+38422,Bulgaria
+38422,Cameroon
+38422,Chad
+38422,Denmark
+38422,"Equatorial Guinea"
+38422,France
+38422,Gabon
+38422,Germany
+38422,Ghana
+38422,Greece
+38422,"Guinea, Republic of"
+38422,Hungary
+38422,Israel
+38422,Italy
+38422,Kenya
+38422,Mauritania
+38422,Morocco
+38422,Mozambique
+38422,Namibia
+38422,Netherlands
+38422,Nigeria
+38422,Norway
+38422,Poland
+38422,Portugal
+38422,"Republic of Congo"
+38422,Romania
+38422,Senegal
+38422,Slovenia
+38422,"South Africa"
+38422,Spain
+38422,Switzerland
+38422,Tanzania
+38422,Turkey
+38422,Uganda
+38422,Ukraine
+38422,"United States of America"
+38423,Angola
+38423,Austria
+38423,Botswana
+38423,Bulgaria
+38423,Cameroon
+38423,Chad
+38423,Denmark
+38423,"Equatorial Guinea"
+38423,France
+38423,Gabon
+38423,Germany
+38423,Ghana
+38423,Greece
+38423,"Guinea, Republic of"
+38423,Hungary
+38423,Israel
+38423,Italy
+38423,Kenya
+38423,Mauritania
+38423,Morocco
+38423,Mozambique
+38423,Namibia
+38423,Netherlands
+38423,Nigeria
+38423,Norway
+38423,Poland
+38423,Portugal
+38423,"Republic of Congo"
+38423,Romania
+38423,Senegal
+38423,Slovenia
+38423,"South Africa"
+38423,Spain
+38423,Switzerland
+38423,Tanzania
+38423,Turkey
+38423,Uganda
+38423,Ukraine
+38423,"United States of America"
+38424,Angola
+38424,Austria
+38424,Botswana
+38424,Bulgaria
+38424,Cameroon
+38424,Chad
+38424,Denmark
+38424,"Equatorial Guinea"
+38424,France
+38424,Gabon
+38424,Germany
+38424,Ghana
+38424,Greece
+38424,"Guinea, Republic of"
+38424,Hungary
+38424,Israel
+38424,Italy
+38424,Kenya
+38424,Mauritania
+38424,Morocco
+38424,Mozambique
+38424,Namibia
+38424,Netherlands
+38424,Nigeria
+38424,Norway
+38424,Poland
+38424,Portugal
+38424,"Republic of Congo"
+38424,Romania
+38424,Senegal
+38424,Slovenia
+38424,"South Africa"
+38424,Spain
+38424,Switzerland
+38424,Tanzania
+38424,Turkey
+38424,Uganda
+38424,Ukraine
+38424,"United States of America"
+38425,Angola
+38425,Austria
+38425,Botswana
+38425,Bulgaria
+38425,Cameroon
+38425,Chad
+38425,Denmark
+38425,"Equatorial Guinea"
+38425,France
+38425,Gabon
+38425,Germany
+38425,Ghana
+38425,Greece
+38425,"Guinea, Republic of"
+38425,Hungary
+38425,Israel
+38425,Italy
+38425,Kenya
+38425,Mauritania
+38425,Morocco
+38425,Mozambique
+38425,Namibia
+38425,Netherlands
+38425,Nigeria
+38425,Norway
+38425,Poland
+38425,Portugal
+38425,"Republic of Congo"
+38425,Romania
+38425,Senegal
+38425,Slovenia
+38425,"South Africa"
+38425,Spain
+38425,Switzerland
+38425,Tanzania
+38425,Turkey
+38425,Uganda
+38425,Ukraine
+38425,"United States of America"
+38426,Angola
+38426,Austria
+38426,Botswana
+38426,Bulgaria
+38426,Cameroon
+38426,Chad
+38426,Denmark
+38426,"Equatorial Guinea"
+38426,France
+38426,Gabon
+38426,Germany
+38426,Ghana
+38426,Greece
+38426,"Guinea, Republic of"
+38426,Hungary
+38426,Israel
+38426,Italy
+38426,Kenya
+38426,Mauritania
+38426,Morocco
+38426,Mozambique
+38426,Namibia
+38426,Netherlands
+38426,Nigeria
+38426,Norway
+38426,Poland
+38426,Portugal
+38426,"Republic of Congo"
+38426,Romania
+38426,Senegal
+38426,Slovenia
+38426,"South Africa"
+38426,Spain
+38426,Switzerland
+38426,Tanzania
+38426,Turkey
+38426,Uganda
+38426,Ukraine
+38426,"United States of America"
+38427,Angola
+38427,Austria
+38427,Botswana
+38427,Bulgaria
+38427,Cameroon
+38427,Chad
+38427,Denmark
+38427,"Equatorial Guinea"
+38427,France
+38427,Gabon
+38427,Germany
+38427,Ghana
+38427,Greece
+38427,"Guinea, Republic of"
+38427,Hungary
+38427,Israel
+38427,Italy
+38427,Kenya
+38427,Mauritania
+38427,Morocco
+38427,Mozambique
+38427,Namibia
+38427,Netherlands
+38427,Nigeria
+38427,Norway
+38427,Poland
+38427,Portugal
+38427,"Republic of Congo"
+38427,Romania
+38427,Senegal
+38427,Slovenia
+38427,"South Africa"
+38427,Spain
+38427,Switzerland
+38427,Tanzania
+38427,Turkey
+38427,Uganda
+38427,Ukraine
+38427,"United States of America"
+38428,Angola
+38428,Austria
+38428,Botswana
+38428,Bulgaria
+38428,Cameroon
+38428,Chad
+38428,Denmark
+38428,"Equatorial Guinea"
+38428,France
+38428,Gabon
+38428,Germany
+38428,Ghana
+38428,Greece
+38428,"Guinea, Republic of"
+38428,Hungary
+38428,Israel
+38428,Italy
+38428,Kenya
+38428,Mauritania
+38428,Morocco
+38428,Mozambique
+38428,Namibia
+38428,Netherlands
+38428,Nigeria
+38428,Norway
+38428,Poland
+38428,Portugal
+38428,"Republic of Congo"
+38428,Romania
+38428,Senegal
+38428,Slovenia
+38428,"South Africa"
+38428,Spain
+38428,Switzerland
+38428,Tanzania
+38428,Turkey
+38428,Uganda
+38428,Ukraine
+38428,"United States of America"
+38429,Angola
+38429,Austria
+38429,Botswana
+38429,Bulgaria
+38429,Cameroon
+38429,Chad
+38429,Denmark
+38429,"Equatorial Guinea"
+38429,France
+38429,Gabon
+38429,Germany
+38429,Ghana
+38429,Greece
+38429,"Guinea, Republic of"
+38429,Hungary
+38429,Israel
+38429,Italy
+38429,Kenya
+38429,Mauritania
+38429,Morocco
+38429,Mozambique
+38429,Namibia
+38429,Netherlands
+38429,Nigeria
+38429,Norway
+38429,Poland
+38429,Portugal
+38429,"Republic of Congo"
+38429,Romania
+38429,Senegal
+38429,Slovenia
+38429,"South Africa"
+38429,Spain
+38429,Switzerland
+38429,Tanzania
+38429,Turkey
+38429,Uganda
+38429,Ukraine
+38429,"United States of America"
+38430,Angola
+38430,Austria
+38430,Botswana
+38430,Bulgaria
+38430,Cameroon
+38430,Chad
+38430,Denmark
+38430,"Equatorial Guinea"
+38430,France
+38430,Gabon
+38430,Germany
+38430,Ghana
+38430,Greece
+38430,"Guinea, Republic of"
+38430,Hungary
+38430,Israel
+38430,Italy
+38430,Kenya
+38430,Mauritania
+38430,Morocco
+38430,Mozambique
+38430,Namibia
+38430,Netherlands
+38430,Nigeria
+38430,Norway
+38430,Poland
+38430,Portugal
+38430,"Republic of Congo"
+38430,Romania
+38430,Senegal
+38430,Slovenia
+38430,"South Africa"
+38430,Spain
+38430,Switzerland
+38430,Tanzania
+38430,Turkey
+38430,Uganda
+38430,Ukraine
+38430,"United States of America"
+38431,Angola
+38431,Austria
+38431,Botswana
+38431,Bulgaria
+38431,Cameroon
+38431,Chad
+38431,Denmark
+38431,"Equatorial Guinea"
+38431,France
+38431,Gabon
+38431,Germany
+38431,Ghana
+38431,Greece
+38431,"Guinea, Republic of"
+38431,Hungary
+38431,Israel
+38431,Italy
+38431,Kenya
+38431,Mauritania
+38431,Morocco
+38431,Mozambique
+38431,Namibia
+38431,Netherlands
+38431,Nigeria
+38431,Norway
+38431,Poland
+38431,Portugal
+38431,"Republic of Congo"
+38431,Romania
+38431,Senegal
+38431,Slovenia
+38431,"South Africa"
+38431,Spain
+38431,Switzerland
+38431,Tanzania
+38431,Turkey
+38431,Uganda
+38431,Ukraine
+38431,"United States of America"
+38432,Angola
+38432,Austria
+38432,Botswana
+38432,Bulgaria
+38432,Cameroon
+38432,Chad
+38432,Denmark
+38432,"Equatorial Guinea"
+38432,France
+38432,Gabon
+38432,Germany
+38432,Ghana
+38432,Greece
+38432,"Guinea, Republic of"
+38432,Hungary
+38432,Israel
+38432,Italy
+38432,Kenya
+38432,Mauritania
+38432,Morocco
+38432,Mozambique
+38432,Namibia
+38432,Netherlands
+38432,Nigeria
+38432,Norway
+38432,Poland
+38432,Portugal
+38432,"Republic of Congo"
+38432,Romania
+38432,Senegal
+38432,Slovenia
+38432,"South Africa"
+38432,Spain
+38432,Switzerland
+38432,Tanzania
+38432,Turkey
+38432,Uganda
+38432,Ukraine
+38432,"United States of America"
+38433,Angola
+38433,Austria
+38433,Botswana
+38433,Bulgaria
+38433,Cameroon
+38433,Chad
+38433,Denmark
+38433,"Equatorial Guinea"
+38433,France
+38433,Gabon
+38433,Germany
+38433,Ghana
+38433,Greece
+38433,"Guinea, Republic of"
+38433,Hungary
+38433,Israel
+38433,Italy
+38433,Kenya
+38433,Mauritania
+38433,Morocco
+38433,Mozambique
+38433,Namibia
+38433,Netherlands
+38433,Nigeria
+38433,Norway
+38433,Poland
+38433,Portugal
+38433,"Republic of Congo"
+38433,Romania
+38433,Senegal
+38433,Slovenia
+38433,"South Africa"
+38433,Spain
+38433,Switzerland
+38433,Tanzania
+38433,Turkey
+38433,Uganda
+38433,Ukraine
+38433,"United States of America"
+38434,Angola
+38434,Austria
+38434,Botswana
+38434,Bulgaria
+38434,Cameroon
+38434,Chad
+38434,Denmark
+38434,"Equatorial Guinea"
+38434,France
+38434,Gabon
+38434,Germany
+38434,Ghana
+38434,Greece
+38434,"Guinea, Republic of"
+38434,Hungary
+38434,Israel
+38434,Italy
+38434,Kenya
+38434,Mauritania
+38434,Morocco
+38434,Mozambique
+38434,Namibia
+38434,Netherlands
+38434,Nigeria
+38434,Norway
+38434,Poland
+38434,Portugal
+38434,"Republic of Congo"
+38434,Romania
+38434,Senegal
+38434,Slovenia
+38434,"South Africa"
+38434,Spain
+38434,Switzerland
+38434,Tanzania
+38434,Turkey
+38434,Uganda
+38434,Ukraine
+38434,"United States of America"
+38435,"Saudi Arabia"
+38435,France
+38435,"South Africa"
+38435,"United States of America"
+38435,Spain
+38436,Brunei
+38437,Brunei
+38438,Malaysia
+38438,Singapore
+38438,Germany
+38439,Brunei
+38440,"United States of America"
+38441,"United States of America"
+38442,Brunei
+38443,"United States of America"
+38444,"United States of America"
+38445,"United States of America"
+38446,"South Africa"
+38447,"South Africa"
+38448,"South Africa"
+38449,"South Africa"
+38450,"South Africa"
+38451,"South Africa"
+38452,"South Africa"
+38453,"South Africa"
+38454,"South Africa"
+38455,"South Africa"
+38456,"South Africa"
+38457,"South Africa"
+38458,"South Africa"
+38459,"South Africa"
+38460,"South Africa"
+38461,"South Africa"
+38462,"South Africa"
+38463,"South Africa"
+38464,"South Africa"
+38465,"South Africa"
+38466,"South Africa"
+38467,"South Africa"
+38468,"South Africa"
+38469,Jordan
+38470,Jordan
+38471,Jordan
+38472,Jordan
+38473,Jordan
+38474,Jordan
+38475,Jordan
+38476,Jordan
+38477,"United States of America"
+38478,"South Africa"
+38479,"South Africa"
+38480,"South Africa"
+38481,"South Africa"
+38482,"South Africa"
+38483,"Non Specific Country"
+38484,"Non Specific Country"
+38485,"Non Specific Country"
+38486,Malaysia
+38486,France
+38487,Malaysia
+38487,France
+38488,Malaysia
+38488,France
+38489,Malaysia
+38489,France
+38490,Malaysia
+38490,France
+38491,Malaysia
+38491,France
+38492,Malaysia
+38492,France
+38493,Malaysia
+38493,France
+38494,Malaysia
+38494,France
+38495,Malaysia
+38495,France
+38496,Malaysia
+38496,France
+38497,Malaysia
+38497,France
+38498,Malaysia
+38498,France
+38499,Malaysia
+38499,France
+38500,Malaysia
+38500,France
+38501,Malaysia
+38501,France
+38502,Malaysia
+38502,France
+38503,Malaysia
+38503,France
+38504,Malaysia
+38504,France
+38505,Malaysia
+38505,France
+38506,"South Africa"
+38507,"South Africa"
+38508,"South Africa"
+38509,"South Africa"
+38510,"South Africa"
+38511,"South Africa"
+38512,"South Africa"
+38513,"South Africa"
+38514,"South Africa"
+38515,"South Africa"
+38516,Portugal
+38517,"Non Specific Country"
+38518,"Non Specific Country"
+38519,Turkey
+38520,"Non Specific Country"
+38521,"Non Specific Country"
+38522,France
+38523,Qatar
+38523,"United Arab Emirates"
+38524,"United States of America"
+38525,"Non Specific Country"
+38526,Djibouti
+38526,India
+38526,Kenya
+38526,Malta
+38526,Mauritius
+38526,Oman
+38526,"South Africa"
+38526,"Sri Lanka"
+38526,Tanzania
+38526,"United Arab Emirates"
+38527,Djibouti
+38527,India
+38527,Kenya
+38527,Malta
+38527,Mauritius
+38527,Oman
+38527,"South Africa"
+38527,"Sri Lanka"
+38527,Tanzania
+38527,"United Arab Emirates"
+38528,Djibouti
+38528,India
+38528,Kenya
+38528,Malta
+38528,Mauritius
+38528,Oman
+38528,"South Africa"
+38528,"Sri Lanka"
+38528,Tanzania
+38528,"United Arab Emirates"
+38529,Djibouti
+38529,India
+38529,Kenya
+38529,Malta
+38529,Mauritius
+38529,Oman
+38529,"South Africa"
+38529,"Sri Lanka"
+38529,Tanzania
+38529,"United Arab Emirates"
+38530,Djibouti
+38530,India
+38530,Kenya
+38530,Malta
+38530,Mauritius
+38530,Oman
+38530,"South Africa"
+38530,"Sri Lanka"
+38530,Tanzania
+38530,"United Arab Emirates"
+38531,Djibouti
+38531,India
+38531,Kenya
+38531,Malta
+38531,Mauritius
+38531,Oman
+38531,"South Africa"
+38531,"Sri Lanka"
+38531,Tanzania
+38531,"United Arab Emirates"
+38532,Djibouti
+38532,India
+38532,Kenya
+38532,Malta
+38532,Mauritius
+38532,Oman
+38532,"South Africa"
+38532,"Sri Lanka"
+38532,Tanzania
+38532,"United Arab Emirates"
+38533,Djibouti
+38533,India
+38533,Kenya
+38533,Malta
+38533,Mauritius
+38533,Oman
+38533,"South Africa"
+38533,"Sri Lanka"
+38533,Tanzania
+38533,"United Arab Emirates"
+38534,Djibouti
+38534,India
+38534,Kenya
+38534,Malta
+38534,Mauritius
+38534,Oman
+38534,"South Africa"
+38534,"Sri Lanka"
+38534,Tanzania
+38534,"United Arab Emirates"
+38535,"Non Specific Country"
+38536,"Non Specific Country"
+38537,"Non Specific Country"
+38538,"Non Specific Country"
+38539,"Non Specific Country"
+38540,"Non Specific Country"
+38541,"Non Specific Country"
+38542,Argentina
+38542,Brazil
+38542,Egypt
+38542,Gibraltar
+38542,"Hong Kong Special Administrative Region"
+38542,India
+38542,Kenya
+38542,Madagascar
+38542,Malaysia
+38542,Maldives
+38542,Malta
+38542,Mauritius
+38542,Mexico
+38542,Netherlands
+38542,Oman
+38542,Philippines
+38542,Qatar
+38542,Seychelles
+38542,"South Africa"
+38542,"Sri Lanka"
+38542,Tanzania
+38542,Thailand
+38542,"United States of America"
+38543,Argentina
+38543,Brazil
+38543,Egypt
+38543,Gibraltar
+38543,"Hong Kong Special Administrative Region"
+38543,India
+38543,Kenya
+38543,Madagascar
+38543,Malaysia
+38543,Maldives
+38543,Malta
+38543,Mauritius
+38543,Mexico
+38543,Netherlands
+38543,Oman
+38543,Philippines
+38543,Qatar
+38543,Seychelles
+38543,"South Africa"
+38543,"Sri Lanka"
+38543,Tanzania
+38543,Thailand
+38543,"United States of America"
+38544,Argentina
+38544,Brazil
+38544,Egypt
+38544,Gibraltar
+38544,"Hong Kong Special Administrative Region"
+38544,India
+38544,Kenya
+38544,Madagascar
+38544,Malaysia
+38544,Maldives
+38544,Malta
+38544,Mauritius
+38544,Mexico
+38544,Netherlands
+38544,Oman
+38544,Philippines
+38544,Qatar
+38544,Seychelles
+38544,"South Africa"
+38544,"Sri Lanka"
+38544,Tanzania
+38544,Thailand
+38544,"United States of America"
+38545,Argentina
+38545,Brazil
+38545,Egypt
+38545,Gibraltar
+38545,"Hong Kong Special Administrative Region"
+38545,India
+38545,Kenya
+38545,Madagascar
+38545,Malaysia
+38545,Maldives
+38545,Malta
+38545,Mauritius
+38545,Mexico
+38545,Netherlands
+38545,Oman
+38545,Philippines
+38545,Qatar
+38545,Seychelles
+38545,"South Africa"
+38545,"Sri Lanka"
+38545,Tanzania
+38545,Thailand
+38545,"United States of America"
+38546,Argentina
+38546,Brazil
+38546,Egypt
+38546,Gibraltar
+38546,"Hong Kong Special Administrative Region"
+38546,India
+38546,Kenya
+38546,Madagascar
+38546,Malaysia
+38546,Maldives
+38546,Malta
+38546,Mauritius
+38546,Mexico
+38546,Netherlands
+38546,Oman
+38546,Philippines
+38546,Qatar
+38546,Seychelles
+38546,"South Africa"
+38546,"Sri Lanka"
+38546,Tanzania
+38546,Thailand
+38546,"United States of America"
+38547,Argentina
+38547,Brazil
+38547,Egypt
+38547,Gibraltar
+38547,"Hong Kong Special Administrative Region"
+38547,India
+38547,Kenya
+38547,Madagascar
+38547,Malaysia
+38547,Maldives
+38547,Malta
+38547,Mauritius
+38547,Mexico
+38547,Netherlands
+38547,Oman
+38547,Philippines
+38547,Qatar
+38547,Seychelles
+38547,"South Africa"
+38547,"Sri Lanka"
+38547,Tanzania
+38547,Thailand
+38547,"United States of America"
+38548,Argentina
+38548,Brazil
+38548,Egypt
+38548,Gibraltar
+38548,"Hong Kong Special Administrative Region"
+38548,India
+38548,Kenya
+38548,Madagascar
+38548,Malaysia
+38548,Maldives
+38548,Malta
+38548,Mauritius
+38548,Mexico
+38548,Netherlands
+38548,Oman
+38548,Philippines
+38548,Qatar
+38548,Seychelles
+38548,"South Africa"
+38548,"Sri Lanka"
+38548,Tanzania
+38548,Thailand
+38548,"United States of America"
+38549,Argentina
+38549,Brazil
+38549,Egypt
+38549,Gibraltar
+38549,"Hong Kong Special Administrative Region"
+38549,India
+38549,Kenya
+38549,Madagascar
+38549,Malaysia
+38549,Maldives
+38549,Malta
+38549,Mauritius
+38549,Mexico
+38549,Netherlands
+38549,Oman
+38549,Philippines
+38549,Qatar
+38549,Seychelles
+38549,"South Africa"
+38549,"Sri Lanka"
+38549,Tanzania
+38549,Thailand
+38549,"United States of America"
+38550,Argentina
+38550,Brazil
+38550,Egypt
+38550,Gibraltar
+38550,"Hong Kong Special Administrative Region"
+38550,India
+38550,Kenya
+38550,Madagascar
+38550,Malaysia
+38550,Maldives
+38550,Malta
+38550,Mauritius
+38550,Mexico
+38550,Netherlands
+38550,Oman
+38550,Philippines
+38550,Qatar
+38550,Seychelles
+38550,"South Africa"
+38550,"Sri Lanka"
+38550,Tanzania
+38550,Thailand
+38550,"United States of America"
+38551,Argentina
+38551,Brazil
+38551,Egypt
+38551,Gibraltar
+38551,"Hong Kong Special Administrative Region"
+38551,India
+38551,Kenya
+38551,Madagascar
+38551,Malaysia
+38551,Maldives
+38551,Malta
+38551,Mauritius
+38551,Mexico
+38551,Netherlands
+38551,Oman
+38551,Philippines
+38551,Qatar
+38551,Seychelles
+38551,"South Africa"
+38551,"Sri Lanka"
+38551,Tanzania
+38551,Thailand
+38551,"United States of America"
+38552,Argentina
+38552,Brazil
+38552,Egypt
+38552,Gibraltar
+38552,"Hong Kong Special Administrative Region"
+38552,India
+38552,Kenya
+38552,Madagascar
+38552,Malaysia
+38552,Maldives
+38552,Malta
+38552,Mauritius
+38552,Mexico
+38552,Netherlands
+38552,Oman
+38552,Philippines
+38552,Qatar
+38552,Seychelles
+38552,"South Africa"
+38552,"Sri Lanka"
+38552,Tanzania
+38552,Thailand
+38552,"United States of America"
+38553,Argentina
+38553,Brazil
+38553,Egypt
+38553,Gibraltar
+38553,"Hong Kong Special Administrative Region"
+38553,India
+38553,Kenya
+38553,Madagascar
+38553,Malaysia
+38553,Maldives
+38553,Malta
+38553,Mauritius
+38553,Mexico
+38553,Netherlands
+38553,Oman
+38553,Philippines
+38553,Qatar
+38553,Seychelles
+38553,"South Africa"
+38553,"Sri Lanka"
+38553,Tanzania
+38553,Thailand
+38553,"United States of America"
+38554,Argentina
+38554,Brazil
+38554,Egypt
+38554,Gibraltar
+38554,"Hong Kong Special Administrative Region"
+38554,India
+38554,Kenya
+38554,Madagascar
+38554,Malaysia
+38554,Maldives
+38554,Malta
+38554,Mauritius
+38554,Mexico
+38554,Netherlands
+38554,Oman
+38554,Philippines
+38554,Qatar
+38554,Seychelles
+38554,"South Africa"
+38554,"Sri Lanka"
+38554,Tanzania
+38554,Thailand
+38554,"United States of America"
+38555,Argentina
+38555,Brazil
+38555,Egypt
+38555,Gibraltar
+38555,"Hong Kong Special Administrative Region"
+38555,India
+38555,Kenya
+38555,Madagascar
+38555,Malaysia
+38555,Maldives
+38555,Malta
+38555,Mauritius
+38555,Mexico
+38555,Netherlands
+38555,Oman
+38555,Philippines
+38555,Qatar
+38555,Seychelles
+38555,"South Africa"
+38555,"Sri Lanka"
+38555,Tanzania
+38555,Thailand
+38555,"United States of America"
+38556,Argentina
+38556,Brazil
+38556,Egypt
+38556,Gibraltar
+38556,"Hong Kong Special Administrative Region"
+38556,India
+38556,Kenya
+38556,Madagascar
+38556,Malaysia
+38556,Maldives
+38556,Malta
+38556,Mauritius
+38556,Mexico
+38556,Netherlands
+38556,Oman
+38556,Philippines
+38556,Qatar
+38556,Seychelles
+38556,"South Africa"
+38556,"Sri Lanka"
+38556,Tanzania
+38556,Thailand
+38556,"United States of America"
+38557,Argentina
+38557,Brazil
+38557,Egypt
+38557,Gibraltar
+38557,"Hong Kong Special Administrative Region"
+38557,India
+38557,Kenya
+38557,Madagascar
+38557,Malaysia
+38557,Maldives
+38557,Malta
+38557,Mauritius
+38557,Mexico
+38557,Netherlands
+38557,Oman
+38557,Philippines
+38557,Qatar
+38557,Seychelles
+38557,"South Africa"
+38557,"Sri Lanka"
+38557,Tanzania
+38557,Thailand
+38557,"United States of America"
+38558,Argentina
+38558,Brazil
+38558,Egypt
+38558,Gibraltar
+38558,"Hong Kong Special Administrative Region"
+38558,India
+38558,Kenya
+38558,Madagascar
+38558,Malaysia
+38558,Maldives
+38558,Malta
+38558,Mauritius
+38558,Mexico
+38558,Netherlands
+38558,Oman
+38558,Philippines
+38558,Qatar
+38558,Seychelles
+38558,"South Africa"
+38558,"Sri Lanka"
+38558,Tanzania
+38558,Thailand
+38558,"United States of America"
+38559,Argentina
+38559,Brazil
+38559,Egypt
+38559,Gibraltar
+38559,"Hong Kong Special Administrative Region"
+38559,India
+38559,Kenya
+38559,Madagascar
+38559,Malaysia
+38559,Maldives
+38559,Malta
+38559,Mauritius
+38559,Mexico
+38559,Netherlands
+38559,Oman
+38559,Philippines
+38559,Qatar
+38559,Seychelles
+38559,"South Africa"
+38559,"Sri Lanka"
+38559,Tanzania
+38559,Thailand
+38559,"United States of America"
+38560,Argentina
+38560,Brazil
+38560,Egypt
+38560,Gibraltar
+38560,"Hong Kong Special Administrative Region"
+38560,India
+38560,Kenya
+38560,Madagascar
+38560,Malaysia
+38560,Maldives
+38560,Malta
+38560,Mauritius
+38560,Mexico
+38560,Netherlands
+38560,Oman
+38560,Philippines
+38560,Qatar
+38560,Seychelles
+38560,"South Africa"
+38560,"Sri Lanka"
+38560,Tanzania
+38560,Thailand
+38560,"United States of America"
+38561,Argentina
+38561,Brazil
+38561,Egypt
+38561,Gibraltar
+38561,"Hong Kong Special Administrative Region"
+38561,India
+38561,Kenya
+38561,Madagascar
+38561,Malaysia
+38561,Maldives
+38561,Malta
+38561,Mauritius
+38561,Mexico
+38561,Netherlands
+38561,Oman
+38561,Philippines
+38561,Qatar
+38561,Seychelles
+38561,"South Africa"
+38561,"Sri Lanka"
+38561,Tanzania
+38561,Thailand
+38561,"United States of America"
+38562,Argentina
+38562,Brazil
+38562,Egypt
+38562,Gibraltar
+38562,"Hong Kong Special Administrative Region"
+38562,India
+38562,Kenya
+38562,Madagascar
+38562,Malaysia
+38562,Maldives
+38562,Malta
+38562,Mauritius
+38562,Mexico
+38562,Netherlands
+38562,Oman
+38562,Philippines
+38562,Qatar
+38562,Seychelles
+38562,"South Africa"
+38562,"Sri Lanka"
+38562,Tanzania
+38562,Thailand
+38562,"United States of America"
+38563,Argentina
+38563,Brazil
+38563,Egypt
+38563,Gibraltar
+38563,"Hong Kong Special Administrative Region"
+38563,India
+38563,Kenya
+38563,Madagascar
+38563,Malaysia
+38563,Maldives
+38563,Malta
+38563,Mauritius
+38563,Mexico
+38563,Netherlands
+38563,Oman
+38563,Philippines
+38563,Qatar
+38563,Seychelles
+38563,"South Africa"
+38563,"Sri Lanka"
+38563,Tanzania
+38563,Thailand
+38563,"United States of America"
+38564,Argentina
+38564,Brazil
+38564,Egypt
+38564,Gibraltar
+38564,"Hong Kong Special Administrative Region"
+38564,India
+38564,Kenya
+38564,Madagascar
+38564,Malaysia
+38564,Maldives
+38564,Malta
+38564,Mauritius
+38564,Mexico
+38564,Netherlands
+38564,Oman
+38564,Philippines
+38564,Qatar
+38564,Seychelles
+38564,"South Africa"
+38564,"Sri Lanka"
+38564,Tanzania
+38564,Thailand
+38564,"United States of America"
+38565,"South Africa"
+38566,Djibouti
+38566,Egypt
+38566,Kenya
+38566,Malaysia
+38566,Maldives
+38566,Malta
+38566,Mauritius
+38566,Mozambique
+38566,Oman
+38566,Seychelles
+38566,Singapore
+38566,"South Africa"
+38566,"Sri Lanka"
+38566,Tanzania
+38567,"South Africa"
+38568,Djibouti
+38568,Egypt
+38568,Kenya
+38568,Malaysia
+38568,Maldives
+38568,Malta
+38568,Mauritius
+38568,Mozambique
+38568,Oman
+38568,Seychelles
+38568,Singapore
+38568,"South Africa"
+38568,"Sri Lanka"
+38568,Tanzania
+38569,"South Africa"
+38570,Djibouti
+38570,Egypt
+38570,Kenya
+38570,Malaysia
+38570,Maldives
+38570,Malta
+38570,Mauritius
+38570,Mozambique
+38570,Oman
+38570,Seychelles
+38570,Singapore
+38570,"South Africa"
+38570,"Sri Lanka"
+38570,Tanzania
+38571,Djibouti
+38571,Egypt
+38571,Kenya
+38571,Malaysia
+38571,Maldives
+38571,Malta
+38571,Mauritius
+38571,Mozambique
+38571,Oman
+38571,Seychelles
+38571,Singapore
+38571,"South Africa"
+38571,"Sri Lanka"
+38571,Tanzania
+38572,Djibouti
+38572,Egypt
+38572,Kenya
+38572,Malaysia
+38572,Maldives
+38572,Malta
+38572,Mauritius
+38572,Mozambique
+38572,Oman
+38572,Seychelles
+38572,Singapore
+38572,"South Africa"
+38572,"Sri Lanka"
+38572,Tanzania
+38573,Djibouti
+38573,Egypt
+38573,Kenya
+38573,Malaysia
+38573,Maldives
+38573,Malta
+38573,Mauritius
+38573,Mozambique
+38573,Oman
+38573,Seychelles
+38573,Singapore
+38573,"South Africa"
+38573,"Sri Lanka"
+38573,Tanzania
+38574,Djibouti
+38574,Egypt
+38574,Kenya
+38574,Malaysia
+38574,Maldives
+38574,Malta
+38574,Mauritius
+38574,Mozambique
+38574,Oman
+38574,Seychelles
+38574,Singapore
+38574,"South Africa"
+38574,"Sri Lanka"
+38574,Tanzania
+38575,Djibouti
+38575,Egypt
+38575,Kenya
+38575,Malaysia
+38575,Maldives
+38575,Malta
+38575,Mauritius
+38575,Mozambique
+38575,Oman
+38575,Seychelles
+38575,Singapore
+38575,"South Africa"
+38575,"Sri Lanka"
+38575,Tanzania
+38576,Djibouti
+38576,Egypt
+38576,Kenya
+38576,Malaysia
+38576,Maldives
+38576,Malta
+38576,Mauritius
+38576,Mozambique
+38576,Oman
+38576,Seychelles
+38576,Singapore
+38576,"South Africa"
+38576,"Sri Lanka"
+38576,Tanzania
+38577,"South Africa"
+38578,"South Africa"
+38579,Djibouti
+38579,Egypt
+38579,Kenya
+38579,Malaysia
+38579,Maldives
+38579,Malta
+38579,Mauritius
+38579,Mozambique
+38579,Oman
+38579,Seychelles
+38579,Singapore
+38579,"South Africa"
+38579,"Sri Lanka"
+38579,Tanzania
+38580,Djibouti
+38580,Egypt
+38580,Kenya
+38580,Malaysia
+38580,Maldives
+38580,Malta
+38580,Mauritius
+38580,Mozambique
+38580,Oman
+38580,Seychelles
+38580,Singapore
+38580,"South Africa"
+38580,"Sri Lanka"
+38580,Tanzania
+38581,Djibouti
+38581,Egypt
+38581,Kenya
+38581,Malaysia
+38581,Maldives
+38581,Malta
+38581,Mauritius
+38581,Mozambique
+38581,Oman
+38581,Seychelles
+38581,Singapore
+38581,"South Africa"
+38581,"Sri Lanka"
+38581,Tanzania
+38582,Djibouti
+38582,Egypt
+38582,Kenya
+38582,Malaysia
+38582,Maldives
+38582,Malta
+38582,Mauritius
+38582,Mozambique
+38582,Oman
+38582,Seychelles
+38582,Singapore
+38582,"South Africa"
+38582,"Sri Lanka"
+38582,Tanzania
+38583,Djibouti
+38583,Egypt
+38583,Kenya
+38583,Malaysia
+38583,Maldives
+38583,Malta
+38583,Mauritius
+38583,Mozambique
+38583,Oman
+38583,Seychelles
+38583,Singapore
+38583,"South Africa"
+38583,"Sri Lanka"
+38583,Tanzania
+38584,Kenya
+38584,Oman
+38584,"Sri Lanka"
+38585,Kenya
+38585,Oman
+38585,"Sri Lanka"
+38586,Kenya
+38586,Oman
+38586,"Sri Lanka"
+38587,Djibouti
+38587,India
+38587,Kenya
+38587,Madagascar
+38587,Maldives
+38587,Malta
+38587,Mauritius
+38587,Mozambique
+38587,Oman
+38587,"South Africa"
+38587,"Sri Lanka"
+38587,Tanzania
+38588,Djibouti
+38588,India
+38588,Kenya
+38588,Madagascar
+38588,Maldives
+38588,Malta
+38588,Mauritius
+38588,Mozambique
+38588,Oman
+38588,"South Africa"
+38588,"Sri Lanka"
+38588,Tanzania
+38589,Djibouti
+38589,India
+38589,Kenya
+38589,Madagascar
+38589,Maldives
+38589,Malta
+38589,Mauritius
+38589,Mozambique
+38589,Oman
+38589,"South Africa"
+38589,"Sri Lanka"
+38589,Tanzania
+38590,Djibouti
+38590,India
+38590,Kenya
+38590,Madagascar
+38590,Maldives
+38590,Malta
+38590,Mauritius
+38590,Mozambique
+38590,Oman
+38590,"South Africa"
+38590,"Sri Lanka"
+38590,Tanzania
+38591,Djibouti
+38591,India
+38591,Kenya
+38591,Madagascar
+38591,Maldives
+38591,Malta
+38591,Mauritius
+38591,Mozambique
+38591,Oman
+38591,"South Africa"
+38591,"Sri Lanka"
+38591,Tanzania
+38592,Djibouti
+38592,India
+38592,Kenya
+38592,Madagascar
+38592,Maldives
+38592,Malta
+38592,Mauritius
+38592,Mozambique
+38592,Oman
+38592,"South Africa"
+38592,"Sri Lanka"
+38592,Tanzania
+38593,Djibouti
+38593,India
+38593,Kenya
+38593,Madagascar
+38593,Maldives
+38593,Malta
+38593,Mauritius
+38593,Mozambique
+38593,Oman
+38593,"South Africa"
+38593,"Sri Lanka"
+38593,Tanzania
+38594,Djibouti
+38594,India
+38594,Kenya
+38594,Madagascar
+38594,Maldives
+38594,Malta
+38594,Mauritius
+38594,Mozambique
+38594,Oman
+38594,"South Africa"
+38594,"Sri Lanka"
+38594,Tanzania
+38595,Djibouti
+38595,India
+38595,Kenya
+38595,Madagascar
+38595,Maldives
+38595,Malta
+38595,Mauritius
+38595,Mozambique
+38595,Oman
+38595,"South Africa"
+38595,"Sri Lanka"
+38595,Tanzania
+38596,Djibouti
+38596,India
+38596,Kenya
+38596,Madagascar
+38596,Maldives
+38596,Malta
+38596,Mauritius
+38596,Mozambique
+38596,Oman
+38596,"South Africa"
+38596,"Sri Lanka"
+38596,Tanzania
+38597,Malta
+38597,Mauritius
+38597,Oman
+38597,"South Africa"
+38597,"Sri Lanka"
+38598,"Non Specific Country"
+38599,Malta
+38599,Mauritius
+38599,Oman
+38599,"South Africa"
+38599,"Sri Lanka"
+38600,Malta
+38600,Mauritius
+38600,Oman
+38600,"South Africa"
+38600,"Sri Lanka"
+38601,Malta
+38601,Mauritius
+38601,Oman
+38601,"South Africa"
+38601,"Sri Lanka"
+38602,Malta
+38602,Mauritius
+38602,Oman
+38602,"South Africa"
+38602,"Sri Lanka"
+38603,Jordan
+38604,Jordan
+38605,Jordan
+38606,Jordan
+38607,Jordan
+38608,Jordan
+38609,Jordan
+38610,Jordan
+38611,Jordan
+38612,Jordan
+38613,Jordan
+38614,Djibouti
+38614,Malta
+38614,Mauritius
+38614,Oman
+38614,"South Africa"
+38614,"Sri Lanka"
+38615,Djibouti
+38615,Malta
+38615,Mauritius
+38615,Oman
+38615,"South Africa"
+38615,"Sri Lanka"
+38616,Djibouti
+38616,Malta
+38616,Mauritius
+38616,Oman
+38616,"South Africa"
+38616,"Sri Lanka"
+38617,Djibouti
+38617,Malta
+38617,Mauritius
+38617,Oman
+38617,"South Africa"
+38617,"Sri Lanka"
+38618,Djibouti
+38618,Malta
+38618,Mauritius
+38618,Oman
+38618,"South Africa"
+38618,"Sri Lanka"
+38619,Djibouti
+38619,Malta
+38619,Mauritius
+38619,Oman
+38619,"South Africa"
+38619,"Sri Lanka"
+38620,Djibouti
+38620,Kenya
+38620,Malta
+38620,Mauritius
+38620,Oman
+38620,"South Africa"
+38620,"Sri Lanka"
+38621,Djibouti
+38621,Kenya
+38621,Malta
+38621,Mauritius
+38621,Oman
+38621,"South Africa"
+38621,"Sri Lanka"
+38622,Djibouti
+38622,Kenya
+38622,Malta
+38622,Mauritius
+38622,Oman
+38622,"South Africa"
+38622,"Sri Lanka"
+38623,Djibouti
+38623,Kenya
+38623,Malta
+38623,Mauritius
+38623,Oman
+38623,"South Africa"
+38623,"Sri Lanka"
+38624,Djibouti
+38624,Kenya
+38624,Malta
+38624,Mauritius
+38624,Oman
+38624,"South Africa"
+38624,"Sri Lanka"
+38625,Djibouti
+38625,Kenya
+38625,Malta
+38625,Mauritius
+38625,Oman
+38625,"South Africa"
+38625,"Sri Lanka"
+38626,Djibouti
+38626,Kenya
+38626,Malta
+38626,Mauritius
+38626,Oman
+38626,"South Africa"
+38626,"Sri Lanka"
+38627,Australia
+38627,Djibouti
+38627,Egypt
+38627,Malaysia
+38627,Malta
+38627,Oman
+38627,Singapore
+38627,"South Africa"
+38627,"Sri Lanka"
+38627,Tanzania
+38627,Thailand
+38628,Australia
+38628,Djibouti
+38628,Egypt
+38628,Malaysia
+38628,Malta
+38628,Oman
+38628,Singapore
+38628,"South Africa"
+38628,"Sri Lanka"
+38628,Tanzania
+38628,Thailand
+38629,Australia
+38629,Djibouti
+38629,Egypt
+38629,Malaysia
+38629,Malta
+38629,Oman
+38629,Singapore
+38629,"South Africa"
+38629,"Sri Lanka"
+38629,Tanzania
+38629,Thailand
+38630,Australia
+38630,Djibouti
+38630,Egypt
+38630,Malaysia
+38630,Malta
+38630,Oman
+38630,Singapore
+38630,"South Africa"
+38630,"Sri Lanka"
+38630,Tanzania
+38630,Thailand
+38631,Australia
+38631,Djibouti
+38631,Egypt
+38631,Malaysia
+38631,Malta
+38631,Oman
+38631,Singapore
+38631,"South Africa"
+38631,"Sri Lanka"
+38631,Tanzania
+38631,Thailand
+38632,Australia
+38632,Djibouti
+38632,Egypt
+38632,Malaysia
+38632,Malta
+38632,Oman
+38632,Singapore
+38632,"South Africa"
+38632,"Sri Lanka"
+38632,Tanzania
+38632,Thailand
+38633,Australia
+38633,Djibouti
+38633,Egypt
+38633,Malaysia
+38633,Malta
+38633,Oman
+38633,Singapore
+38633,"South Africa"
+38633,"Sri Lanka"
+38633,Tanzania
+38633,Thailand
+38634,Australia
+38634,Djibouti
+38634,Egypt
+38634,Malaysia
+38634,Malta
+38634,Oman
+38634,Singapore
+38634,"South Africa"
+38634,"Sri Lanka"
+38634,Tanzania
+38634,Thailand
+38635,Australia
+38635,Djibouti
+38635,Egypt
+38635,Malaysia
+38635,Malta
+38635,Oman
+38635,Singapore
+38635,"South Africa"
+38635,"Sri Lanka"
+38635,Tanzania
+38635,Thailand
+38636,Australia
+38636,Djibouti
+38636,Egypt
+38636,Malaysia
+38636,Malta
+38636,Oman
+38636,Singapore
+38636,"South Africa"
+38636,"Sri Lanka"
+38636,Tanzania
+38636,Thailand
+38637,Australia
+38637,Djibouti
+38637,Egypt
+38637,Malaysia
+38637,Malta
+38637,Oman
+38637,Singapore
+38637,"South Africa"
+38637,"Sri Lanka"
+38637,Tanzania
+38637,Thailand
+38638,Djibouti
+38638,Egypt
+38638,Jordan
+38638,Malta
+38638,Mauritius
+38638,Oman
+38638,"South Africa"
+38638,"Sri Lanka"
+38639,Djibouti
+38639,Egypt
+38639,Jordan
+38639,Malta
+38639,Mauritius
+38639,Oman
+38639,"South Africa"
+38639,"Sri Lanka"
+38640,Djibouti
+38640,Egypt
+38640,Jordan
+38640,Malta
+38640,Mauritius
+38640,Oman
+38640,"South Africa"
+38640,"Sri Lanka"
+38641,Djibouti
+38641,Egypt
+38641,Jordan
+38641,Malta
+38641,Mauritius
+38641,Oman
+38641,"South Africa"
+38641,"Sri Lanka"
+38642,Djibouti
+38642,Egypt
+38642,Jordan
+38642,Malta
+38642,Mauritius
+38642,Oman
+38642,"South Africa"
+38642,"Sri Lanka"
+38643,Djibouti
+38643,Egypt
+38643,Jordan
+38643,Malta
+38643,Mauritius
+38643,Oman
+38643,"South Africa"
+38643,"Sri Lanka"
+38644,Djibouti
+38644,Egypt
+38644,Jordan
+38644,Malta
+38644,Mauritius
+38644,Oman
+38644,"South Africa"
+38644,"Sri Lanka"
+38645,Djibouti
+38645,Egypt
+38645,Jordan
+38645,Malta
+38645,Mauritius
+38645,Oman
+38645,"South Africa"
+38645,"Sri Lanka"
+38646,Djibouti
+38646,Egypt
+38646,Kenya
+38646,Maldives
+38646,Mauritius
+38646,Mozambique
+38646,Oman
+38646,Seychelles
+38646,"South Africa"
+38646,"Sri Lanka"
+38646,Tanzania
+38647,Djibouti
+38647,Egypt
+38647,Kenya
+38647,Maldives
+38647,Mauritius
+38647,Mozambique
+38647,Oman
+38647,Seychelles
+38647,"South Africa"
+38647,"Sri Lanka"
+38647,Tanzania
+38648,Djibouti
+38648,Egypt
+38648,Kenya
+38648,Maldives
+38648,Mauritius
+38648,Mozambique
+38648,Oman
+38648,Seychelles
+38648,"South Africa"
+38648,"Sri Lanka"
+38648,Tanzania
+38649,Djibouti
+38649,Egypt
+38649,Kenya
+38649,Maldives
+38649,Mauritius
+38649,Mozambique
+38649,Oman
+38649,Seychelles
+38649,"South Africa"
+38649,"Sri Lanka"
+38649,Tanzania
+38650,Djibouti
+38650,Egypt
+38650,Kenya
+38650,Maldives
+38650,Mauritius
+38650,Mozambique
+38650,Oman
+38650,Seychelles
+38650,"South Africa"
+38650,"Sri Lanka"
+38650,Tanzania
+38651,Djibouti
+38651,Egypt
+38651,Kenya
+38651,Maldives
+38651,Mauritius
+38651,Mozambique
+38651,Oman
+38651,Seychelles
+38651,"South Africa"
+38651,"Sri Lanka"
+38651,Tanzania
+38652,Djibouti
+38652,Egypt
+38652,Kenya
+38652,Maldives
+38652,Mauritius
+38652,Mozambique
+38652,Oman
+38652,Seychelles
+38652,"South Africa"
+38652,"Sri Lanka"
+38652,Tanzania
+38653,Djibouti
+38653,Egypt
+38653,Kenya
+38653,Maldives
+38653,Mauritius
+38653,Mozambique
+38653,Oman
+38653,Seychelles
+38653,"South Africa"
+38653,"Sri Lanka"
+38653,Tanzania
+38654,Djibouti
+38654,Egypt
+38654,Kenya
+38654,Maldives
+38654,Mauritius
+38654,Mozambique
+38654,Oman
+38654,Seychelles
+38654,"South Africa"
+38654,"Sri Lanka"
+38654,Tanzania
+38655,Djibouti
+38655,Egypt
+38655,Kenya
+38655,Maldives
+38655,Mauritius
+38655,Mozambique
+38655,Oman
+38655,Seychelles
+38655,"South Africa"
+38655,"Sri Lanka"
+38655,Tanzania
+38656,Djibouti
+38656,Egypt
+38656,Kenya
+38656,Maldives
+38656,Mauritius
+38656,Mozambique
+38656,Oman
+38656,Seychelles
+38656,"South Africa"
+38656,"Sri Lanka"
+38656,Tanzania
+38657,Djibouti
+38657,Egypt
+38657,Kenya
+38657,Maldives
+38657,Mauritius
+38657,Mozambique
+38657,Oman
+38657,Seychelles
+38657,"South Africa"
+38657,"Sri Lanka"
+38657,Tanzania
+38658,Iraq
+38659,Jordan
+38659,"United Kingdom"
+38660,Jordan
+38661,Jordan
+38662,Jordan
+38663,Jordan
+38664,Jordan
+38666,Italy
+38666,Malaysia
+38667,Italy
+38667,Malaysia
+38668,Italy
+38668,Malaysia
+38669,Italy
+38669,Malaysia
+38670,Italy
+38670,Malaysia
+38671,Italy
+38671,Malaysia
+38672,Italy
+38672,Malaysia
+38673,Italy
+38673,Malaysia
+38674,Italy
+38674,Malaysia
+38675,Italy
+38675,Malaysia
+38676,Angola
+38676,Austria
+38676,Botswana
+38676,Bulgaria
+38676,Cameroon
+38676,Chad
+38676,Denmark
+38676,"Equatorial Guinea"
+38676,France
+38676,Gabon
+38676,Germany
+38676,Ghana
+38676,Greece
+38676,"Guinea, Republic of"
+38676,Hungary
+38676,Israel
+38676,Italy
+38676,Kenya
+38676,Mauritania
+38676,Morocco
+38676,Mozambique
+38676,Namibia
+38676,Netherlands
+38676,Nigeria
+38676,Norway
+38676,Poland
+38676,Portugal
+38676,"Republic of Congo"
+38676,Romania
+38676,Senegal
+38676,Slovenia
+38676,"South Africa"
+38676,Spain
+38676,Switzerland
+38676,Tanzania
+38676,Turkey
+38676,Uganda
+38676,Ukraine
+38676,"United States of America"
+38677,Angola
+38677,Austria
+38677,Botswana
+38677,Bulgaria
+38677,Cameroon
+38677,Chad
+38677,Denmark
+38677,"Equatorial Guinea"
+38677,France
+38677,Gabon
+38677,Germany
+38677,Ghana
+38677,Greece
+38677,"Guinea, Republic of"
+38677,Hungary
+38677,Israel
+38677,Italy
+38677,Kenya
+38677,Mauritania
+38677,Morocco
+38677,Mozambique
+38677,Namibia
+38677,Netherlands
+38677,Nigeria
+38677,Norway
+38677,Poland
+38677,Portugal
+38677,"Republic of Congo"
+38677,Romania
+38677,Senegal
+38677,Slovenia
+38677,"South Africa"
+38677,Spain
+38677,Switzerland
+38677,Tanzania
+38677,Turkey
+38677,Uganda
+38677,Ukraine
+38677,"United States of America"
+38678,Angola
+38678,Austria
+38678,Botswana
+38678,Bulgaria
+38678,Cameroon
+38678,Chad
+38678,Denmark
+38678,"Equatorial Guinea"
+38678,France
+38678,Gabon
+38678,Germany
+38678,Ghana
+38678,Greece
+38678,"Guinea, Republic of"
+38678,Hungary
+38678,Israel
+38678,Italy
+38678,Kenya
+38678,Mauritania
+38678,Morocco
+38678,Mozambique
+38678,Namibia
+38678,Netherlands
+38678,Nigeria
+38678,Norway
+38678,Poland
+38678,Portugal
+38678,"Republic of Congo"
+38678,Romania
+38678,Senegal
+38678,Slovenia
+38678,"South Africa"
+38678,Spain
+38678,Switzerland
+38678,Tanzania
+38678,Turkey
+38678,Uganda
+38678,Ukraine
+38678,"United States of America"
+38679,Angola
+38679,Austria
+38679,Botswana
+38679,Bulgaria
+38679,Cameroon
+38679,Chad
+38679,Denmark
+38679,"Equatorial Guinea"
+38679,France
+38679,Gabon
+38679,Germany
+38679,Ghana
+38679,Greece
+38679,"Guinea, Republic of"
+38679,Hungary
+38679,Israel
+38679,Italy
+38679,Kenya
+38679,Mauritania
+38679,Morocco
+38679,Mozambique
+38679,Namibia
+38679,Netherlands
+38679,Nigeria
+38679,Norway
+38679,Poland
+38679,Portugal
+38679,"Republic of Congo"
+38679,Romania
+38679,Senegal
+38679,Slovenia
+38679,"South Africa"
+38679,Spain
+38679,Switzerland
+38679,Tanzania
+38679,Turkey
+38679,Uganda
+38679,Ukraine
+38679,"United States of America"
+38680,Angola
+38680,Austria
+38680,Botswana
+38680,Bulgaria
+38680,Cameroon
+38680,Chad
+38680,Denmark
+38680,"Equatorial Guinea"
+38680,France
+38680,Gabon
+38680,Germany
+38680,Ghana
+38680,Greece
+38680,"Guinea, Republic of"
+38680,Hungary
+38680,Israel
+38680,Italy
+38680,Kenya
+38680,Mauritania
+38680,Morocco
+38680,Mozambique
+38680,Namibia
+38680,Netherlands
+38680,Nigeria
+38680,Norway
+38680,Poland
+38680,Portugal
+38680,"Republic of Congo"
+38680,Romania
+38680,Senegal
+38680,Slovenia
+38680,"South Africa"
+38680,Spain
+38680,Switzerland
+38680,Tanzania
+38680,Turkey
+38680,Uganda
+38680,Ukraine
+38680,"United States of America"
+38681,"South Africa"
+38682,"South Africa"
+38683,"South Africa"
+38684,"South Africa"
+38685,"South Africa"
+38686,Jordan
+38687,Jordan
+38688,Jordan
+38689,Jordan
+38690,Jordan
+38691,Jordan
+38692,Jordan
+38693,Malaysia
+38693,France
+38694,Malaysia
+38694,France
+38695,Malaysia
+38695,France
+38696,"South Africa"
+38697,"South Africa"
+38698,"Non Specific Country"
+38699,"Non Specific Country"
+38700,"Non Specific Country"
+38701,Australia
+38701,Belgium
+38701,Canada
+38701,Denmark
+38701,Egypt
+38701,France
+38701,Germany
+38701,Ireland
+38701,Italy
+38701,Netherlands
+38701,Norway
+38701,Singapore
+38701,Spain
+38701,Sweden
+38701,Switzerland
+38701,"United States of America"
+38702,Libya
+38703,"South Africa"
+38704,"South Africa"

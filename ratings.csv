@@ -53,12 +53,14 @@ rating,military,short_description,full_description
 1C353,0,"Special materials and related equipment","Special materials and related equipment"
 1C354,0,"Special materials and related equipment","Special materials and related equipment"
 1C450,0,"Special materials and related equipment","Special materials and related equipment"
+1D001,0,"Special materials and related equipment","Special materials and related equipment"
 1D002,0,"Special materials and related equipment","Special materials and related equipment"
 1D003,0,"Special materials and related equipment","Special materials and related equipment"
 1D101,0,"Special materials and related equipment","Special materials and related equipment"
 1E001,0,"Special materials and related equipment","Special materials and related equipment"
 1E002,0,"Special materials and related equipment","Special materials and related equipment"
 1E101,0,"Special materials and related equipment","Special materials and related equipment"
+1E103,0,"Special materials and related equipment","Special materials and related equipment"
 1E201,0,"Special materials and related equipment","Special materials and related equipment"
 1E202,0,"Special materials and related equipment","Special materials and related equipment"
 2A001,0,"Materials processing","Materials processing"
@@ -84,6 +86,7 @@ rating,military,short_description,full_description
 2E003,0,"Materials processing","Materials processing"
 2E101,0,"Materials processing","Materials processing"
 2E201,0,"Materials processing","Materials processing"
+2E301,0,"Materials processing","Materials processing"
 3A001,0,Electronics,Electronics
 3A002,0,Electronics,Electronics
 3A101,0,Electronics,Electronics
@@ -104,6 +107,7 @@ rating,military,short_description,full_description
 3D101,0,Electronics,Electronics
 3E001,0,Electronics,Electronics
 3E002,0,Electronics,Electronics
+3E003,0,Electronics,Electronics
 3E101,0,Electronics,Electronics
 4A001,0,Computers,Computers
 4A003,0,Computers,Computers
@@ -158,10 +162,13 @@ rating,military,short_description,full_description
 9A001,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A003,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A004,0,"Aerospace and propulsion","Aerospace and propulsion"
+9A005,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A012,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A101,0,"Aerospace and propulsion","Aerospace and propulsion"
+9A105,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A106,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A115,0,"Aerospace and propulsion","Aerospace and propulsion"
+9A116,0,"Aerospace and propulsion","Aerospace and propulsion"
 9B001,0,"Aerospace and propulsion","Aerospace and propulsion"
 9B005,0,"Aerospace and propulsion","Aerospace and propulsion"
 9B106,0,"Aerospace and propulsion","Aerospace and propulsion"
@@ -211,3 +218,4 @@ PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemical
 PL9008,0,"Vessels and related software and technology","Vessels and related software and technology"
 PL9009,0,"Aircraft and related technology","Aircraft and related technology"
 UZB,0,,
+ZIM,0,,

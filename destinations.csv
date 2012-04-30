@@ -19729,24 +19729,1873 @@ licence_group,destination
 29713,Singapore
 29713,"South Africa"
 29713,Thailand
-29747,India
-29754,India
-29754,"Sri Lanka"
-29765,China
-29766,China
-29771,China
-29788,"Sri Lanka"
-29813,Georgia
-29815,Georgia
-29824,Nepal
-29877,Taiwan
-29985,Israel
-29985,"United States of America"
-30011,Russia
-30012,"Equatorial Guinea"
-30045,Israel
-30047,Israel
-30144,Venezuela
-30205,Libya
-30254,Bahrain
-30269,Bahrain
+29719,Austria
+29719,Brazil
+29719,Bulgaria
+29719,Germany
+29719,Greece
+29719,India
+29719,Lithuania
+29719,Morocco
+29719,Pakistan
+29719,Romania
+29719,"Saudi Arabia"
+29719,Singapore
+29719,Spain
+29719,Turkey
+29719,"United Arab Emirates"
+29719,"United States of America"
+29723,Australia
+29723,Belgium
+29723,Egypt
+29723,Finland
+29723,France
+29723,Germany
+29723,Greece
+29723,Indonesia
+29723,Italy
+29723,"New Zealand"
+29723,Norway
+29723,Oman
+29723,Portugal
+29723,Spain
+29723,Sweden
+29733,Kuwait
+29739,"Korea, South"
+29739,Malaysia
+29739,"Saudi Arabia"
+29739,Singapore
+29739,"South Africa"
+29739,Thailand
+29757,Portugal
+29760,Austria
+29760,Brazil
+29760,Bulgaria
+29760,Germany
+29760,Greece
+29760,India
+29760,Lithuania
+29760,Morocco
+29760,Pakistan
+29760,Romania
+29760,"Saudi Arabia"
+29760,Singapore
+29760,Spain
+29760,Turkey
+29760,"United Arab Emirates"
+29760,"United States of America"
+29763,India
+29763,Iraq
+29763,Morocco
+29763,Romania
+29765,Bulgaria
+29765,Ireland
+29765,Kuwait
+29804,"Korea, South"
+29804,Malaysia
+29804,"Saudi Arabia"
+29804,Singapore
+29804,"South Africa"
+29804,Thailand
+29811,Brazil
+29811,Turkey
+29811,Netherlands
+29811,"United States of America"
+29811,Finland
+29811,Lithuania
+29811,"Saudi Arabia"
+29811,France
+29811,Morocco
+29811,Sweden
+29811,"New Zealand"
+29811,Norway
+29811,Indonesia
+29811,Bulgaria
+29811,Pakistan
+29811,Romania
+29811,Australia
+29811,Portugal
+29811,Oman
+29811,Singapore
+29811,"United Arab Emirates"
+29811,India
+29811,Austria
+29811,Germany
+29811,Greece
+29811,Belgium
+29811,Spain
+29814,Qatar
+29814,Peru
+29814,"South Africa"
+29814,Egypt
+29814,Oman
+29814,Greece
+29814,India
+29814,"Saudi Arabia"
+29814,Ireland
+29814,Kuwait
+29814,"United Arab Emirates"
+29814,Taiwan
+29814,Bulgaria
+29820,India
+29820,Iraq
+29820,Israel
+29820,Morocco
+29820,Romania
+29821,Turkey
+29821,Netherlands
+29821,Italy
+29821,Oman
+29821,Finland
+29821,Israel
+29821,France
+29821,Sweden
+29821,"New Zealand"
+29821,Norway
+29821,Pakistan
+29821,"Saudi Arabia"
+29821,Australia
+29821,Portugal
+29821,Singapore
+29821,"United Arab Emirates"
+29821,"United States of America"
+29821,"Korea, South"
+29821,Austria
+29821,Chile
+29821,Greece
+29821,Belgium
+29821,Spain
+29824,Egypt
+29824,Mexico
+29824,Thailand
+29832,"Korea, South"
+29832,Malaysia
+29832,"Saudi Arabia"
+29832,Singapore
+29832,"South Africa"
+29832,Thailand
+29849,Turkey
+29849,"United Arab Emirates"
+29849,Qatar
+29849,Peru
+29849,"South Africa"
+29849,Egypt
+29849,Oman
+29849,Greece
+29849,India
+29849,"Saudi Arabia"
+29849,Luxembourg
+29849,Malaysia
+29849,Germany
+29849,Ireland
+29849,Kuwait
+29849,Belgium
+29849,Taiwan
+29849,Spain
+29849,Bulgaria
+29858,Pakistan
+29858,"United States of America"
+29868,Bahrain
+29868,"Saudi Arabia"
+29868,"South Africa"
+29868,Singapore
+29868,"United States of America"
+29868,"Korea, South"
+29868,France
+29868,Malaysia
+29868,Thailand
+29883,Austria
+29883,Brazil
+29883,Bulgaria
+29883,Germany
+29883,Greece
+29883,India
+29883,Lithuania
+29883,Morocco
+29883,Pakistan
+29883,Romania
+29883,"Saudi Arabia"
+29883,Singapore
+29883,Spain
+29883,Turkey
+29883,"United Arab Emirates"
+29883,"United States of America"
+29891,Thailand
+29891,"United States of America"
+29894,India
+29894,Iraq
+29894,Israel
+29894,Morocco
+29894,Romania
+29907,"Korea, South"
+29907,Malaysia
+29907,"Saudi Arabia"
+29907,Singapore
+29907,"South Africa"
+29907,Thailand
+29922,Austria
+29922,Brazil
+29922,Bulgaria
+29922,Germany
+29922,Greece
+29922,India
+29922,Lithuania
+29922,Morocco
+29922,Pakistan
+29922,Romania
+29922,"Saudi Arabia"
+29922,Singapore
+29922,Spain
+29922,Turkey
+29922,"United Arab Emirates"
+29922,"United States of America"
+29924,Australia
+29924,Denmark
+29924,Israel
+29924,Italy
+29924,Netherlands
+29924,Norway
+29924,Singapore
+29924,Turkey
+29924,"United States of America"
+29928,Belgium
+29928,Bulgaria
+29928,Germany
+29928,India
+29928,Luxembourg
+29928,Malaysia
+29928,Oman
+29928,Spain
+29928,Turkey
+29937,"United States of America"
+29939,India
+29939,Iraq
+29939,Israel
+29939,Morocco
+29939,Romania
+29939,"United Arab Emirates"
+29953,"Korea, South"
+29953,Malaysia
+29953,"Saudi Arabia"
+29953,Singapore
+29953,"South Africa"
+29953,Thailand
+29977,Brazil
+29977,Turkey
+29977,Netherlands
+29977,"United States of America"
+29977,Finland
+29977,Lithuania
+29977,"Saudi Arabia"
+29977,France
+29977,Morocco
+29977,Sweden
+29977,"New Zealand"
+29977,Norway
+29977,Indonesia
+29977,Bulgaria
+29977,Pakistan
+29977,Romania
+29977,Australia
+29977,Portugal
+29977,Oman
+29977,Singapore
+29977,"United Arab Emirates"
+29977,India
+29977,Austria
+29977,Germany
+29977,Greece
+29977,Belgium
+29977,Spain
+29983,Chile
+29996,Austria
+29996,Belgium
+29996,France
+29996,Italy
+29996,"Saudi Arabia"
+29996,Singapore
+29996,Spain
+29996,Turkey
+29996,"United Arab Emirates"
+29996,"United States of America"
+30004,"Saudi Arabia"
+30012,"Korea, South"
+30018,Indonesia
+30020,China
+30027,Brazil
+30027,Turkey
+30027,Netherlands
+30027,"United States of America"
+30027,Finland
+30027,Lithuania
+30027,"Saudi Arabia"
+30027,France
+30027,Morocco
+30027,Sweden
+30027,"New Zealand"
+30027,Norway
+30027,Indonesia
+30027,Bulgaria
+30027,Pakistan
+30027,Romania
+30027,Australia
+30027,Portugal
+30027,Oman
+30027,Singapore
+30027,"United Arab Emirates"
+30027,India
+30027,Austria
+30027,Germany
+30027,Greece
+30027,Belgium
+30027,Spain
+30040,Indonesia
+30040,Thailand
+30040,"United States of America"
+30043,India
+30043,Iraq
+30043,Israel
+30043,Morocco
+30043,Romania
+30043,Tunisia
+30043,"United Arab Emirates"
+30049,Turkey
+30049,Netherlands
+30049,Italy
+30049,Oman
+30049,Finland
+30049,Israel
+30049,France
+30049,Sweden
+30049,"New Zealand"
+30049,Norway
+30049,"Saudi Arabia"
+30049,Australia
+30049,Portugal
+30049,Singapore
+30049,"United Arab Emirates"
+30049,"United States of America"
+30049,"Korea, South"
+30049,Austria
+30049,Chile
+30049,Greece
+30049,Belgium
+30049,Spain
+30057,"United States of America"
+30078,Belgium
+30078,Bulgaria
+30078,Germany
+30078,India
+30078,Luxembourg
+30078,Malaysia
+30078,Oman
+30078,Russia
+30078,Spain
+30078,Turkey
+30092,Turkey
+30092,Italy
+30092,Luxembourg
+30092,France
+30092,Norway
+30092,"Saudi Arabia"
+30092,Australia
+30092,Singapore
+30092,"United States of America"
+30092,Chile
+30092,Belgium
+30092,Spain
+30092,Netherlands
+30092,Oman
+30092,Finland
+30092,Israel
+30092,Sweden
+30092,"New Zealand"
+30092,Pakistan
+30092,Portugal
+30092,"South Africa"
+30092,"United Arab Emirates"
+30092,"Korea, South"
+30092,Austria
+30092,Greece
+30102,Algeria
+30102,"Korea, South"
+30114,"United States of America"
+30121,Austria
+30121,Belgium
+30121,France
+30121,Italy
+30121,"Korea, South"
+30121,"Saudi Arabia"
+30121,Singapore
+30121,Spain
+30121,Switzerland
+30121,Turkey
+30121,"United Arab Emirates"
+30121,"United States of America"
+30123,Egypt
+30123,France
+30123,Germany
+30123,Italy
+30123,Mexico
+30123,Thailand
+30123,Turkey
+30126,"Korea, South"
+30126,Malaysia
+30126,Singapore
+30126,"South Africa"
+30126,Thailand
+30133,Indonesia
+30144,Austria
+30144,Belgium
+30144,Canada
+30144,France
+30144,Italy
+30144,"Korea, South"
+30144,"Saudi Arabia"
+30144,Singapore
+30144,Spain
+30144,Switzerland
+30144,Turkey
+30144,"United Arab Emirates"
+30144,"United States of America"
+30178,Finland
+30178,Italy
+30178,Oman
+30178,Indonesia
+30178,France
+30178,Sweden
+30178,"New Zealand"
+30178,Norway
+30178,Australia
+30178,Portugal
+30178,Egypt
+30178,"Korea, South"
+30178,Germany
+30178,Greece
+30178,Belgium
+30178,Spain
+30181,"Korea, South"
+30181,Malaysia
+30181,Singapore
+30181,"South Africa"
+30181,Thailand
+30199,Brazil
+30199,Turkey
+30199,India
+30199,Lithuania
+30199,"Saudi Arabia"
+30199,Morocco
+30199,Bulgaria
+30199,Pakistan
+30199,Romania
+30199,Singapore
+30199,"United Arab Emirates"
+30199,"United States of America"
+30199,Austria
+30199,Germany
+30199,Greece
+30199,Spain
+30204,Belgium
+30204,Bulgaria
+30204,Germany
+30204,India
+30204,Luxembourg
+30204,Malaysia
+30204,Oman
+30204,Russia
+30204,Spain
+30204,Turkey
+30204,"United Arab Emirates"
+30205,Australia
+30205,Belgium
+30205,Finland
+30205,France
+30205,Germany
+30205,Greece
+30205,Indonesia
+30205,Italy
+30205,"New Zealand"
+30205,Norway
+30205,Oman
+30205,Portugal
+30205,Spain
+30205,Sweden
+30216,India
+30216,Israel
+30216,Japan
+30216,Romania
+30216,Taiwan
+30216,Tunisia
+30216,"United Arab Emirates"
+30222,Austria
+30222,Belgium
+30222,Canada
+30222,France
+30222,Italy
+30222,"Korea, South"
+30222,"Saudi Arabia"
+30222,Singapore
+30222,Spain
+30222,Switzerland
+30222,Turkey
+30222,"United Arab Emirates"
+30222,"United States of America"
+30229,"Korea, South"
+30229,Malaysia
+30229,"Saudi Arabia"
+30229,Singapore
+30229,"South Africa"
+30229,Thailand
+30254,Australia
+30254,Belgium
+30254,"United States of America"
+30282,Algeria
+30282,Austria
+30282,Brazil
+30282,Bulgaria
+30282,Germany
+30282,Greece
+30282,Lithuania
+30282,Mexico
+30282,Morocco
+30282,Romania
+30282,"Saudi Arabia"
+30282,Singapore
+30282,Spain
+30282,Turkey
+30282,Turkmenistan
+30282,"United Arab Emirates"
+30282,"United States of America"
+30286,Belgium
+30286,Bulgaria
+30286,Germany
+30286,India
+30286,Luxembourg
+30286,Malaysia
+30286,Oman
+30286,Russia
+30286,"Saudi Arabia"
+30286,Singapore
+30286,Spain
+30286,Turkey
+30286,"United Arab Emirates"
+30314,"Korea, South"
+30314,Malaysia
+30314,"Saudi Arabia"
+30314,Singapore
+30314,"South Africa"
+30314,Thailand
+30334,Algeria
+30334,Austria
+30334,Brazil
+30334,Bulgaria
+30334,Germany
+30334,Greece
+30334,Lithuania
+30334,Mexico
+30334,Morocco
+30334,Romania
+30334,"Saudi Arabia"
+30334,Singapore
+30334,Spain
+30334,Turkey
+30334,Turkmenistan
+30334,"United Arab Emirates"
+30334,"United States of America"
+30345,India
+30345,Israel
+30345,Japan
+30345,Romania
+30345,Taiwan
+30345,Tunisia
+30345,"United Arab Emirates"
+30352,Australia
+30352,Belgium
+30352,Finland
+30352,France
+30352,Germany
+30352,Greece
+30352,Indonesia
+30352,Italy
+30352,"New Zealand"
+30352,Norway
+30352,Oman
+30352,Portugal
+30352,Spain
+30352,Sweden
+30382,India
+30382,Israel
+30382,Japan
+30382,Romania
+30382,Taiwan
+30382,Tunisia
+30382,"United Arab Emirates"
+30392,"Saudi Arabia"
+30448,Brazil
+30448,Turkey
+30448,Turkmenistan
+30448,India
+30448,Lithuania
+30448,"Saudi Arabia"
+30448,Morocco
+30448,Bulgaria
+30448,Pakistan
+30448,Romania
+30448,Algeria
+30448,Mexico
+30448,"United Arab Emirates"
+30448,Singapore
+30448,"United States of America"
+30448,Austria
+30448,Germany
+30448,Greece
+30448,Spain
+30451,Belgium
+30451,Brazil
+30451,Bulgaria
+30451,Germany
+30451,India
+30451,Luxembourg
+30451,Malaysia
+30451,Oman
+30451,Russia
+30451,"Saudi Arabia"
+30451,Singapore
+30451,Spain
+30451,Turkey
+30451,"United Arab Emirates"
+30465,Australia
+30465,Belgium
+30465,Finland
+30465,France
+30465,Germany
+30465,Greece
+30465,Indonesia
+30465,Italy
+30465,"New Zealand"
+30465,Norway
+30465,Oman
+30465,Portugal
+30465,Spain
+30465,Sweden
+30471,"Saudi Arabia"
+30471,"South Africa"
+30471,Singapore
+30471,"Korea, South"
+30471,Malaysia
+30471,Thailand
+30474,Egypt
+30501,Algeria
+30501,Austria
+30501,Brazil
+30501,Bulgaria
+30501,Germany
+30501,Greece
+30501,Lithuania
+30501,Mexico
+30501,Morocco
+30501,Pakistan
+30501,Romania
+30501,"Saudi Arabia"
+30501,Singapore
+30501,Spain
+30501,Turkey
+30501,Turkmenistan
+30501,"United Arab Emirates"
+30501,"United States of America"
+30506,Australia
+30506,Belgium
+30506,India
+30506,"United States of America"
+30514,Austria
+30514,Canada
+30514,Iraq
+30514,Italy
+30514,"Korea, South"
+30514,"Saudi Arabia"
+30514,Singapore
+30514,Spain
+30514,Switzerland
+30514,"United Arab Emirates"
+30517,Australia
+30517,Belgium
+30517,Finland
+30517,France
+30517,Germany
+30517,Greece
+30517,Indonesia
+30517,Italy
+30517,"New Zealand"
+30517,Norway
+30517,Oman
+30517,Portugal
+30517,Spain
+30517,Sweden
+30521,India
+30536,Australia
+30536,Denmark
+30536,Israel
+30536,Italy
+30536,Netherlands
+30536,Norway
+30536,"Saudi Arabia"
+30536,Singapore
+30536,Turkey
+30536,"United States of America"
+30538,Brazil
+30538,Turkey
+30538,Turkmenistan
+30538,India
+30538,Lithuania
+30538,"Saudi Arabia"
+30538,Morocco
+30538,Bulgaria
+30538,Pakistan
+30538,Romania
+30538,Algeria
+30538,Mexico
+30538,"United Arab Emirates"
+30538,Singapore
+30538,"United States of America"
+30538,Austria
+30538,Germany
+30538,Greece
+30538,Spain
+30550,India
+30550,Israel
+30550,Japan
+30550,Romania
+30550,Taiwan
+30550,Tunisia
+30550,"United Arab Emirates"
+30557,France
+30557,Georgia
+30557,Germany
+30557,Italy
+30557,Thailand
+30557,Turkey
+30567,"Saudi Arabia"
+30567,Singapore
+30567,"South Africa"
+30567,"Korea, South"
+30567,Malaysia
+30567,Thailand
+30580,Brazil
+30580,Turkey
+30580,Turkmenistan
+30580,India
+30580,Lithuania
+30580,"Saudi Arabia"
+30580,Morocco
+30580,Bulgaria
+30580,Pakistan
+30580,Romania
+30580,Algeria
+30580,Mexico
+30580,"United Arab Emirates"
+30580,Singapore
+30580,"United States of America"
+30580,Austria
+30580,Germany
+30580,Greece
+30580,Spain
+30584,Australia
+30584,Belgium
+30584,India
+30584,Singapore
+30584,"United States of America"
+30591,Morocco
+30591,Israel
+30591,Japan
+30591,Tunisia
+30591,"United Arab Emirates"
+30591,Taiwan
+30591,Iraq
+30591,India
+30591,Romania
+30599,Austria
+30599,Canada
+30599,France
+30599,Iraq
+30599,Italy
+30599,"Korea, South"
+30599,"Saudi Arabia"
+30599,Singapore
+30599,Spain
+30599,Switzerland
+30599,"United Arab Emirates"
+30606,"Korea, South"
+30606,"Saudi Arabia"
+30606,Singapore
+30606,"South Africa"
+30606,Thailand
+30620,Kuwait
+30632,Egypt
+30632,India
+30632,Israel
+30632,Japan
+30632,Taiwan
+30632,Tunisia
+30632,"United Arab Emirates"
+30640,"Saudi Arabia"
+30640,Singapore
+30640,"South Africa"
+30640,"Korea, South"
+30640,Malaysia
+30640,Thailand
+30651,Algeria
+30651,Austria
+30651,Brazil
+30651,Bulgaria
+30651,Germany
+30651,Greece
+30651,Lithuania
+30651,Mexico
+30651,Morocco
+30651,Pakistan
+30651,Romania
+30651,"Saudi Arabia"
+30651,Singapore
+30651,Spain
+30651,Turkmenistan
+30651,"United Arab Emirates"
+30651,"United States of America"
+30668,"United States of America"
+30681,Egypt
+30681,Qatar
+30681,"Saudi Arabia"
+30689,Australia
+30689,Denmark
+30689,Israel
+30689,Italy
+30689,Netherlands
+30689,Norway
+30689,"Saudi Arabia"
+30689,Singapore
+30689,Turkey
+30689,"United States of America"
+30692,"United States of America"
+30694,Algeria
+30694,Austria
+30694,Brazil
+30694,Bulgaria
+30694,Germany
+30694,Greece
+30694,Lithuania
+30694,Mexico
+30694,Morocco
+30694,Pakistan
+30694,Romania
+30694,Russia
+30694,"Saudi Arabia"
+30694,Singapore
+30694,Spain
+30694,Turkmenistan
+30694,"United Arab Emirates"
+30694,"United States of America"
+30709,Austria
+30709,Germany
+30709,Italy
+30709,"Saudi Arabia"
+30709,Spain
+30711,Austria
+30711,Canada
+30711,France
+30711,Iraq
+30711,Italy
+30711,"Korea, South"
+30711,"Saudi Arabia"
+30711,Singapore
+30711,Spain
+30711,Switzerland
+30720,Australia
+30720,Austria
+30720,Finland
+30720,Germany
+30720,Italy
+30720,"Korea, South"
+30720,Pakistan
+30720,"Saudi Arabia"
+30720,Singapore
+30720,"South Africa"
+30720,Spain
+30720,Thailand
+30758,Austria
+30758,France
+30758,Georgia
+30758,Germany
+30758,Italy
+30758,"Saudi Arabia"
+30758,Turkey
+30759,Australia
+30759,Belgium
+30759,Finland
+30759,France
+30759,Germany
+30759,Greece
+30759,Indonesia
+30759,Italy
+30759,"New Zealand"
+30759,Norway
+30759,Oman
+30759,Portugal
+30759,Spain
+30759,Sweden
+30765,Pakistan
+30765,"Saudi Arabia"
+30765,Australia
+30765,Italy
+30765,Singapore
+30765,Finland
+30765,"Korea, South"
+30765,"South Africa"
+30765,Malaysia
+30765,Austria
+30765,Germany
+30765,Thailand
+30765,Spain
+30782,Turkey
+30782,"Saudi Arabia"
+30782,Australia
+30782,Italy
+30782,Singapore
+30782,Denmark
+30782,"United States of America"
+30782,Israel
+30782,Netherlands
+30782,Norway
+30783,Brazil
+30783,Turkey
+30783,Turkmenistan
+30783,India
+30783,Lithuania
+30783,"Saudi Arabia"
+30783,Morocco
+30783,Russia
+30783,Bulgaria
+30783,Pakistan
+30783,Romania
+30783,Algeria
+30783,Mexico
+30783,"United Arab Emirates"
+30783,Singapore
+30783,"United States of America"
+30783,Austria
+30783,Germany
+30783,Greece
+30783,Spain
+30784,Brazil
+30784,Turkey
+30784,Qatar
+30784,Oman
+30784,Singapore
+30784,Egypt
+30784,"United Arab Emirates"
+30784,India
+30784,"Saudi Arabia"
+30784,Luxembourg
+30784,Malaysia
+30784,Germany
+30784,Peru
+30784,Greece
+30784,Belgium
+30784,Taiwan
+30784,Russia
+30784,Spain
+30784,Bulgaria
+30817,Brazil
+30817,Turkey
+30817,Turkmenistan
+30817,Lithuania
+30817,France
+30817,Norway
+30817,"Saudi Arabia"
+30817,Australia
+30817,Algeria
+30817,Singapore
+30817,"United States of America"
+30817,Germany
+30817,Belgium
+30817,Spain
+30817,Netherlands
+30817,Oman
+30817,Indonesia
+30817,Morocco
+30817,Sweden
+30817,Finland
+30817,"New Zealand"
+30817,Russia
+30817,Bulgaria
+30817,Pakistan
+30817,Romania
+30817,Portugal
+30817,Mexico
+30817,"United Arab Emirates"
+30817,India
+30817,Austria
+30817,Greece
+30818,"Saudi Arabia"
+30818,"United States of America"
+30822,Australia
+30822,Belgium
+30822,India
+30822,Singapore
+30822,"United States of America"
+30830,Canada
+30830,Turkey
+30830,"Saudi Arabia"
+30830,Italy
+30830,Singapore
+30830,"United Arab Emirates"
+30830,"United States of America"
+30830,"Korea, South"
+30830,France
+30830,Belgium
+30830,Austria
+30830,Switzerland
+30830,Iraq
+30830,Spain
+30831,Australia
+30831,Belgium
+30831,Finland
+30831,France
+30831,Germany
+30831,Greece
+30831,Indonesia
+30831,Italy
+30831,"New Zealand"
+30831,Norway
+30831,Oman
+30831,Portugal
+30831,Spain
+30831,Sweden
+30871,Australia
+30871,Belgium
+30871,Chile
+30871,India
+30871,Singapore
+30871,"United States of America"
+30882,Austria
+30882,Canada
+30882,France
+30882,Iraq
+30882,Italy
+30882,"Korea, South"
+30882,"Saudi Arabia"
+30882,Singapore
+30882,Spain
+30882,Switzerland
+30885,Austria
+30885,Egypt
+30885,France
+30885,Georgia
+30885,Germany
+30885,Italy
+30885,"Saudi Arabia"
+30885,Turkey
+30892,Australia
+30892,Austria
+30892,Bahrain
+30892,Finland
+30892,Germany
+30892,Italy
+30892,"Korea, South"
+30892,Pakistan
+30892,"Saudi Arabia"
+30892,Singapore
+30892,"South Africa"
+30892,Spain
+30892,Thailand
+30917,Turkey
+30917,"Saudi Arabia"
+30917,Georgia
+30917,Italy
+30917,Mexico
+30917,Egypt
+30917,France
+30917,Austria
+30917,Germany
+30917,Belgium
+30917,Thailand
+30933,Algeria
+30933,Austria
+30933,Brazil
+30933,Bulgaria
+30933,Germany
+30933,Greece
+30933,Lithuania
+30933,Mexico
+30933,Morocco
+30933,Pakistan
+30933,Romania
+30933,Russia
+30933,"Saudi Arabia"
+30933,Singapore
+30933,Spain
+30933,Turkey
+30933,Turkmenistan
+30933,"United Arab Emirates"
+30933,"United States of America"
+30936,Brazil
+30936,Egypt
+30936,Greece
+30936,India
+30936,Peru
+30936,Qatar
+30936,"Saudi Arabia"
+30936,Singapore
+30936,Taiwan
+30936,"United Arab Emirates"
+30946,"United States of America"
+30955,Australia
+30955,Belgium
+30955,Finland
+30955,France
+30955,Germany
+30955,Greece
+30955,Indonesia
+30955,Italy
+30955,"New Zealand"
+30955,Norway
+30955,Oman
+30955,Portugal
+30955,Spain
+30955,Sweden
+30971,"United States of America"
+30980,Algeria
+30980,Austria
+30980,Brazil
+30980,Bulgaria
+30980,Germany
+30980,Greece
+30980,Lithuania
+30980,Mexico
+30980,Morocco
+30980,Oman
+30980,Pakistan
+30980,Romania
+30980,Russia
+30980,"Saudi Arabia"
+30980,Singapore
+30980,Spain
+30980,Turkey
+30980,Turkmenistan
+30980,"United Arab Emirates"
+30980,"United States of America"
+30983,Finland
+30983,Italy
+30983,Oman
+30983,Indonesia
+30983,France
+30983,Sweden
+30983,"New Zealand"
+30983,Norway
+30983,Australia
+30983,Portugal
+30983,Egypt
+30983,"Korea, South"
+30983,Germany
+30983,Greece
+30983,Belgium
+30983,Spain
+30995,Austria
+30995,Belgium
+30995,Egypt
+30995,Georgia
+30995,Germany
+30995,Italy
+30995,Mexico
+30995,"Saudi Arabia"
+31000,Bahrain
+31000,Pakistan
+31000,"Saudi Arabia"
+31000,Australia
+31000,Italy
+31000,Singapore
+31000,Finland
+31000,"Korea, South"
+31000,"South Africa"
+31000,Malaysia
+31000,Austria
+31000,Germany
+31000,Thailand
+31000,Spain
+31032,Philippines
+31032,"United States of America"
+31048,Ecuador
+31058,Australia
+31058,Chile
+31058,India
+31058,Singapore
+31058,"United States of America"
+31068,Austria
+31068,Belgium
+31068,Brazil
+31068,Egypt
+31068,Georgia
+31068,Germany
+31068,Italy
+31068,Mexico
+31068,"Saudi Arabia"
+31088,"Dominican Republic"
+31088,Ecuador
+31101,"United States of America"
+31104,"United States of America"
+31120,Italy
+31120,Romania
+31120,"United States of America"
+31122,Brazil
+31122,Egypt
+31122,Greece
+31122,India
+31122,Peru
+31122,Qatar
+31122,Singapore
+31122,Taiwan
+31122,"United Arab Emirates"
+31129,Israel
+31129,Egypt
+31129,"United Arab Emirates"
+31129,India
+31129,Romania
+31129,Tunisia
+31129,Japan
+31129,Taiwan
+31136,Finland
+31136,Italy
+31136,Oman
+31136,Indonesia
+31136,France
+31136,Sweden
+31136,"New Zealand"
+31136,Norway
+31136,Australia
+31136,Portugal
+31136,Germany
+31136,Greece
+31136,Belgium
+31136,Spain
+31142,Botswana
+31157,Austria
+31157,Brazil
+31157,Bulgaria
+31157,Germany
+31157,Greece
+31157,Lithuania
+31157,Morocco
+31157,Oman
+31157,Pakistan
+31157,Romania
+31157,Russia
+31157,"Saudi Arabia"
+31157,Singapore
+31157,Spain
+31157,Turkey
+31157,"United Arab Emirates"
+31157,"United States of America"
+31161,Brazil
+31161,Egypt
+31161,Greece
+31161,India
+31161,Peru
+31161,Qatar
+31161,Singapore
+31161,Taiwan
+31161,"United Arab Emirates"
+31172,Malaysia
+31172,"United States of America"
+31174,Austria
+31174,Germany
+31174,Italy
+31174,"Saudi Arabia"
+31174,Spain
+31202,Australia
+31202,Austria
+31202,Bahrain
+31202,Finland
+31202,Germany
+31202,Italy
+31202,"Korea, South"
+31202,Pakistan
+31202,"Saudi Arabia"
+31202,Singapore
+31202,"South Africa"
+31202,Spain
+31202,Thailand
+31208,Austria
+31208,Bulgaria
+31208,Germany
+31208,Greece
+31208,Lithuania
+31208,Morocco
+31208,Oman
+31208,Pakistan
+31208,Romania
+31208,Russia
+31208,"Saudi Arabia"
+31208,Singapore
+31208,Spain
+31208,Turkey
+31208,"United Arab Emirates"
+31208,"United States of America"
+31212,Italy
+31212,Romania
+31212,"United States of America"
+31243,Australia
+31243,Austria
+31243,Belgium
+31243,Bulgaria
+31243,Finland
+31243,France
+31243,Germany
+31243,Greece
+31243,Lithuania
+31243,Morocco
+31243,Netherlands
+31243,"New Zealand"
+31243,Norway
+31243,Oman
+31243,Pakistan
+31243,Portugal
+31243,Romania
+31243,Russia
+31243,"Saudi Arabia"
+31243,Singapore
+31243,Spain
+31243,Sweden
+31243,Turkey
+31243,"United Arab Emirates"
+31243,"United States of America"
+31250,Australia
+31250,Chile
+31250,India
+31250,Singapore
+31250,"United States of America"
+31262,Malaysia
+31262,Turkmenistan
+31262,"United States of America"
+31277,Turkey
+31277,Brazil
+31277,Turkmenistan
+31277,Lithuania
+31277,France
+31277,Norway
+31277,"Saudi Arabia"
+31277,Australia
+31277,Algeria
+31277,Singapore
+31277,"United States of America"
+31277,Germany
+31277,Belgium
+31277,Spain
+31277,Netherlands
+31277,Oman
+31277,Finland
+31277,Morocco
+31277,Sweden
+31277,"New Zealand"
+31277,Russia
+31277,Bulgaria
+31277,Pakistan
+31277,Romania
+31277,Portugal
+31277,Mexico
+31277,"United Arab Emirates"
+31277,Austria
+31277,Greece
+31280,"United Arab Emirates"
+31288,Canada
+31288,Italy
+31288,France
+31288,Switzerland
+31288,"Saudi Arabia"
+31288,Singapore
+31288,"United Arab Emirates"
+31288,"Korea, South"
+31288,Austria
+31288,Iraq
+31288,Spain
+31307,Germany
+31307,Malaysia
+31307,Turkmenistan
+31307,"United States of America"
+31313,Croatia
+31332,Egypt
+31332,Greece
+31332,India
+31332,Peru
+31332,Qatar
+31332,Singapore
+31332,Taiwan
+31332,"United Arab Emirates"
+31372,Australia
+31372,Austria
+31372,Belgium
+31372,Brazil
+31372,Bulgaria
+31372,Finland
+31372,France
+31372,Germany
+31372,Greece
+31372,Lithuania
+31372,Morocco
+31372,Netherlands
+31372,"New Zealand"
+31372,Norway
+31372,Oman
+31372,Pakistan
+31372,Portugal
+31372,Romania
+31372,Russia
+31372,"Saudi Arabia"
+31372,Singapore
+31372,Spain
+31372,Sweden
+31372,Turkey
+31372,"United Arab Emirates"
+31372,"United States of America"
+31386,India
+31386,"United Arab Emirates"
+31392,Austria
+31392,Italy
+31392,"Korea, South"
+31392,"Saudi Arabia"
+31392,Singapore
+31392,Spain
+31402,India
+31420,Brazil
+31420,Turkey
+31420,Turkmenistan
+31420,Lithuania
+31420,France
+31420,Norway
+31420,"Saudi Arabia"
+31420,Australia
+31420,Algeria
+31420,Singapore
+31420,"United States of America"
+31420,Germany
+31420,Belgium
+31420,Spain
+31420,Netherlands
+31420,Oman
+31420,Finland
+31420,Morocco
+31420,Sweden
+31420,"New Zealand"
+31420,Russia
+31420,Bulgaria
+31420,Pakistan
+31420,Romania
+31420,Portugal
+31420,Mexico
+31420,"United Arab Emirates"
+31420,Austria
+31420,Greece
+31432,Austria
+31432,Italy
+31432,"Korea, South"
+31432,"Saudi Arabia"
+31432,Singapore
+31432,Spain
+31432,"United Arab Emirates"
+31436,Germany
+31436,Malaysia
+31436,Turkmenistan
+31436,"United States of America"
+31443,Italy
+31444,India
+31456,Egypt
+31456,Greece
+31456,India
+31456,Morocco
+31456,Peru
+31456,Qatar
+31456,Singapore
+31456,Taiwan
+31456,"United Arab Emirates"
+31468,India
+31468,Mexico
+31468,"United Arab Emirates"
+31471,"Saudi Arabia"
+31471,Italy
+31471,Austria
+31471,Germany
+31471,Spain
+31474,Canada
+31474,Italy
+31474,France
+31474,Switzerland
+31474,"Saudi Arabia"
+31474,Singapore
+31474,"United Arab Emirates"
+31474,"Korea, South"
+31474,Austria
+31474,Iraq
+31474,Spain
+31476,Austria
+31476,Belgium
+31476,Brazil
+31476,Colombia
+31476,Egypt
+31476,Germany
+31476,Italy
+31476,Mexico
+31476,"Saudi Arabia"
+31491,Kuwait
+31512,Brazil
+31512,Turkey
+31512,Georgia
+31512,Italy
+31512,Colombia
+31512,Oman
+31512,France
+31512,Vietnam
+31512,"Saudi Arabia"
+31512,Algeria
+31512,Mexico
+31512,Egypt
+31512,India
+31512,Austria
+31512,"United States of America"
+31512,Germany
+31512,Chile
+31512,Belgium
+31515,Malaysia
+31534,Australia
+31534,Austria
+31534,Belgium
+31534,Brazil
+31534,Finland
+31534,France
+31534,Germany
+31534,Greece
+31534,Netherlands
+31534,"New Zealand"
+31534,Norway
+31534,Oman
+31534,Pakistan
+31534,Portugal
+31534,"Saudi Arabia"
+31534,Singapore
+31534,Spain
+31534,Sweden
+31534,Turkey
+31548,Australia
+31548,Belgium
+31548,Finland
+31548,France
+31548,Germany
+31548,Greece
+31548,Indonesia
+31548,Italy
+31548,"New Zealand"
+31548,Norway
+31548,Oman
+31548,Portugal
+31548,Spain
+31548,Sweden
+31554,Australia
+31554,Austria
+31554,Bahrain
+31554,Finland
+31554,Germany
+31554,Italy
+31554,Pakistan
+31554,"Saudi Arabia"
+31554,"South Africa"
+31554,Spain
+31554,Thailand
+31573,Australia
+31573,Austria
+31573,Belgium
+31573,Brazil
+31573,Finland
+31573,France
+31573,Germany
+31573,Greece
+31573,Netherlands
+31573,"New Zealand"
+31573,Norway
+31573,Oman
+31573,Pakistan
+31573,Portugal
+31573,"Saudi Arabia"
+31573,Singapore
+31573,Spain
+31573,Sweden
+31573,Turkey
+31576,India
+31576,Kazakhstan
+31576,Mexico
+31576,"United Arab Emirates"
+31578,India
+31578,Morocco
+31578,"Saudi Arabia"
+31578,Singapore
+31578,"United Arab Emirates"
+31579,Australia
+31579,Belgium
+31579,Colombia
+31579,Finland
+31579,France
+31579,Germany
+31579,Greece
+31579,Indonesia
+31579,Italy
+31579,"New Zealand"
+31579,Norway
+31579,Oman
+31579,Portugal
+31579,Spain
+31579,Sweden
+31590,Austria
+31590,Italy
+31590,"Korea, South"
+31590,"Saudi Arabia"
+31590,Singapore
+31590,Spain
+31590,"United Arab Emirates"
+31600,Afghanistan
+31603,"Korea, South"
+31619,India
+31619,Kazakhstan
+31619,Mexico
+31619,Qatar
+31619,"United Arab Emirates"
+31627,Australia
+31627,Austria
+31627,Bahrain
+31627,Finland
+31627,Germany
+31627,Italy
+31627,"Korea, South"
+31627,Pakistan
+31627,"Saudi Arabia"
+31627,"South Africa"
+31627,Spain
+31627,Thailand
+31655,Canada
+31655,"Saudi Arabia"
+31655,Italy
+31655,Singapore
+31655,"United Arab Emirates"
+31655,"Korea, South"
+31655,France
+31655,Austria
+31655,Chile
+31655,Switzerland
+31655,Iraq
+31655,Spain
+31657,Brazil
+31657,Turkey
+31657,Georgia
+31657,Italy
+31657,Colombia
+31657,Oman
+31657,France
+31657,Vietnam
+31657,"Saudi Arabia"
+31657,Algeria
+31657,Mexico
+31657,Egypt
+31657,India
+31657,Austria
+31657,"United States of America"
+31657,Germany
+31657,Chile
+31657,Belgium
+31661,Italy
+31661,Finland
+31661,Bahrain
+31661,Pakistan
+31661,"Saudi Arabia"
+31661,Australia
+31661,"South Africa"
+31661,Singapore
+31661,"Korea, South"
+31661,Austria
+31661,Germany
+31661,Thailand
+31661,Spain
+31681,India
+31681,Kazakhstan
+31681,Mexico
+31681,Qatar
+31681,"United Arab Emirates"
+31687,Brazil
+31693,Austria
+31693,Chile
+31693,Italy
+31693,"Korea, South"
+31693,"Saudi Arabia"
+31693,Singapore
+31693,Spain
+31693,"United Arab Emirates"
+31711,Germany
+31711,Malaysia
+31711,Spain
+31711,Turkmenistan
+31711,"United States of America"
+31712,Australia
+31712,Austria
+31712,Belgium
+31712,Brazil
+31712,Finland
+31712,France
+31712,Germany
+31712,Greece
+31712,Netherlands
+31712,"New Zealand"
+31712,Norway
+31712,Oman
+31712,Portugal
+31712,"Saudi Arabia"
+31712,Singapore
+31712,Spain
+31712,Sweden
+31712,Turkey
+31714,Chile
+31714,France
+31714,India
+31714,Italy
+31714,Morocco
+31714,"Saudi Arabia"
+31714,"United Arab Emirates"
+31719,Indonesia
+31719,Malaysia
+31722,India
+31722,Kazakhstan
+31722,Mexico
+31722,Qatar
+31722,Singapore
+31722,"United Arab Emirates"
+31729,"Korea, South"
+31729,Pakistan
+31729,"Saudi Arabia"
+31729,"South Africa"
+31729,Thailand
+31745,India
+31748,India
+31748,Kazakhstan
+31748,Mexico
+31748,Qatar
+31748,Singapore
+31748,Tunisia
+31748,"United Arab Emirates"
+31785,"Korea, South"
+31785,Netherlands
+31785,Pakistan
+31785,"Saudi Arabia"
+31785,"South Africa"
+31785,Thailand
+31804,Pakistan
+31804,"Dominican Republic"
+31804,Ecuador
+31813,Brazil
+31813,Australia
+31813,Singapore
+31813,"United States of America"
+31813,India
+31813,Chile
+31817,India
+31817,Kazakhstan
+31817,Mexico
+31817,Qatar
+31817,Singapore
+31817,Tunisia
+31817,"United Arab Emirates"
+31862,"Saudi Arabia"
+31863,Germany
+31863,Spain
+31863,Turkmenistan
+31863,"United States of America"
+31869,Brazil
+31877,Egypt
+31877,Germany
+31877,India
+31877,Kazakhstan
+31877,Mexico
+31877,Qatar
+31877,Singapore
+31877,Tunisia
+31880,Austria
+31880,Germany
+31880,Italy
+31880,"Saudi Arabia"
+31880,Spain
+31884,Algeria
+31884,Austria
+31884,Brazil
+31884,Chile
+31884,Colombia
+31884,Egypt
+31884,Germany
+31884,India
+31884,Italy
+31884,Mexico
+31884,Oman
+31884,"Saudi Arabia"
+31884,"United States of America"
+31884,Vietnam
+31884,Yemen
+31886,Australia
+31886,Belgium
+31886,Colombia
+31886,Finland
+31886,France
+31886,Germany
+31886,Greece
+31886,Italy
+31886,"New Zealand"
+31886,Norway
+31886,Oman
+31886,Portugal
+31886,Spain
+31886,Sweden
+31887,Chile
+31887,Croatia
+31909,Brazil
+31909,Australia
+31909,Singapore
+31909,"United States of America"
+31909,India
+31909,Chile
+31914,Chile
+31914,France
+31914,India
+31914,Italy
+31914,Morocco
+31914,"Saudi Arabia"
+31914,"United Arab Emirates"
+31953,India
+31960,India
+31960,"Sri Lanka"
+31971,China
+31972,China
+31977,China
+31994,"Sri Lanka"
+32019,Georgia
+32021,Georgia
+32030,Nepal
+32083,Taiwan
+32191,Israel
+32191,"United States of America"
+32217,Russia
+32218,"Equatorial Guinea"
+32251,Israel
+32253,Israel
+32350,Venezuela
+32411,Libya
+32460,Bahrain
+32475,Bahrain
+32508,Canada
+32508,Egypt
+32508,Greece
+32508,Israel
+32508,"Saudi Arabia"
+32508,Singapore
+32508,Turkey
+32508,"United Arab Emirates"
+32508,"United States of America"
+32510,Israel
