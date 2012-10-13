@@ -1,4680 +1,5608 @@
 licence_group,source
-40828,Germany
-40829,Ireland
-40830,Romania
-40830,Bulgaria
-40830,Serbia
-40831,"United States of America"
-40832,Israel
-40833,Bulgaria
-40833,Romania
-40834,"United States of America"
-40834,"United States of America"
-40835,"United Arab Emirates"
-40836,Ukraine
-40837,Romania
-40838,Ireland
-40838,Ireland
-40839,China
-40839,Hungary
-40839,Switzerland
-40840,Australia
-40841,Canada
-40842,"South Africa"
-40843,Turkey
-40844,Jordan
-40845,"Bosnia and Herzegovina"
-40846,"Bosnia and Herzegovina"
-40847,Jordan
-40848,"Bosnia and Herzegovina"
-40849,Germany
-40850,"Bosnia and Herzegovina"
-40851,Pakistan
-40852,Jordan
-40853,China
-40854,"United States of America"
-40855,"South Africa"
-40856,"South Africa"
-40857,Malaysia
-40858,India
-40859,Jordan
-40860,Jordan
-40861,Jordan
-40862,Jordan
-40863,Jordan
-40864,Serbia
-40865,Thailand
-40866,"South Africa"
-40867,Ireland
-40868,"South Africa"
-40868,"South Africa"
-40868,"South Africa"
-40870,"United States of America"
-40871,China
-40872,"United States of America"
-40873,Thailand
-40874,Ireland
-40874,Ireland
-40874,Ireland
-40874,Ireland
-40875,"United States of America"
-40876,Jordan
-40877,Jordan
-40878,"South Africa"
-40879,"United Arab Emirates"
-40880,Israel
-40880,Brazil
-40881,Ireland
-40882,Jordan
-40883,Ireland
-40884,"United States of America"
-40885,Brazil
-40886,Jordan
-40887,Romania
-40888,"United Arab Emirates"
-40889,"South Africa"
-40890,"United States of America"
-40891,Jordan
-40892,Ireland
-40893,"South Africa"
-40894,"Sri Lanka"
-40895,"Bosnia and Herzegovina"
-40896,Bulgaria
-40897,Jordan
-40898,Jordan
-40899,"United States of America"
-40900,"United States of America"
-40901,"Korea, South"
-40902,"South Africa"
-40902,Ireland
-40902,Ireland
-40902,"United States of America"
-40903,"United States of America"
-40904,"United States of America"
-40905,Iraq
-40906,Jordan
-40907,Romania
-40908,"Sri Lanka"
-40909,Serbia
-40910,Iraq
-40911,Serbia
-40912,Brazil
-40912,India
-40913,Germany
-40914,Jordan
-40915,"South Africa"
-40916,Jordan
-40917,Brazil
-40918,Jordan
-40919,"United States of America"
-40920,"United States of America"
-40921,Turkey
-40922,"United States of America"
-40923,"South Africa"
-40924,Germany
-40925,Brazil
-40926,"United States of America"
-40927,Romania
-40927,Montenegro
-40927,Serbia
-40927,Kazakhstan
-40928,Romania
-40928,Kazakhstan
-40929,Serbia
-40930,"South Africa"
-40931,Serbia
-40932,"Bosnia and Herzegovina"
-40933,"South Africa"
-40934,Namibia
-40935,Germany
-40936,Germany
-40937,"South Africa"
-40937,"South Africa"
-40938,Lebanon
-40939,Taiwan
-40940,Bulgaria
-40941,Ireland
-40942,"United States of America"
-40943,"Sri Lanka"
-40944,"United States of America"
-40945,Romania
-40946,"South Africa"
-40947,"South Africa"
-40948,Romania
-40949,"South Africa"
-40950,"Korea, South"
-40951,"Czech Republic"
-40952,Romania
-40952,Romania
-40953,"United States of America"
-40954,Ukraine
-40955,"South Africa"
-40956,"South Africa"
-40957,"Non Specific Country"
-40958,Germany
-40959,"United States of America"
-40960,"Bosnia and Herzegovina"
-40961,Germany
-40962,Turkey
-40963,Brazil
-40964,Germany
-40965,Germany
-40966,"South Africa"
-40967,Germany
-40968,China
-40969,"United States of America"
-40970,"South Africa"
-40971,"South Africa"
-40972,Romania
-40972,Malaysia
-40973,"South Africa"
-40974,"United Arab Emirates"
-40975,"United Arab Emirates"
-40976,"Czech Republic"
-40977,Germany
-40978,"South Africa"
-40979,"South Africa"
-40980,"South Africa"
-40981,"South Africa"
-40982,"South Africa"
-40983,"United Arab Emirates"
-40984,Bulgaria
-40985,"South Africa"
-40986,"United Arab Emirates"
-40987,Germany
-40988,Jordan
-40989,Canada
-40990,"South Africa"
-40991,"South Africa"
-40992,"South Africa"
-40993,"United Arab Emirates"
-40994,Israel
-40995,India
-40996,Germany
-40997,"South Africa"
-40998,Israel
-40999,"South Africa"
-41000,"South Africa"
-41001,Germany
-41002,"United Arab Emirates"
-41003,"South Africa"
-41004,"South Africa"
-41005,"South Africa"
-41006,Romania
-41007,"South Africa"
-41008,Canada
-41009,"South Africa"
-41009,"South Africa"
-41009,"South Africa"
-41010,India
-41011,Kuwait
-41012,"South Africa"
-41013,"South Africa"
-41014,"South Africa"
-41015,"South Africa"
-41015,"South Africa"
-41015,"South Africa"
-41016,Serbia
-41017,"Bosnia and Herzegovina"
-41018,Germany
-41019,India
-41020,Romania
-41021,"United States of America"
-41022,"South Africa"
-41023,Germany
-41024,"United States of America"
-41025,"South Africa"
-41026,"South Africa"
-41026,"South Africa"
-41027,Brazil
-41028,"United States of America"
-41029,Bulgaria
-41030,"South Africa"
-41031,India
-41032,"South Africa"
-41033,Russia
-41034,Germany
-41035,"South Africa"
-41036,Israel
-41037,Serbia
-41038,"South Africa"
-41039,"South Africa"
-41040,China
-41040,China
-41041,"South Africa"
-41041,"South Africa"
-41041,"South Africa"
-41042,Turkey
-41043,"South Africa"
-41044,"South Africa"
-41044,"South Africa"
-41045,Malaysia
-41046,"South Africa"
-41047,Germany
-41047,Germany
-41048,India
-41049,"United Arab Emirates"
-41050,Germany
-41051,"Czech Republic"
-41052,Jordan
-41053,France
-41054,Brazil
-41055,Netherlands
-41056,"South Africa"
-41057,"Bosnia and Herzegovina"
-41057,Turkey
-41058,"South Africa"
-41059,Singapore
-41060,China
-41061,Bulgaria
-41061,Romania
-41062,"United States of America"
-41063,"South Africa"
-41064,Turkey
-41065,Namibia
-41066,"United States of America"
-41067,"South Africa"
-41068,"South Africa"
-41069,"South Africa"
-41070,Brazil
-41071,Canada
-41072,"United States of America"
-41073,Belarus
-41074,"United Arab Emirates"
-41075,Jordan
-41076,China
-41077,Belarus
-41078,Germany
-41079,Belarus
-41080,"South Africa"
-41081,"United States of America"
-41082,Jordan
-41083,Bulgaria
-41084,Belarus
-41085,Bulgaria
-41086,Belarus
-41087,Iraq
-41088,Kuwait
-41088,"United States of America"
-41089,"South Africa"
-41090,China
-41091,"United States of America"
-41092,"United States of America"
-41093,Austria
-41094,"United States of America"
-41095,"South Africa"
-41096,"United States of America"
-41097,Bulgaria
-41097,Croatia
-41098,"South Africa"
-41099,Romania
-41100,"United States of America"
-41101,France
-41102,Jordan
-41103,"South Africa"
-41104,Jordan
-41105,"United States of America"
-41106,"United States of America"
-41107,"South Africa"
-41108,India
-41109,"South Africa"
-41110,"United States of America"
-41111,"Bosnia and Herzegovina"
-41112,"South Africa"
-41113,"United States of America"
-41114,Brazil
-41114,"United States of America"
-41115,Germany
-41116,Malta
-41117,"South Africa"
-41118,"Korea, South"
-41119,Jordan
-41120,Israel
-41121,"South Africa"
-41122,Serbia
-41123,"South Africa"
-41124,Ukraine
-41125,"South Africa"
-41126,"Bosnia and Herzegovina"
-41127,Jordan
-41128,Canada
-41129,Jordan
-41130,Australia
-41131,"South Africa"
-41132,Australia
-41133,Australia
-41134,Australia
-41135,Australia
-41136,"South Africa"
-41137,"South Africa"
-41138,Australia
-41139,"United States of America"
-41140,"South Africa"
-41141,Australia
-41142,"South Africa"
-41143,"South Africa"
-41144,"South Africa"
-41145,"South Africa"
-41146,Turkey
-41147,Turkey
-41148,"South Africa"
-41149,Bulgaria
-41149,Serbia
-41149,Romania
-41149,"Bosnia and Herzegovina"
-41150,Jordan
-41151,Ukraine
-41152,Ireland
-41153,Jordan
-41154,"South Africa"
-41155,Malta
-41156,"South Africa"
-41157,Jordan
-41158,"Bosnia and Herzegovina"
-41159,"United States of America"
-41160,Turkey
-41161,"South Africa"
-41162,"South Africa"
-41163,Jordan
-41164,Malta
-41164,Malta
-41164,Malta
-41164,Malta
-41165,Malta
-41165,Malta
-41165,Malta
-41166,Malta
-41166,Malta
-41166,Malta
-41166,Malta
-41166,Malta
-41166,Malta
-41167,Malta
-41168,China
-41169,Jordan
-41170,Malta
-41171,Malta
-41171,Malta
-41172,Malta
-41172,Malta
-41172,Malta
-41172,Malta
-41173,Malta
-41173,Malta
-41174,Malta
-41174,Malta
-41175,Malta
-41176,Malta
-41177,"South Africa"
-41178,"South Africa"
-41179,Australia
-41180,Malta
-41181,Malta
-41181,Malta
-41181,Malta
-41182,Malta
-41183,Malta
-41183,Malta
-41183,Malta
-41184,Malta
-41184,Malta
-41185,Malta
-41185,Malta
-41186,Malta
-41187,Malta
-41188,Malta
-41189,Malta
-41190,Malta
-41190,Malta
-41191,Malta
-41191,Malta
-41192,Malta
-41193,Bulgaria
-41194,Canada
-41195,Malta
-41196,Jordan
-41197,"South Africa"
-41198,Iraq
-41199,Jordan
-41200,Malta
-41201,Australia
-41202,Hungary
-41203,"South Africa"
-41204,"South Africa"
-41205,Jordan
-41206,India
-41206,Serbia
-41207,Malta
-41208,Jordan
-41209,"Bosnia and Herzegovina"
-41210,Canada
-41211,Jordan
-41212,Malta
-41213,"South Africa"
-41214,Canada
-41215,Djibouti
-41215,Egypt
-41215,Kenya
-41215,Madagascar
-41215,Maldives
-41215,Mauritius
-41215,Seychelles
-41215,"South Africa"
-41215,"Sri Lanka"
-41215,Tanzania
-41216,Bulgaria
-41217,"South Africa"
-41218,"Sri Lanka"
-41219,Romania
-41219,"Bosnia and Herzegovina"
-41220,"South Africa"
-41221,Mauritius
-41222,Jordan
-41223,Jordan
-41224,Jordan
-41225,Australia
-41226,Djibouti
-41226,Egypt
-41226,Kenya
-41226,Madagascar
-41226,Maldives
-41226,Mauritius
-41226,Oman
-41226,Seychelles
-41226,"South Africa"
-41226,Tanzania
-41227,"South Africa"
-41228,Bulgaria
-41229,Jordan
-41230,Australia
-41231,Malta
-41232,Oman
-41232,Oman
-41233,Mauritius
-41234,"Bosnia and Herzegovina"
-41235,Jordan
-41236,Jordan
-41237,Serbia
-41238,Mauritius
-41239,Jordan
-41240,Thailand
-41241,Netherlands
-41241,"South Africa"
-41242,Mauritius
-41243,Jordan
-41244,"South Africa"
-41245,Finland
-41246,Malaysia
-41247,"Korea, South"
-41248,Jordan
-41249,Mauritius
-41250,Australia
-41251,Jordan
-41252,"South Africa"
-41253,"South Africa"
-41254,Belgium
-41255,"Sri Lanka"
-41256,"United States of America"
-41257,Oman
-41258,Jordan
-41259,Bulgaria
-41260,Finland
-41261,"South Africa"
-41262,"South Africa"
-41263,"South Africa"
-41264,Jordan
-41265,Romania
-41266,"South Africa"
-41267,Poland
-41268,Ukraine
-41268,Serbia
-41269,Montenegro
-41270,Ukraine
-41271,Belgium
-41272,Belgium
-41273,Turkey
-41274,Israel
-41275,"Czech Republic"
-41276,Israel
-41277,Romania
-41277,"Bosnia and Herzegovina"
-41277,Turkey
-41278,"United Arab Emirates"
-41279,"Czech Republic"
-41279,Montenegro
-41280,Ukraine
-41281,Israel
-41282,Belarus
-41283,China
-41283,China
-41284,Jordan
-41285,China
-41286,"United States of America"
-41287,"United States of America"
-41288,Iraq
-41290,Jordan
-41290,"United Kingdom"
-41291,Jordan
-41291,"United Kingdom"
-41292,Israel
-41293,Israel
-41294,Israel
-41295,Israel
-41296,Jordan
-41296,"United Kingdom"
-41297,Israel
-41298,Jordan
-41298,"United Kingdom"
-41299,Israel
-41300,Jordan
-41300,"United Kingdom"
-41301,Israel
-41302,Israel
-41303,"United Kingdom"
-41304,"United Kingdom"
-41305,"United Kingdom"
-41306,"United Kingdom"
-41307,"United Kingdom"
-41308,"United Kingdom"
-41309,"United Kingdom"
-41310,"United Kingdom"
-41311,"United Kingdom"
-41312,"United Kingdom"
-41313,Taiwan
-41314,"Korea, South"
-41315,Singapore
-41315,Israel
-41315,"Czech Republic"
-41315,"South Africa"
-41316,Italy
-41317,Italy
-41318,Italy
-41319,Italy
-41320,Italy
-41321,Italy
-41322,Italy
-41323,Italy
-41324,Italy
-41325,Italy
-41326,Italy
-41327,Italy
-41328,Italy
-41329,"Non Specific Country"
-41329,"United States of America"
-41330,Sweden
-41331,"United Kingdom"
-41332,Jordan
-41333,Jordan
-41334,Jordan
-41335,Jordan
-41336,Jordan
-41337,Jordan
-41338,Jordan
-41339,Jordan
-41340,Jordan
-41341,Jordan
-41342,Jordan
-41343,Jordan
-41344,Jordan
-41345,"United States of America"
-41347,Kuwait
-41348,Colombia
-41348,"United Arab Emirates"
-41349,"Non Specific Country"
-41351,"South Africa"
-41352,Russia
-41354,Ireland
-41355,Ireland
-41356,"Non Specific Country"
-41357,Italy
-41357,Malaysia
-41358,Italy
-41358,Malaysia
-41359,Italy
-41359,Malaysia
-41360,Italy
-41360,Malaysia
-41361,Italy
-41361,Malaysia
-41362,Italy
-41362,Malaysia
-41363,Italy
-41363,Malaysia
-41364,Italy
-41364,Malaysia
-41365,Italy
-41365,Malaysia
-41366,Italy
-41366,Malaysia
-41367,Italy
-41367,Malaysia
-41368,Italy
-41368,Malaysia
-41369,Italy
-41369,Malaysia
-41370,Italy
-41370,Malaysia
-41371,Italy
-41371,Malaysia
-41372,"Non Specific Country"
-41373,"South Africa"
-41374,"South Africa"
-41375,"South Africa"
-41376,"South Africa"
-41377,"South Africa"
-41378,"South Africa"
-41379,"South Africa"
-41380,"Non Specific Country"
-41381,"South Africa"
-41382,"South Africa"
-41383,"South Africa"
-41384,"South Africa"
-41385,"South Africa"
-41386,Brunei
-41387,Brunei
-41388,Malaysia
-41388,Singapore
-41388,Germany
-41389,"Non Specific Country"
-41390,"Non Specific Country"
-41391,Sweden
-41392,Angola
-41392,Austria
-41392,Botswana
-41392,Bulgaria
-41392,Cameroon
-41392,Chad
-41392,Denmark
-41392,"Equatorial Guinea"
-41392,France
-41392,Gabon
-41392,Germany
-41392,Ghana
-41392,Greece
-41392,"Guinea, Republic of"
-41392,Hungary
-41392,Israel
-41392,Italy
-41392,Kenya
-41392,Mauritania
-41392,Morocco
-41392,Mozambique
-41392,Namibia
-41392,Netherlands
-41392,Nigeria
-41392,Norway
-41392,Poland
-41392,Portugal
-41392,"Republic of Congo"
-41392,Romania
-41392,Senegal
-41392,Slovenia
-41392,"South Africa"
-41392,Spain
-41392,Switzerland
-41392,Tanzania
-41392,Turkey
-41392,Uganda
-41392,Ukraine
-41392,"United States of America"
-41393,Angola
-41393,Austria
-41393,Botswana
-41393,Bulgaria
-41393,Cameroon
-41393,Chad
-41393,Denmark
-41393,"Equatorial Guinea"
-41393,France
-41393,Gabon
-41393,Germany
-41393,Ghana
-41393,Greece
-41393,"Guinea, Republic of"
-41393,Hungary
-41393,Israel
-41393,Italy
-41393,Kenya
-41393,Mauritania
-41393,Morocco
-41393,Mozambique
-41393,Namibia
-41393,Netherlands
-41393,Nigeria
-41393,Norway
-41393,Poland
-41393,Portugal
-41393,"Republic of Congo"
-41393,Romania
-41393,Senegal
-41393,Slovenia
-41393,"South Africa"
-41393,Spain
-41393,Switzerland
-41393,Tanzania
-41393,Turkey
-41393,Uganda
-41393,Ukraine
-41393,"United States of America"
-41394,Angola
-41394,Austria
-41394,Botswana
-41394,Bulgaria
-41394,Cameroon
-41394,Chad
-41394,Denmark
-41394,"Equatorial Guinea"
-41394,France
-41394,Gabon
-41394,Germany
-41394,Ghana
-41394,Greece
-41394,"Guinea, Republic of"
-41394,Hungary
-41394,Israel
-41394,Italy
-41394,Kenya
-41394,Mauritania
-41394,Morocco
-41394,Mozambique
-41394,Namibia
-41394,Netherlands
-41394,Nigeria
-41394,Norway
-41394,Poland
-41394,Portugal
-41394,"Republic of Congo"
-41394,Romania
-41394,Senegal
-41394,Slovenia
-41394,"South Africa"
-41394,Spain
-41394,Switzerland
-41394,Tanzania
-41394,Turkey
-41394,Uganda
-41394,Ukraine
-41394,"United States of America"
-41395,Angola
-41395,Austria
-41395,Botswana
-41395,Bulgaria
-41395,Cameroon
-41395,Chad
-41395,Denmark
-41395,"Equatorial Guinea"
-41395,France
-41395,Gabon
-41395,Germany
-41395,Ghana
-41395,Greece
-41395,"Guinea, Republic of"
-41395,Hungary
-41395,Israel
-41395,Italy
-41395,Kenya
-41395,Mauritania
-41395,Morocco
-41395,Mozambique
-41395,Namibia
-41395,Netherlands
-41395,Nigeria
-41395,Norway
-41395,Poland
-41395,Portugal
-41395,"Republic of Congo"
-41395,Romania
-41395,Senegal
-41395,Slovenia
-41395,"South Africa"
-41395,Spain
-41395,Switzerland
-41395,Tanzania
-41395,Turkey
-41395,Uganda
-41395,Ukraine
-41395,"United States of America"
-41396,Angola
-41396,Austria
-41396,Botswana
-41396,Bulgaria
-41396,Cameroon
-41396,Chad
-41396,Denmark
-41396,"Equatorial Guinea"
-41396,France
-41396,Gabon
-41396,Germany
-41396,Ghana
-41396,Greece
-41396,"Guinea, Republic of"
-41396,Hungary
-41396,Israel
-41396,Italy
-41396,Kenya
-41396,Mauritania
-41396,Morocco
-41396,Mozambique
-41396,Namibia
-41396,Netherlands
-41396,Nigeria
-41396,Norway
-41396,Poland
-41396,Portugal
-41396,"Republic of Congo"
-41396,Romania
-41396,Senegal
-41396,Slovenia
-41396,"South Africa"
-41396,Spain
-41396,Switzerland
-41396,Tanzania
-41396,Turkey
-41396,Uganda
-41396,Ukraine
-41396,"United States of America"
-41397,Angola
-41397,Austria
-41397,Botswana
-41397,Bulgaria
-41397,Cameroon
-41397,Chad
-41397,Denmark
-41397,"Equatorial Guinea"
-41397,France
-41397,Gabon
-41397,Germany
-41397,Ghana
-41397,Greece
-41397,"Guinea, Republic of"
-41397,Hungary
-41397,Israel
-41397,Italy
-41397,Kenya
-41397,Mauritania
-41397,Morocco
-41397,Mozambique
-41397,Namibia
-41397,Netherlands
-41397,Nigeria
-41397,Norway
-41397,Poland
-41397,Portugal
-41397,"Republic of Congo"
-41397,Romania
-41397,Senegal
-41397,Slovenia
-41397,"South Africa"
-41397,Spain
-41397,Switzerland
-41397,Tanzania
-41397,Turkey
-41397,Uganda
-41397,Ukraine
-41397,"United States of America"
-41398,Angola
-41398,Austria
-41398,Botswana
-41398,Bulgaria
-41398,Cameroon
-41398,Chad
-41398,Denmark
-41398,"Equatorial Guinea"
-41398,France
-41398,Gabon
-41398,Germany
-41398,Ghana
-41398,Greece
-41398,"Guinea, Republic of"
-41398,Hungary
-41398,Israel
-41398,Italy
-41398,Kenya
-41398,Mauritania
-41398,Morocco
-41398,Mozambique
-41398,Namibia
-41398,Netherlands
-41398,Nigeria
-41398,Norway
-41398,Poland
-41398,Portugal
-41398,"Republic of Congo"
-41398,Romania
-41398,Senegal
-41398,Slovenia
-41398,"South Africa"
-41398,Spain
-41398,Switzerland
-41398,Tanzania
-41398,Turkey
-41398,Uganda
-41398,Ukraine
-41398,"United States of America"
-41399,Angola
-41399,Austria
-41399,Botswana
-41399,Bulgaria
-41399,Cameroon
-41399,Chad
-41399,Denmark
-41399,"Equatorial Guinea"
-41399,France
-41399,Gabon
-41399,Germany
-41399,Ghana
-41399,Greece
-41399,"Guinea, Republic of"
-41399,Hungary
-41399,Israel
-41399,Italy
-41399,Kenya
-41399,Mauritania
-41399,Morocco
-41399,Mozambique
-41399,Namibia
-41399,Netherlands
-41399,Nigeria
-41399,Norway
-41399,Poland
-41399,Portugal
-41399,"Republic of Congo"
-41399,Romania
-41399,Senegal
-41399,Slovenia
-41399,"South Africa"
-41399,Spain
-41399,Switzerland
-41399,Tanzania
-41399,Turkey
-41399,Uganda
-41399,Ukraine
-41399,"United States of America"
-41400,Angola
-41400,Austria
-41400,Botswana
-41400,Bulgaria
-41400,Cameroon
-41400,Chad
-41400,Denmark
-41400,"Equatorial Guinea"
-41400,France
-41400,Gabon
-41400,Germany
-41400,Ghana
-41400,Greece
-41400,"Guinea, Republic of"
-41400,Hungary
-41400,Israel
-41400,Italy
-41400,Kenya
-41400,Mauritania
-41400,Morocco
-41400,Mozambique
-41400,Namibia
-41400,Netherlands
-41400,Nigeria
-41400,Norway
-41400,Poland
-41400,Portugal
-41400,"Republic of Congo"
-41400,Romania
-41400,Senegal
-41400,Slovenia
-41400,"South Africa"
-41400,Spain
-41400,Switzerland
-41400,Tanzania
-41400,Turkey
-41400,Uganda
-41400,Ukraine
-41400,"United States of America"
-41401,Angola
-41401,Austria
-41401,Botswana
-41401,Bulgaria
-41401,Cameroon
-41401,Chad
-41401,Denmark
-41401,"Equatorial Guinea"
-41401,France
-41401,Gabon
-41401,Germany
-41401,Ghana
-41401,Greece
-41401,"Guinea, Republic of"
-41401,Hungary
-41401,Israel
-41401,Italy
-41401,Kenya
-41401,Mauritania
-41401,Morocco
-41401,Mozambique
-41401,Namibia
-41401,Netherlands
-41401,Nigeria
-41401,Norway
-41401,Poland
-41401,Portugal
-41401,"Republic of Congo"
-41401,Romania
-41401,Senegal
-41401,Slovenia
-41401,"South Africa"
-41401,Spain
-41401,Switzerland
-41401,Tanzania
-41401,Turkey
-41401,Uganda
-41401,Ukraine
-41401,"United States of America"
-41402,Angola
-41402,Austria
-41402,Botswana
-41402,Bulgaria
-41402,Cameroon
-41402,Chad
-41402,Denmark
-41402,"Equatorial Guinea"
-41402,France
-41402,Gabon
-41402,Germany
-41402,Ghana
-41402,Greece
-41402,"Guinea, Republic of"
-41402,Hungary
-41402,Israel
-41402,Italy
-41402,Kenya
-41402,Mauritania
-41402,Morocco
-41402,Mozambique
-41402,Namibia
-41402,Netherlands
-41402,Nigeria
-41402,Norway
-41402,Poland
-41402,Portugal
-41402,"Republic of Congo"
-41402,Romania
-41402,Senegal
-41402,Slovenia
-41402,"South Africa"
-41402,Spain
-41402,Switzerland
-41402,Tanzania
-41402,Turkey
-41402,Uganda
-41402,Ukraine
-41402,"United States of America"
-41403,Angola
-41403,Austria
-41403,Botswana
-41403,Bulgaria
-41403,Cameroon
-41403,Chad
-41403,Denmark
-41403,"Equatorial Guinea"
-41403,France
-41403,Gabon
-41403,Germany
-41403,Ghana
-41403,Greece
-41403,"Guinea, Republic of"
-41403,Hungary
-41403,Israel
-41403,Italy
-41403,Kenya
-41403,Mauritania
-41403,Morocco
-41403,Mozambique
-41403,Namibia
-41403,Netherlands
-41403,Nigeria
-41403,Norway
-41403,Poland
-41403,Portugal
-41403,"Republic of Congo"
-41403,Romania
-41403,Senegal
-41403,Slovenia
-41403,"South Africa"
-41403,Spain
-41403,Switzerland
-41403,Tanzania
-41403,Turkey
-41403,Uganda
-41403,Ukraine
-41403,"United States of America"
-41404,Angola
-41404,Austria
-41404,Botswana
-41404,Bulgaria
-41404,Cameroon
-41404,Chad
-41404,Denmark
-41404,"Equatorial Guinea"
-41404,France
-41404,Gabon
-41404,Germany
-41404,Ghana
-41404,Greece
-41404,"Guinea, Republic of"
-41404,Hungary
-41404,Israel
-41404,Italy
-41404,Kenya
-41404,Mauritania
-41404,Morocco
-41404,Mozambique
-41404,Namibia
-41404,Netherlands
-41404,Nigeria
-41404,Norway
-41404,Poland
-41404,Portugal
-41404,"Republic of Congo"
-41404,Romania
-41404,Senegal
-41404,Slovenia
-41404,"South Africa"
-41404,Spain
-41404,Switzerland
-41404,Tanzania
-41404,Turkey
-41404,Uganda
-41404,Ukraine
-41404,"United States of America"
-41405,Angola
-41405,Austria
-41405,Botswana
-41405,Bulgaria
-41405,Cameroon
-41405,Chad
-41405,Denmark
-41405,"Equatorial Guinea"
-41405,France
-41405,Gabon
-41405,Germany
-41405,Ghana
-41405,Greece
-41405,"Guinea, Republic of"
-41405,Hungary
-41405,Israel
-41405,Italy
-41405,Kenya
-41405,Mauritania
-41405,Morocco
-41405,Mozambique
-41405,Namibia
-41405,Netherlands
-41405,Nigeria
-41405,Norway
-41405,Poland
-41405,Portugal
-41405,"Republic of Congo"
-41405,Romania
-41405,Senegal
-41405,Slovenia
-41405,"South Africa"
-41405,Spain
-41405,Switzerland
-41405,Tanzania
-41405,Turkey
-41405,Uganda
-41405,Ukraine
-41405,"United States of America"
-41406,Angola
-41406,Austria
-41406,Botswana
-41406,Bulgaria
-41406,Cameroon
-41406,Chad
-41406,Denmark
-41406,"Equatorial Guinea"
-41406,France
-41406,Gabon
-41406,Germany
-41406,Ghana
-41406,Greece
-41406,"Guinea, Republic of"
-41406,Hungary
-41406,Israel
-41406,Italy
-41406,Kenya
-41406,Mauritania
-41406,Morocco
-41406,Mozambique
-41406,Namibia
-41406,Netherlands
-41406,Nigeria
-41406,Norway
-41406,Poland
-41406,Portugal
-41406,"Republic of Congo"
-41406,Romania
-41406,Senegal
-41406,Slovenia
-41406,"South Africa"
-41406,Spain
-41406,Switzerland
-41406,Tanzania
-41406,Turkey
-41406,Uganda
-41406,Ukraine
-41406,"United States of America"
-41407,Angola
-41407,Austria
-41407,Botswana
-41407,Bulgaria
-41407,Cameroon
-41407,Chad
-41407,Denmark
-41407,"Equatorial Guinea"
-41407,France
-41407,Gabon
-41407,Germany
-41407,Ghana
-41407,Greece
-41407,"Guinea, Republic of"
-41407,Hungary
-41407,Israel
-41407,Italy
-41407,Kenya
-41407,Mauritania
-41407,Morocco
-41407,Mozambique
-41407,Namibia
-41407,Netherlands
-41407,Nigeria
-41407,Norway
-41407,Poland
-41407,Portugal
-41407,"Republic of Congo"
-41407,Romania
-41407,Senegal
-41407,Slovenia
-41407,"South Africa"
-41407,Spain
-41407,Switzerland
-41407,Tanzania
-41407,Turkey
-41407,Uganda
-41407,Ukraine
-41407,"United States of America"
-41408,Angola
-41408,Austria
-41408,Botswana
-41408,Bulgaria
-41408,Cameroon
-41408,Chad
-41408,Denmark
-41408,"Equatorial Guinea"
-41408,France
-41408,Gabon
-41408,Germany
-41408,Ghana
-41408,Greece
-41408,"Guinea, Republic of"
-41408,Hungary
-41408,Israel
-41408,Italy
-41408,Kenya
-41408,Mauritania
-41408,Morocco
-41408,Mozambique
-41408,Namibia
-41408,Netherlands
-41408,Nigeria
-41408,Norway
-41408,Poland
-41408,Portugal
-41408,"Republic of Congo"
-41408,Romania
-41408,Senegal
-41408,Slovenia
-41408,"South Africa"
-41408,Spain
-41408,Switzerland
-41408,Tanzania
-41408,Turkey
-41408,Uganda
-41408,Ukraine
-41408,"United States of America"
-41409,Angola
-41409,Austria
-41409,Botswana
-41409,Bulgaria
-41409,Cameroon
-41409,Chad
-41409,Denmark
-41409,"Equatorial Guinea"
-41409,France
-41409,Gabon
-41409,Germany
-41409,Ghana
-41409,Greece
-41409,"Guinea, Republic of"
-41409,Hungary
-41409,Israel
-41409,Italy
-41409,Kenya
-41409,Mauritania
-41409,Morocco
-41409,Mozambique
-41409,Namibia
-41409,Netherlands
-41409,Nigeria
-41409,Norway
-41409,Poland
-41409,Portugal
-41409,"Republic of Congo"
-41409,Romania
-41409,Senegal
-41409,Slovenia
-41409,"South Africa"
-41409,Spain
-41409,Switzerland
-41409,Tanzania
-41409,Turkey
-41409,Uganda
-41409,Ukraine
-41409,"United States of America"
-41410,Angola
-41410,Austria
-41410,Botswana
-41410,Bulgaria
-41410,Cameroon
-41410,Chad
-41410,Denmark
-41410,"Equatorial Guinea"
-41410,France
-41410,Gabon
-41410,Germany
-41410,Ghana
-41410,Greece
-41410,"Guinea, Republic of"
-41410,Hungary
-41410,Israel
-41410,Italy
-41410,Kenya
-41410,Mauritania
-41410,Morocco
-41410,Mozambique
-41410,Namibia
-41410,Netherlands
-41410,Nigeria
-41410,Norway
-41410,Poland
-41410,Portugal
-41410,"Republic of Congo"
-41410,Romania
-41410,Senegal
-41410,Slovenia
-41410,"South Africa"
-41410,Spain
-41410,Switzerland
-41410,Tanzania
-41410,Turkey
-41410,Uganda
-41410,Ukraine
-41410,"United States of America"
-41411,Angola
-41411,Austria
-41411,Botswana
-41411,Bulgaria
-41411,Cameroon
-41411,Chad
-41411,Denmark
-41411,"Equatorial Guinea"
-41411,France
-41411,Gabon
-41411,Germany
-41411,Ghana
-41411,Greece
-41411,"Guinea, Republic of"
-41411,Hungary
-41411,Israel
-41411,Italy
-41411,Kenya
-41411,Mauritania
-41411,Morocco
-41411,Mozambique
-41411,Namibia
-41411,Netherlands
-41411,Nigeria
-41411,Norway
-41411,Poland
-41411,Portugal
-41411,"Republic of Congo"
-41411,Romania
-41411,Senegal
-41411,Slovenia
-41411,"South Africa"
-41411,Spain
-41411,Switzerland
-41411,Tanzania
-41411,Turkey
-41411,Uganda
-41411,Ukraine
-41411,"United States of America"
-41412,Angola
-41412,Austria
-41412,Botswana
-41412,Bulgaria
-41412,Cameroon
-41412,Chad
-41412,Denmark
-41412,"Equatorial Guinea"
-41412,France
-41412,Gabon
-41412,Germany
-41412,Ghana
-41412,Greece
-41412,"Guinea, Republic of"
-41412,Hungary
-41412,Israel
-41412,Italy
-41412,Kenya
-41412,Mauritania
-41412,Morocco
-41412,Mozambique
-41412,Namibia
-41412,Netherlands
-41412,Nigeria
-41412,Norway
-41412,Poland
-41412,Portugal
-41412,"Republic of Congo"
-41412,Romania
-41412,Senegal
-41412,Slovenia
-41412,"South Africa"
-41412,Spain
-41412,Switzerland
-41412,Tanzania
-41412,Turkey
-41412,Uganda
-41412,Ukraine
-41412,"United States of America"
-41413,Angola
-41413,Austria
-41413,Botswana
-41413,Bulgaria
-41413,Cameroon
-41413,Chad
-41413,Denmark
-41413,"Equatorial Guinea"
-41413,France
-41413,Gabon
-41413,Germany
-41413,Ghana
-41413,Greece
-41413,"Guinea, Republic of"
-41413,Hungary
-41413,Israel
-41413,Italy
-41413,Kenya
-41413,Mauritania
-41413,Morocco
-41413,Mozambique
-41413,Namibia
-41413,Netherlands
-41413,Nigeria
-41413,Norway
-41413,Poland
-41413,Portugal
-41413,"Republic of Congo"
-41413,Romania
-41413,Senegal
-41413,Slovenia
-41413,"South Africa"
-41413,Spain
-41413,Switzerland
-41413,Tanzania
-41413,Turkey
-41413,Uganda
-41413,Ukraine
-41413,"United States of America"
-41414,Angola
-41414,Austria
-41414,Botswana
-41414,Bulgaria
-41414,Cameroon
-41414,Chad
-41414,Denmark
-41414,"Equatorial Guinea"
-41414,France
-41414,Gabon
-41414,Germany
-41414,Ghana
-41414,Greece
-41414,"Guinea, Republic of"
-41414,Hungary
-41414,Israel
-41414,Italy
-41414,Kenya
-41414,Mauritania
-41414,Morocco
-41414,Mozambique
-41414,Namibia
-41414,Netherlands
-41414,Nigeria
-41414,Norway
-41414,Poland
-41414,Portugal
-41414,"Republic of Congo"
-41414,Romania
-41414,Senegal
-41414,Slovenia
-41414,"South Africa"
-41414,Spain
-41414,Switzerland
-41414,Tanzania
-41414,Turkey
-41414,Uganda
-41414,Ukraine
-41414,"United States of America"
-41415,Angola
-41415,Austria
-41415,Botswana
-41415,Bulgaria
-41415,Cameroon
-41415,Chad
-41415,Denmark
-41415,"Equatorial Guinea"
-41415,France
-41415,Gabon
-41415,Germany
-41415,Ghana
-41415,Greece
-41415,"Guinea, Republic of"
-41415,Hungary
-41415,Israel
-41415,Italy
-41415,Kenya
-41415,Mauritania
-41415,Morocco
-41415,Mozambique
-41415,Namibia
-41415,Netherlands
-41415,Nigeria
-41415,Norway
-41415,Poland
-41415,Portugal
-41415,"Republic of Congo"
-41415,Romania
-41415,Senegal
-41415,Slovenia
-41415,"South Africa"
-41415,Spain
-41415,Switzerland
-41415,Tanzania
-41415,Turkey
-41415,Uganda
-41415,Ukraine
-41415,"United States of America"
-41416,Angola
-41416,Austria
-41416,Botswana
-41416,Bulgaria
-41416,Cameroon
-41416,Chad
-41416,Denmark
-41416,"Equatorial Guinea"
-41416,France
-41416,Gabon
-41416,Germany
-41416,Ghana
-41416,Greece
-41416,"Guinea, Republic of"
-41416,Hungary
-41416,Israel
-41416,Italy
-41416,Kenya
-41416,Mauritania
-41416,Morocco
-41416,Mozambique
-41416,Namibia
-41416,Netherlands
-41416,Nigeria
-41416,Norway
-41416,Poland
-41416,Portugal
-41416,"Republic of Congo"
-41416,Romania
-41416,Senegal
-41416,Slovenia
-41416,"South Africa"
-41416,Spain
-41416,Switzerland
-41416,Tanzania
-41416,Turkey
-41416,Uganda
-41416,Ukraine
-41416,"United States of America"
-41417,Angola
-41417,Austria
-41417,Botswana
-41417,Bulgaria
-41417,Cameroon
-41417,Chad
-41417,Denmark
-41417,"Equatorial Guinea"
-41417,France
-41417,Gabon
-41417,Germany
-41417,Ghana
-41417,Greece
-41417,"Guinea, Republic of"
-41417,Hungary
-41417,Israel
-41417,Italy
-41417,Kenya
-41417,Mauritania
-41417,Morocco
-41417,Mozambique
-41417,Namibia
-41417,Netherlands
-41417,Nigeria
-41417,Norway
-41417,Poland
-41417,Portugal
-41417,"Republic of Congo"
-41417,Romania
-41417,Senegal
-41417,Slovenia
-41417,"South Africa"
-41417,Spain
-41417,Switzerland
-41417,Tanzania
-41417,Turkey
-41417,Uganda
-41417,Ukraine
-41417,"United States of America"
-41418,Angola
-41418,Austria
-41418,Botswana
-41418,Bulgaria
-41418,Cameroon
-41418,Chad
-41418,Denmark
-41418,"Equatorial Guinea"
-41418,France
-41418,Gabon
-41418,Germany
-41418,Ghana
-41418,Greece
-41418,"Guinea, Republic of"
-41418,Hungary
-41418,Israel
-41418,Italy
-41418,Kenya
-41418,Mauritania
-41418,Morocco
-41418,Mozambique
-41418,Namibia
-41418,Netherlands
-41418,Nigeria
-41418,Norway
-41418,Poland
-41418,Portugal
-41418,"Republic of Congo"
-41418,Romania
-41418,Senegal
-41418,Slovenia
-41418,"South Africa"
-41418,Spain
-41418,Switzerland
-41418,Tanzania
-41418,Turkey
-41418,Uganda
-41418,Ukraine
-41418,"United States of America"
-41419,Angola
-41419,Austria
-41419,Botswana
-41419,Bulgaria
-41419,Cameroon
-41419,Chad
-41419,Denmark
-41419,"Equatorial Guinea"
-41419,France
-41419,Gabon
-41419,Germany
-41419,Ghana
-41419,Greece
-41419,"Guinea, Republic of"
-41419,Hungary
-41419,Israel
-41419,Italy
-41419,Kenya
-41419,Mauritania
-41419,Morocco
-41419,Mozambique
-41419,Namibia
-41419,Netherlands
-41419,Nigeria
-41419,Norway
-41419,Poland
-41419,Portugal
-41419,"Republic of Congo"
-41419,Romania
-41419,Senegal
-41419,Slovenia
-41419,"South Africa"
-41419,Spain
-41419,Switzerland
-41419,Tanzania
-41419,Turkey
-41419,Uganda
-41419,Ukraine
-41419,"United States of America"
-41420,Angola
-41420,Austria
-41420,Botswana
-41420,Bulgaria
-41420,Cameroon
-41420,Chad
-41420,Denmark
-41420,"Equatorial Guinea"
-41420,France
-41420,Gabon
-41420,Germany
-41420,Ghana
-41420,Greece
-41420,"Guinea, Republic of"
-41420,Hungary
-41420,Israel
-41420,Italy
-41420,Kenya
-41420,Mauritania
-41420,Morocco
-41420,Mozambique
-41420,Namibia
-41420,Netherlands
-41420,Nigeria
-41420,Norway
-41420,Poland
-41420,Portugal
-41420,"Republic of Congo"
-41420,Romania
-41420,Senegal
-41420,Slovenia
-41420,"South Africa"
-41420,Spain
-41420,Switzerland
-41420,Tanzania
-41420,Turkey
-41420,Uganda
-41420,Ukraine
-41420,"United States of America"
-41421,Angola
-41421,Austria
-41421,Botswana
-41421,Bulgaria
-41421,Cameroon
-41421,Chad
-41421,Denmark
-41421,"Equatorial Guinea"
-41421,France
-41421,Gabon
-41421,Germany
-41421,Ghana
-41421,Greece
-41421,"Guinea, Republic of"
-41421,Hungary
-41421,Israel
-41421,Italy
-41421,Kenya
-41421,Mauritania
-41421,Morocco
-41421,Mozambique
-41421,Namibia
-41421,Netherlands
-41421,Nigeria
-41421,Norway
-41421,Poland
-41421,Portugal
-41421,"Republic of Congo"
-41421,Romania
-41421,Senegal
-41421,Slovenia
-41421,"South Africa"
-41421,Spain
-41421,Switzerland
-41421,Tanzania
-41421,Turkey
-41421,Uganda
-41421,Ukraine
-41421,"United States of America"
-41422,Angola
-41422,Austria
-41422,Botswana
-41422,Bulgaria
-41422,Cameroon
-41422,Chad
-41422,Denmark
-41422,"Equatorial Guinea"
-41422,France
-41422,Gabon
-41422,Germany
-41422,Ghana
-41422,Greece
-41422,"Guinea, Republic of"
-41422,Hungary
-41422,Israel
-41422,Italy
-41422,Kenya
-41422,Mauritania
-41422,Morocco
-41422,Mozambique
-41422,Namibia
-41422,Netherlands
-41422,Nigeria
-41422,Norway
-41422,Poland
-41422,Portugal
-41422,"Republic of Congo"
-41422,Romania
-41422,Senegal
-41422,Slovenia
-41422,"South Africa"
-41422,Spain
-41422,Switzerland
-41422,Tanzania
-41422,Turkey
-41422,Uganda
-41422,Ukraine
-41422,"United States of America"
-41423,Angola
-41423,Austria
-41423,Botswana
-41423,Bulgaria
-41423,Cameroon
-41423,Chad
-41423,Denmark
-41423,"Equatorial Guinea"
-41423,France
-41423,Gabon
-41423,Germany
-41423,Ghana
-41423,Greece
-41423,"Guinea, Republic of"
-41423,Hungary
-41423,Israel
-41423,Italy
-41423,Kenya
-41423,Mauritania
-41423,Morocco
-41423,Mozambique
-41423,Namibia
-41423,Netherlands
-41423,Nigeria
-41423,Norway
-41423,Poland
-41423,Portugal
-41423,"Republic of Congo"
-41423,Romania
-41423,Senegal
-41423,Slovenia
-41423,"South Africa"
-41423,Spain
-41423,Switzerland
-41423,Tanzania
-41423,Turkey
-41423,Uganda
-41423,Ukraine
-41423,"United States of America"
-41424,Angola
-41424,Austria
-41424,Botswana
-41424,Bulgaria
-41424,Cameroon
-41424,Chad
-41424,Denmark
-41424,"Equatorial Guinea"
-41424,France
-41424,Gabon
-41424,Germany
-41424,Ghana
-41424,Greece
-41424,"Guinea, Republic of"
-41424,Hungary
-41424,Israel
-41424,Italy
-41424,Kenya
-41424,Mauritania
-41424,Morocco
-41424,Mozambique
-41424,Namibia
-41424,Netherlands
-41424,Nigeria
-41424,Norway
-41424,Poland
-41424,Portugal
-41424,"Republic of Congo"
-41424,Romania
-41424,Senegal
-41424,Slovenia
-41424,"South Africa"
-41424,Spain
-41424,Switzerland
-41424,Tanzania
-41424,Turkey
-41424,Uganda
-41424,Ukraine
-41424,"United States of America"
-41425,Angola
-41425,Austria
-41425,Botswana
-41425,Bulgaria
-41425,Cameroon
-41425,Chad
-41425,Denmark
-41425,"Equatorial Guinea"
-41425,France
-41425,Gabon
-41425,Germany
-41425,Ghana
-41425,Greece
-41425,"Guinea, Republic of"
-41425,Hungary
-41425,Israel
-41425,Italy
-41425,Kenya
-41425,Mauritania
-41425,Morocco
-41425,Mozambique
-41425,Namibia
-41425,Netherlands
-41425,Nigeria
-41425,Norway
-41425,Poland
-41425,Portugal
-41425,"Republic of Congo"
-41425,Romania
-41425,Senegal
-41425,Slovenia
-41425,"South Africa"
-41425,Spain
-41425,Switzerland
-41425,Tanzania
-41425,Turkey
-41425,Uganda
-41425,Ukraine
-41425,"United States of America"
-41426,"Saudi Arabia"
-41426,France
-41426,"South Africa"
-41426,"United States of America"
-41426,Spain
-41427,Brunei
-41428,Brunei
-41429,Malaysia
-41429,Singapore
-41429,Germany
-41430,Brunei
-41431,"United States of America"
-41432,"United States of America"
-41433,Brunei
-41434,"United States of America"
-41435,"United States of America"
-41436,"United States of America"
-41437,"South Africa"
-41438,"South Africa"
-41439,"South Africa"
-41440,"South Africa"
-41441,"South Africa"
-41442,"South Africa"
-41443,"South Africa"
-41444,"South Africa"
-41445,"South Africa"
-41446,"South Africa"
-41447,"South Africa"
-41448,"South Africa"
-41449,"South Africa"
-41450,"South Africa"
-41451,"South Africa"
-41452,"South Africa"
-41453,"South Africa"
-41454,"South Africa"
-41455,"South Africa"
-41456,"South Africa"
-41457,"South Africa"
-41458,"South Africa"
-41459,"South Africa"
-41460,Jordan
-41461,Jordan
-41462,Jordan
-41463,Jordan
-41464,Jordan
-41465,Jordan
-41466,Jordan
-41467,Jordan
-41468,"United States of America"
-41469,"South Africa"
-41470,"South Africa"
-41471,"South Africa"
-41472,"South Africa"
-41473,"South Africa"
-41474,"Non Specific Country"
-41475,"Non Specific Country"
-41476,"Non Specific Country"
-41477,Malaysia
-41477,France
-41478,Malaysia
-41478,France
-41479,Malaysia
-41479,France
-41480,Malaysia
-41480,France
-41481,Malaysia
-41481,France
-41482,Malaysia
-41482,France
-41483,Malaysia
-41483,France
-41484,Malaysia
-41484,France
-41485,Malaysia
-41485,France
-41486,Malaysia
-41486,France
-41487,Malaysia
-41487,France
-41488,Malaysia
-41488,France
-41489,Malaysia
-41489,France
-41490,Malaysia
-41490,France
-41491,Malaysia
-41491,France
-41492,Malaysia
-41492,France
-41493,Malaysia
-41493,France
-41494,Malaysia
-41494,France
-41495,Malaysia
-41495,France
-41496,Malaysia
-41496,France
-41497,"South Africa"
-41498,"South Africa"
-41499,"South Africa"
-41500,"South Africa"
-41501,"South Africa"
-41502,"South Africa"
-41503,"South Africa"
-41504,"South Africa"
-41505,"South Africa"
-41506,"South Africa"
-41507,Portugal
-41508,"Non Specific Country"
-41509,"Non Specific Country"
-41510,Turkey
-41511,"Non Specific Country"
-41512,"Non Specific Country"
-41513,France
-41514,Qatar
-41514,"United Arab Emirates"
-41515,"United States of America"
-41516,"Non Specific Country"
-41517,Djibouti
-41517,India
-41517,Kenya
-41517,Malta
-41517,Mauritius
-41517,Oman
-41517,"South Africa"
-41517,"Sri Lanka"
-41517,Tanzania
-41517,"United Arab Emirates"
-41518,Djibouti
-41518,India
-41518,Kenya
-41518,Malta
-41518,Mauritius
-41518,Oman
-41518,"South Africa"
-41518,"Sri Lanka"
-41518,Tanzania
-41518,"United Arab Emirates"
-41519,Djibouti
-41519,India
-41519,Kenya
-41519,Malta
-41519,Mauritius
-41519,Oman
-41519,"South Africa"
-41519,"Sri Lanka"
-41519,Tanzania
-41519,"United Arab Emirates"
-41520,Djibouti
-41520,India
-41520,Kenya
-41520,Malta
-41520,Mauritius
-41520,Oman
-41520,"South Africa"
-41520,"Sri Lanka"
-41520,Tanzania
-41520,"United Arab Emirates"
-41521,Djibouti
-41521,India
-41521,Kenya
-41521,Malta
-41521,Mauritius
-41521,Oman
-41521,"South Africa"
-41521,"Sri Lanka"
-41521,Tanzania
-41521,"United Arab Emirates"
-41522,Djibouti
-41522,India
-41522,Kenya
-41522,Malta
-41522,Mauritius
-41522,Oman
-41522,"South Africa"
-41522,"Sri Lanka"
-41522,Tanzania
-41522,"United Arab Emirates"
-41523,Djibouti
-41523,India
-41523,Kenya
-41523,Malta
-41523,Mauritius
-41523,Oman
-41523,"South Africa"
-41523,"Sri Lanka"
-41523,Tanzania
-41523,"United Arab Emirates"
-41524,Djibouti
-41524,India
-41524,Kenya
-41524,Malta
-41524,Mauritius
-41524,Oman
-41524,"South Africa"
-41524,"Sri Lanka"
-41524,Tanzania
-41524,"United Arab Emirates"
-41525,Djibouti
-41525,India
-41525,Kenya
-41525,Malta
-41525,Mauritius
-41525,Oman
-41525,"South Africa"
-41525,"Sri Lanka"
-41525,Tanzania
-41525,"United Arab Emirates"
-41526,"Non Specific Country"
-41527,"Non Specific Country"
-41528,"Non Specific Country"
-41529,"Non Specific Country"
-41530,"Non Specific Country"
-41531,"Non Specific Country"
-41532,"Non Specific Country"
-41533,Argentina
-41533,Brazil
-41533,Egypt
-41533,Gibraltar
-41533,"Hong Kong Special Administrative Region"
-41533,India
-41533,Kenya
-41533,Madagascar
-41533,Malaysia
-41533,Maldives
-41533,Malta
-41533,Mauritius
-41533,Mexico
-41533,Netherlands
-41533,Oman
-41533,Philippines
-41533,Qatar
-41533,Seychelles
-41533,"South Africa"
-41533,"Sri Lanka"
-41533,Tanzania
-41533,Thailand
-41533,"United States of America"
-41534,Argentina
-41534,Brazil
-41534,Egypt
-41534,Gibraltar
-41534,"Hong Kong Special Administrative Region"
-41534,India
-41534,Kenya
-41534,Madagascar
-41534,Malaysia
-41534,Maldives
-41534,Malta
-41534,Mauritius
-41534,Mexico
-41534,Netherlands
-41534,Oman
-41534,Philippines
-41534,Qatar
-41534,Seychelles
-41534,"South Africa"
-41534,"Sri Lanka"
-41534,Tanzania
-41534,Thailand
-41534,"United States of America"
-41535,Argentina
-41535,Brazil
-41535,Egypt
-41535,Gibraltar
-41535,"Hong Kong Special Administrative Region"
-41535,India
-41535,Kenya
-41535,Madagascar
-41535,Malaysia
-41535,Maldives
-41535,Malta
-41535,Mauritius
-41535,Mexico
-41535,Netherlands
-41535,Oman
-41535,Philippines
-41535,Qatar
-41535,Seychelles
-41535,"South Africa"
-41535,"Sri Lanka"
-41535,Tanzania
-41535,Thailand
-41535,"United States of America"
-41536,Argentina
-41536,Brazil
-41536,Egypt
-41536,Gibraltar
-41536,"Hong Kong Special Administrative Region"
-41536,India
-41536,Kenya
-41536,Madagascar
-41536,Malaysia
-41536,Maldives
-41536,Malta
-41536,Mauritius
-41536,Mexico
-41536,Netherlands
-41536,Oman
-41536,Philippines
-41536,Qatar
-41536,Seychelles
-41536,"South Africa"
-41536,"Sri Lanka"
-41536,Tanzania
-41536,Thailand
-41536,"United States of America"
-41537,Argentina
-41537,Brazil
-41537,Egypt
-41537,Gibraltar
-41537,"Hong Kong Special Administrative Region"
-41537,India
-41537,Kenya
-41537,Madagascar
-41537,Malaysia
-41537,Maldives
-41537,Malta
-41537,Mauritius
-41537,Mexico
-41537,Netherlands
-41537,Oman
-41537,Philippines
-41537,Qatar
-41537,Seychelles
-41537,"South Africa"
-41537,"Sri Lanka"
-41537,Tanzania
-41537,Thailand
-41537,"United States of America"
-41538,Argentina
-41538,Brazil
-41538,Egypt
-41538,Gibraltar
-41538,"Hong Kong Special Administrative Region"
-41538,India
-41538,Kenya
-41538,Madagascar
-41538,Malaysia
-41538,Maldives
-41538,Malta
-41538,Mauritius
-41538,Mexico
-41538,Netherlands
-41538,Oman
-41538,Philippines
-41538,Qatar
-41538,Seychelles
-41538,"South Africa"
-41538,"Sri Lanka"
-41538,Tanzania
-41538,Thailand
-41538,"United States of America"
-41539,Argentina
-41539,Brazil
-41539,Egypt
-41539,Gibraltar
-41539,"Hong Kong Special Administrative Region"
-41539,India
-41539,Kenya
-41539,Madagascar
-41539,Malaysia
-41539,Maldives
-41539,Malta
-41539,Mauritius
-41539,Mexico
-41539,Netherlands
-41539,Oman
-41539,Philippines
-41539,Qatar
-41539,Seychelles
-41539,"South Africa"
-41539,"Sri Lanka"
-41539,Tanzania
-41539,Thailand
-41539,"United States of America"
-41540,Argentina
-41540,Brazil
-41540,Egypt
-41540,Gibraltar
-41540,"Hong Kong Special Administrative Region"
-41540,India
-41540,Kenya
-41540,Madagascar
-41540,Malaysia
-41540,Maldives
-41540,Malta
-41540,Mauritius
-41540,Mexico
-41540,Netherlands
-41540,Oman
-41540,Philippines
-41540,Qatar
-41540,Seychelles
-41540,"South Africa"
-41540,"Sri Lanka"
-41540,Tanzania
-41540,Thailand
-41540,"United States of America"
-41541,Argentina
-41541,Brazil
-41541,Egypt
-41541,Gibraltar
-41541,"Hong Kong Special Administrative Region"
-41541,India
-41541,Kenya
-41541,Madagascar
-41541,Malaysia
-41541,Maldives
-41541,Malta
-41541,Mauritius
-41541,Mexico
-41541,Netherlands
-41541,Oman
-41541,Philippines
-41541,Qatar
-41541,Seychelles
-41541,"South Africa"
-41541,"Sri Lanka"
-41541,Tanzania
-41541,Thailand
-41541,"United States of America"
-41542,Argentina
-41542,Brazil
-41542,Egypt
-41542,Gibraltar
-41542,"Hong Kong Special Administrative Region"
-41542,India
-41542,Kenya
-41542,Madagascar
-41542,Malaysia
-41542,Maldives
-41542,Malta
-41542,Mauritius
-41542,Mexico
-41542,Netherlands
-41542,Oman
-41542,Philippines
-41542,Qatar
-41542,Seychelles
-41542,"South Africa"
-41542,"Sri Lanka"
-41542,Tanzania
-41542,Thailand
-41542,"United States of America"
-41543,Argentina
-41543,Brazil
-41543,Egypt
-41543,Gibraltar
-41543,"Hong Kong Special Administrative Region"
-41543,India
-41543,Kenya
-41543,Madagascar
-41543,Malaysia
-41543,Maldives
-41543,Malta
-41543,Mauritius
-41543,Mexico
-41543,Netherlands
-41543,Oman
-41543,Philippines
-41543,Qatar
-41543,Seychelles
-41543,"South Africa"
-41543,"Sri Lanka"
-41543,Tanzania
-41543,Thailand
-41543,"United States of America"
-41544,Argentina
-41544,Brazil
-41544,Egypt
-41544,Gibraltar
-41544,"Hong Kong Special Administrative Region"
-41544,India
-41544,Kenya
-41544,Madagascar
-41544,Malaysia
-41544,Maldives
-41544,Malta
-41544,Mauritius
-41544,Mexico
-41544,Netherlands
-41544,Oman
-41544,Philippines
-41544,Qatar
-41544,Seychelles
-41544,"South Africa"
-41544,"Sri Lanka"
-41544,Tanzania
-41544,Thailand
-41544,"United States of America"
-41545,Argentina
-41545,Brazil
-41545,Egypt
-41545,Gibraltar
-41545,"Hong Kong Special Administrative Region"
-41545,India
-41545,Kenya
-41545,Madagascar
-41545,Malaysia
-41545,Maldives
-41545,Malta
-41545,Mauritius
-41545,Mexico
-41545,Netherlands
-41545,Oman
-41545,Philippines
-41545,Qatar
-41545,Seychelles
-41545,"South Africa"
-41545,"Sri Lanka"
-41545,Tanzania
-41545,Thailand
-41545,"United States of America"
-41546,Argentina
-41546,Brazil
-41546,Egypt
-41546,Gibraltar
-41546,"Hong Kong Special Administrative Region"
-41546,India
-41546,Kenya
-41546,Madagascar
-41546,Malaysia
-41546,Maldives
-41546,Malta
-41546,Mauritius
-41546,Mexico
-41546,Netherlands
-41546,Oman
-41546,Philippines
-41546,Qatar
-41546,Seychelles
-41546,"South Africa"
-41546,"Sri Lanka"
-41546,Tanzania
-41546,Thailand
-41546,"United States of America"
-41547,Argentina
-41547,Brazil
-41547,Egypt
-41547,Gibraltar
-41547,"Hong Kong Special Administrative Region"
-41547,India
-41547,Kenya
-41547,Madagascar
-41547,Malaysia
-41547,Maldives
-41547,Malta
-41547,Mauritius
-41547,Mexico
-41547,Netherlands
-41547,Oman
-41547,Philippines
-41547,Qatar
-41547,Seychelles
-41547,"South Africa"
-41547,"Sri Lanka"
-41547,Tanzania
-41547,Thailand
-41547,"United States of America"
-41548,Argentina
-41548,Brazil
-41548,Egypt
-41548,Gibraltar
-41548,"Hong Kong Special Administrative Region"
-41548,India
-41548,Kenya
-41548,Madagascar
-41548,Malaysia
-41548,Maldives
-41548,Malta
-41548,Mauritius
-41548,Mexico
-41548,Netherlands
-41548,Oman
-41548,Philippines
-41548,Qatar
-41548,Seychelles
-41548,"South Africa"
-41548,"Sri Lanka"
-41548,Tanzania
-41548,Thailand
-41548,"United States of America"
-41549,Argentina
-41549,Brazil
-41549,Egypt
-41549,Gibraltar
-41549,"Hong Kong Special Administrative Region"
-41549,India
-41549,Kenya
-41549,Madagascar
-41549,Malaysia
-41549,Maldives
-41549,Malta
-41549,Mauritius
-41549,Mexico
-41549,Netherlands
-41549,Oman
-41549,Philippines
-41549,Qatar
-41549,Seychelles
-41549,"South Africa"
-41549,"Sri Lanka"
-41549,Tanzania
-41549,Thailand
-41549,"United States of America"
-41550,Argentina
-41550,Brazil
-41550,Egypt
-41550,Gibraltar
-41550,"Hong Kong Special Administrative Region"
-41550,India
-41550,Kenya
-41550,Madagascar
-41550,Malaysia
-41550,Maldives
-41550,Malta
-41550,Mauritius
-41550,Mexico
-41550,Netherlands
-41550,Oman
-41550,Philippines
-41550,Qatar
-41550,Seychelles
-41550,"South Africa"
-41550,"Sri Lanka"
-41550,Tanzania
-41550,Thailand
-41550,"United States of America"
-41551,Argentina
-41551,Brazil
-41551,Egypt
-41551,Gibraltar
-41551,"Hong Kong Special Administrative Region"
-41551,India
-41551,Kenya
-41551,Madagascar
-41551,Malaysia
-41551,Maldives
-41551,Malta
-41551,Mauritius
-41551,Mexico
-41551,Netherlands
-41551,Oman
-41551,Philippines
-41551,Qatar
-41551,Seychelles
-41551,"South Africa"
-41551,"Sri Lanka"
-41551,Tanzania
-41551,Thailand
-41551,"United States of America"
-41552,Argentina
-41552,Brazil
-41552,Egypt
-41552,Gibraltar
-41552,"Hong Kong Special Administrative Region"
-41552,India
-41552,Kenya
-41552,Madagascar
-41552,Malaysia
-41552,Maldives
-41552,Malta
-41552,Mauritius
-41552,Mexico
-41552,Netherlands
-41552,Oman
-41552,Philippines
-41552,Qatar
-41552,Seychelles
-41552,"South Africa"
-41552,"Sri Lanka"
-41552,Tanzania
-41552,Thailand
-41552,"United States of America"
-41553,Argentina
-41553,Brazil
-41553,Egypt
-41553,Gibraltar
-41553,"Hong Kong Special Administrative Region"
-41553,India
-41553,Kenya
-41553,Madagascar
-41553,Malaysia
-41553,Maldives
-41553,Malta
-41553,Mauritius
-41553,Mexico
-41553,Netherlands
-41553,Oman
-41553,Philippines
-41553,Qatar
-41553,Seychelles
-41553,"South Africa"
-41553,"Sri Lanka"
-41553,Tanzania
-41553,Thailand
-41553,"United States of America"
-41554,Argentina
-41554,Brazil
-41554,Egypt
-41554,Gibraltar
-41554,"Hong Kong Special Administrative Region"
-41554,India
-41554,Kenya
-41554,Madagascar
-41554,Malaysia
-41554,Maldives
-41554,Malta
-41554,Mauritius
-41554,Mexico
-41554,Netherlands
-41554,Oman
-41554,Philippines
-41554,Qatar
-41554,Seychelles
-41554,"South Africa"
-41554,"Sri Lanka"
-41554,Tanzania
-41554,Thailand
-41554,"United States of America"
-41555,Argentina
-41555,Brazil
-41555,Egypt
-41555,Gibraltar
-41555,"Hong Kong Special Administrative Region"
-41555,India
-41555,Kenya
-41555,Madagascar
-41555,Malaysia
-41555,Maldives
-41555,Malta
-41555,Mauritius
-41555,Mexico
-41555,Netherlands
-41555,Oman
-41555,Philippines
-41555,Qatar
-41555,Seychelles
-41555,"South Africa"
-41555,"Sri Lanka"
-41555,Tanzania
-41555,Thailand
-41555,"United States of America"
-41556,"South Africa"
-41557,Djibouti
-41557,Egypt
-41557,Kenya
-41557,Malaysia
-41557,Maldives
-41557,Malta
-41557,Mauritius
-41557,Mozambique
-41557,Oman
-41557,Seychelles
-41557,Singapore
-41557,"South Africa"
-41557,"Sri Lanka"
-41557,Tanzania
-41558,"South Africa"
-41559,Djibouti
-41559,Egypt
-41559,Kenya
-41559,Malaysia
-41559,Maldives
-41559,Malta
-41559,Mauritius
-41559,Mozambique
-41559,Oman
-41559,Seychelles
-41559,Singapore
-41559,"South Africa"
-41559,"Sri Lanka"
-41559,Tanzania
-41560,"South Africa"
-41561,Djibouti
-41561,Egypt
-41561,Kenya
-41561,Malaysia
-41561,Maldives
-41561,Malta
-41561,Mauritius
-41561,Mozambique
-41561,Oman
-41561,Seychelles
-41561,Singapore
-41561,"South Africa"
-41561,"Sri Lanka"
-41561,Tanzania
-41562,Djibouti
-41562,Egypt
-41562,Kenya
-41562,Malaysia
-41562,Maldives
-41562,Malta
-41562,Mauritius
-41562,Mozambique
-41562,Oman
-41562,Seychelles
-41562,Singapore
-41562,"South Africa"
-41562,"Sri Lanka"
-41562,Tanzania
-41563,Djibouti
-41563,Egypt
-41563,Kenya
-41563,Malaysia
-41563,Maldives
-41563,Malta
-41563,Mauritius
-41563,Mozambique
-41563,Oman
-41563,Seychelles
-41563,Singapore
-41563,"South Africa"
-41563,"Sri Lanka"
-41563,Tanzania
-41564,Djibouti
-41564,Egypt
-41564,Kenya
-41564,Malaysia
-41564,Maldives
-41564,Malta
-41564,Mauritius
-41564,Mozambique
-41564,Oman
-41564,Seychelles
-41564,Singapore
-41564,"South Africa"
-41564,"Sri Lanka"
-41564,Tanzania
-41565,Djibouti
-41565,Egypt
-41565,Kenya
-41565,Malaysia
-41565,Maldives
-41565,Malta
-41565,Mauritius
-41565,Mozambique
-41565,Oman
-41565,Seychelles
-41565,Singapore
-41565,"South Africa"
-41565,"Sri Lanka"
-41565,Tanzania
-41566,Djibouti
-41566,Egypt
-41566,Kenya
-41566,Malaysia
-41566,Maldives
-41566,Malta
-41566,Mauritius
-41566,Mozambique
-41566,Oman
-41566,Seychelles
-41566,Singapore
-41566,"South Africa"
-41566,"Sri Lanka"
-41566,Tanzania
-41567,Djibouti
-41567,Egypt
-41567,Kenya
-41567,Malaysia
-41567,Maldives
-41567,Malta
-41567,Mauritius
-41567,Mozambique
-41567,Oman
-41567,Seychelles
-41567,Singapore
-41567,"South Africa"
-41567,"Sri Lanka"
-41567,Tanzania
-41568,"South Africa"
-41569,"South Africa"
-41570,Djibouti
-41570,Egypt
-41570,Kenya
-41570,Malaysia
-41570,Maldives
-41570,Malta
-41570,Mauritius
-41570,Mozambique
-41570,Oman
-41570,Seychelles
-41570,Singapore
-41570,"South Africa"
-41570,"Sri Lanka"
-41570,Tanzania
-41571,Djibouti
-41571,Egypt
-41571,Kenya
-41571,Malaysia
-41571,Maldives
-41571,Malta
-41571,Mauritius
-41571,Mozambique
-41571,Oman
-41571,Seychelles
-41571,Singapore
-41571,"South Africa"
-41571,"Sri Lanka"
-41571,Tanzania
-41572,Djibouti
-41572,Egypt
-41572,Kenya
-41572,Malaysia
-41572,Maldives
-41572,Malta
-41572,Mauritius
-41572,Mozambique
-41572,Oman
-41572,Seychelles
-41572,Singapore
-41572,"South Africa"
-41572,"Sri Lanka"
-41572,Tanzania
-41573,Djibouti
-41573,Egypt
-41573,Kenya
-41573,Malaysia
-41573,Maldives
-41573,Malta
-41573,Mauritius
-41573,Mozambique
-41573,Oman
-41573,Seychelles
-41573,Singapore
-41573,"South Africa"
-41573,"Sri Lanka"
-41573,Tanzania
-41574,Djibouti
-41574,Egypt
-41574,Kenya
-41574,Malaysia
-41574,Maldives
-41574,Malta
-41574,Mauritius
-41574,Mozambique
-41574,Oman
-41574,Seychelles
-41574,Singapore
-41574,"South Africa"
-41574,"Sri Lanka"
-41574,Tanzania
-41575,Kenya
-41575,Oman
-41575,"Sri Lanka"
-41576,Kenya
-41576,Oman
-41576,"Sri Lanka"
-41577,Kenya
-41577,Oman
-41577,"Sri Lanka"
-41578,Djibouti
-41578,India
-41578,Kenya
-41578,Madagascar
-41578,Maldives
-41578,Malta
-41578,Mauritius
-41578,Mozambique
-41578,Oman
-41578,"South Africa"
-41578,"Sri Lanka"
-41578,Tanzania
-41579,Djibouti
-41579,India
-41579,Kenya
-41579,Madagascar
-41579,Maldives
-41579,Malta
-41579,Mauritius
-41579,Mozambique
-41579,Oman
-41579,"South Africa"
-41579,"Sri Lanka"
-41579,Tanzania
-41580,Djibouti
-41580,India
-41580,Kenya
-41580,Madagascar
-41580,Maldives
-41580,Malta
-41580,Mauritius
-41580,Mozambique
-41580,Oman
-41580,"South Africa"
-41580,"Sri Lanka"
-41580,Tanzania
-41581,Djibouti
-41581,India
-41581,Kenya
-41581,Madagascar
-41581,Maldives
-41581,Malta
-41581,Mauritius
-41581,Mozambique
-41581,Oman
-41581,"South Africa"
-41581,"Sri Lanka"
-41581,Tanzania
-41582,Djibouti
-41582,India
-41582,Kenya
-41582,Madagascar
-41582,Maldives
-41582,Malta
-41582,Mauritius
-41582,Mozambique
-41582,Oman
-41582,"South Africa"
-41582,"Sri Lanka"
-41582,Tanzania
-41583,Djibouti
-41583,India
-41583,Kenya
-41583,Madagascar
-41583,Maldives
-41583,Malta
-41583,Mauritius
-41583,Mozambique
-41583,Oman
-41583,"South Africa"
-41583,"Sri Lanka"
-41583,Tanzania
-41584,Djibouti
-41584,India
-41584,Kenya
-41584,Madagascar
-41584,Maldives
-41584,Malta
-41584,Mauritius
-41584,Mozambique
-41584,Oman
-41584,"South Africa"
-41584,"Sri Lanka"
-41584,Tanzania
-41585,Djibouti
-41585,India
-41585,Kenya
-41585,Madagascar
-41585,Maldives
-41585,Malta
-41585,Mauritius
-41585,Mozambique
-41585,Oman
-41585,"South Africa"
-41585,"Sri Lanka"
-41585,Tanzania
-41586,Djibouti
-41586,India
-41586,Kenya
-41586,Madagascar
-41586,Maldives
-41586,Malta
-41586,Mauritius
-41586,Mozambique
-41586,Oman
-41586,"South Africa"
-41586,"Sri Lanka"
-41586,Tanzania
-41587,Djibouti
-41587,India
-41587,Kenya
-41587,Madagascar
-41587,Maldives
-41587,Malta
-41587,Mauritius
-41587,Mozambique
-41587,Oman
-41587,"South Africa"
-41587,"Sri Lanka"
-41587,Tanzania
-41588,Malta
-41588,Mauritius
-41588,Oman
-41588,"South Africa"
-41588,"Sri Lanka"
-41589,"Non Specific Country"
-41590,Malta
-41590,Mauritius
-41590,Oman
-41590,"South Africa"
-41590,"Sri Lanka"
-41591,Malta
-41591,Mauritius
-41591,Oman
-41591,"South Africa"
-41591,"Sri Lanka"
-41592,Malta
-41592,Mauritius
-41592,Oman
-41592,"South Africa"
-41592,"Sri Lanka"
-41593,Malta
-41593,Mauritius
-41593,Oman
-41593,"South Africa"
-41593,"Sri Lanka"
-41594,Jordan
-41595,Jordan
-41596,Jordan
-41597,Jordan
-41598,Jordan
-41599,Jordan
-41600,Jordan
-41601,Jordan
-41602,Jordan
-41603,Jordan
-41604,Jordan
-41605,Djibouti
-41605,Malta
-41605,Mauritius
-41605,Oman
-41605,"South Africa"
-41605,"Sri Lanka"
-41606,Djibouti
-41606,Malta
-41606,Mauritius
-41606,Oman
-41606,"South Africa"
-41606,"Sri Lanka"
-41607,Djibouti
-41607,Malta
-41607,Mauritius
-41607,Oman
-41607,"South Africa"
-41607,"Sri Lanka"
-41608,Djibouti
-41608,Malta
-41608,Mauritius
-41608,Oman
-41608,"South Africa"
-41608,"Sri Lanka"
-41609,Djibouti
-41609,Malta
-41609,Mauritius
-41609,Oman
-41609,"South Africa"
-41609,"Sri Lanka"
-41610,Djibouti
-41610,Malta
-41610,Mauritius
-41610,Oman
-41610,"South Africa"
-41610,"Sri Lanka"
-41611,Djibouti
-41611,Kenya
-41611,Malta
-41611,Mauritius
-41611,Oman
-41611,"South Africa"
-41611,"Sri Lanka"
-41612,Djibouti
-41612,Kenya
-41612,Malta
-41612,Mauritius
-41612,Oman
-41612,"South Africa"
-41612,"Sri Lanka"
-41613,Djibouti
-41613,Kenya
-41613,Malta
-41613,Mauritius
-41613,Oman
-41613,"South Africa"
-41613,"Sri Lanka"
-41614,Djibouti
-41614,Kenya
-41614,Malta
-41614,Mauritius
-41614,Oman
-41614,"South Africa"
-41614,"Sri Lanka"
-41615,Djibouti
-41615,Kenya
-41615,Malta
-41615,Mauritius
-41615,Oman
-41615,"South Africa"
-41615,"Sri Lanka"
-41616,Djibouti
-41616,Kenya
-41616,Malta
-41616,Mauritius
-41616,Oman
-41616,"South Africa"
-41616,"Sri Lanka"
-41617,Djibouti
-41617,Kenya
-41617,Malta
-41617,Mauritius
-41617,Oman
-41617,"South Africa"
-41617,"Sri Lanka"
-41618,Australia
-41618,Djibouti
-41618,Egypt
-41618,Malaysia
-41618,Malta
-41618,Oman
-41618,Singapore
-41618,"South Africa"
-41618,"Sri Lanka"
-41618,Tanzania
-41618,Thailand
-41619,Australia
-41619,Djibouti
-41619,Egypt
-41619,Malaysia
-41619,Malta
-41619,Oman
-41619,Singapore
-41619,"South Africa"
-41619,"Sri Lanka"
-41619,Tanzania
-41619,Thailand
-41620,Australia
-41620,Djibouti
-41620,Egypt
-41620,Malaysia
-41620,Malta
-41620,Oman
-41620,Singapore
-41620,"South Africa"
-41620,"Sri Lanka"
-41620,Tanzania
-41620,Thailand
-41621,Australia
-41621,Djibouti
-41621,Egypt
-41621,Malaysia
-41621,Malta
-41621,Oman
-41621,Singapore
-41621,"South Africa"
-41621,"Sri Lanka"
-41621,Tanzania
-41621,Thailand
-41622,Australia
-41622,Djibouti
-41622,Egypt
-41622,Malaysia
-41622,Malta
-41622,Oman
-41622,Singapore
-41622,"South Africa"
-41622,"Sri Lanka"
-41622,Tanzania
-41622,Thailand
-41623,Australia
-41623,Djibouti
-41623,Egypt
-41623,Malaysia
-41623,Malta
-41623,Oman
-41623,Singapore
-41623,"South Africa"
-41623,"Sri Lanka"
-41623,Tanzania
-41623,Thailand
-41624,Australia
-41624,Djibouti
-41624,Egypt
-41624,Malaysia
-41624,Malta
-41624,Oman
-41624,Singapore
-41624,"South Africa"
-41624,"Sri Lanka"
-41624,Tanzania
-41624,Thailand
-41625,Australia
-41625,Djibouti
-41625,Egypt
-41625,Malaysia
-41625,Malta
-41625,Oman
-41625,Singapore
-41625,"South Africa"
-41625,"Sri Lanka"
-41625,Tanzania
-41625,Thailand
-41626,Australia
-41626,Djibouti
-41626,Egypt
-41626,Malaysia
-41626,Malta
-41626,Oman
-41626,Singapore
-41626,"South Africa"
-41626,"Sri Lanka"
-41626,Tanzania
-41626,Thailand
-41627,Australia
-41627,Djibouti
-41627,Egypt
-41627,Malaysia
-41627,Malta
-41627,Oman
-41627,Singapore
-41627,"South Africa"
-41627,"Sri Lanka"
-41627,Tanzania
-41627,Thailand
-41628,Australia
-41628,Djibouti
-41628,Egypt
-41628,Malaysia
-41628,Malta
-41628,Oman
-41628,Singapore
-41628,"South Africa"
-41628,"Sri Lanka"
-41628,Tanzania
-41628,Thailand
-41629,Djibouti
-41629,Egypt
-41629,Jordan
-41629,Malta
-41629,Mauritius
-41629,Oman
-41629,"South Africa"
-41629,"Sri Lanka"
-41630,Djibouti
-41630,Egypt
-41630,Jordan
-41630,Malta
-41630,Mauritius
-41630,Oman
-41630,"South Africa"
-41630,"Sri Lanka"
-41631,Djibouti
-41631,Egypt
-41631,Jordan
-41631,Malta
-41631,Mauritius
-41631,Oman
-41631,"South Africa"
-41631,"Sri Lanka"
-41632,Djibouti
-41632,Egypt
-41632,Jordan
-41632,Malta
-41632,Mauritius
-41632,Oman
-41632,"South Africa"
-41632,"Sri Lanka"
-41633,Djibouti
-41633,Egypt
-41633,Jordan
-41633,Malta
-41633,Mauritius
-41633,Oman
-41633,"South Africa"
-41633,"Sri Lanka"
-41634,Djibouti
-41634,Egypt
-41634,Jordan
-41634,Malta
-41634,Mauritius
-41634,Oman
-41634,"South Africa"
-41634,"Sri Lanka"
-41635,Djibouti
-41635,Egypt
-41635,Jordan
-41635,Malta
-41635,Mauritius
-41635,Oman
-41635,"South Africa"
-41635,"Sri Lanka"
-41636,Djibouti
-41636,Egypt
-41636,Jordan
-41636,Malta
-41636,Mauritius
-41636,Oman
-41636,"South Africa"
-41636,"Sri Lanka"
-41637,Djibouti
-41637,Egypt
-41637,Kenya
-41637,Maldives
-41637,Mauritius
-41637,Mozambique
-41637,Oman
-41637,Seychelles
-41637,"South Africa"
-41637,"Sri Lanka"
-41637,Tanzania
-41638,Djibouti
-41638,Egypt
-41638,Kenya
-41638,Maldives
-41638,Mauritius
-41638,Mozambique
-41638,Oman
-41638,Seychelles
-41638,"South Africa"
-41638,"Sri Lanka"
-41638,Tanzania
-41639,Djibouti
-41639,Egypt
-41639,Kenya
-41639,Maldives
-41639,Mauritius
-41639,Mozambique
-41639,Oman
-41639,Seychelles
-41639,"South Africa"
-41639,"Sri Lanka"
-41639,Tanzania
-41640,Djibouti
-41640,Egypt
-41640,Kenya
-41640,Maldives
-41640,Mauritius
-41640,Mozambique
-41640,Oman
-41640,Seychelles
-41640,"South Africa"
-41640,"Sri Lanka"
-41640,Tanzania
-41641,Djibouti
-41641,Egypt
-41641,Kenya
-41641,Maldives
-41641,Mauritius
-41641,Mozambique
-41641,Oman
-41641,Seychelles
-41641,"South Africa"
-41641,"Sri Lanka"
-41641,Tanzania
-41642,Djibouti
-41642,Egypt
-41642,Kenya
-41642,Maldives
-41642,Mauritius
-41642,Mozambique
-41642,Oman
-41642,Seychelles
-41642,"South Africa"
-41642,"Sri Lanka"
-41642,Tanzania
-41643,Djibouti
-41643,Egypt
-41643,Kenya
-41643,Maldives
-41643,Mauritius
-41643,Mozambique
-41643,Oman
-41643,Seychelles
-41643,"South Africa"
-41643,"Sri Lanka"
-41643,Tanzania
-41644,Djibouti
-41644,Egypt
-41644,Kenya
-41644,Maldives
-41644,Mauritius
-41644,Mozambique
-41644,Oman
-41644,Seychelles
-41644,"South Africa"
-41644,"Sri Lanka"
-41644,Tanzania
-41645,Djibouti
-41645,Egypt
-41645,Kenya
-41645,Maldives
-41645,Mauritius
-41645,Mozambique
-41645,Oman
-41645,Seychelles
-41645,"South Africa"
-41645,"Sri Lanka"
-41645,Tanzania
-41646,Djibouti
-41646,Egypt
-41646,Kenya
-41646,Maldives
-41646,Mauritius
-41646,Mozambique
-41646,Oman
-41646,Seychelles
-41646,"South Africa"
-41646,"Sri Lanka"
-41646,Tanzania
-41647,Djibouti
-41647,Egypt
-41647,Kenya
-41647,Maldives
-41647,Mauritius
-41647,Mozambique
-41647,Oman
-41647,Seychelles
-41647,"South Africa"
-41647,"Sri Lanka"
-41647,Tanzania
-41648,Djibouti
-41648,Egypt
-41648,Kenya
-41648,Maldives
-41648,Mauritius
-41648,Mozambique
-41648,Oman
-41648,Seychelles
-41648,"South Africa"
-41648,"Sri Lanka"
-41648,Tanzania
-41649,Malta
-41649,Mauritius
-41649,Oman
-41649,"South Africa"
-41649,"Sri Lanka"
-41650,Malta
-41650,Mauritius
-41650,Oman
-41650,"South Africa"
-41650,"Sri Lanka"
-41651,Malta
-41651,Mauritius
-41651,Oman
-41651,"South Africa"
-41651,"Sri Lanka"
-41652,Malta
-41652,Mauritius
-41652,Oman
-41652,"South Africa"
-41652,"Sri Lanka"
-41653,Malta
-41653,Mauritius
-41653,Oman
-41653,"South Africa"
-41653,"Sri Lanka"
-41654,Djibouti
-41654,Kenya
-41654,Oman
-41654,"South Africa"
-41654,"Sri Lanka"
-41655,Djibouti
-41655,Kenya
-41655,Oman
-41655,"South Africa"
-41655,"Sri Lanka"
-41656,Djibouti
-41656,Kenya
-41656,Oman
-41656,"South Africa"
-41656,"Sri Lanka"
-41657,Djibouti
-41657,Kenya
-41657,Oman
-41657,"South Africa"
-41657,"Sri Lanka"
-41658,Djibouti
-41658,Kenya
-41658,Oman
-41658,"South Africa"
-41658,"Sri Lanka"
-41659,Djibouti
-41659,Jordan
-41659,Maldives
-41659,Malta
-41659,Mauritius
-41659,Mozambique
-41659,Oman
-41659,Seychelles
-41659,"South Africa"
-41659,"Sri Lanka"
-41659,Tanzania
-41660,Djibouti
-41660,Jordan
-41660,Maldives
-41660,Malta
-41660,Mauritius
-41660,Mozambique
-41660,Oman
-41660,Seychelles
-41660,"South Africa"
-41660,"Sri Lanka"
-41660,Tanzania
-41661,Djibouti
-41661,Jordan
-41661,Maldives
-41661,Malta
-41661,Mauritius
-41661,Mozambique
-41661,Oman
-41661,Seychelles
-41661,"South Africa"
-41661,"Sri Lanka"
-41661,Tanzania
-41662,Djibouti
-41662,Jordan
-41662,Maldives
-41662,Malta
-41662,Mauritius
-41662,Mozambique
-41662,Oman
-41662,Seychelles
-41662,"South Africa"
-41662,"Sri Lanka"
-41662,Tanzania
-41663,Djibouti
-41663,Jordan
-41663,Maldives
-41663,Malta
-41663,Mauritius
-41663,Mozambique
-41663,Oman
-41663,Seychelles
-41663,"South Africa"
-41663,"Sri Lanka"
-41663,Tanzania
-41664,Djibouti
-41664,Jordan
-41664,Maldives
-41664,Malta
-41664,Mauritius
-41664,Mozambique
-41664,Oman
-41664,Seychelles
-41664,"South Africa"
-41664,"Sri Lanka"
-41664,Tanzania
-41665,Djibouti
-41665,Jordan
-41665,Maldives
-41665,Malta
-41665,Mauritius
-41665,Mozambique
-41665,Oman
-41665,Seychelles
-41665,"South Africa"
-41665,"Sri Lanka"
-41665,Tanzania
-41666,Djibouti
-41666,Jordan
-41666,Maldives
-41666,Malta
-41666,Mauritius
-41666,Mozambique
-41666,Oman
-41666,Seychelles
-41666,"South Africa"
-41666,"Sri Lanka"
-41666,Tanzania
-41667,Djibouti
-41667,Jordan
-41667,Maldives
-41667,Malta
-41667,Mauritius
-41667,Mozambique
-41667,Oman
-41667,Seychelles
-41667,"South Africa"
-41667,"Sri Lanka"
-41667,Tanzania
-41668,Djibouti
-41668,Jordan
-41668,Maldives
-41668,Malta
-41668,Mauritius
-41668,Mozambique
-41668,Oman
-41668,Seychelles
-41668,"South Africa"
-41668,"Sri Lanka"
-41668,Tanzania
-41669,Djibouti
-41669,Jordan
-41669,Maldives
-41669,Malta
-41669,Mauritius
-41669,Mozambique
-41669,Oman
-41669,Seychelles
-41669,"South Africa"
-41669,"Sri Lanka"
-41669,Tanzania
-41670,Djibouti
-41670,Egypt
-41670,India
-41670,Kenya
-41670,Madagascar
-41670,Malaysia
-41670,Maldives
-41670,Malta
-41670,Mauritius
-41670,Mozambique
-41670,Oman
-41670,Seychelles
-41670,"South Africa"
-41670,"Sri Lanka"
-41670,Tanzania
-41671,Djibouti
-41671,Egypt
-41671,India
-41671,Kenya
-41671,Madagascar
-41671,Malaysia
-41671,Maldives
-41671,Malta
-41671,Mauritius
-41671,Mozambique
-41671,Oman
-41671,Seychelles
-41671,"South Africa"
-41671,"Sri Lanka"
-41671,Tanzania
-41672,Djibouti
-41672,Egypt
-41672,India
-41672,Kenya
-41672,Madagascar
-41672,Malaysia
-41672,Maldives
-41672,Malta
-41672,Mauritius
-41672,Mozambique
-41672,Oman
-41672,Seychelles
-41672,"South Africa"
-41672,"Sri Lanka"
-41672,Tanzania
-41673,Djibouti
-41673,Egypt
-41673,India
-41673,Kenya
-41673,Madagascar
-41673,Malaysia
-41673,Maldives
-41673,Malta
-41673,Mauritius
-41673,Mozambique
-41673,Oman
-41673,Seychelles
-41673,"South Africa"
-41673,"Sri Lanka"
-41673,Tanzania
-41674,Djibouti
-41674,Egypt
-41674,India
-41674,Kenya
-41674,Madagascar
-41674,Malaysia
-41674,Maldives
-41674,Malta
-41674,Mauritius
-41674,Mozambique
-41674,Oman
-41674,Seychelles
-41674,"South Africa"
-41674,"Sri Lanka"
-41674,Tanzania
-41675,Djibouti
-41675,Egypt
-41675,India
-41675,Kenya
-41675,Madagascar
-41675,Malaysia
-41675,Maldives
-41675,Malta
-41675,Mauritius
-41675,Mozambique
-41675,Oman
-41675,Seychelles
-41675,"South Africa"
-41675,"Sri Lanka"
-41675,Tanzania
-41676,Djibouti
-41676,Egypt
-41676,India
-41676,Kenya
-41676,Madagascar
-41676,Malaysia
-41676,Maldives
-41676,Malta
-41676,Mauritius
-41676,Mozambique
-41676,Oman
-41676,Seychelles
-41676,"South Africa"
-41676,"Sri Lanka"
-41676,Tanzania
-41677,Djibouti
-41677,Egypt
-41677,India
-41677,Kenya
-41677,Madagascar
-41677,Malaysia
-41677,Maldives
-41677,Malta
-41677,Mauritius
-41677,Mozambique
-41677,Oman
-41677,Seychelles
-41677,"South Africa"
-41677,"Sri Lanka"
-41677,Tanzania
-41678,Djibouti
-41678,Egypt
-41678,India
-41678,Kenya
-41678,Madagascar
-41678,Malaysia
-41678,Maldives
-41678,Malta
-41678,Mauritius
-41678,Mozambique
-41678,Oman
-41678,Seychelles
-41678,"South Africa"
-41678,"Sri Lanka"
-41678,Tanzania
-41679,Djibouti
-41679,Egypt
-41679,India
-41679,Kenya
-41679,Madagascar
-41679,Malaysia
-41679,Maldives
-41679,Malta
-41679,Mauritius
-41679,Mozambique
-41679,Oman
-41679,Seychelles
-41679,"South Africa"
-41679,"Sri Lanka"
-41679,Tanzania
-41680,Djibouti
-41680,Egypt
-41680,India
-41680,Kenya
-41680,Madagascar
-41680,Malaysia
-41680,Maldives
-41680,Malta
-41680,Mauritius
-41680,Mozambique
-41680,Oman
-41680,Seychelles
-41680,"South Africa"
-41680,"Sri Lanka"
-41680,Tanzania
-41681,Djibouti
-41681,Egypt
-41681,India
-41681,Kenya
-41681,Madagascar
-41681,Malaysia
-41681,Maldives
-41681,Malta
-41681,Mauritius
-41681,Mozambique
-41681,Oman
-41681,Seychelles
-41681,"South Africa"
-41681,"Sri Lanka"
-41681,Tanzania
-41682,Djibouti
-41682,Egypt
-41682,India
-41682,Kenya
-41682,Madagascar
-41682,Malaysia
-41682,Maldives
-41682,Malta
-41682,Mauritius
-41682,Mozambique
-41682,Oman
-41682,Seychelles
-41682,"South Africa"
-41682,"Sri Lanka"
-41682,Tanzania
-41683,Djibouti
-41683,Egypt
-41683,India
-41683,Kenya
-41683,Madagascar
-41683,Malaysia
-41683,Maldives
-41683,Malta
-41683,Mauritius
-41683,Mozambique
-41683,Oman
-41683,Seychelles
-41683,"South Africa"
-41683,"Sri Lanka"
-41683,Tanzania
-41684,Cyprus
-41684,Djibouti
-41684,Egypt
-41684,Kenya
-41684,Kuwait
-41684,Madagascar
-41684,Maldives
-41684,Malta
-41684,Mauritius
-41684,Mozambique
-41684,Oman
-41684,Seychelles
-41684,Singapore
-41684,"South Africa"
-41684,"Sri Lanka"
-41684,"United Arab Emirates"
-41685,Cyprus
-41685,Djibouti
-41685,Egypt
-41685,Kenya
-41685,Kuwait
-41685,Madagascar
-41685,Maldives
-41685,Malta
-41685,Mauritius
-41685,Mozambique
-41685,Oman
-41685,Seychelles
-41685,Singapore
-41685,"South Africa"
-41685,"Sri Lanka"
-41685,"United Arab Emirates"
-41686,Cyprus
-41686,Djibouti
-41686,Egypt
-41686,Kenya
-41686,Kuwait
-41686,Madagascar
-41686,Maldives
-41686,Malta
-41686,Mauritius
-41686,Mozambique
-41686,Oman
-41686,Seychelles
-41686,Singapore
-41686,"South Africa"
-41686,"Sri Lanka"
-41686,"United Arab Emirates"
-41687,Cyprus
-41687,Djibouti
-41687,Egypt
-41687,Kenya
-41687,Kuwait
-41687,Madagascar
-41687,Maldives
-41687,Malta
-41687,Mauritius
-41687,Mozambique
-41687,Oman
-41687,Seychelles
-41687,Singapore
-41687,"South Africa"
-41687,"Sri Lanka"
-41687,"United Arab Emirates"
-41688,Cyprus
-41688,Djibouti
-41688,Egypt
-41688,Kenya
-41688,Kuwait
-41688,Madagascar
-41688,Maldives
-41688,Malta
-41688,Mauritius
-41688,Mozambique
-41688,Oman
-41688,Seychelles
-41688,Singapore
-41688,"South Africa"
-41688,"Sri Lanka"
-41688,"United Arab Emirates"
-41689,Cyprus
-41689,Djibouti
-41689,Egypt
-41689,Kenya
-41689,Kuwait
-41689,Madagascar
-41689,Maldives
-41689,Malta
-41689,Mauritius
-41689,Mozambique
-41689,Oman
-41689,Seychelles
-41689,Singapore
-41689,"South Africa"
-41689,"Sri Lanka"
-41689,"United Arab Emirates"
-41690,Cyprus
-41690,Djibouti
-41690,Egypt
-41690,Kenya
-41690,Kuwait
-41690,Madagascar
-41690,Maldives
-41690,Malta
-41690,Mauritius
-41690,Mozambique
-41690,Oman
-41690,Seychelles
-41690,Singapore
-41690,"South Africa"
-41690,"Sri Lanka"
-41690,"United Arab Emirates"
-41691,Cyprus
-41691,Djibouti
-41691,Egypt
-41691,Kenya
-41691,Kuwait
-41691,Madagascar
-41691,Maldives
-41691,Malta
-41691,Mauritius
-41691,Mozambique
-41691,Oman
-41691,Seychelles
-41691,Singapore
-41691,"South Africa"
-41691,"Sri Lanka"
-41691,"United Arab Emirates"
-41692,Cyprus
-41692,Djibouti
-41692,Egypt
-41692,Kenya
-41692,Kuwait
-41692,Madagascar
-41692,Maldives
-41692,Malta
-41692,Mauritius
-41692,Mozambique
-41692,Oman
-41692,Seychelles
-41692,Singapore
-41692,"South Africa"
-41692,"Sri Lanka"
-41692,"United Arab Emirates"
-41693,Cyprus
-41693,Djibouti
-41693,Egypt
-41693,Kenya
-41693,Kuwait
-41693,Madagascar
-41693,Maldives
-41693,Malta
-41693,Mauritius
-41693,Mozambique
-41693,Oman
-41693,Seychelles
-41693,Singapore
-41693,"South Africa"
-41693,"Sri Lanka"
-41693,"United Arab Emirates"
-41694,Cyprus
-41694,Djibouti
-41694,Egypt
-41694,Kenya
-41694,Kuwait
-41694,Madagascar
-41694,Maldives
-41694,Malta
-41694,Mauritius
-41694,Mozambique
-41694,Oman
-41694,Seychelles
-41694,Singapore
-41694,"South Africa"
-41694,"Sri Lanka"
-41694,"United Arab Emirates"
-41695,Egypt
-41695,Kenya
-41695,Madagascar
-41695,Maldives
-41695,Mauritius
-41695,Oman
-41695,Seychelles
-41695,Singapore
-41695,"South Africa"
-41695,"Sri Lanka"
-41695,Tanzania
-41696,Egypt
-41696,Kenya
-41696,Madagascar
-41696,Maldives
-41696,Mauritius
-41696,Oman
-41696,Seychelles
-41696,Singapore
-41696,"South Africa"
-41696,"Sri Lanka"
-41696,Tanzania
-41697,Egypt
-41697,Kenya
-41697,Madagascar
-41697,Maldives
-41697,Mauritius
-41697,Oman
-41697,Seychelles
-41697,Singapore
-41697,"South Africa"
-41697,"Sri Lanka"
-41697,Tanzania
-41698,Kenya
-41698,Mauritius
-41698,Oman
-41698,"Sri Lanka"
-41698,Egypt
-41698,Madagascar
-41698,Maldives
-41698,Seychelles
-41698,Singapore
-41698,"South Africa"
-41698,Tanzania
-41699,Egypt
-41699,Kenya
-41699,Madagascar
-41699,Maldives
-41699,Mauritius
-41699,Oman
-41699,Seychelles
-41699,Singapore
-41699,"South Africa"
-41699,"Sri Lanka"
-41699,Tanzania
-41700,Kenya
-41700,Mauritius
-41700,Oman
-41700,"Sri Lanka"
-41700,Egypt
-41700,Madagascar
-41700,Maldives
-41700,Seychelles
-41700,Singapore
-41700,"South Africa"
-41700,Tanzania
-41701,Kenya
-41701,Mauritius
-41701,Oman
-41701,"Sri Lanka"
-41701,Egypt
-41701,Madagascar
-41701,Maldives
-41701,Seychelles
-41701,Singapore
-41701,"South Africa"
-41701,Tanzania
-41702,Egypt
-41702,Kenya
-41702,Madagascar
-41702,Maldives
-41702,Mauritius
-41702,Oman
-41702,Seychelles
-41702,Singapore
-41702,"South Africa"
-41702,"Sri Lanka"
-41702,Tanzania
-41703,Egypt
-41703,Kenya
-41703,Madagascar
-41703,Maldives
-41703,Mauritius
-41703,Oman
-41703,Seychelles
-41703,Singapore
-41703,"South Africa"
-41703,"Sri Lanka"
-41703,Tanzania
-41704,Egypt
-41704,Kenya
-41704,Madagascar
-41704,Maldives
-41704,Mauritius
-41704,Oman
-41704,Seychelles
-41704,Singapore
-41704,"South Africa"
-41704,"Sri Lanka"
-41704,Tanzania
-41705,Kenya
-41705,Mauritius
-41705,Oman
-41705,"Sri Lanka"
-41705,Egypt
-41705,Madagascar
-41705,Maldives
-41705,Seychelles
-41705,Singapore
-41705,"South Africa"
-41705,Tanzania
-41706,Mauritius
-41706,Oman
-41706,"South Africa"
-41706,"Sri Lanka"
-41707,Mauritius
-41707,Oman
-41707,"South Africa"
-41707,"Sri Lanka"
-41708,Mauritius
-41708,Oman
-41708,"South Africa"
-41708,"Sri Lanka"
-41709,Mauritius
-41709,Oman
-41709,"South Africa"
-41709,"Sri Lanka"
-41710,Djibouti
-41710,Egypt
-41710,Jordan
-41710,Malta
-41710,Mauritius
-41710,Oman
-41710,"South Africa"
-41710,"Sri Lanka"
-41711,Djibouti
-41711,Egypt
-41711,Jordan
-41711,Malta
-41711,Mauritius
-41711,Oman
-41711,"South Africa"
-41711,"Sri Lanka"
-41712,Djibouti
-41712,Egypt
-41712,Jordan
-41712,Malta
-41712,Mauritius
-41712,Oman
-41712,"South Africa"
-41712,"Sri Lanka"
-41713,Djibouti
-41713,Egypt
-41713,Jordan
-41713,Malta
-41713,Mauritius
-41713,Oman
-41713,"South Africa"
-41713,"Sri Lanka"
-41714,Djibouti
-41714,Egypt
-41714,Jordan
-41714,Malta
-41714,Mauritius
-41714,Oman
-41714,"South Africa"
-41714,"Sri Lanka"
-41715,Djibouti
-41715,Egypt
-41715,Jordan
-41715,Malta
-41715,Mauritius
-41715,Oman
-41715,"South Africa"
-41715,"Sri Lanka"
-41716,Djibouti
-41716,Egypt
-41716,Jordan
-41716,Malta
-41716,Mauritius
-41716,Oman
-41716,"South Africa"
-41716,"Sri Lanka"
-41717,Djibouti
-41717,Egypt
-41717,Jordan
-41717,Malta
-41717,Mauritius
-41717,Oman
-41717,"South Africa"
-41717,"Sri Lanka"
-41718,Jordan
-41719,Egypt
-41719,Kenya
-41719,Mauritius
-41719,Mozambique
-41719,Oman
-41719,"South Africa"
-41719,"Sri Lanka"
-41720,Egypt
-41720,Kenya
-41720,Mauritius
-41720,Mozambique
-41720,Oman
-41720,"South Africa"
-41720,"Sri Lanka"
-41721,Egypt
-41721,Kenya
-41721,Mauritius
-41721,Mozambique
-41721,Oman
-41721,"South Africa"
-41721,"Sri Lanka"
-41722,Egypt
-41722,Kenya
-41722,Mauritius
-41722,Mozambique
-41722,Oman
-41722,"South Africa"
-41722,"Sri Lanka"
-41723,Egypt
-41723,Kenya
-41723,Mauritius
-41723,Mozambique
-41723,Oman
-41723,"South Africa"
-41723,"Sri Lanka"
-41724,Egypt
-41724,Kenya
-41724,Mauritius
-41724,Mozambique
-41724,Oman
-41724,"South Africa"
-41724,"Sri Lanka"
-41725,Egypt
-41725,Kenya
-41725,Mauritius
-41725,Mozambique
-41725,Oman
-41725,"South Africa"
-41725,"Sri Lanka"
-41726,Iraq
-41727,Jordan
-41727,"United Kingdom"
-41728,Jordan
-41729,Jordan
-41730,Jordan
-41731,Jordan
-41732,Jordan
-41734,Italy
-41734,Malaysia
-41735,Italy
-41735,Malaysia
-41736,Italy
-41736,Malaysia
-41737,Italy
-41737,Malaysia
-41738,Italy
-41738,Malaysia
-41739,Italy
-41739,Malaysia
-41740,Italy
-41740,Malaysia
-41741,Italy
-41741,Malaysia
-41742,Italy
-41742,Malaysia
-41743,Italy
-41743,Malaysia
-41744,Angola
-41744,Austria
-41744,Botswana
-41744,Bulgaria
-41744,Cameroon
-41744,Chad
-41744,Denmark
-41744,"Equatorial Guinea"
-41744,France
-41744,Gabon
-41744,Germany
-41744,Ghana
-41744,Greece
-41744,"Guinea, Republic of"
-41744,Hungary
-41744,Israel
-41744,Italy
-41744,Kenya
-41744,Mauritania
-41744,Morocco
-41744,Mozambique
-41744,Namibia
-41744,Netherlands
-41744,Nigeria
-41744,Norway
-41744,Poland
-41744,Portugal
-41744,"Republic of Congo"
-41744,Romania
-41744,Senegal
-41744,Slovenia
-41744,"South Africa"
-41744,Spain
-41744,Switzerland
-41744,Tanzania
-41744,Turkey
-41744,Uganda
-41744,Ukraine
-41744,"United States of America"
-41745,Angola
-41745,Austria
-41745,Botswana
-41745,Bulgaria
-41745,Cameroon
-41745,Chad
-41745,Denmark
-41745,"Equatorial Guinea"
-41745,France
-41745,Gabon
-41745,Germany
-41745,Ghana
-41745,Greece
-41745,"Guinea, Republic of"
-41745,Hungary
-41745,Israel
-41745,Italy
-41745,Kenya
-41745,Mauritania
-41745,Morocco
-41745,Mozambique
-41745,Namibia
-41745,Netherlands
-41745,Nigeria
-41745,Norway
-41745,Poland
-41745,Portugal
-41745,"Republic of Congo"
-41745,Romania
-41745,Senegal
-41745,Slovenia
-41745,"South Africa"
-41745,Spain
-41745,Switzerland
-41745,Tanzania
-41745,Turkey
-41745,Uganda
-41745,Ukraine
-41745,"United States of America"
-41746,Angola
-41746,Austria
-41746,Botswana
-41746,Bulgaria
-41746,Cameroon
-41746,Chad
-41746,Denmark
-41746,"Equatorial Guinea"
-41746,France
-41746,Gabon
-41746,Germany
-41746,Ghana
-41746,Greece
-41746,"Guinea, Republic of"
-41746,Hungary
-41746,Israel
-41746,Italy
-41746,Kenya
-41746,Mauritania
-41746,Morocco
-41746,Mozambique
-41746,Namibia
-41746,Netherlands
-41746,Nigeria
-41746,Norway
-41746,Poland
-41746,Portugal
-41746,"Republic of Congo"
-41746,Romania
-41746,Senegal
-41746,Slovenia
-41746,"South Africa"
-41746,Spain
-41746,Switzerland
-41746,Tanzania
-41746,Turkey
-41746,Uganda
-41746,Ukraine
-41746,"United States of America"
-41747,Angola
-41747,Austria
-41747,Botswana
-41747,Bulgaria
-41747,Cameroon
-41747,Chad
-41747,Denmark
-41747,"Equatorial Guinea"
-41747,France
-41747,Gabon
-41747,Germany
-41747,Ghana
-41747,Greece
-41747,"Guinea, Republic of"
-41747,Hungary
-41747,Israel
-41747,Italy
-41747,Kenya
-41747,Mauritania
-41747,Morocco
-41747,Mozambique
-41747,Namibia
-41747,Netherlands
-41747,Nigeria
-41747,Norway
-41747,Poland
-41747,Portugal
-41747,"Republic of Congo"
-41747,Romania
-41747,Senegal
-41747,Slovenia
-41747,"South Africa"
-41747,Spain
-41747,Switzerland
-41747,Tanzania
-41747,Turkey
-41747,Uganda
-41747,Ukraine
-41747,"United States of America"
-41748,Angola
-41748,Austria
-41748,Botswana
-41748,Bulgaria
-41748,Cameroon
-41748,Chad
-41748,Denmark
-41748,"Equatorial Guinea"
-41748,France
-41748,Gabon
-41748,Germany
-41748,Ghana
-41748,Greece
-41748,"Guinea, Republic of"
-41748,Hungary
-41748,Israel
-41748,Italy
-41748,Kenya
-41748,Mauritania
-41748,Morocco
-41748,Mozambique
-41748,Namibia
-41748,Netherlands
-41748,Nigeria
-41748,Norway
-41748,Poland
-41748,Portugal
-41748,"Republic of Congo"
-41748,Romania
-41748,Senegal
-41748,Slovenia
-41748,"South Africa"
-41748,Spain
-41748,Switzerland
-41748,Tanzania
-41748,Turkey
-41748,Uganda
-41748,Ukraine
-41748,"United States of America"
-41749,"South Africa"
-41750,"South Africa"
-41751,"South Africa"
-41752,"South Africa"
-41753,"South Africa"
-41754,Jordan
-41755,Jordan
-41756,Jordan
-41757,Jordan
-41758,Jordan
-41759,Jordan
-41760,Jordan
-41761,Malaysia
-41761,France
-41762,Malaysia
-41762,France
-41763,Malaysia
-41763,France
-41764,"South Africa"
-41765,"South Africa"
-41766,"Non Specific Country"
-41767,"Non Specific Country"
-41768,"Non Specific Country"
-41769,Australia
-41769,Belgium
-41769,Canada
-41769,Denmark
-41769,Egypt
-41769,France
-41769,Germany
-41769,Ireland
-41769,Italy
-41769,Netherlands
-41769,Norway
-41769,Singapore
-41769,Spain
-41769,Sweden
-41769,Switzerland
-41769,"United States of America"
-41770,Libya
-41771,"South Africa"
-41772,"South Africa"
-41773,Albania
-41773,Bulgaria
-41773,"Czech Republic"
-41773,Romania
-41773,Russia
-41773,Ukraine
-41773,"United Arab Emirates"
-41774,"United States of America"
-41775,Cyprus
-41775,Djibouti
-41775,Egypt
-41775,Kenya
-41775,Kuwait
-41775,Madagascar
-41775,Maldives
-41775,Malta
-41775,Mauritius
-41775,Mozambique
-41775,Oman
-41775,Seychelles
-41775,Singapore
-41775,"South Africa"
-41775,"Sri Lanka"
-41775,"United Arab Emirates"
-41776,Cyprus
-41776,Djibouti
-41776,Egypt
-41776,Kenya
-41776,Kuwait
-41776,Madagascar
-41776,Maldives
-41776,Malta
-41776,Mauritius
-41776,Mozambique
-41776,Oman
-41776,Seychelles
-41776,Singapore
-41776,"South Africa"
-41776,"Sri Lanka"
-41776,"United Arab Emirates"
-41777,Cyprus
-41777,Djibouti
-41777,Egypt
-41777,Kenya
-41777,Kuwait
-41777,Madagascar
-41777,Maldives
-41777,Malta
-41777,Mauritius
-41777,Mozambique
-41777,Oman
-41777,Seychelles
-41777,Singapore
-41777,"South Africa"
-41777,"Sri Lanka"
-41777,"United Arab Emirates"
-41778,Cyprus
-41778,Djibouti
-41778,Egypt
-41778,Kenya
-41778,Kuwait
-41778,Madagascar
-41778,Maldives
-41778,Malta
-41778,Mauritius
-41778,Mozambique
-41778,Oman
-41778,Seychelles
-41778,Singapore
-41778,"South Africa"
-41778,"Sri Lanka"
-41778,"United Arab Emirates"
-41779,Cyprus
-41779,Djibouti
-41779,Egypt
-41779,Kenya
-41779,Kuwait
-41779,Madagascar
-41779,Maldives
-41779,Malta
-41779,Mauritius
-41779,Mozambique
-41779,Oman
-41779,Seychelles
-41779,Singapore
-41779,"South Africa"
-41779,"Sri Lanka"
-41779,"United Arab Emirates"
+43504,Germany
+43505,Ireland
+43506,Romania
+43506,Bulgaria
+43506,Serbia
+43507,"United States of America"
+43508,Israel
+43509,Bulgaria
+43509,Romania
+43510,"United States of America"
+43510,"United States of America"
+43511,"United Arab Emirates"
+43512,Ukraine
+43513,Romania
+43514,Ireland
+43514,Ireland
+43515,China
+43515,Hungary
+43515,Switzerland
+43516,Australia
+43517,Canada
+43518,"South Africa"
+43519,Turkey
+43520,Jordan
+43521,"Bosnia and Herzegovina"
+43522,"Bosnia and Herzegovina"
+43523,Jordan
+43524,"Bosnia and Herzegovina"
+43525,Germany
+43526,"Bosnia and Herzegovina"
+43527,Pakistan
+43528,Jordan
+43529,China
+43530,"United States of America"
+43531,"South Africa"
+43532,"South Africa"
+43533,Malaysia
+43534,India
+43535,Jordan
+43536,Jordan
+43537,Jordan
+43538,Jordan
+43539,Jordan
+43540,Serbia
+43541,Thailand
+43542,"South Africa"
+43543,Ireland
+43544,"South Africa"
+43544,"South Africa"
+43544,"South Africa"
+43546,"United States of America"
+43547,China
+43548,"United States of America"
+43549,Thailand
+43550,Ireland
+43550,Ireland
+43550,Ireland
+43550,Ireland
+43551,"United States of America"
+43552,Jordan
+43553,Jordan
+43554,"South Africa"
+43555,"United Arab Emirates"
+43556,Israel
+43556,Brazil
+43557,Ireland
+43558,Jordan
+43559,Ireland
+43560,"United States of America"
+43561,Brazil
+43562,Jordan
+43563,Romania
+43564,"United Arab Emirates"
+43565,"South Africa"
+43566,"United States of America"
+43567,Jordan
+43568,Ireland
+43569,"South Africa"
+43570,"Sri Lanka"
+43571,"Bosnia and Herzegovina"
+43572,Bulgaria
+43573,Jordan
+43574,Jordan
+43575,"United States of America"
+43576,"United States of America"
+43577,"Korea, South"
+43578,"South Africa"
+43578,Ireland
+43578,Ireland
+43578,"United States of America"
+43579,"United States of America"
+43580,"United States of America"
+43581,Iraq
+43582,Jordan
+43583,Romania
+43584,"Sri Lanka"
+43585,Serbia
+43586,Iraq
+43587,Serbia
+43588,Brazil
+43588,India
+43589,Germany
+43590,Jordan
+43591,"South Africa"
+43592,Jordan
+43593,Brazil
+43594,Jordan
+43595,"United States of America"
+43596,"United States of America"
+43597,Turkey
+43598,"United States of America"
+43599,"South Africa"
+43600,Germany
+43601,Brazil
+43602,"United States of America"
+43603,Romania
+43603,Montenegro
+43603,Serbia
+43603,Kazakhstan
+43604,Romania
+43604,Kazakhstan
+43605,Serbia
+43606,"South Africa"
+43607,Serbia
+43608,"Bosnia and Herzegovina"
+43609,"South Africa"
+43610,Namibia
+43611,Germany
+43612,Germany
+43613,"South Africa"
+43613,"South Africa"
+43614,Lebanon
+43615,Taiwan
+43616,Bulgaria
+43617,Ireland
+43618,"United States of America"
+43619,"Sri Lanka"
+43620,"United States of America"
+43621,Romania
+43622,"South Africa"
+43623,"South Africa"
+43624,Romania
+43625,"South Africa"
+43626,"Korea, South"
+43627,"Czech Republic"
+43628,Romania
+43628,Romania
+43629,"United States of America"
+43630,Ukraine
+43631,"South Africa"
+43632,"South Africa"
+43633,"Non Specific Country"
+43634,Germany
+43635,"United States of America"
+43636,"Bosnia and Herzegovina"
+43637,Germany
+43638,Turkey
+43639,Brazil
+43640,Germany
+43641,Germany
+43642,"South Africa"
+43643,Germany
+43644,China
+43645,"United States of America"
+43646,"South Africa"
+43647,"South Africa"
+43648,Romania
+43648,Malaysia
+43649,"South Africa"
+43650,"United Arab Emirates"
+43651,"United Arab Emirates"
+43652,"Czech Republic"
+43653,Germany
+43654,"South Africa"
+43655,"South Africa"
+43656,"South Africa"
+43657,"South Africa"
+43658,"South Africa"
+43659,"United Arab Emirates"
+43660,Bulgaria
+43661,"South Africa"
+43662,"United Arab Emirates"
+43663,Germany
+43664,Jordan
+43665,Canada
+43666,"South Africa"
+43667,"South Africa"
+43668,"South Africa"
+43669,"United Arab Emirates"
+43670,Israel
+43671,India
+43672,Germany
+43673,"South Africa"
+43674,Israel
+43675,"South Africa"
+43676,"South Africa"
+43677,Germany
+43678,"United Arab Emirates"
+43679,"South Africa"
+43680,"South Africa"
+43681,"South Africa"
+43682,Romania
+43683,"South Africa"
+43684,Canada
+43685,"South Africa"
+43685,"South Africa"
+43685,"South Africa"
+43686,India
+43687,Kuwait
+43688,"South Africa"
+43689,"South Africa"
+43690,"South Africa"
+43691,"South Africa"
+43691,"South Africa"
+43691,"South Africa"
+43692,Serbia
+43693,"Bosnia and Herzegovina"
+43694,Germany
+43695,India
+43696,Romania
+43697,"United States of America"
+43698,"South Africa"
+43699,Germany
+43700,"United States of America"
+43701,"South Africa"
+43702,"South Africa"
+43702,"South Africa"
+43703,Brazil
+43704,"United States of America"
+43705,Bulgaria
+43706,"South Africa"
+43707,India
+43708,"South Africa"
+43709,Russia
+43710,Germany
+43711,"South Africa"
+43712,Israel
+43713,Serbia
+43714,"South Africa"
+43715,"South Africa"
+43716,China
+43716,China
+43717,"South Africa"
+43717,"South Africa"
+43717,"South Africa"
+43718,Turkey
+43719,"South Africa"
+43720,"South Africa"
+43720,"South Africa"
+43721,Malaysia
+43722,"South Africa"
+43723,Germany
+43723,Germany
+43724,India
+43725,"United Arab Emirates"
+43726,Germany
+43727,"Czech Republic"
+43728,Jordan
+43729,France
+43730,Brazil
+43731,Netherlands
+43732,"South Africa"
+43733,"Bosnia and Herzegovina"
+43733,Turkey
+43734,"South Africa"
+43735,Singapore
+43736,China
+43737,Bulgaria
+43737,Romania
+43738,"United States of America"
+43739,"South Africa"
+43740,Turkey
+43741,Namibia
+43742,"United States of America"
+43743,"South Africa"
+43744,"South Africa"
+43745,"South Africa"
+43746,Brazil
+43747,Canada
+43748,"United States of America"
+43749,Belarus
+43750,"United Arab Emirates"
+43751,Jordan
+43752,China
+43753,Belarus
+43754,Germany
+43755,Belarus
+43756,"South Africa"
+43757,"United States of America"
+43758,Jordan
+43759,Bulgaria
+43760,Belarus
+43761,Bulgaria
+43762,Belarus
+43763,Iraq
+43764,Kuwait
+43764,"United States of America"
+43765,"South Africa"
+43766,China
+43767,"United States of America"
+43768,"United States of America"
+43769,Austria
+43770,"United States of America"
+43771,"South Africa"
+43772,"United States of America"
+43773,Bulgaria
+43773,Croatia
+43774,"South Africa"
+43775,Romania
+43776,"United States of America"
+43777,France
+43778,Jordan
+43779,"South Africa"
+43780,Jordan
+43781,"United States of America"
+43782,"United States of America"
+43783,"South Africa"
+43784,India
+43785,"South Africa"
+43786,"United States of America"
+43787,"Bosnia and Herzegovina"
+43788,"South Africa"
+43789,"United States of America"
+43790,Brazil
+43790,"United States of America"
+43791,Germany
+43792,Malta
+43793,"South Africa"
+43794,"Korea, South"
+43795,Jordan
+43796,Israel
+43797,"South Africa"
+43798,Serbia
+43799,"South Africa"
+43800,Ukraine
+43801,"South Africa"
+43802,"Bosnia and Herzegovina"
+43803,Jordan
+43804,Canada
+43805,Jordan
+43806,Australia
+43807,"South Africa"
+43808,Australia
+43809,Australia
+43810,Australia
+43811,Australia
+43812,"South Africa"
+43813,"South Africa"
+43814,Australia
+43815,"United States of America"
+43816,"South Africa"
+43817,Australia
+43818,"South Africa"
+43819,"South Africa"
+43820,"South Africa"
+43821,"South Africa"
+43822,Turkey
+43823,Turkey
+43824,"South Africa"
+43825,Bulgaria
+43825,Serbia
+43825,Romania
+43825,"Bosnia and Herzegovina"
+43826,Jordan
+43827,Ukraine
+43828,Ireland
+43829,Jordan
+43830,"South Africa"
+43831,Malta
+43832,"South Africa"
+43833,Jordan
+43834,"Bosnia and Herzegovina"
+43835,"United States of America"
+43836,Turkey
+43837,"South Africa"
+43838,"South Africa"
+43839,Jordan
+43840,Malta
+43840,Malta
+43840,Malta
+43840,Malta
+43841,Malta
+43841,Malta
+43841,Malta
+43842,Malta
+43842,Malta
+43842,Malta
+43842,Malta
+43842,Malta
+43842,Malta
+43843,Malta
+43844,China
+43845,Jordan
+43846,Malta
+43847,Malta
+43847,Malta
+43848,Malta
+43848,Malta
+43848,Malta
+43848,Malta
+43849,Malta
+43849,Malta
+43850,Malta
+43850,Malta
+43851,Malta
+43852,Malta
+43853,"South Africa"
+43854,"South Africa"
+43855,Australia
+43856,Malta
+43857,Malta
+43857,Malta
+43857,Malta
+43858,Malta
+43859,Malta
+43859,Malta
+43859,Malta
+43860,Malta
+43860,Malta
+43861,Malta
+43861,Malta
+43862,Malta
+43863,Malta
+43864,Malta
+43865,Malta
+43866,Malta
+43866,Malta
+43867,Malta
+43867,Malta
+43868,Malta
+43869,Bulgaria
+43870,Canada
+43871,Malta
+43872,Jordan
+43873,"South Africa"
+43874,Iraq
+43875,Jordan
+43876,Malta
+43877,Australia
+43878,Hungary
+43879,"South Africa"
+43880,"South Africa"
+43881,Jordan
+43882,India
+43882,Serbia
+43883,Malta
+43884,Jordan
+43885,"Bosnia and Herzegovina"
+43886,Canada
+43887,Jordan
+43888,Malta
+43889,"South Africa"
+43890,Canada
+43891,Djibouti
+43891,Egypt
+43891,Kenya
+43891,Madagascar
+43891,Maldives
+43891,Mauritius
+43891,Seychelles
+43891,"South Africa"
+43891,"Sri Lanka"
+43891,Tanzania
+43892,Bulgaria
+43893,"South Africa"
+43894,"Sri Lanka"
+43895,Romania
+43895,"Bosnia and Herzegovina"
+43896,"South Africa"
+43897,Mauritius
+43898,Jordan
+43899,Jordan
+43900,Jordan
+43901,Australia
+43902,Djibouti
+43902,Egypt
+43902,Kenya
+43902,Madagascar
+43902,Maldives
+43902,Mauritius
+43902,Oman
+43902,Seychelles
+43902,"South Africa"
+43902,Tanzania
+43903,"South Africa"
+43904,Bulgaria
+43905,Jordan
+43906,Australia
+43907,Malta
+43908,Oman
+43908,Oman
+43909,Mauritius
+43910,"Bosnia and Herzegovina"
+43911,Jordan
+43912,Jordan
+43913,Serbia
+43914,Mauritius
+43915,Jordan
+43916,Thailand
+43917,Netherlands
+43917,"South Africa"
+43918,Mauritius
+43919,Jordan
+43920,"South Africa"
+43921,Finland
+43922,Malaysia
+43923,"Korea, South"
+43924,Jordan
+43925,Mauritius
+43926,Australia
+43927,Jordan
+43928,"South Africa"
+43929,"South Africa"
+43930,Belgium
+43931,"Sri Lanka"
+43932,"United States of America"
+43933,Oman
+43934,Jordan
+43935,Bulgaria
+43936,Finland
+43937,"South Africa"
+43938,"South Africa"
+43939,"South Africa"
+43940,Jordan
+43941,"South Africa"
+43942,Bulgaria
+43943,Malta
+43944,"South Africa"
+43945,Jordan
+43946,Jordan
+43947,Romania
+43948,Jordan
+43949,"South Africa"
+43950,Jordan
+43951,"South Africa"
+43952,Jordan
+43953,Belarus
+43954,"South Africa"
+43955,"South Africa"
+43956,China
+43957,Turkey
+43958,Jordan
+43959,Netherlands
+43960,Jordan
+43961,Jordan
+43962,Romania
+43963,"South Africa"
+43964,Poland
+43965,Ukraine
+43965,Serbia
+43966,Montenegro
+43967,Ukraine
+43968,Belgium
+43969,Belgium
+43970,Turkey
+43971,Israel
+43972,"Czech Republic"
+43973,Israel
+43974,Romania
+43974,"Bosnia and Herzegovina"
+43974,Turkey
+43975,"United Arab Emirates"
+43976,"Czech Republic"
+43976,Montenegro
+43977,Ukraine
+43978,Israel
+43979,Belarus
+43980,China
+43980,China
+43981,Jordan
+43982,China
+43983,"United States of America"
+43984,"United States of America"
+43985,Iraq
+43987,Jordan
+43987,"United Kingdom"
+43988,Jordan
+43988,"United Kingdom"
+43989,Israel
+43990,Israel
+43991,Israel
+43992,Israel
+43993,Jordan
+43993,"United Kingdom"
+43994,Israel
+43995,Jordan
+43995,"United Kingdom"
+43996,Israel
+43997,Jordan
+43997,"United Kingdom"
+43998,Israel
+43999,Israel
+44000,"United Kingdom"
+44001,"United Kingdom"
+44002,"United Kingdom"
+44003,"United Kingdom"
+44004,"United Kingdom"
+44005,"United Kingdom"
+44006,"United Kingdom"
+44007,"United Kingdom"
+44008,"United Kingdom"
+44009,"United Kingdom"
+44010,Taiwan
+44011,"Korea, South"
+44012,Singapore
+44012,Israel
+44012,"Czech Republic"
+44012,"South Africa"
+44013,Italy
+44014,Italy
+44015,Italy
+44016,Italy
+44017,Italy
+44018,Italy
+44019,Italy
+44020,Italy
+44021,Italy
+44022,Italy
+44023,Italy
+44024,Italy
+44025,Italy
+44026,"Non Specific Country"
+44026,"United States of America"
+44027,Sweden
+44028,"United Kingdom"
+44029,Jordan
+44030,Jordan
+44031,Jordan
+44032,Jordan
+44033,Jordan
+44034,Jordan
+44035,Jordan
+44036,Jordan
+44037,Jordan
+44038,Jordan
+44039,Jordan
+44040,Jordan
+44041,Jordan
+44042,"United States of America"
+44044,Kuwait
+44045,Colombia
+44045,"United Arab Emirates"
+44046,"Non Specific Country"
+44048,"South Africa"
+44049,Russia
+44051,Ireland
+44052,Ireland
+44053,"Non Specific Country"
+44054,Italy
+44054,Malaysia
+44055,Italy
+44055,Malaysia
+44056,Italy
+44056,Malaysia
+44057,Italy
+44057,Malaysia
+44058,Italy
+44058,Malaysia
+44059,Italy
+44059,Malaysia
+44060,Italy
+44060,Malaysia
+44061,Italy
+44061,Malaysia
+44062,Italy
+44062,Malaysia
+44063,Italy
+44063,Malaysia
+44064,Italy
+44064,Malaysia
+44065,Italy
+44065,Malaysia
+44066,Italy
+44066,Malaysia
+44067,Italy
+44067,Malaysia
+44068,Italy
+44068,Malaysia
+44069,"Non Specific Country"
+44070,"South Africa"
+44071,"South Africa"
+44072,"South Africa"
+44073,"South Africa"
+44074,"South Africa"
+44075,"South Africa"
+44076,"South Africa"
+44077,"Non Specific Country"
+44078,"South Africa"
+44079,"South Africa"
+44080,"South Africa"
+44081,"South Africa"
+44082,"South Africa"
+44083,Brunei
+44084,Brunei
+44085,Malaysia
+44085,Singapore
+44085,Germany
+44086,"Non Specific Country"
+44087,"Non Specific Country"
+44088,Sweden
+44089,Angola
+44089,Austria
+44089,Botswana
+44089,Bulgaria
+44089,Cameroon
+44089,Chad
+44089,Denmark
+44089,"Equatorial Guinea"
+44089,France
+44089,Gabon
+44089,Germany
+44089,Ghana
+44089,Greece
+44089,"Guinea, Republic of"
+44089,Hungary
+44089,Israel
+44089,Italy
+44089,Kenya
+44089,Mauritania
+44089,Morocco
+44089,Mozambique
+44089,Namibia
+44089,Netherlands
+44089,Nigeria
+44089,Norway
+44089,Poland
+44089,Portugal
+44089,"Republic of Congo"
+44089,Romania
+44089,Senegal
+44089,Slovenia
+44089,"South Africa"
+44089,Spain
+44089,Switzerland
+44089,Tanzania
+44089,Turkey
+44089,Uganda
+44089,Ukraine
+44089,"United States of America"
+44090,Angola
+44090,Austria
+44090,Botswana
+44090,Bulgaria
+44090,Cameroon
+44090,Chad
+44090,Denmark
+44090,"Equatorial Guinea"
+44090,France
+44090,Gabon
+44090,Germany
+44090,Ghana
+44090,Greece
+44090,"Guinea, Republic of"
+44090,Hungary
+44090,Israel
+44090,Italy
+44090,Kenya
+44090,Mauritania
+44090,Morocco
+44090,Mozambique
+44090,Namibia
+44090,Netherlands
+44090,Nigeria
+44090,Norway
+44090,Poland
+44090,Portugal
+44090,"Republic of Congo"
+44090,Romania
+44090,Senegal
+44090,Slovenia
+44090,"South Africa"
+44090,Spain
+44090,Switzerland
+44090,Tanzania
+44090,Turkey
+44090,Uganda
+44090,Ukraine
+44090,"United States of America"
+44091,Angola
+44091,Austria
+44091,Botswana
+44091,Bulgaria
+44091,Cameroon
+44091,Chad
+44091,Denmark
+44091,"Equatorial Guinea"
+44091,France
+44091,Gabon
+44091,Germany
+44091,Ghana
+44091,Greece
+44091,"Guinea, Republic of"
+44091,Hungary
+44091,Israel
+44091,Italy
+44091,Kenya
+44091,Mauritania
+44091,Morocco
+44091,Mozambique
+44091,Namibia
+44091,Netherlands
+44091,Nigeria
+44091,Norway
+44091,Poland
+44091,Portugal
+44091,"Republic of Congo"
+44091,Romania
+44091,Senegal
+44091,Slovenia
+44091,"South Africa"
+44091,Spain
+44091,Switzerland
+44091,Tanzania
+44091,Turkey
+44091,Uganda
+44091,Ukraine
+44091,"United States of America"
+44092,Angola
+44092,Austria
+44092,Botswana
+44092,Bulgaria
+44092,Cameroon
+44092,Chad
+44092,Denmark
+44092,"Equatorial Guinea"
+44092,France
+44092,Gabon
+44092,Germany
+44092,Ghana
+44092,Greece
+44092,"Guinea, Republic of"
+44092,Hungary
+44092,Israel
+44092,Italy
+44092,Kenya
+44092,Mauritania
+44092,Morocco
+44092,Mozambique
+44092,Namibia
+44092,Netherlands
+44092,Nigeria
+44092,Norway
+44092,Poland
+44092,Portugal
+44092,"Republic of Congo"
+44092,Romania
+44092,Senegal
+44092,Slovenia
+44092,"South Africa"
+44092,Spain
+44092,Switzerland
+44092,Tanzania
+44092,Turkey
+44092,Uganda
+44092,Ukraine
+44092,"United States of America"
+44093,Angola
+44093,Austria
+44093,Botswana
+44093,Bulgaria
+44093,Cameroon
+44093,Chad
+44093,Denmark
+44093,"Equatorial Guinea"
+44093,France
+44093,Gabon
+44093,Germany
+44093,Ghana
+44093,Greece
+44093,"Guinea, Republic of"
+44093,Hungary
+44093,Israel
+44093,Italy
+44093,Kenya
+44093,Mauritania
+44093,Morocco
+44093,Mozambique
+44093,Namibia
+44093,Netherlands
+44093,Nigeria
+44093,Norway
+44093,Poland
+44093,Portugal
+44093,"Republic of Congo"
+44093,Romania
+44093,Senegal
+44093,Slovenia
+44093,"South Africa"
+44093,Spain
+44093,Switzerland
+44093,Tanzania
+44093,Turkey
+44093,Uganda
+44093,Ukraine
+44093,"United States of America"
+44094,Angola
+44094,Austria
+44094,Botswana
+44094,Bulgaria
+44094,Cameroon
+44094,Chad
+44094,Denmark
+44094,"Equatorial Guinea"
+44094,France
+44094,Gabon
+44094,Germany
+44094,Ghana
+44094,Greece
+44094,"Guinea, Republic of"
+44094,Hungary
+44094,Israel
+44094,Italy
+44094,Kenya
+44094,Mauritania
+44094,Morocco
+44094,Mozambique
+44094,Namibia
+44094,Netherlands
+44094,Nigeria
+44094,Norway
+44094,Poland
+44094,Portugal
+44094,"Republic of Congo"
+44094,Romania
+44094,Senegal
+44094,Slovenia
+44094,"South Africa"
+44094,Spain
+44094,Switzerland
+44094,Tanzania
+44094,Turkey
+44094,Uganda
+44094,Ukraine
+44094,"United States of America"
+44095,Angola
+44095,Austria
+44095,Botswana
+44095,Bulgaria
+44095,Cameroon
+44095,Chad
+44095,Denmark
+44095,"Equatorial Guinea"
+44095,France
+44095,Gabon
+44095,Germany
+44095,Ghana
+44095,Greece
+44095,"Guinea, Republic of"
+44095,Hungary
+44095,Israel
+44095,Italy
+44095,Kenya
+44095,Mauritania
+44095,Morocco
+44095,Mozambique
+44095,Namibia
+44095,Netherlands
+44095,Nigeria
+44095,Norway
+44095,Poland
+44095,Portugal
+44095,"Republic of Congo"
+44095,Romania
+44095,Senegal
+44095,Slovenia
+44095,"South Africa"
+44095,Spain
+44095,Switzerland
+44095,Tanzania
+44095,Turkey
+44095,Uganda
+44095,Ukraine
+44095,"United States of America"
+44096,Angola
+44096,Austria
+44096,Botswana
+44096,Bulgaria
+44096,Cameroon
+44096,Chad
+44096,Denmark
+44096,"Equatorial Guinea"
+44096,France
+44096,Gabon
+44096,Germany
+44096,Ghana
+44096,Greece
+44096,"Guinea, Republic of"
+44096,Hungary
+44096,Israel
+44096,Italy
+44096,Kenya
+44096,Mauritania
+44096,Morocco
+44096,Mozambique
+44096,Namibia
+44096,Netherlands
+44096,Nigeria
+44096,Norway
+44096,Poland
+44096,Portugal
+44096,"Republic of Congo"
+44096,Romania
+44096,Senegal
+44096,Slovenia
+44096,"South Africa"
+44096,Spain
+44096,Switzerland
+44096,Tanzania
+44096,Turkey
+44096,Uganda
+44096,Ukraine
+44096,"United States of America"
+44097,Angola
+44097,Austria
+44097,Botswana
+44097,Bulgaria
+44097,Cameroon
+44097,Chad
+44097,Denmark
+44097,"Equatorial Guinea"
+44097,France
+44097,Gabon
+44097,Germany
+44097,Ghana
+44097,Greece
+44097,"Guinea, Republic of"
+44097,Hungary
+44097,Israel
+44097,Italy
+44097,Kenya
+44097,Mauritania
+44097,Morocco
+44097,Mozambique
+44097,Namibia
+44097,Netherlands
+44097,Nigeria
+44097,Norway
+44097,Poland
+44097,Portugal
+44097,"Republic of Congo"
+44097,Romania
+44097,Senegal
+44097,Slovenia
+44097,"South Africa"
+44097,Spain
+44097,Switzerland
+44097,Tanzania
+44097,Turkey
+44097,Uganda
+44097,Ukraine
+44097,"United States of America"
+44098,Angola
+44098,Austria
+44098,Botswana
+44098,Bulgaria
+44098,Cameroon
+44098,Chad
+44098,Denmark
+44098,"Equatorial Guinea"
+44098,France
+44098,Gabon
+44098,Germany
+44098,Ghana
+44098,Greece
+44098,"Guinea, Republic of"
+44098,Hungary
+44098,Israel
+44098,Italy
+44098,Kenya
+44098,Mauritania
+44098,Morocco
+44098,Mozambique
+44098,Namibia
+44098,Netherlands
+44098,Nigeria
+44098,Norway
+44098,Poland
+44098,Portugal
+44098,"Republic of Congo"
+44098,Romania
+44098,Senegal
+44098,Slovenia
+44098,"South Africa"
+44098,Spain
+44098,Switzerland
+44098,Tanzania
+44098,Turkey
+44098,Uganda
+44098,Ukraine
+44098,"United States of America"
+44099,Angola
+44099,Austria
+44099,Botswana
+44099,Bulgaria
+44099,Cameroon
+44099,Chad
+44099,Denmark
+44099,"Equatorial Guinea"
+44099,France
+44099,Gabon
+44099,Germany
+44099,Ghana
+44099,Greece
+44099,"Guinea, Republic of"
+44099,Hungary
+44099,Israel
+44099,Italy
+44099,Kenya
+44099,Mauritania
+44099,Morocco
+44099,Mozambique
+44099,Namibia
+44099,Netherlands
+44099,Nigeria
+44099,Norway
+44099,Poland
+44099,Portugal
+44099,"Republic of Congo"
+44099,Romania
+44099,Senegal
+44099,Slovenia
+44099,"South Africa"
+44099,Spain
+44099,Switzerland
+44099,Tanzania
+44099,Turkey
+44099,Uganda
+44099,Ukraine
+44099,"United States of America"
+44100,Angola
+44100,Austria
+44100,Botswana
+44100,Bulgaria
+44100,Cameroon
+44100,Chad
+44100,Denmark
+44100,"Equatorial Guinea"
+44100,France
+44100,Gabon
+44100,Germany
+44100,Ghana
+44100,Greece
+44100,"Guinea, Republic of"
+44100,Hungary
+44100,Israel
+44100,Italy
+44100,Kenya
+44100,Mauritania
+44100,Morocco
+44100,Mozambique
+44100,Namibia
+44100,Netherlands
+44100,Nigeria
+44100,Norway
+44100,Poland
+44100,Portugal
+44100,"Republic of Congo"
+44100,Romania
+44100,Senegal
+44100,Slovenia
+44100,"South Africa"
+44100,Spain
+44100,Switzerland
+44100,Tanzania
+44100,Turkey
+44100,Uganda
+44100,Ukraine
+44100,"United States of America"
+44101,Angola
+44101,Austria
+44101,Botswana
+44101,Bulgaria
+44101,Cameroon
+44101,Chad
+44101,Denmark
+44101,"Equatorial Guinea"
+44101,France
+44101,Gabon
+44101,Germany
+44101,Ghana
+44101,Greece
+44101,"Guinea, Republic of"
+44101,Hungary
+44101,Israel
+44101,Italy
+44101,Kenya
+44101,Mauritania
+44101,Morocco
+44101,Mozambique
+44101,Namibia
+44101,Netherlands
+44101,Nigeria
+44101,Norway
+44101,Poland
+44101,Portugal
+44101,"Republic of Congo"
+44101,Romania
+44101,Senegal
+44101,Slovenia
+44101,"South Africa"
+44101,Spain
+44101,Switzerland
+44101,Tanzania
+44101,Turkey
+44101,Uganda
+44101,Ukraine
+44101,"United States of America"
+44102,Angola
+44102,Austria
+44102,Botswana
+44102,Bulgaria
+44102,Cameroon
+44102,Chad
+44102,Denmark
+44102,"Equatorial Guinea"
+44102,France
+44102,Gabon
+44102,Germany
+44102,Ghana
+44102,Greece
+44102,"Guinea, Republic of"
+44102,Hungary
+44102,Israel
+44102,Italy
+44102,Kenya
+44102,Mauritania
+44102,Morocco
+44102,Mozambique
+44102,Namibia
+44102,Netherlands
+44102,Nigeria
+44102,Norway
+44102,Poland
+44102,Portugal
+44102,"Republic of Congo"
+44102,Romania
+44102,Senegal
+44102,Slovenia
+44102,"South Africa"
+44102,Spain
+44102,Switzerland
+44102,Tanzania
+44102,Turkey
+44102,Uganda
+44102,Ukraine
+44102,"United States of America"
+44103,Angola
+44103,Austria
+44103,Botswana
+44103,Bulgaria
+44103,Cameroon
+44103,Chad
+44103,Denmark
+44103,"Equatorial Guinea"
+44103,France
+44103,Gabon
+44103,Germany
+44103,Ghana
+44103,Greece
+44103,"Guinea, Republic of"
+44103,Hungary
+44103,Israel
+44103,Italy
+44103,Kenya
+44103,Mauritania
+44103,Morocco
+44103,Mozambique
+44103,Namibia
+44103,Netherlands
+44103,Nigeria
+44103,Norway
+44103,Poland
+44103,Portugal
+44103,"Republic of Congo"
+44103,Romania
+44103,Senegal
+44103,Slovenia
+44103,"South Africa"
+44103,Spain
+44103,Switzerland
+44103,Tanzania
+44103,Turkey
+44103,Uganda
+44103,Ukraine
+44103,"United States of America"
+44104,Angola
+44104,Austria
+44104,Botswana
+44104,Bulgaria
+44104,Cameroon
+44104,Chad
+44104,Denmark
+44104,"Equatorial Guinea"
+44104,France
+44104,Gabon
+44104,Germany
+44104,Ghana
+44104,Greece
+44104,"Guinea, Republic of"
+44104,Hungary
+44104,Israel
+44104,Italy
+44104,Kenya
+44104,Mauritania
+44104,Morocco
+44104,Mozambique
+44104,Namibia
+44104,Netherlands
+44104,Nigeria
+44104,Norway
+44104,Poland
+44104,Portugal
+44104,"Republic of Congo"
+44104,Romania
+44104,Senegal
+44104,Slovenia
+44104,"South Africa"
+44104,Spain
+44104,Switzerland
+44104,Tanzania
+44104,Turkey
+44104,Uganda
+44104,Ukraine
+44104,"United States of America"
+44105,Angola
+44105,Austria
+44105,Botswana
+44105,Bulgaria
+44105,Cameroon
+44105,Chad
+44105,Denmark
+44105,"Equatorial Guinea"
+44105,France
+44105,Gabon
+44105,Germany
+44105,Ghana
+44105,Greece
+44105,"Guinea, Republic of"
+44105,Hungary
+44105,Israel
+44105,Italy
+44105,Kenya
+44105,Mauritania
+44105,Morocco
+44105,Mozambique
+44105,Namibia
+44105,Netherlands
+44105,Nigeria
+44105,Norway
+44105,Poland
+44105,Portugal
+44105,"Republic of Congo"
+44105,Romania
+44105,Senegal
+44105,Slovenia
+44105,"South Africa"
+44105,Spain
+44105,Switzerland
+44105,Tanzania
+44105,Turkey
+44105,Uganda
+44105,Ukraine
+44105,"United States of America"
+44106,Angola
+44106,Austria
+44106,Botswana
+44106,Bulgaria
+44106,Cameroon
+44106,Chad
+44106,Denmark
+44106,"Equatorial Guinea"
+44106,France
+44106,Gabon
+44106,Germany
+44106,Ghana
+44106,Greece
+44106,"Guinea, Republic of"
+44106,Hungary
+44106,Israel
+44106,Italy
+44106,Kenya
+44106,Mauritania
+44106,Morocco
+44106,Mozambique
+44106,Namibia
+44106,Netherlands
+44106,Nigeria
+44106,Norway
+44106,Poland
+44106,Portugal
+44106,"Republic of Congo"
+44106,Romania
+44106,Senegal
+44106,Slovenia
+44106,"South Africa"
+44106,Spain
+44106,Switzerland
+44106,Tanzania
+44106,Turkey
+44106,Uganda
+44106,Ukraine
+44106,"United States of America"
+44107,Angola
+44107,Austria
+44107,Botswana
+44107,Bulgaria
+44107,Cameroon
+44107,Chad
+44107,Denmark
+44107,"Equatorial Guinea"
+44107,France
+44107,Gabon
+44107,Germany
+44107,Ghana
+44107,Greece
+44107,"Guinea, Republic of"
+44107,Hungary
+44107,Israel
+44107,Italy
+44107,Kenya
+44107,Mauritania
+44107,Morocco
+44107,Mozambique
+44107,Namibia
+44107,Netherlands
+44107,Nigeria
+44107,Norway
+44107,Poland
+44107,Portugal
+44107,"Republic of Congo"
+44107,Romania
+44107,Senegal
+44107,Slovenia
+44107,"South Africa"
+44107,Spain
+44107,Switzerland
+44107,Tanzania
+44107,Turkey
+44107,Uganda
+44107,Ukraine
+44107,"United States of America"
+44108,Angola
+44108,Austria
+44108,Botswana
+44108,Bulgaria
+44108,Cameroon
+44108,Chad
+44108,Denmark
+44108,"Equatorial Guinea"
+44108,France
+44108,Gabon
+44108,Germany
+44108,Ghana
+44108,Greece
+44108,"Guinea, Republic of"
+44108,Hungary
+44108,Israel
+44108,Italy
+44108,Kenya
+44108,Mauritania
+44108,Morocco
+44108,Mozambique
+44108,Namibia
+44108,Netherlands
+44108,Nigeria
+44108,Norway
+44108,Poland
+44108,Portugal
+44108,"Republic of Congo"
+44108,Romania
+44108,Senegal
+44108,Slovenia
+44108,"South Africa"
+44108,Spain
+44108,Switzerland
+44108,Tanzania
+44108,Turkey
+44108,Uganda
+44108,Ukraine
+44108,"United States of America"
+44109,Angola
+44109,Austria
+44109,Botswana
+44109,Bulgaria
+44109,Cameroon
+44109,Chad
+44109,Denmark
+44109,"Equatorial Guinea"
+44109,France
+44109,Gabon
+44109,Germany
+44109,Ghana
+44109,Greece
+44109,"Guinea, Republic of"
+44109,Hungary
+44109,Israel
+44109,Italy
+44109,Kenya
+44109,Mauritania
+44109,Morocco
+44109,Mozambique
+44109,Namibia
+44109,Netherlands
+44109,Nigeria
+44109,Norway
+44109,Poland
+44109,Portugal
+44109,"Republic of Congo"
+44109,Romania
+44109,Senegal
+44109,Slovenia
+44109,"South Africa"
+44109,Spain
+44109,Switzerland
+44109,Tanzania
+44109,Turkey
+44109,Uganda
+44109,Ukraine
+44109,"United States of America"
+44110,Angola
+44110,Austria
+44110,Botswana
+44110,Bulgaria
+44110,Cameroon
+44110,Chad
+44110,Denmark
+44110,"Equatorial Guinea"
+44110,France
+44110,Gabon
+44110,Germany
+44110,Ghana
+44110,Greece
+44110,"Guinea, Republic of"
+44110,Hungary
+44110,Israel
+44110,Italy
+44110,Kenya
+44110,Mauritania
+44110,Morocco
+44110,Mozambique
+44110,Namibia
+44110,Netherlands
+44110,Nigeria
+44110,Norway
+44110,Poland
+44110,Portugal
+44110,"Republic of Congo"
+44110,Romania
+44110,Senegal
+44110,Slovenia
+44110,"South Africa"
+44110,Spain
+44110,Switzerland
+44110,Tanzania
+44110,Turkey
+44110,Uganda
+44110,Ukraine
+44110,"United States of America"
+44111,Angola
+44111,Austria
+44111,Botswana
+44111,Bulgaria
+44111,Cameroon
+44111,Chad
+44111,Denmark
+44111,"Equatorial Guinea"
+44111,France
+44111,Gabon
+44111,Germany
+44111,Ghana
+44111,Greece
+44111,"Guinea, Republic of"
+44111,Hungary
+44111,Israel
+44111,Italy
+44111,Kenya
+44111,Mauritania
+44111,Morocco
+44111,Mozambique
+44111,Namibia
+44111,Netherlands
+44111,Nigeria
+44111,Norway
+44111,Poland
+44111,Portugal
+44111,"Republic of Congo"
+44111,Romania
+44111,Senegal
+44111,Slovenia
+44111,"South Africa"
+44111,Spain
+44111,Switzerland
+44111,Tanzania
+44111,Turkey
+44111,Uganda
+44111,Ukraine
+44111,"United States of America"
+44112,Angola
+44112,Austria
+44112,Botswana
+44112,Bulgaria
+44112,Cameroon
+44112,Chad
+44112,Denmark
+44112,"Equatorial Guinea"
+44112,France
+44112,Gabon
+44112,Germany
+44112,Ghana
+44112,Greece
+44112,"Guinea, Republic of"
+44112,Hungary
+44112,Israel
+44112,Italy
+44112,Kenya
+44112,Mauritania
+44112,Morocco
+44112,Mozambique
+44112,Namibia
+44112,Netherlands
+44112,Nigeria
+44112,Norway
+44112,Poland
+44112,Portugal
+44112,"Republic of Congo"
+44112,Romania
+44112,Senegal
+44112,Slovenia
+44112,"South Africa"
+44112,Spain
+44112,Switzerland
+44112,Tanzania
+44112,Turkey
+44112,Uganda
+44112,Ukraine
+44112,"United States of America"
+44113,Angola
+44113,Austria
+44113,Botswana
+44113,Bulgaria
+44113,Cameroon
+44113,Chad
+44113,Denmark
+44113,"Equatorial Guinea"
+44113,France
+44113,Gabon
+44113,Germany
+44113,Ghana
+44113,Greece
+44113,"Guinea, Republic of"
+44113,Hungary
+44113,Israel
+44113,Italy
+44113,Kenya
+44113,Mauritania
+44113,Morocco
+44113,Mozambique
+44113,Namibia
+44113,Netherlands
+44113,Nigeria
+44113,Norway
+44113,Poland
+44113,Portugal
+44113,"Republic of Congo"
+44113,Romania
+44113,Senegal
+44113,Slovenia
+44113,"South Africa"
+44113,Spain
+44113,Switzerland
+44113,Tanzania
+44113,Turkey
+44113,Uganda
+44113,Ukraine
+44113,"United States of America"
+44114,Angola
+44114,Austria
+44114,Botswana
+44114,Bulgaria
+44114,Cameroon
+44114,Chad
+44114,Denmark
+44114,"Equatorial Guinea"
+44114,France
+44114,Gabon
+44114,Germany
+44114,Ghana
+44114,Greece
+44114,"Guinea, Republic of"
+44114,Hungary
+44114,Israel
+44114,Italy
+44114,Kenya
+44114,Mauritania
+44114,Morocco
+44114,Mozambique
+44114,Namibia
+44114,Netherlands
+44114,Nigeria
+44114,Norway
+44114,Poland
+44114,Portugal
+44114,"Republic of Congo"
+44114,Romania
+44114,Senegal
+44114,Slovenia
+44114,"South Africa"
+44114,Spain
+44114,Switzerland
+44114,Tanzania
+44114,Turkey
+44114,Uganda
+44114,Ukraine
+44114,"United States of America"
+44115,Angola
+44115,Austria
+44115,Botswana
+44115,Bulgaria
+44115,Cameroon
+44115,Chad
+44115,Denmark
+44115,"Equatorial Guinea"
+44115,France
+44115,Gabon
+44115,Germany
+44115,Ghana
+44115,Greece
+44115,"Guinea, Republic of"
+44115,Hungary
+44115,Israel
+44115,Italy
+44115,Kenya
+44115,Mauritania
+44115,Morocco
+44115,Mozambique
+44115,Namibia
+44115,Netherlands
+44115,Nigeria
+44115,Norway
+44115,Poland
+44115,Portugal
+44115,"Republic of Congo"
+44115,Romania
+44115,Senegal
+44115,Slovenia
+44115,"South Africa"
+44115,Spain
+44115,Switzerland
+44115,Tanzania
+44115,Turkey
+44115,Uganda
+44115,Ukraine
+44115,"United States of America"
+44116,Angola
+44116,Austria
+44116,Botswana
+44116,Bulgaria
+44116,Cameroon
+44116,Chad
+44116,Denmark
+44116,"Equatorial Guinea"
+44116,France
+44116,Gabon
+44116,Germany
+44116,Ghana
+44116,Greece
+44116,"Guinea, Republic of"
+44116,Hungary
+44116,Israel
+44116,Italy
+44116,Kenya
+44116,Mauritania
+44116,Morocco
+44116,Mozambique
+44116,Namibia
+44116,Netherlands
+44116,Nigeria
+44116,Norway
+44116,Poland
+44116,Portugal
+44116,"Republic of Congo"
+44116,Romania
+44116,Senegal
+44116,Slovenia
+44116,"South Africa"
+44116,Spain
+44116,Switzerland
+44116,Tanzania
+44116,Turkey
+44116,Uganda
+44116,Ukraine
+44116,"United States of America"
+44117,Angola
+44117,Austria
+44117,Botswana
+44117,Bulgaria
+44117,Cameroon
+44117,Chad
+44117,Denmark
+44117,"Equatorial Guinea"
+44117,France
+44117,Gabon
+44117,Germany
+44117,Ghana
+44117,Greece
+44117,"Guinea, Republic of"
+44117,Hungary
+44117,Israel
+44117,Italy
+44117,Kenya
+44117,Mauritania
+44117,Morocco
+44117,Mozambique
+44117,Namibia
+44117,Netherlands
+44117,Nigeria
+44117,Norway
+44117,Poland
+44117,Portugal
+44117,"Republic of Congo"
+44117,Romania
+44117,Senegal
+44117,Slovenia
+44117,"South Africa"
+44117,Spain
+44117,Switzerland
+44117,Tanzania
+44117,Turkey
+44117,Uganda
+44117,Ukraine
+44117,"United States of America"
+44118,Angola
+44118,Austria
+44118,Botswana
+44118,Bulgaria
+44118,Cameroon
+44118,Chad
+44118,Denmark
+44118,"Equatorial Guinea"
+44118,France
+44118,Gabon
+44118,Germany
+44118,Ghana
+44118,Greece
+44118,"Guinea, Republic of"
+44118,Hungary
+44118,Israel
+44118,Italy
+44118,Kenya
+44118,Mauritania
+44118,Morocco
+44118,Mozambique
+44118,Namibia
+44118,Netherlands
+44118,Nigeria
+44118,Norway
+44118,Poland
+44118,Portugal
+44118,"Republic of Congo"
+44118,Romania
+44118,Senegal
+44118,Slovenia
+44118,"South Africa"
+44118,Spain
+44118,Switzerland
+44118,Tanzania
+44118,Turkey
+44118,Uganda
+44118,Ukraine
+44118,"United States of America"
+44119,Angola
+44119,Austria
+44119,Botswana
+44119,Bulgaria
+44119,Cameroon
+44119,Chad
+44119,Denmark
+44119,"Equatorial Guinea"
+44119,France
+44119,Gabon
+44119,Germany
+44119,Ghana
+44119,Greece
+44119,"Guinea, Republic of"
+44119,Hungary
+44119,Israel
+44119,Italy
+44119,Kenya
+44119,Mauritania
+44119,Morocco
+44119,Mozambique
+44119,Namibia
+44119,Netherlands
+44119,Nigeria
+44119,Norway
+44119,Poland
+44119,Portugal
+44119,"Republic of Congo"
+44119,Romania
+44119,Senegal
+44119,Slovenia
+44119,"South Africa"
+44119,Spain
+44119,Switzerland
+44119,Tanzania
+44119,Turkey
+44119,Uganda
+44119,Ukraine
+44119,"United States of America"
+44120,Angola
+44120,Austria
+44120,Botswana
+44120,Bulgaria
+44120,Cameroon
+44120,Chad
+44120,Denmark
+44120,"Equatorial Guinea"
+44120,France
+44120,Gabon
+44120,Germany
+44120,Ghana
+44120,Greece
+44120,"Guinea, Republic of"
+44120,Hungary
+44120,Israel
+44120,Italy
+44120,Kenya
+44120,Mauritania
+44120,Morocco
+44120,Mozambique
+44120,Namibia
+44120,Netherlands
+44120,Nigeria
+44120,Norway
+44120,Poland
+44120,Portugal
+44120,"Republic of Congo"
+44120,Romania
+44120,Senegal
+44120,Slovenia
+44120,"South Africa"
+44120,Spain
+44120,Switzerland
+44120,Tanzania
+44120,Turkey
+44120,Uganda
+44120,Ukraine
+44120,"United States of America"
+44121,Angola
+44121,Austria
+44121,Botswana
+44121,Bulgaria
+44121,Cameroon
+44121,Chad
+44121,Denmark
+44121,"Equatorial Guinea"
+44121,France
+44121,Gabon
+44121,Germany
+44121,Ghana
+44121,Greece
+44121,"Guinea, Republic of"
+44121,Hungary
+44121,Israel
+44121,Italy
+44121,Kenya
+44121,Mauritania
+44121,Morocco
+44121,Mozambique
+44121,Namibia
+44121,Netherlands
+44121,Nigeria
+44121,Norway
+44121,Poland
+44121,Portugal
+44121,"Republic of Congo"
+44121,Romania
+44121,Senegal
+44121,Slovenia
+44121,"South Africa"
+44121,Spain
+44121,Switzerland
+44121,Tanzania
+44121,Turkey
+44121,Uganda
+44121,Ukraine
+44121,"United States of America"
+44122,Angola
+44122,Austria
+44122,Botswana
+44122,Bulgaria
+44122,Cameroon
+44122,Chad
+44122,Denmark
+44122,"Equatorial Guinea"
+44122,France
+44122,Gabon
+44122,Germany
+44122,Ghana
+44122,Greece
+44122,"Guinea, Republic of"
+44122,Hungary
+44122,Israel
+44122,Italy
+44122,Kenya
+44122,Mauritania
+44122,Morocco
+44122,Mozambique
+44122,Namibia
+44122,Netherlands
+44122,Nigeria
+44122,Norway
+44122,Poland
+44122,Portugal
+44122,"Republic of Congo"
+44122,Romania
+44122,Senegal
+44122,Slovenia
+44122,"South Africa"
+44122,Spain
+44122,Switzerland
+44122,Tanzania
+44122,Turkey
+44122,Uganda
+44122,Ukraine
+44122,"United States of America"
+44123,"Saudi Arabia"
+44123,France
+44123,"South Africa"
+44123,"United States of America"
+44123,Spain
+44124,Brunei
+44125,Brunei
+44126,Malaysia
+44126,Singapore
+44126,Germany
+44127,Brunei
+44128,"United States of America"
+44129,"United States of America"
+44130,Brunei
+44131,"United States of America"
+44132,"United States of America"
+44133,"United States of America"
+44134,"South Africa"
+44135,"South Africa"
+44136,"South Africa"
+44137,"South Africa"
+44138,"South Africa"
+44139,"South Africa"
+44140,"South Africa"
+44141,"South Africa"
+44142,"South Africa"
+44143,"South Africa"
+44144,"South Africa"
+44145,"South Africa"
+44146,"South Africa"
+44147,"South Africa"
+44148,"South Africa"
+44149,"South Africa"
+44150,"South Africa"
+44151,"South Africa"
+44152,"South Africa"
+44153,"South Africa"
+44154,"South Africa"
+44155,"South Africa"
+44156,"South Africa"
+44157,Jordan
+44158,Jordan
+44159,Jordan
+44160,Jordan
+44161,Jordan
+44162,Jordan
+44163,Jordan
+44164,Jordan
+44165,"United States of America"
+44166,"South Africa"
+44167,"South Africa"
+44168,"South Africa"
+44169,"South Africa"
+44170,"South Africa"
+44171,"Non Specific Country"
+44172,"Non Specific Country"
+44173,"Non Specific Country"
+44174,Malaysia
+44174,France
+44175,Malaysia
+44175,France
+44176,Malaysia
+44176,France
+44177,Malaysia
+44177,France
+44178,Malaysia
+44178,France
+44179,Malaysia
+44179,France
+44180,Malaysia
+44180,France
+44181,Malaysia
+44181,France
+44182,Malaysia
+44182,France
+44183,Malaysia
+44183,France
+44184,Malaysia
+44184,France
+44185,Malaysia
+44185,France
+44186,Malaysia
+44186,France
+44187,Malaysia
+44187,France
+44188,Malaysia
+44188,France
+44189,Malaysia
+44189,France
+44190,Malaysia
+44190,France
+44191,Malaysia
+44191,France
+44192,Malaysia
+44192,France
+44193,Malaysia
+44193,France
+44194,"South Africa"
+44195,"South Africa"
+44196,"South Africa"
+44197,"South Africa"
+44198,"South Africa"
+44199,"South Africa"
+44200,"South Africa"
+44201,"South Africa"
+44202,"South Africa"
+44203,"South Africa"
+44204,Portugal
+44205,"Non Specific Country"
+44206,"Non Specific Country"
+44207,Turkey
+44208,"Non Specific Country"
+44209,"Non Specific Country"
+44210,France
+44211,Qatar
+44211,"United Arab Emirates"
+44212,"United States of America"
+44213,"Non Specific Country"
+44214,Djibouti
+44214,India
+44214,Kenya
+44214,Malta
+44214,Mauritius
+44214,Oman
+44214,"South Africa"
+44214,"Sri Lanka"
+44214,Tanzania
+44214,"United Arab Emirates"
+44215,Djibouti
+44215,India
+44215,Kenya
+44215,Malta
+44215,Mauritius
+44215,Oman
+44215,"South Africa"
+44215,"Sri Lanka"
+44215,Tanzania
+44215,"United Arab Emirates"
+44216,Djibouti
+44216,India
+44216,Kenya
+44216,Malta
+44216,Mauritius
+44216,Oman
+44216,"South Africa"
+44216,"Sri Lanka"
+44216,Tanzania
+44216,"United Arab Emirates"
+44217,Djibouti
+44217,India
+44217,Kenya
+44217,Malta
+44217,Mauritius
+44217,Oman
+44217,"South Africa"
+44217,"Sri Lanka"
+44217,Tanzania
+44217,"United Arab Emirates"
+44218,Djibouti
+44218,India
+44218,Kenya
+44218,Malta
+44218,Mauritius
+44218,Oman
+44218,"South Africa"
+44218,"Sri Lanka"
+44218,Tanzania
+44218,"United Arab Emirates"
+44219,Djibouti
+44219,India
+44219,Kenya
+44219,Malta
+44219,Mauritius
+44219,Oman
+44219,"South Africa"
+44219,"Sri Lanka"
+44219,Tanzania
+44219,"United Arab Emirates"
+44220,Djibouti
+44220,India
+44220,Kenya
+44220,Malta
+44220,Mauritius
+44220,Oman
+44220,"South Africa"
+44220,"Sri Lanka"
+44220,Tanzania
+44220,"United Arab Emirates"
+44221,Djibouti
+44221,India
+44221,Kenya
+44221,Malta
+44221,Mauritius
+44221,Oman
+44221,"South Africa"
+44221,"Sri Lanka"
+44221,Tanzania
+44221,"United Arab Emirates"
+44222,Djibouti
+44222,India
+44222,Kenya
+44222,Malta
+44222,Mauritius
+44222,Oman
+44222,"South Africa"
+44222,"Sri Lanka"
+44222,Tanzania
+44222,"United Arab Emirates"
+44223,"Non Specific Country"
+44224,"Non Specific Country"
+44225,"Non Specific Country"
+44226,"Non Specific Country"
+44227,"Non Specific Country"
+44228,"Non Specific Country"
+44229,"Non Specific Country"
+44230,Argentina
+44230,Brazil
+44230,Egypt
+44230,Gibraltar
+44230,"Hong Kong Special Administrative Region"
+44230,India
+44230,Kenya
+44230,Madagascar
+44230,Malaysia
+44230,Maldives
+44230,Malta
+44230,Mauritius
+44230,Mexico
+44230,Netherlands
+44230,Oman
+44230,Philippines
+44230,Qatar
+44230,Seychelles
+44230,"South Africa"
+44230,"Sri Lanka"
+44230,Tanzania
+44230,Thailand
+44230,"United States of America"
+44231,Argentina
+44231,Brazil
+44231,Egypt
+44231,Gibraltar
+44231,"Hong Kong Special Administrative Region"
+44231,India
+44231,Kenya
+44231,Madagascar
+44231,Malaysia
+44231,Maldives
+44231,Malta
+44231,Mauritius
+44231,Mexico
+44231,Netherlands
+44231,Oman
+44231,Philippines
+44231,Qatar
+44231,Seychelles
+44231,"South Africa"
+44231,"Sri Lanka"
+44231,Tanzania
+44231,Thailand
+44231,"United States of America"
+44232,Argentina
+44232,Brazil
+44232,Egypt
+44232,Gibraltar
+44232,"Hong Kong Special Administrative Region"
+44232,India
+44232,Kenya
+44232,Madagascar
+44232,Malaysia
+44232,Maldives
+44232,Malta
+44232,Mauritius
+44232,Mexico
+44232,Netherlands
+44232,Oman
+44232,Philippines
+44232,Qatar
+44232,Seychelles
+44232,"South Africa"
+44232,"Sri Lanka"
+44232,Tanzania
+44232,Thailand
+44232,"United States of America"
+44233,Argentina
+44233,Brazil
+44233,Egypt
+44233,Gibraltar
+44233,"Hong Kong Special Administrative Region"
+44233,India
+44233,Kenya
+44233,Madagascar
+44233,Malaysia
+44233,Maldives
+44233,Malta
+44233,Mauritius
+44233,Mexico
+44233,Netherlands
+44233,Oman
+44233,Philippines
+44233,Qatar
+44233,Seychelles
+44233,"South Africa"
+44233,"Sri Lanka"
+44233,Tanzania
+44233,Thailand
+44233,"United States of America"
+44234,Argentina
+44234,Brazil
+44234,Egypt
+44234,Gibraltar
+44234,"Hong Kong Special Administrative Region"
+44234,India
+44234,Kenya
+44234,Madagascar
+44234,Malaysia
+44234,Maldives
+44234,Malta
+44234,Mauritius
+44234,Mexico
+44234,Netherlands
+44234,Oman
+44234,Philippines
+44234,Qatar
+44234,Seychelles
+44234,"South Africa"
+44234,"Sri Lanka"
+44234,Tanzania
+44234,Thailand
+44234,"United States of America"
+44235,Argentina
+44235,Brazil
+44235,Egypt
+44235,Gibraltar
+44235,"Hong Kong Special Administrative Region"
+44235,India
+44235,Kenya
+44235,Madagascar
+44235,Malaysia
+44235,Maldives
+44235,Malta
+44235,Mauritius
+44235,Mexico
+44235,Netherlands
+44235,Oman
+44235,Philippines
+44235,Qatar
+44235,Seychelles
+44235,"South Africa"
+44235,"Sri Lanka"
+44235,Tanzania
+44235,Thailand
+44235,"United States of America"
+44236,Argentina
+44236,Brazil
+44236,Egypt
+44236,Gibraltar
+44236,"Hong Kong Special Administrative Region"
+44236,India
+44236,Kenya
+44236,Madagascar
+44236,Malaysia
+44236,Maldives
+44236,Malta
+44236,Mauritius
+44236,Mexico
+44236,Netherlands
+44236,Oman
+44236,Philippines
+44236,Qatar
+44236,Seychelles
+44236,"South Africa"
+44236,"Sri Lanka"
+44236,Tanzania
+44236,Thailand
+44236,"United States of America"
+44237,Argentina
+44237,Brazil
+44237,Egypt
+44237,Gibraltar
+44237,"Hong Kong Special Administrative Region"
+44237,India
+44237,Kenya
+44237,Madagascar
+44237,Malaysia
+44237,Maldives
+44237,Malta
+44237,Mauritius
+44237,Mexico
+44237,Netherlands
+44237,Oman
+44237,Philippines
+44237,Qatar
+44237,Seychelles
+44237,"South Africa"
+44237,"Sri Lanka"
+44237,Tanzania
+44237,Thailand
+44237,"United States of America"
+44238,Argentina
+44238,Brazil
+44238,Egypt
+44238,Gibraltar
+44238,"Hong Kong Special Administrative Region"
+44238,India
+44238,Kenya
+44238,Madagascar
+44238,Malaysia
+44238,Maldives
+44238,Malta
+44238,Mauritius
+44238,Mexico
+44238,Netherlands
+44238,Oman
+44238,Philippines
+44238,Qatar
+44238,Seychelles
+44238,"South Africa"
+44238,"Sri Lanka"
+44238,Tanzania
+44238,Thailand
+44238,"United States of America"
+44239,Argentina
+44239,Brazil
+44239,Egypt
+44239,Gibraltar
+44239,"Hong Kong Special Administrative Region"
+44239,India
+44239,Kenya
+44239,Madagascar
+44239,Malaysia
+44239,Maldives
+44239,Malta
+44239,Mauritius
+44239,Mexico
+44239,Netherlands
+44239,Oman
+44239,Philippines
+44239,Qatar
+44239,Seychelles
+44239,"South Africa"
+44239,"Sri Lanka"
+44239,Tanzania
+44239,Thailand
+44239,"United States of America"
+44240,Argentina
+44240,Brazil
+44240,Egypt
+44240,Gibraltar
+44240,"Hong Kong Special Administrative Region"
+44240,India
+44240,Kenya
+44240,Madagascar
+44240,Malaysia
+44240,Maldives
+44240,Malta
+44240,Mauritius
+44240,Mexico
+44240,Netherlands
+44240,Oman
+44240,Philippines
+44240,Qatar
+44240,Seychelles
+44240,"South Africa"
+44240,"Sri Lanka"
+44240,Tanzania
+44240,Thailand
+44240,"United States of America"
+44241,Argentina
+44241,Brazil
+44241,Egypt
+44241,Gibraltar
+44241,"Hong Kong Special Administrative Region"
+44241,India
+44241,Kenya
+44241,Madagascar
+44241,Malaysia
+44241,Maldives
+44241,Malta
+44241,Mauritius
+44241,Mexico
+44241,Netherlands
+44241,Oman
+44241,Philippines
+44241,Qatar
+44241,Seychelles
+44241,"South Africa"
+44241,"Sri Lanka"
+44241,Tanzania
+44241,Thailand
+44241,"United States of America"
+44242,Argentina
+44242,Brazil
+44242,Egypt
+44242,Gibraltar
+44242,"Hong Kong Special Administrative Region"
+44242,India
+44242,Kenya
+44242,Madagascar
+44242,Malaysia
+44242,Maldives
+44242,Malta
+44242,Mauritius
+44242,Mexico
+44242,Netherlands
+44242,Oman
+44242,Philippines
+44242,Qatar
+44242,Seychelles
+44242,"South Africa"
+44242,"Sri Lanka"
+44242,Tanzania
+44242,Thailand
+44242,"United States of America"
+44243,Argentina
+44243,Brazil
+44243,Egypt
+44243,Gibraltar
+44243,"Hong Kong Special Administrative Region"
+44243,India
+44243,Kenya
+44243,Madagascar
+44243,Malaysia
+44243,Maldives
+44243,Malta
+44243,Mauritius
+44243,Mexico
+44243,Netherlands
+44243,Oman
+44243,Philippines
+44243,Qatar
+44243,Seychelles
+44243,"South Africa"
+44243,"Sri Lanka"
+44243,Tanzania
+44243,Thailand
+44243,"United States of America"
+44244,Argentina
+44244,Brazil
+44244,Egypt
+44244,Gibraltar
+44244,"Hong Kong Special Administrative Region"
+44244,India
+44244,Kenya
+44244,Madagascar
+44244,Malaysia
+44244,Maldives
+44244,Malta
+44244,Mauritius
+44244,Mexico
+44244,Netherlands
+44244,Oman
+44244,Philippines
+44244,Qatar
+44244,Seychelles
+44244,"South Africa"
+44244,"Sri Lanka"
+44244,Tanzania
+44244,Thailand
+44244,"United States of America"
+44245,Argentina
+44245,Brazil
+44245,Egypt
+44245,Gibraltar
+44245,"Hong Kong Special Administrative Region"
+44245,India
+44245,Kenya
+44245,Madagascar
+44245,Malaysia
+44245,Maldives
+44245,Malta
+44245,Mauritius
+44245,Mexico
+44245,Netherlands
+44245,Oman
+44245,Philippines
+44245,Qatar
+44245,Seychelles
+44245,"South Africa"
+44245,"Sri Lanka"
+44245,Tanzania
+44245,Thailand
+44245,"United States of America"
+44246,Argentina
+44246,Brazil
+44246,Egypt
+44246,Gibraltar
+44246,"Hong Kong Special Administrative Region"
+44246,India
+44246,Kenya
+44246,Madagascar
+44246,Malaysia
+44246,Maldives
+44246,Malta
+44246,Mauritius
+44246,Mexico
+44246,Netherlands
+44246,Oman
+44246,Philippines
+44246,Qatar
+44246,Seychelles
+44246,"South Africa"
+44246,"Sri Lanka"
+44246,Tanzania
+44246,Thailand
+44246,"United States of America"
+44247,Argentina
+44247,Brazil
+44247,Egypt
+44247,Gibraltar
+44247,"Hong Kong Special Administrative Region"
+44247,India
+44247,Kenya
+44247,Madagascar
+44247,Malaysia
+44247,Maldives
+44247,Malta
+44247,Mauritius
+44247,Mexico
+44247,Netherlands
+44247,Oman
+44247,Philippines
+44247,Qatar
+44247,Seychelles
+44247,"South Africa"
+44247,"Sri Lanka"
+44247,Tanzania
+44247,Thailand
+44247,"United States of America"
+44248,Argentina
+44248,Brazil
+44248,Egypt
+44248,Gibraltar
+44248,"Hong Kong Special Administrative Region"
+44248,India
+44248,Kenya
+44248,Madagascar
+44248,Malaysia
+44248,Maldives
+44248,Malta
+44248,Mauritius
+44248,Mexico
+44248,Netherlands
+44248,Oman
+44248,Philippines
+44248,Qatar
+44248,Seychelles
+44248,"South Africa"
+44248,"Sri Lanka"
+44248,Tanzania
+44248,Thailand
+44248,"United States of America"
+44249,Argentina
+44249,Brazil
+44249,Egypt
+44249,Gibraltar
+44249,"Hong Kong Special Administrative Region"
+44249,India
+44249,Kenya
+44249,Madagascar
+44249,Malaysia
+44249,Maldives
+44249,Malta
+44249,Mauritius
+44249,Mexico
+44249,Netherlands
+44249,Oman
+44249,Philippines
+44249,Qatar
+44249,Seychelles
+44249,"South Africa"
+44249,"Sri Lanka"
+44249,Tanzania
+44249,Thailand
+44249,"United States of America"
+44250,Argentina
+44250,Brazil
+44250,Egypt
+44250,Gibraltar
+44250,"Hong Kong Special Administrative Region"
+44250,India
+44250,Kenya
+44250,Madagascar
+44250,Malaysia
+44250,Maldives
+44250,Malta
+44250,Mauritius
+44250,Mexico
+44250,Netherlands
+44250,Oman
+44250,Philippines
+44250,Qatar
+44250,Seychelles
+44250,"South Africa"
+44250,"Sri Lanka"
+44250,Tanzania
+44250,Thailand
+44250,"United States of America"
+44251,Argentina
+44251,Brazil
+44251,Egypt
+44251,Gibraltar
+44251,"Hong Kong Special Administrative Region"
+44251,India
+44251,Kenya
+44251,Madagascar
+44251,Malaysia
+44251,Maldives
+44251,Malta
+44251,Mauritius
+44251,Mexico
+44251,Netherlands
+44251,Oman
+44251,Philippines
+44251,Qatar
+44251,Seychelles
+44251,"South Africa"
+44251,"Sri Lanka"
+44251,Tanzania
+44251,Thailand
+44251,"United States of America"
+44252,Argentina
+44252,Brazil
+44252,Egypt
+44252,Gibraltar
+44252,"Hong Kong Special Administrative Region"
+44252,India
+44252,Kenya
+44252,Madagascar
+44252,Malaysia
+44252,Maldives
+44252,Malta
+44252,Mauritius
+44252,Mexico
+44252,Netherlands
+44252,Oman
+44252,Philippines
+44252,Qatar
+44252,Seychelles
+44252,"South Africa"
+44252,"Sri Lanka"
+44252,Tanzania
+44252,Thailand
+44252,"United States of America"
+44253,"South Africa"
+44254,Djibouti
+44254,Egypt
+44254,Kenya
+44254,Malaysia
+44254,Maldives
+44254,Malta
+44254,Mauritius
+44254,Mozambique
+44254,Oman
+44254,Seychelles
+44254,Singapore
+44254,"South Africa"
+44254,"Sri Lanka"
+44254,Tanzania
+44255,"South Africa"
+44256,Djibouti
+44256,Egypt
+44256,Kenya
+44256,Malaysia
+44256,Maldives
+44256,Malta
+44256,Mauritius
+44256,Mozambique
+44256,Oman
+44256,Seychelles
+44256,Singapore
+44256,"South Africa"
+44256,"Sri Lanka"
+44256,Tanzania
+44257,"South Africa"
+44258,Djibouti
+44258,Egypt
+44258,Kenya
+44258,Malaysia
+44258,Maldives
+44258,Malta
+44258,Mauritius
+44258,Mozambique
+44258,Oman
+44258,Seychelles
+44258,Singapore
+44258,"South Africa"
+44258,"Sri Lanka"
+44258,Tanzania
+44259,Djibouti
+44259,Egypt
+44259,Kenya
+44259,Malaysia
+44259,Maldives
+44259,Malta
+44259,Mauritius
+44259,Mozambique
+44259,Oman
+44259,Seychelles
+44259,Singapore
+44259,"South Africa"
+44259,"Sri Lanka"
+44259,Tanzania
+44260,Djibouti
+44260,Egypt
+44260,Kenya
+44260,Malaysia
+44260,Maldives
+44260,Malta
+44260,Mauritius
+44260,Mozambique
+44260,Oman
+44260,Seychelles
+44260,Singapore
+44260,"South Africa"
+44260,"Sri Lanka"
+44260,Tanzania
+44261,Djibouti
+44261,Egypt
+44261,Kenya
+44261,Malaysia
+44261,Maldives
+44261,Malta
+44261,Mauritius
+44261,Mozambique
+44261,Oman
+44261,Seychelles
+44261,Singapore
+44261,"South Africa"
+44261,"Sri Lanka"
+44261,Tanzania
+44262,Djibouti
+44262,Egypt
+44262,Kenya
+44262,Malaysia
+44262,Maldives
+44262,Malta
+44262,Mauritius
+44262,Mozambique
+44262,Oman
+44262,Seychelles
+44262,Singapore
+44262,"South Africa"
+44262,"Sri Lanka"
+44262,Tanzania
+44263,Djibouti
+44263,Egypt
+44263,Kenya
+44263,Malaysia
+44263,Maldives
+44263,Malta
+44263,Mauritius
+44263,Mozambique
+44263,Oman
+44263,Seychelles
+44263,Singapore
+44263,"South Africa"
+44263,"Sri Lanka"
+44263,Tanzania
+44264,Djibouti
+44264,Egypt
+44264,Kenya
+44264,Malaysia
+44264,Maldives
+44264,Malta
+44264,Mauritius
+44264,Mozambique
+44264,Oman
+44264,Seychelles
+44264,Singapore
+44264,"South Africa"
+44264,"Sri Lanka"
+44264,Tanzania
+44265,"South Africa"
+44266,"South Africa"
+44267,Djibouti
+44267,Egypt
+44267,Kenya
+44267,Malaysia
+44267,Maldives
+44267,Malta
+44267,Mauritius
+44267,Mozambique
+44267,Oman
+44267,Seychelles
+44267,Singapore
+44267,"South Africa"
+44267,"Sri Lanka"
+44267,Tanzania
+44268,Djibouti
+44268,Egypt
+44268,Kenya
+44268,Malaysia
+44268,Maldives
+44268,Malta
+44268,Mauritius
+44268,Mozambique
+44268,Oman
+44268,Seychelles
+44268,Singapore
+44268,"South Africa"
+44268,"Sri Lanka"
+44268,Tanzania
+44269,Djibouti
+44269,Egypt
+44269,Kenya
+44269,Malaysia
+44269,Maldives
+44269,Malta
+44269,Mauritius
+44269,Mozambique
+44269,Oman
+44269,Seychelles
+44269,Singapore
+44269,"South Africa"
+44269,"Sri Lanka"
+44269,Tanzania
+44270,Djibouti
+44270,Egypt
+44270,Kenya
+44270,Malaysia
+44270,Maldives
+44270,Malta
+44270,Mauritius
+44270,Mozambique
+44270,Oman
+44270,Seychelles
+44270,Singapore
+44270,"South Africa"
+44270,"Sri Lanka"
+44270,Tanzania
+44271,Djibouti
+44271,Egypt
+44271,Kenya
+44271,Malaysia
+44271,Maldives
+44271,Malta
+44271,Mauritius
+44271,Mozambique
+44271,Oman
+44271,Seychelles
+44271,Singapore
+44271,"South Africa"
+44271,"Sri Lanka"
+44271,Tanzania
+44272,Kenya
+44272,Oman
+44272,"Sri Lanka"
+44273,Kenya
+44273,Oman
+44273,"Sri Lanka"
+44274,Kenya
+44274,Oman
+44274,"Sri Lanka"
+44275,Djibouti
+44275,India
+44275,Kenya
+44275,Madagascar
+44275,Maldives
+44275,Malta
+44275,Mauritius
+44275,Mozambique
+44275,Oman
+44275,"South Africa"
+44275,"Sri Lanka"
+44275,Tanzania
+44276,Djibouti
+44276,India
+44276,Kenya
+44276,Madagascar
+44276,Maldives
+44276,Malta
+44276,Mauritius
+44276,Mozambique
+44276,Oman
+44276,"South Africa"
+44276,"Sri Lanka"
+44276,Tanzania
+44277,Djibouti
+44277,India
+44277,Kenya
+44277,Madagascar
+44277,Maldives
+44277,Malta
+44277,Mauritius
+44277,Mozambique
+44277,Oman
+44277,"South Africa"
+44277,"Sri Lanka"
+44277,Tanzania
+44278,Djibouti
+44278,India
+44278,Kenya
+44278,Madagascar
+44278,Maldives
+44278,Malta
+44278,Mauritius
+44278,Mozambique
+44278,Oman
+44278,"South Africa"
+44278,"Sri Lanka"
+44278,Tanzania
+44279,Djibouti
+44279,India
+44279,Kenya
+44279,Madagascar
+44279,Maldives
+44279,Malta
+44279,Mauritius
+44279,Mozambique
+44279,Oman
+44279,"South Africa"
+44279,"Sri Lanka"
+44279,Tanzania
+44280,Djibouti
+44280,India
+44280,Kenya
+44280,Madagascar
+44280,Maldives
+44280,Malta
+44280,Mauritius
+44280,Mozambique
+44280,Oman
+44280,"South Africa"
+44280,"Sri Lanka"
+44280,Tanzania
+44281,Djibouti
+44281,India
+44281,Kenya
+44281,Madagascar
+44281,Maldives
+44281,Malta
+44281,Mauritius
+44281,Mozambique
+44281,Oman
+44281,"South Africa"
+44281,"Sri Lanka"
+44281,Tanzania
+44282,Djibouti
+44282,India
+44282,Kenya
+44282,Madagascar
+44282,Maldives
+44282,Malta
+44282,Mauritius
+44282,Mozambique
+44282,Oman
+44282,"South Africa"
+44282,"Sri Lanka"
+44282,Tanzania
+44283,Djibouti
+44283,India
+44283,Kenya
+44283,Madagascar
+44283,Maldives
+44283,Malta
+44283,Mauritius
+44283,Mozambique
+44283,Oman
+44283,"South Africa"
+44283,"Sri Lanka"
+44283,Tanzania
+44284,Djibouti
+44284,India
+44284,Kenya
+44284,Madagascar
+44284,Maldives
+44284,Malta
+44284,Mauritius
+44284,Mozambique
+44284,Oman
+44284,"South Africa"
+44284,"Sri Lanka"
+44284,Tanzania
+44285,Malta
+44285,Mauritius
+44285,Oman
+44285,"South Africa"
+44285,"Sri Lanka"
+44286,"Non Specific Country"
+44287,Malta
+44287,Mauritius
+44287,Oman
+44287,"South Africa"
+44287,"Sri Lanka"
+44288,Malta
+44288,Mauritius
+44288,Oman
+44288,"South Africa"
+44288,"Sri Lanka"
+44289,Malta
+44289,Mauritius
+44289,Oman
+44289,"South Africa"
+44289,"Sri Lanka"
+44290,Malta
+44290,Mauritius
+44290,Oman
+44290,"South Africa"
+44290,"Sri Lanka"
+44291,Jordan
+44292,Jordan
+44293,Jordan
+44294,Jordan
+44295,Jordan
+44296,Jordan
+44297,Jordan
+44298,Jordan
+44299,Jordan
+44300,Jordan
+44301,Jordan
+44302,Djibouti
+44302,Malta
+44302,Mauritius
+44302,Oman
+44302,"South Africa"
+44302,"Sri Lanka"
+44303,Djibouti
+44303,Malta
+44303,Mauritius
+44303,Oman
+44303,"South Africa"
+44303,"Sri Lanka"
+44304,Djibouti
+44304,Malta
+44304,Mauritius
+44304,Oman
+44304,"South Africa"
+44304,"Sri Lanka"
+44305,Djibouti
+44305,Malta
+44305,Mauritius
+44305,Oman
+44305,"South Africa"
+44305,"Sri Lanka"
+44306,Djibouti
+44306,Malta
+44306,Mauritius
+44306,Oman
+44306,"South Africa"
+44306,"Sri Lanka"
+44307,Djibouti
+44307,Malta
+44307,Mauritius
+44307,Oman
+44307,"South Africa"
+44307,"Sri Lanka"
+44308,Djibouti
+44308,Kenya
+44308,Malta
+44308,Mauritius
+44308,Oman
+44308,"South Africa"
+44308,"Sri Lanka"
+44309,Djibouti
+44309,Kenya
+44309,Malta
+44309,Mauritius
+44309,Oman
+44309,"South Africa"
+44309,"Sri Lanka"
+44310,Djibouti
+44310,Kenya
+44310,Malta
+44310,Mauritius
+44310,Oman
+44310,"South Africa"
+44310,"Sri Lanka"
+44311,Djibouti
+44311,Kenya
+44311,Malta
+44311,Mauritius
+44311,Oman
+44311,"South Africa"
+44311,"Sri Lanka"
+44312,Djibouti
+44312,Kenya
+44312,Malta
+44312,Mauritius
+44312,Oman
+44312,"South Africa"
+44312,"Sri Lanka"
+44313,Djibouti
+44313,Kenya
+44313,Malta
+44313,Mauritius
+44313,Oman
+44313,"South Africa"
+44313,"Sri Lanka"
+44314,Djibouti
+44314,Kenya
+44314,Malta
+44314,Mauritius
+44314,Oman
+44314,"South Africa"
+44314,"Sri Lanka"
+44315,Australia
+44315,Djibouti
+44315,Egypt
+44315,Malaysia
+44315,Malta
+44315,Oman
+44315,Singapore
+44315,"South Africa"
+44315,"Sri Lanka"
+44315,Tanzania
+44315,Thailand
+44316,Australia
+44316,Djibouti
+44316,Egypt
+44316,Malaysia
+44316,Malta
+44316,Oman
+44316,Singapore
+44316,"South Africa"
+44316,"Sri Lanka"
+44316,Tanzania
+44316,Thailand
+44317,Australia
+44317,Djibouti
+44317,Egypt
+44317,Malaysia
+44317,Malta
+44317,Oman
+44317,Singapore
+44317,"South Africa"
+44317,"Sri Lanka"
+44317,Tanzania
+44317,Thailand
+44318,Australia
+44318,Djibouti
+44318,Egypt
+44318,Malaysia
+44318,Malta
+44318,Oman
+44318,Singapore
+44318,"South Africa"
+44318,"Sri Lanka"
+44318,Tanzania
+44318,Thailand
+44319,Australia
+44319,Djibouti
+44319,Egypt
+44319,Malaysia
+44319,Malta
+44319,Oman
+44319,Singapore
+44319,"South Africa"
+44319,"Sri Lanka"
+44319,Tanzania
+44319,Thailand
+44320,Australia
+44320,Djibouti
+44320,Egypt
+44320,Malaysia
+44320,Malta
+44320,Oman
+44320,Singapore
+44320,"South Africa"
+44320,"Sri Lanka"
+44320,Tanzania
+44320,Thailand
+44321,Australia
+44321,Djibouti
+44321,Egypt
+44321,Malaysia
+44321,Malta
+44321,Oman
+44321,Singapore
+44321,"South Africa"
+44321,"Sri Lanka"
+44321,Tanzania
+44321,Thailand
+44322,Australia
+44322,Djibouti
+44322,Egypt
+44322,Malaysia
+44322,Malta
+44322,Oman
+44322,Singapore
+44322,"South Africa"
+44322,"Sri Lanka"
+44322,Tanzania
+44322,Thailand
+44323,Australia
+44323,Djibouti
+44323,Egypt
+44323,Malaysia
+44323,Malta
+44323,Oman
+44323,Singapore
+44323,"South Africa"
+44323,"Sri Lanka"
+44323,Tanzania
+44323,Thailand
+44324,Australia
+44324,Djibouti
+44324,Egypt
+44324,Malaysia
+44324,Malta
+44324,Oman
+44324,Singapore
+44324,"South Africa"
+44324,"Sri Lanka"
+44324,Tanzania
+44324,Thailand
+44325,Australia
+44325,Djibouti
+44325,Egypt
+44325,Malaysia
+44325,Malta
+44325,Oman
+44325,Singapore
+44325,"South Africa"
+44325,"Sri Lanka"
+44325,Tanzania
+44325,Thailand
+44326,Djibouti
+44326,Egypt
+44326,Jordan
+44326,Malta
+44326,Mauritius
+44326,Oman
+44326,"South Africa"
+44326,"Sri Lanka"
+44327,Djibouti
+44327,Egypt
+44327,Jordan
+44327,Malta
+44327,Mauritius
+44327,Oman
+44327,"South Africa"
+44327,"Sri Lanka"
+44328,Djibouti
+44328,Egypt
+44328,Jordan
+44328,Malta
+44328,Mauritius
+44328,Oman
+44328,"South Africa"
+44328,"Sri Lanka"
+44329,Djibouti
+44329,Egypt
+44329,Jordan
+44329,Malta
+44329,Mauritius
+44329,Oman
+44329,"South Africa"
+44329,"Sri Lanka"
+44330,Djibouti
+44330,Egypt
+44330,Jordan
+44330,Malta
+44330,Mauritius
+44330,Oman
+44330,"South Africa"
+44330,"Sri Lanka"
+44331,Djibouti
+44331,Egypt
+44331,Jordan
+44331,Malta
+44331,Mauritius
+44331,Oman
+44331,"South Africa"
+44331,"Sri Lanka"
+44332,Djibouti
+44332,Egypt
+44332,Jordan
+44332,Malta
+44332,Mauritius
+44332,Oman
+44332,"South Africa"
+44332,"Sri Lanka"
+44333,Djibouti
+44333,Egypt
+44333,Jordan
+44333,Malta
+44333,Mauritius
+44333,Oman
+44333,"South Africa"
+44333,"Sri Lanka"
+44334,Djibouti
+44334,Egypt
+44334,Kenya
+44334,Maldives
+44334,Mauritius
+44334,Mozambique
+44334,Oman
+44334,Seychelles
+44334,"South Africa"
+44334,"Sri Lanka"
+44334,Tanzania
+44335,Djibouti
+44335,Egypt
+44335,Kenya
+44335,Maldives
+44335,Mauritius
+44335,Mozambique
+44335,Oman
+44335,Seychelles
+44335,"South Africa"
+44335,"Sri Lanka"
+44335,Tanzania
+44336,Djibouti
+44336,Egypt
+44336,Kenya
+44336,Maldives
+44336,Mauritius
+44336,Mozambique
+44336,Oman
+44336,Seychelles
+44336,"South Africa"
+44336,"Sri Lanka"
+44336,Tanzania
+44337,Djibouti
+44337,Egypt
+44337,Kenya
+44337,Maldives
+44337,Mauritius
+44337,Mozambique
+44337,Oman
+44337,Seychelles
+44337,"South Africa"
+44337,"Sri Lanka"
+44337,Tanzania
+44338,Djibouti
+44338,Egypt
+44338,Kenya
+44338,Maldives
+44338,Mauritius
+44338,Mozambique
+44338,Oman
+44338,Seychelles
+44338,"South Africa"
+44338,"Sri Lanka"
+44338,Tanzania
+44339,Djibouti
+44339,Egypt
+44339,Kenya
+44339,Maldives
+44339,Mauritius
+44339,Mozambique
+44339,Oman
+44339,Seychelles
+44339,"South Africa"
+44339,"Sri Lanka"
+44339,Tanzania
+44340,Djibouti
+44340,Egypt
+44340,Kenya
+44340,Maldives
+44340,Mauritius
+44340,Mozambique
+44340,Oman
+44340,Seychelles
+44340,"South Africa"
+44340,"Sri Lanka"
+44340,Tanzania
+44341,Djibouti
+44341,Egypt
+44341,Kenya
+44341,Maldives
+44341,Mauritius
+44341,Mozambique
+44341,Oman
+44341,Seychelles
+44341,"South Africa"
+44341,"Sri Lanka"
+44341,Tanzania
+44342,Djibouti
+44342,Egypt
+44342,Kenya
+44342,Maldives
+44342,Mauritius
+44342,Mozambique
+44342,Oman
+44342,Seychelles
+44342,"South Africa"
+44342,"Sri Lanka"
+44342,Tanzania
+44343,Djibouti
+44343,Egypt
+44343,Kenya
+44343,Maldives
+44343,Mauritius
+44343,Mozambique
+44343,Oman
+44343,Seychelles
+44343,"South Africa"
+44343,"Sri Lanka"
+44343,Tanzania
+44344,Djibouti
+44344,Egypt
+44344,Kenya
+44344,Maldives
+44344,Mauritius
+44344,Mozambique
+44344,Oman
+44344,Seychelles
+44344,"South Africa"
+44344,"Sri Lanka"
+44344,Tanzania
+44345,Djibouti
+44345,Egypt
+44345,Kenya
+44345,Maldives
+44345,Mauritius
+44345,Mozambique
+44345,Oman
+44345,Seychelles
+44345,"South Africa"
+44345,"Sri Lanka"
+44345,Tanzania
+44346,Malta
+44346,Mauritius
+44346,Oman
+44346,"South Africa"
+44346,"Sri Lanka"
+44347,Malta
+44347,Mauritius
+44347,Oman
+44347,"South Africa"
+44347,"Sri Lanka"
+44348,Malta
+44348,Mauritius
+44348,Oman
+44348,"South Africa"
+44348,"Sri Lanka"
+44349,Malta
+44349,Mauritius
+44349,Oman
+44349,"South Africa"
+44349,"Sri Lanka"
+44350,Malta
+44350,Mauritius
+44350,Oman
+44350,"South Africa"
+44350,"Sri Lanka"
+44351,Djibouti
+44351,Kenya
+44351,Oman
+44351,"South Africa"
+44351,"Sri Lanka"
+44352,Djibouti
+44352,Kenya
+44352,Oman
+44352,"South Africa"
+44352,"Sri Lanka"
+44353,Djibouti
+44353,Kenya
+44353,Oman
+44353,"South Africa"
+44353,"Sri Lanka"
+44354,Djibouti
+44354,Kenya
+44354,Oman
+44354,"South Africa"
+44354,"Sri Lanka"
+44355,Djibouti
+44355,Kenya
+44355,Oman
+44355,"South Africa"
+44355,"Sri Lanka"
+44356,Djibouti
+44356,Jordan
+44356,Maldives
+44356,Malta
+44356,Mauritius
+44356,Mozambique
+44356,Oman
+44356,Seychelles
+44356,"South Africa"
+44356,"Sri Lanka"
+44356,Tanzania
+44357,Djibouti
+44357,Jordan
+44357,Maldives
+44357,Malta
+44357,Mauritius
+44357,Mozambique
+44357,Oman
+44357,Seychelles
+44357,"South Africa"
+44357,"Sri Lanka"
+44357,Tanzania
+44358,Djibouti
+44358,Jordan
+44358,Maldives
+44358,Malta
+44358,Mauritius
+44358,Mozambique
+44358,Oman
+44358,Seychelles
+44358,"South Africa"
+44358,"Sri Lanka"
+44358,Tanzania
+44359,Djibouti
+44359,Jordan
+44359,Maldives
+44359,Malta
+44359,Mauritius
+44359,Mozambique
+44359,Oman
+44359,Seychelles
+44359,"South Africa"
+44359,"Sri Lanka"
+44359,Tanzania
+44360,Djibouti
+44360,Jordan
+44360,Maldives
+44360,Malta
+44360,Mauritius
+44360,Mozambique
+44360,Oman
+44360,Seychelles
+44360,"South Africa"
+44360,"Sri Lanka"
+44360,Tanzania
+44361,Djibouti
+44361,Jordan
+44361,Maldives
+44361,Malta
+44361,Mauritius
+44361,Mozambique
+44361,Oman
+44361,Seychelles
+44361,"South Africa"
+44361,"Sri Lanka"
+44361,Tanzania
+44362,Djibouti
+44362,Jordan
+44362,Maldives
+44362,Malta
+44362,Mauritius
+44362,Mozambique
+44362,Oman
+44362,Seychelles
+44362,"South Africa"
+44362,"Sri Lanka"
+44362,Tanzania
+44363,Djibouti
+44363,Jordan
+44363,Maldives
+44363,Malta
+44363,Mauritius
+44363,Mozambique
+44363,Oman
+44363,Seychelles
+44363,"South Africa"
+44363,"Sri Lanka"
+44363,Tanzania
+44364,Djibouti
+44364,Jordan
+44364,Maldives
+44364,Malta
+44364,Mauritius
+44364,Mozambique
+44364,Oman
+44364,Seychelles
+44364,"South Africa"
+44364,"Sri Lanka"
+44364,Tanzania
+44365,Djibouti
+44365,Jordan
+44365,Maldives
+44365,Malta
+44365,Mauritius
+44365,Mozambique
+44365,Oman
+44365,Seychelles
+44365,"South Africa"
+44365,"Sri Lanka"
+44365,Tanzania
+44366,Djibouti
+44366,Jordan
+44366,Maldives
+44366,Malta
+44366,Mauritius
+44366,Mozambique
+44366,Oman
+44366,Seychelles
+44366,"South Africa"
+44366,"Sri Lanka"
+44366,Tanzania
+44367,Djibouti
+44367,Egypt
+44367,India
+44367,Kenya
+44367,Madagascar
+44367,Malaysia
+44367,Maldives
+44367,Malta
+44367,Mauritius
+44367,Mozambique
+44367,Oman
+44367,Seychelles
+44367,"South Africa"
+44367,"Sri Lanka"
+44367,Tanzania
+44368,Djibouti
+44368,Egypt
+44368,India
+44368,Kenya
+44368,Madagascar
+44368,Malaysia
+44368,Maldives
+44368,Malta
+44368,Mauritius
+44368,Mozambique
+44368,Oman
+44368,Seychelles
+44368,"South Africa"
+44368,"Sri Lanka"
+44368,Tanzania
+44369,Djibouti
+44369,Egypt
+44369,India
+44369,Kenya
+44369,Madagascar
+44369,Malaysia
+44369,Maldives
+44369,Malta
+44369,Mauritius
+44369,Mozambique
+44369,Oman
+44369,Seychelles
+44369,"South Africa"
+44369,"Sri Lanka"
+44369,Tanzania
+44370,Djibouti
+44370,Egypt
+44370,India
+44370,Kenya
+44370,Madagascar
+44370,Malaysia
+44370,Maldives
+44370,Malta
+44370,Mauritius
+44370,Mozambique
+44370,Oman
+44370,Seychelles
+44370,"South Africa"
+44370,"Sri Lanka"
+44370,Tanzania
+44371,Djibouti
+44371,Egypt
+44371,India
+44371,Kenya
+44371,Madagascar
+44371,Malaysia
+44371,Maldives
+44371,Malta
+44371,Mauritius
+44371,Mozambique
+44371,Oman
+44371,Seychelles
+44371,"South Africa"
+44371,"Sri Lanka"
+44371,Tanzania
+44372,Djibouti
+44372,Egypt
+44372,India
+44372,Kenya
+44372,Madagascar
+44372,Malaysia
+44372,Maldives
+44372,Malta
+44372,Mauritius
+44372,Mozambique
+44372,Oman
+44372,Seychelles
+44372,"South Africa"
+44372,"Sri Lanka"
+44372,Tanzania
+44373,Djibouti
+44373,Egypt
+44373,India
+44373,Kenya
+44373,Madagascar
+44373,Malaysia
+44373,Maldives
+44373,Malta
+44373,Mauritius
+44373,Mozambique
+44373,Oman
+44373,Seychelles
+44373,"South Africa"
+44373,"Sri Lanka"
+44373,Tanzania
+44374,Djibouti
+44374,Egypt
+44374,India
+44374,Kenya
+44374,Madagascar
+44374,Malaysia
+44374,Maldives
+44374,Malta
+44374,Mauritius
+44374,Mozambique
+44374,Oman
+44374,Seychelles
+44374,"South Africa"
+44374,"Sri Lanka"
+44374,Tanzania
+44375,Djibouti
+44375,Egypt
+44375,India
+44375,Kenya
+44375,Madagascar
+44375,Malaysia
+44375,Maldives
+44375,Malta
+44375,Mauritius
+44375,Mozambique
+44375,Oman
+44375,Seychelles
+44375,"South Africa"
+44375,"Sri Lanka"
+44375,Tanzania
+44376,Djibouti
+44376,Egypt
+44376,India
+44376,Kenya
+44376,Madagascar
+44376,Malaysia
+44376,Maldives
+44376,Malta
+44376,Mauritius
+44376,Mozambique
+44376,Oman
+44376,Seychelles
+44376,"South Africa"
+44376,"Sri Lanka"
+44376,Tanzania
+44377,Djibouti
+44377,Egypt
+44377,India
+44377,Kenya
+44377,Madagascar
+44377,Malaysia
+44377,Maldives
+44377,Malta
+44377,Mauritius
+44377,Mozambique
+44377,Oman
+44377,Seychelles
+44377,"South Africa"
+44377,"Sri Lanka"
+44377,Tanzania
+44378,Djibouti
+44378,Egypt
+44378,India
+44378,Kenya
+44378,Madagascar
+44378,Malaysia
+44378,Maldives
+44378,Malta
+44378,Mauritius
+44378,Mozambique
+44378,Oman
+44378,Seychelles
+44378,"South Africa"
+44378,"Sri Lanka"
+44378,Tanzania
+44379,Djibouti
+44379,Egypt
+44379,India
+44379,Kenya
+44379,Madagascar
+44379,Malaysia
+44379,Maldives
+44379,Malta
+44379,Mauritius
+44379,Mozambique
+44379,Oman
+44379,Seychelles
+44379,"South Africa"
+44379,"Sri Lanka"
+44379,Tanzania
+44380,Djibouti
+44380,Egypt
+44380,India
+44380,Kenya
+44380,Madagascar
+44380,Malaysia
+44380,Maldives
+44380,Malta
+44380,Mauritius
+44380,Mozambique
+44380,Oman
+44380,Seychelles
+44380,"South Africa"
+44380,"Sri Lanka"
+44380,Tanzania
+44381,Cyprus
+44381,Djibouti
+44381,Egypt
+44381,Kenya
+44381,Kuwait
+44381,Madagascar
+44381,Maldives
+44381,Malta
+44381,Mauritius
+44381,Mozambique
+44381,Oman
+44381,Seychelles
+44381,Singapore
+44381,"South Africa"
+44381,"Sri Lanka"
+44381,"United Arab Emirates"
+44382,Cyprus
+44382,Djibouti
+44382,Egypt
+44382,Kenya
+44382,Kuwait
+44382,Madagascar
+44382,Maldives
+44382,Malta
+44382,Mauritius
+44382,Mozambique
+44382,Oman
+44382,Seychelles
+44382,Singapore
+44382,"South Africa"
+44382,"Sri Lanka"
+44382,"United Arab Emirates"
+44383,Cyprus
+44383,Djibouti
+44383,Egypt
+44383,Kenya
+44383,Kuwait
+44383,Madagascar
+44383,Maldives
+44383,Malta
+44383,Mauritius
+44383,Mozambique
+44383,Oman
+44383,Seychelles
+44383,Singapore
+44383,"South Africa"
+44383,"Sri Lanka"
+44383,"United Arab Emirates"
+44384,Cyprus
+44384,Djibouti
+44384,Egypt
+44384,Kenya
+44384,Kuwait
+44384,Madagascar
+44384,Maldives
+44384,Malta
+44384,Mauritius
+44384,Mozambique
+44384,Oman
+44384,Seychelles
+44384,Singapore
+44384,"South Africa"
+44384,"Sri Lanka"
+44384,"United Arab Emirates"
+44385,Cyprus
+44385,Djibouti
+44385,Egypt
+44385,Kenya
+44385,Kuwait
+44385,Madagascar
+44385,Maldives
+44385,Malta
+44385,Mauritius
+44385,Mozambique
+44385,Oman
+44385,Seychelles
+44385,Singapore
+44385,"South Africa"
+44385,"Sri Lanka"
+44385,"United Arab Emirates"
+44386,Cyprus
+44386,Djibouti
+44386,Egypt
+44386,Kenya
+44386,Kuwait
+44386,Madagascar
+44386,Maldives
+44386,Malta
+44386,Mauritius
+44386,Mozambique
+44386,Oman
+44386,Seychelles
+44386,Singapore
+44386,"South Africa"
+44386,"Sri Lanka"
+44386,"United Arab Emirates"
+44387,Cyprus
+44387,Djibouti
+44387,Egypt
+44387,Kenya
+44387,Kuwait
+44387,Madagascar
+44387,Maldives
+44387,Malta
+44387,Mauritius
+44387,Mozambique
+44387,Oman
+44387,Seychelles
+44387,Singapore
+44387,"South Africa"
+44387,"Sri Lanka"
+44387,"United Arab Emirates"
+44388,Cyprus
+44388,Djibouti
+44388,Egypt
+44388,Kenya
+44388,Kuwait
+44388,Madagascar
+44388,Maldives
+44388,Malta
+44388,Mauritius
+44388,Mozambique
+44388,Oman
+44388,Seychelles
+44388,Singapore
+44388,"South Africa"
+44388,"Sri Lanka"
+44388,"United Arab Emirates"
+44389,Cyprus
+44389,Djibouti
+44389,Egypt
+44389,Kenya
+44389,Kuwait
+44389,Madagascar
+44389,Maldives
+44389,Malta
+44389,Mauritius
+44389,Mozambique
+44389,Oman
+44389,Seychelles
+44389,Singapore
+44389,"South Africa"
+44389,"Sri Lanka"
+44389,"United Arab Emirates"
+44390,Cyprus
+44390,Djibouti
+44390,Egypt
+44390,Kenya
+44390,Kuwait
+44390,Madagascar
+44390,Maldives
+44390,Malta
+44390,Mauritius
+44390,Mozambique
+44390,Oman
+44390,Seychelles
+44390,Singapore
+44390,"South Africa"
+44390,"Sri Lanka"
+44390,"United Arab Emirates"
+44391,Cyprus
+44391,Djibouti
+44391,Egypt
+44391,Kenya
+44391,Kuwait
+44391,Madagascar
+44391,Maldives
+44391,Malta
+44391,Mauritius
+44391,Mozambique
+44391,Oman
+44391,Seychelles
+44391,Singapore
+44391,"South Africa"
+44391,"Sri Lanka"
+44391,"United Arab Emirates"
+44392,Egypt
+44392,Kenya
+44392,Madagascar
+44392,Maldives
+44392,Mauritius
+44392,Oman
+44392,Seychelles
+44392,Singapore
+44392,"South Africa"
+44392,"Sri Lanka"
+44392,Tanzania
+44393,Egypt
+44393,Kenya
+44393,Madagascar
+44393,Maldives
+44393,Mauritius
+44393,Oman
+44393,Seychelles
+44393,Singapore
+44393,"South Africa"
+44393,"Sri Lanka"
+44393,Tanzania
+44394,Egypt
+44394,Kenya
+44394,Madagascar
+44394,Maldives
+44394,Mauritius
+44394,Oman
+44394,Seychelles
+44394,Singapore
+44394,"South Africa"
+44394,"Sri Lanka"
+44394,Tanzania
+44395,Kenya
+44395,Mauritius
+44395,Oman
+44395,"Sri Lanka"
+44395,Egypt
+44395,Madagascar
+44395,Maldives
+44395,Seychelles
+44395,Singapore
+44395,"South Africa"
+44395,Tanzania
+44396,Egypt
+44396,Kenya
+44396,Madagascar
+44396,Maldives
+44396,Mauritius
+44396,Oman
+44396,Seychelles
+44396,Singapore
+44396,"South Africa"
+44396,"Sri Lanka"
+44396,Tanzania
+44397,Kenya
+44397,Mauritius
+44397,Oman
+44397,"Sri Lanka"
+44397,Egypt
+44397,Madagascar
+44397,Maldives
+44397,Seychelles
+44397,Singapore
+44397,"South Africa"
+44397,Tanzania
+44398,Kenya
+44398,Mauritius
+44398,Oman
+44398,"Sri Lanka"
+44398,Egypt
+44398,Madagascar
+44398,Maldives
+44398,Seychelles
+44398,Singapore
+44398,"South Africa"
+44398,Tanzania
+44399,Egypt
+44399,Kenya
+44399,Madagascar
+44399,Maldives
+44399,Mauritius
+44399,Oman
+44399,Seychelles
+44399,Singapore
+44399,"South Africa"
+44399,"Sri Lanka"
+44399,Tanzania
+44400,Egypt
+44400,Kenya
+44400,Madagascar
+44400,Maldives
+44400,Mauritius
+44400,Oman
+44400,Seychelles
+44400,Singapore
+44400,"South Africa"
+44400,"Sri Lanka"
+44400,Tanzania
+44401,Egypt
+44401,Kenya
+44401,Madagascar
+44401,Maldives
+44401,Mauritius
+44401,Oman
+44401,Seychelles
+44401,Singapore
+44401,"South Africa"
+44401,"Sri Lanka"
+44401,Tanzania
+44402,Kenya
+44402,Mauritius
+44402,Oman
+44402,"Sri Lanka"
+44402,Egypt
+44402,Madagascar
+44402,Maldives
+44402,Seychelles
+44402,Singapore
+44402,"South Africa"
+44402,Tanzania
+44403,Mauritius
+44403,Oman
+44403,"South Africa"
+44403,"Sri Lanka"
+44404,Mauritius
+44404,Oman
+44404,"South Africa"
+44404,"Sri Lanka"
+44405,Mauritius
+44405,Oman
+44405,"South Africa"
+44405,"Sri Lanka"
+44406,Mauritius
+44406,Oman
+44406,"South Africa"
+44406,"Sri Lanka"
+44407,Djibouti
+44407,Egypt
+44407,Jordan
+44407,Malta
+44407,Mauritius
+44407,Oman
+44407,"South Africa"
+44407,"Sri Lanka"
+44408,Djibouti
+44408,Egypt
+44408,Jordan
+44408,Malta
+44408,Mauritius
+44408,Oman
+44408,"South Africa"
+44408,"Sri Lanka"
+44409,Djibouti
+44409,Egypt
+44409,Jordan
+44409,Malta
+44409,Mauritius
+44409,Oman
+44409,"South Africa"
+44409,"Sri Lanka"
+44410,Djibouti
+44410,Egypt
+44410,Jordan
+44410,Malta
+44410,Mauritius
+44410,Oman
+44410,"South Africa"
+44410,"Sri Lanka"
+44411,Djibouti
+44411,Egypt
+44411,Jordan
+44411,Malta
+44411,Mauritius
+44411,Oman
+44411,"South Africa"
+44411,"Sri Lanka"
+44412,Djibouti
+44412,Egypt
+44412,Jordan
+44412,Malta
+44412,Mauritius
+44412,Oman
+44412,"South Africa"
+44412,"Sri Lanka"
+44413,Djibouti
+44413,Egypt
+44413,Jordan
+44413,Malta
+44413,Mauritius
+44413,Oman
+44413,"South Africa"
+44413,"Sri Lanka"
+44414,Djibouti
+44414,Egypt
+44414,Jordan
+44414,Malta
+44414,Mauritius
+44414,Oman
+44414,"South Africa"
+44414,"Sri Lanka"
+44415,Jordan
+44416,Egypt
+44416,Kenya
+44416,Mauritius
+44416,Mozambique
+44416,Oman
+44416,"South Africa"
+44416,"Sri Lanka"
+44417,Egypt
+44417,Kenya
+44417,Mauritius
+44417,Mozambique
+44417,Oman
+44417,"South Africa"
+44417,"Sri Lanka"
+44418,Egypt
+44418,Kenya
+44418,Mauritius
+44418,Mozambique
+44418,Oman
+44418,"South Africa"
+44418,"Sri Lanka"
+44419,Egypt
+44419,Kenya
+44419,Mauritius
+44419,Mozambique
+44419,Oman
+44419,"South Africa"
+44419,"Sri Lanka"
+44420,Egypt
+44420,Kenya
+44420,Mauritius
+44420,Mozambique
+44420,Oman
+44420,"South Africa"
+44420,"Sri Lanka"
+44421,Egypt
+44421,Kenya
+44421,Mauritius
+44421,Mozambique
+44421,Oman
+44421,"South Africa"
+44421,"Sri Lanka"
+44422,Egypt
+44422,Kenya
+44422,Mauritius
+44422,Mozambique
+44422,Oman
+44422,"South Africa"
+44422,"Sri Lanka"
+44423,Benin
+44423,Egypt
+44423,Ghana
+44423,India
+44423,Kenya
+44423,Madagascar
+44423,Maldives
+44423,Mauritius
+44423,Mozambique
+44423,Nigeria
+44423,Oman
+44423,Pakistan
+44423,"Saudi Arabia"
+44423,Seychelles
+44423,"South Africa"
+44423,"Sri Lanka"
+44423,Tanzania
+44423,Togo
+44423,"United Arab Emirates"
+44423,"United Kingdom"
+44423,Djibouti
+44424,Benin
+44424,Egypt
+44424,Ghana
+44424,India
+44424,Kenya
+44424,Madagascar
+44424,Maldives
+44424,Mauritius
+44424,Mozambique
+44424,Nigeria
+44424,Oman
+44424,Pakistan
+44424,"Saudi Arabia"
+44424,Seychelles
+44424,"South Africa"
+44424,"Sri Lanka"
+44424,Tanzania
+44424,Togo
+44424,"United Arab Emirates"
+44424,"United Kingdom"
+44425,Benin
+44425,Egypt
+44425,Ghana
+44425,India
+44425,Kenya
+44425,Madagascar
+44425,Maldives
+44425,Mauritius
+44425,Mozambique
+44425,Nigeria
+44425,Oman
+44425,Pakistan
+44425,"Saudi Arabia"
+44425,Seychelles
+44425,"South Africa"
+44425,"Sri Lanka"
+44425,Tanzania
+44425,Togo
+44425,"United Arab Emirates"
+44425,"United Kingdom"
+44426,Benin
+44426,Egypt
+44426,Ghana
+44426,India
+44426,Kenya
+44426,Madagascar
+44426,Maldives
+44426,Mauritius
+44426,Mozambique
+44426,Nigeria
+44426,Oman
+44426,Pakistan
+44426,"Saudi Arabia"
+44426,Seychelles
+44426,"South Africa"
+44426,"Sri Lanka"
+44426,Tanzania
+44426,Togo
+44426,"United Arab Emirates"
+44426,"United Kingdom"
+44427,Benin
+44427,Egypt
+44427,Ghana
+44427,India
+44427,Kenya
+44427,Madagascar
+44427,Maldives
+44427,Mauritius
+44427,Mozambique
+44427,Nigeria
+44427,Oman
+44427,Pakistan
+44427,"Saudi Arabia"
+44427,Seychelles
+44427,"South Africa"
+44427,"Sri Lanka"
+44427,Tanzania
+44427,Togo
+44427,"United Arab Emirates"
+44427,"United Kingdom"
+44428,Benin
+44428,Egypt
+44428,Ghana
+44428,India
+44428,Kenya
+44428,Madagascar
+44428,Maldives
+44428,Mauritius
+44428,Mozambique
+44428,Nigeria
+44428,Oman
+44428,Pakistan
+44428,"Saudi Arabia"
+44428,Seychelles
+44428,"South Africa"
+44428,"Sri Lanka"
+44428,Tanzania
+44428,Togo
+44428,"United Arab Emirates"
+44428,"United Kingdom"
+44429,Benin
+44429,Egypt
+44429,Ghana
+44429,India
+44429,Kenya
+44429,Madagascar
+44429,Maldives
+44429,Mauritius
+44429,Mozambique
+44429,Nigeria
+44429,Oman
+44429,Pakistan
+44429,"Saudi Arabia"
+44429,Seychelles
+44429,"South Africa"
+44429,"Sri Lanka"
+44429,Tanzania
+44429,Togo
+44429,"United Arab Emirates"
+44429,"United Kingdom"
+44430,Benin
+44430,Egypt
+44430,Ghana
+44430,India
+44430,Kenya
+44430,Madagascar
+44430,Maldives
+44430,Mauritius
+44430,Mozambique
+44430,Nigeria
+44430,Oman
+44430,Pakistan
+44430,"Saudi Arabia"
+44430,Seychelles
+44430,"South Africa"
+44430,"Sri Lanka"
+44430,Tanzania
+44430,Togo
+44430,"United Arab Emirates"
+44430,"United Kingdom"
+44431,Benin
+44431,Egypt
+44431,Ghana
+44431,India
+44431,Kenya
+44431,Madagascar
+44431,Maldives
+44431,Mauritius
+44431,Mozambique
+44431,Nigeria
+44431,Oman
+44431,Pakistan
+44431,"Saudi Arabia"
+44431,Seychelles
+44431,"South Africa"
+44431,"Sri Lanka"
+44431,Tanzania
+44431,Togo
+44431,"United Arab Emirates"
+44431,"United Kingdom"
+44431,Djibouti
+44432,Benin
+44432,Egypt
+44432,Ghana
+44432,India
+44432,Kenya
+44432,Madagascar
+44432,Maldives
+44432,Mauritius
+44432,Mozambique
+44432,Nigeria
+44432,Oman
+44432,Pakistan
+44432,"Saudi Arabia"
+44432,Seychelles
+44432,"South Africa"
+44432,"Sri Lanka"
+44432,Tanzania
+44432,Togo
+44432,"United Arab Emirates"
+44432,"United Kingdom"
+44433,Benin
+44433,Egypt
+44433,Ghana
+44433,India
+44433,Kenya
+44433,Madagascar
+44433,Maldives
+44433,Mauritius
+44433,Mozambique
+44433,Nigeria
+44433,Oman
+44433,Pakistan
+44433,"Saudi Arabia"
+44433,Seychelles
+44433,"South Africa"
+44433,"Sri Lanka"
+44433,Tanzania
+44433,Togo
+44433,"United Arab Emirates"
+44433,"United Kingdom"
+44433,Djibouti
+44434,Benin
+44434,Egypt
+44434,Ghana
+44434,India
+44434,Kenya
+44434,Madagascar
+44434,Maldives
+44434,Mauritius
+44434,Mozambique
+44434,Nigeria
+44434,Oman
+44434,Pakistan
+44434,"Saudi Arabia"
+44434,Seychelles
+44434,"South Africa"
+44434,"Sri Lanka"
+44434,Tanzania
+44434,Togo
+44434,"United Arab Emirates"
+44434,"United Kingdom"
+44435,Benin
+44435,Egypt
+44435,Ghana
+44435,India
+44435,Kenya
+44435,Madagascar
+44435,Maldives
+44435,Mauritius
+44435,Mozambique
+44435,Nigeria
+44435,Oman
+44435,Pakistan
+44435,"Saudi Arabia"
+44435,Seychelles
+44435,"South Africa"
+44435,"Sri Lanka"
+44435,Tanzania
+44435,Togo
+44435,"United Arab Emirates"
+44435,"United Kingdom"
+44436,Benin
+44436,Egypt
+44436,Ghana
+44436,India
+44436,Kenya
+44436,Madagascar
+44436,Maldives
+44436,Mauritius
+44436,Mozambique
+44436,Nigeria
+44436,Oman
+44436,Pakistan
+44436,"Saudi Arabia"
+44436,Seychelles
+44436,"South Africa"
+44436,"Sri Lanka"
+44436,Tanzania
+44436,Togo
+44436,"United Arab Emirates"
+44436,"United Kingdom"
+44436,Djibouti
+44437,Benin
+44437,Egypt
+44437,Ghana
+44437,India
+44437,Kenya
+44437,Madagascar
+44437,Maldives
+44437,Mauritius
+44437,Mozambique
+44437,Nigeria
+44437,Oman
+44437,Pakistan
+44437,"Saudi Arabia"
+44437,Seychelles
+44437,"South Africa"
+44437,"Sri Lanka"
+44437,Tanzania
+44437,Togo
+44437,"United Arab Emirates"
+44437,"United Kingdom"
+44437,Djibouti
+44438,Benin
+44438,Egypt
+44438,Ghana
+44438,India
+44438,Kenya
+44438,Madagascar
+44438,Maldives
+44438,Mauritius
+44438,Mozambique
+44438,Nigeria
+44438,Oman
+44438,Pakistan
+44438,"Saudi Arabia"
+44438,Seychelles
+44438,"South Africa"
+44438,"Sri Lanka"
+44438,Tanzania
+44438,Togo
+44438,"United Arab Emirates"
+44438,"United Kingdom"
+44439,Djibouti
+44439,Egypt
+44439,Madagascar
+44439,Mauritius
+44439,Oman
+44439,"South Africa"
+44439,"Sri Lanka"
+44440,Benin
+44440,Egypt
+44440,Ghana
+44440,India
+44440,Kenya
+44440,Madagascar
+44440,Maldives
+44440,Mauritius
+44440,Mozambique
+44440,Nigeria
+44440,Oman
+44440,Pakistan
+44440,"Saudi Arabia"
+44440,Seychelles
+44440,"South Africa"
+44440,"Sri Lanka"
+44440,Tanzania
+44440,Togo
+44440,"United Arab Emirates"
+44440,"United Kingdom"
+44441,Benin
+44441,Egypt
+44441,Ghana
+44441,India
+44441,Kenya
+44441,Madagascar
+44441,Maldives
+44441,Mauritius
+44441,Mozambique
+44441,Nigeria
+44441,Oman
+44441,Pakistan
+44441,"Saudi Arabia"
+44441,Seychelles
+44441,"South Africa"
+44441,"Sri Lanka"
+44441,Tanzania
+44441,Togo
+44441,"United Arab Emirates"
+44441,"United Kingdom"
+44441,Djibouti
+44442,Benin
+44442,Egypt
+44442,Ghana
+44442,India
+44442,Kenya
+44442,Madagascar
+44442,Maldives
+44442,Mauritius
+44442,Mozambique
+44442,Nigeria
+44442,Oman
+44442,Pakistan
+44442,"Saudi Arabia"
+44442,Seychelles
+44442,"South Africa"
+44442,"Sri Lanka"
+44442,Tanzania
+44442,Togo
+44442,"United Arab Emirates"
+44442,"United Kingdom"
+44443,Benin
+44443,Egypt
+44443,Ghana
+44443,India
+44443,Kenya
+44443,Madagascar
+44443,Maldives
+44443,Mauritius
+44443,Mozambique
+44443,Nigeria
+44443,Oman
+44443,Pakistan
+44443,"Saudi Arabia"
+44443,Seychelles
+44443,"South Africa"
+44443,"Sri Lanka"
+44443,Tanzania
+44443,Togo
+44443,"United Arab Emirates"
+44444,Benin
+44444,Egypt
+44444,Ghana
+44444,India
+44444,Kenya
+44444,Madagascar
+44444,Maldives
+44444,Mauritius
+44444,Mozambique
+44444,Nigeria
+44444,Oman
+44444,Pakistan
+44444,"Saudi Arabia"
+44444,Seychelles
+44444,"South Africa"
+44444,"Sri Lanka"
+44444,Tanzania
+44444,Togo
+44444,"United Arab Emirates"
+44445,Benin
+44445,Egypt
+44445,Ghana
+44445,India
+44445,Kenya
+44445,Madagascar
+44445,Maldives
+44445,Mauritius
+44445,Mozambique
+44445,Nigeria
+44445,Oman
+44445,Pakistan
+44445,"Saudi Arabia"
+44445,Seychelles
+44445,"South Africa"
+44445,"Sri Lanka"
+44445,Tanzania
+44445,Togo
+44445,"United Arab Emirates"
+44446,Benin
+44446,Egypt
+44446,Ghana
+44446,India
+44446,Kenya
+44446,Madagascar
+44446,Maldives
+44446,Mauritius
+44446,Mozambique
+44446,Nigeria
+44446,Oman
+44446,Pakistan
+44446,"Saudi Arabia"
+44446,Seychelles
+44446,"South Africa"
+44446,"Sri Lanka"
+44446,Tanzania
+44446,Togo
+44446,"United Arab Emirates"
+44447,Benin
+44447,Egypt
+44447,Ghana
+44447,India
+44447,Kenya
+44447,Madagascar
+44447,Maldives
+44447,Mauritius
+44447,Mozambique
+44447,Nigeria
+44447,Oman
+44447,Pakistan
+44447,"Saudi Arabia"
+44447,Seychelles
+44447,"South Africa"
+44447,"Sri Lanka"
+44447,Tanzania
+44447,Togo
+44447,"United Arab Emirates"
+44448,Benin
+44448,Egypt
+44448,Ghana
+44448,India
+44448,Kenya
+44448,Madagascar
+44448,Maldives
+44448,Mauritius
+44448,Mozambique
+44448,Nigeria
+44448,Oman
+44448,Pakistan
+44448,"Saudi Arabia"
+44448,Seychelles
+44448,"South Africa"
+44448,"Sri Lanka"
+44448,Tanzania
+44448,Togo
+44448,"United Arab Emirates"
+44449,Benin
+44449,Egypt
+44449,Ghana
+44449,India
+44449,Kenya
+44449,Madagascar
+44449,Maldives
+44449,Mauritius
+44449,Mozambique
+44449,Nigeria
+44449,Oman
+44449,Pakistan
+44449,"Saudi Arabia"
+44449,Seychelles
+44449,"South Africa"
+44449,"Sri Lanka"
+44449,Tanzania
+44449,Togo
+44449,"United Arab Emirates"
+44450,Benin
+44450,Egypt
+44450,Ghana
+44450,India
+44450,Kenya
+44450,Madagascar
+44450,Maldives
+44450,Mauritius
+44450,Mozambique
+44450,Nigeria
+44450,Oman
+44450,Pakistan
+44450,"Saudi Arabia"
+44450,Seychelles
+44450,"South Africa"
+44450,"Sri Lanka"
+44450,Tanzania
+44450,Togo
+44450,"United Arab Emirates"
+44451,Benin
+44451,Egypt
+44451,Ghana
+44451,India
+44451,Kenya
+44451,Madagascar
+44451,Maldives
+44451,Mauritius
+44451,Mozambique
+44451,Nigeria
+44451,Oman
+44451,Pakistan
+44451,"Saudi Arabia"
+44451,Seychelles
+44451,"South Africa"
+44451,"Sri Lanka"
+44451,Tanzania
+44451,Togo
+44451,"United Arab Emirates"
+44452,Benin
+44452,Egypt
+44452,Ghana
+44452,India
+44452,Kenya
+44452,Madagascar
+44452,Maldives
+44452,Mauritius
+44452,Mozambique
+44452,Nigeria
+44452,Oman
+44452,Pakistan
+44452,"Saudi Arabia"
+44452,Seychelles
+44452,"South Africa"
+44452,"Sri Lanka"
+44452,Tanzania
+44452,Togo
+44452,"United Arab Emirates"
+44453,Benin
+44453,Egypt
+44453,Ghana
+44453,India
+44453,Kenya
+44453,Madagascar
+44453,Maldives
+44453,Mauritius
+44453,Mozambique
+44453,Nigeria
+44453,Oman
+44453,Pakistan
+44453,"Saudi Arabia"
+44453,Seychelles
+44453,"South Africa"
+44453,"Sri Lanka"
+44453,Tanzania
+44453,Togo
+44453,"United Arab Emirates"
+44454,Benin
+44454,Egypt
+44454,Ghana
+44454,India
+44454,Kenya
+44454,Madagascar
+44454,Maldives
+44454,Mauritius
+44454,Mozambique
+44454,Nigeria
+44454,Oman
+44454,Pakistan
+44454,"Saudi Arabia"
+44454,Seychelles
+44454,"South Africa"
+44454,"Sri Lanka"
+44454,Tanzania
+44454,Togo
+44454,"United Arab Emirates"
+44455,Benin
+44455,Egypt
+44455,Ghana
+44455,India
+44455,Kenya
+44455,Madagascar
+44455,Maldives
+44455,Mauritius
+44455,Mozambique
+44455,Nigeria
+44455,Oman
+44455,Pakistan
+44455,"Saudi Arabia"
+44455,Seychelles
+44455,"South Africa"
+44455,"Sri Lanka"
+44455,Tanzania
+44455,Togo
+44455,"United Arab Emirates"
+44456,Benin
+44456,Egypt
+44456,Ghana
+44456,India
+44456,Kenya
+44456,Madagascar
+44456,Maldives
+44456,Mauritius
+44456,Mozambique
+44456,Nigeria
+44456,Oman
+44456,Pakistan
+44456,"Saudi Arabia"
+44456,Seychelles
+44456,"South Africa"
+44456,"Sri Lanka"
+44456,Tanzania
+44456,Togo
+44456,"United Arab Emirates"
+44457,Benin
+44457,Egypt
+44457,Ghana
+44457,India
+44457,Kenya
+44457,Madagascar
+44457,Maldives
+44457,Mauritius
+44457,Mozambique
+44457,Nigeria
+44457,Oman
+44457,Pakistan
+44457,"Saudi Arabia"
+44457,Seychelles
+44457,"South Africa"
+44457,"Sri Lanka"
+44457,Tanzania
+44457,Togo
+44457,"United Arab Emirates"
+44458,Benin
+44458,Egypt
+44458,Ghana
+44458,India
+44458,Kenya
+44458,Madagascar
+44458,Maldives
+44458,Mauritius
+44458,Mozambique
+44458,Nigeria
+44458,Oman
+44458,Pakistan
+44458,"Saudi Arabia"
+44458,Seychelles
+44458,"South Africa"
+44458,"Sri Lanka"
+44458,Tanzania
+44458,Togo
+44458,"United Arab Emirates"
+44459,Benin
+44459,Egypt
+44459,Ghana
+44459,India
+44459,Kenya
+44459,Madagascar
+44459,Maldives
+44459,Mauritius
+44459,Mozambique
+44459,Nigeria
+44459,Oman
+44459,Pakistan
+44459,"Saudi Arabia"
+44459,Seychelles
+44459,"South Africa"
+44459,"Sri Lanka"
+44459,Tanzania
+44459,Togo
+44459,"United Arab Emirates"
+44460,Benin
+44460,Egypt
+44460,Ghana
+44460,India
+44460,Kenya
+44460,Madagascar
+44460,Maldives
+44460,Mauritius
+44460,Mozambique
+44460,Nigeria
+44460,Oman
+44460,Pakistan
+44460,"Saudi Arabia"
+44460,Seychelles
+44460,"South Africa"
+44460,"Sri Lanka"
+44460,Tanzania
+44460,Togo
+44460,"United Arab Emirates"
+44461,Benin
+44461,Egypt
+44461,Ghana
+44461,India
+44461,Kenya
+44461,Madagascar
+44461,Maldives
+44461,Mauritius
+44461,Mozambique
+44461,Nigeria
+44461,Oman
+44461,Pakistan
+44461,"Saudi Arabia"
+44461,Seychelles
+44461,"South Africa"
+44461,"Sri Lanka"
+44461,Tanzania
+44461,Togo
+44461,"United Arab Emirates"
+44462,Djibouti
+44462,Malta
+44462,Mauritius
+44462,Oman
+44462,"Sri Lanka"
+44463,Djibouti
+44463,Malta
+44463,Mauritius
+44463,Oman
+44463,"Sri Lanka"
+44464,Djibouti
+44464,Malta
+44464,Mauritius
+44464,Oman
+44464,"Sri Lanka"
+44465,Djibouti
+44465,Malta
+44465,Mauritius
+44465,Oman
+44465,"Sri Lanka"
+44466,Djibouti
+44466,Malta
+44466,Mauritius
+44466,Oman
+44466,"Sri Lanka"
+44467,Djibouti
+44467,Kenya
+44467,Madagascar
+44467,Maldives
+44467,Malta
+44467,Mauritius
+44467,Oman
+44467,"South Africa"
+44467,"Sri Lanka"
+44468,Djibouti
+44468,Kenya
+44468,Madagascar
+44468,Maldives
+44468,Malta
+44468,Mauritius
+44468,Oman
+44468,"South Africa"
+44468,"Sri Lanka"
+44469,Djibouti
+44469,Kenya
+44469,Madagascar
+44469,Maldives
+44469,Malta
+44469,Mauritius
+44469,Oman
+44469,"South Africa"
+44469,"Sri Lanka"
+44470,Djibouti
+44470,Kenya
+44470,Madagascar
+44470,Maldives
+44470,Malta
+44470,Mauritius
+44470,Oman
+44470,"South Africa"
+44470,"Sri Lanka"
+44471,Djibouti
+44471,Kenya
+44471,Madagascar
+44471,Maldives
+44471,Malta
+44471,Mauritius
+44471,Oman
+44471,"South Africa"
+44471,"Sri Lanka"
+44472,Djibouti
+44472,Kenya
+44472,Madagascar
+44472,Maldives
+44472,Malta
+44472,Mauritius
+44472,Oman
+44472,"South Africa"
+44472,"Sri Lanka"
+44473,Djibouti
+44473,Kenya
+44473,Madagascar
+44473,Maldives
+44473,Malta
+44473,Mauritius
+44473,Oman
+44473,"South Africa"
+44473,"Sri Lanka"
+44474,Djibouti
+44474,Kenya
+44474,Madagascar
+44474,Maldives
+44474,Malta
+44474,Mauritius
+44474,Oman
+44474,"South Africa"
+44474,"Sri Lanka"
+44475,Djibouti
+44475,Kenya
+44475,Madagascar
+44475,Maldives
+44475,Malta
+44475,Mauritius
+44475,Oman
+44475,"South Africa"
+44475,"Sri Lanka"
+44476,Jordan
+44477,Malaysia
+44477,"United Kingdom"
+44477,France
+44478,Malaysia
+44478,"United Kingdom"
+44478,France
+44479,Malaysia
+44479,"United Kingdom"
+44479,France
+44480,Malaysia
+44480,"United Kingdom"
+44480,France
+44481,"Non Specific Country"
+44482,Malaysia
+44482,"United Kingdom"
+44482,France
+44483,Malaysia
+44483,"United Kingdom"
+44483,France
+44484,Malaysia
+44484,"United Kingdom"
+44484,France
+44485,Malaysia
+44485,"United Kingdom"
+44485,France
+44486,Malaysia
+44486,"United Kingdom"
+44486,France
+44487,Malaysia
+44487,"United Kingdom"
+44487,France
+44488,Malaysia
+44488,"United Kingdom"
+44488,France
+44489,"United Arab Emirates"
+44490,Malaysia
+44490,France
+44491,Malaysia
+44491,"United Kingdom"
+44491,France
+44492,Iraq
+44493,Jordan
+44493,"United Kingdom"
+44494,Jordan
+44495,Jordan
+44496,Jordan
+44497,Jordan
+44498,Jordan
+44500,Italy
+44500,Malaysia
+44501,Italy
+44501,Malaysia
+44502,Italy
+44502,Malaysia
+44503,Italy
+44503,Malaysia
+44504,Italy
+44504,Malaysia
+44505,Italy
+44505,Malaysia
+44506,Italy
+44506,Malaysia
+44507,Italy
+44507,Malaysia
+44508,Italy
+44508,Malaysia
+44509,Italy
+44509,Malaysia
+44510,Angola
+44510,Austria
+44510,Botswana
+44510,Bulgaria
+44510,Cameroon
+44510,Chad
+44510,Denmark
+44510,"Equatorial Guinea"
+44510,France
+44510,Gabon
+44510,Germany
+44510,Ghana
+44510,Greece
+44510,"Guinea, Republic of"
+44510,Hungary
+44510,Israel
+44510,Italy
+44510,Kenya
+44510,Mauritania
+44510,Morocco
+44510,Mozambique
+44510,Namibia
+44510,Netherlands
+44510,Nigeria
+44510,Norway
+44510,Poland
+44510,Portugal
+44510,"Republic of Congo"
+44510,Romania
+44510,Senegal
+44510,Slovenia
+44510,"South Africa"
+44510,Spain
+44510,Switzerland
+44510,Tanzania
+44510,Turkey
+44510,Uganda
+44510,Ukraine
+44510,"United States of America"
+44511,Angola
+44511,Austria
+44511,Botswana
+44511,Bulgaria
+44511,Cameroon
+44511,Chad
+44511,Denmark
+44511,"Equatorial Guinea"
+44511,France
+44511,Gabon
+44511,Germany
+44511,Ghana
+44511,Greece
+44511,"Guinea, Republic of"
+44511,Hungary
+44511,Israel
+44511,Italy
+44511,Kenya
+44511,Mauritania
+44511,Morocco
+44511,Mozambique
+44511,Namibia
+44511,Netherlands
+44511,Nigeria
+44511,Norway
+44511,Poland
+44511,Portugal
+44511,"Republic of Congo"
+44511,Romania
+44511,Senegal
+44511,Slovenia
+44511,"South Africa"
+44511,Spain
+44511,Switzerland
+44511,Tanzania
+44511,Turkey
+44511,Uganda
+44511,Ukraine
+44511,"United States of America"
+44512,Angola
+44512,Austria
+44512,Botswana
+44512,Bulgaria
+44512,Cameroon
+44512,Chad
+44512,Denmark
+44512,"Equatorial Guinea"
+44512,France
+44512,Gabon
+44512,Germany
+44512,Ghana
+44512,Greece
+44512,"Guinea, Republic of"
+44512,Hungary
+44512,Israel
+44512,Italy
+44512,Kenya
+44512,Mauritania
+44512,Morocco
+44512,Mozambique
+44512,Namibia
+44512,Netherlands
+44512,Nigeria
+44512,Norway
+44512,Poland
+44512,Portugal
+44512,"Republic of Congo"
+44512,Romania
+44512,Senegal
+44512,Slovenia
+44512,"South Africa"
+44512,Spain
+44512,Switzerland
+44512,Tanzania
+44512,Turkey
+44512,Uganda
+44512,Ukraine
+44512,"United States of America"
+44513,Angola
+44513,Austria
+44513,Botswana
+44513,Bulgaria
+44513,Cameroon
+44513,Chad
+44513,Denmark
+44513,"Equatorial Guinea"
+44513,France
+44513,Gabon
+44513,Germany
+44513,Ghana
+44513,Greece
+44513,"Guinea, Republic of"
+44513,Hungary
+44513,Israel
+44513,Italy
+44513,Kenya
+44513,Mauritania
+44513,Morocco
+44513,Mozambique
+44513,Namibia
+44513,Netherlands
+44513,Nigeria
+44513,Norway
+44513,Poland
+44513,Portugal
+44513,"Republic of Congo"
+44513,Romania
+44513,Senegal
+44513,Slovenia
+44513,"South Africa"
+44513,Spain
+44513,Switzerland
+44513,Tanzania
+44513,Turkey
+44513,Uganda
+44513,Ukraine
+44513,"United States of America"
+44514,Angola
+44514,Austria
+44514,Botswana
+44514,Bulgaria
+44514,Cameroon
+44514,Chad
+44514,Denmark
+44514,"Equatorial Guinea"
+44514,France
+44514,Gabon
+44514,Germany
+44514,Ghana
+44514,Greece
+44514,"Guinea, Republic of"
+44514,Hungary
+44514,Israel
+44514,Italy
+44514,Kenya
+44514,Mauritania
+44514,Morocco
+44514,Mozambique
+44514,Namibia
+44514,Netherlands
+44514,Nigeria
+44514,Norway
+44514,Poland
+44514,Portugal
+44514,"Republic of Congo"
+44514,Romania
+44514,Senegal
+44514,Slovenia
+44514,"South Africa"
+44514,Spain
+44514,Switzerland
+44514,Tanzania
+44514,Turkey
+44514,Uganda
+44514,Ukraine
+44514,"United States of America"
+44515,"South Africa"
+44516,"South Africa"
+44517,"South Africa"
+44518,"South Africa"
+44519,"South Africa"
+44520,Jordan
+44521,Jordan
+44522,Jordan
+44523,Jordan
+44524,Jordan
+44525,Jordan
+44526,Jordan
+44527,Malaysia
+44527,France
+44528,Malaysia
+44528,France
+44529,Malaysia
+44529,France
+44530,"South Africa"
+44531,"South Africa"
+44532,"Non Specific Country"
+44533,"Non Specific Country"
+44534,"Non Specific Country"
+44535,Australia
+44535,Belgium
+44535,Canada
+44535,Denmark
+44535,Egypt
+44535,France
+44535,Germany
+44535,Ireland
+44535,Italy
+44535,Netherlands
+44535,Norway
+44535,Singapore
+44535,Spain
+44535,Sweden
+44535,Switzerland
+44535,"United States of America"
+44536,Libya
+44537,"South Africa"
+44538,"South Africa"
+44539,Albania
+44539,Bulgaria
+44539,"Czech Republic"
+44539,Romania
+44539,Russia
+44539,Ukraine
+44539,"United Arab Emirates"
+44540,"United States of America"
+44541,Cyprus
+44541,Djibouti
+44541,Egypt
+44541,Kenya
+44541,Kuwait
+44541,Madagascar
+44541,Maldives
+44541,Malta
+44541,Mauritius
+44541,Mozambique
+44541,Oman
+44541,Seychelles
+44541,Singapore
+44541,"South Africa"
+44541,"Sri Lanka"
+44541,"United Arab Emirates"
+44542,Cyprus
+44542,Djibouti
+44542,Egypt
+44542,Kenya
+44542,Kuwait
+44542,Madagascar
+44542,Maldives
+44542,Malta
+44542,Mauritius
+44542,Mozambique
+44542,Oman
+44542,Seychelles
+44542,Singapore
+44542,"South Africa"
+44542,"Sri Lanka"
+44542,"United Arab Emirates"
+44543,Cyprus
+44543,Djibouti
+44543,Egypt
+44543,Kenya
+44543,Kuwait
+44543,Madagascar
+44543,Maldives
+44543,Malta
+44543,Mauritius
+44543,Mozambique
+44543,Oman
+44543,Seychelles
+44543,Singapore
+44543,"South Africa"
+44543,"Sri Lanka"
+44543,"United Arab Emirates"
+44544,Cyprus
+44544,Djibouti
+44544,Egypt
+44544,Kenya
+44544,Kuwait
+44544,Madagascar
+44544,Maldives
+44544,Malta
+44544,Mauritius
+44544,Mozambique
+44544,Oman
+44544,Seychelles
+44544,Singapore
+44544,"South Africa"
+44544,"Sri Lanka"
+44544,"United Arab Emirates"
+44545,Cyprus
+44545,Djibouti
+44545,Egypt
+44545,Kenya
+44545,Kuwait
+44545,Madagascar
+44545,Maldives
+44545,Malta
+44545,Mauritius
+44545,Mozambique
+44545,Oman
+44545,Seychelles
+44545,Singapore
+44545,"South Africa"
+44545,"Sri Lanka"
+44545,"United Arab Emirates"
+44546,Malaysia
+44546,"United Kingdom"
+44546,France
+44547,Malaysia
+44547,"United Kingdom"
+44547,France
