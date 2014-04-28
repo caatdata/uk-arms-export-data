@@ -29,6 +29,7 @@ rating,military,short_description,full_description
 1C001,0,"Special materials and related equipment","Special materials and related equipment"
 1C002,0,"Special materials and related equipment","Special materials and related equipment"
 1C006,0,"Special materials and related equipment","Special materials and related equipment"
+1C007,0,"Special materials and related equipment","Special materials and related equipment"
 1C008,0,"Special materials and related equipment","Special materials and related equipment"
 1C010,0,"Special materials and related equipment","Special materials and related equipment"
 1C011,0,"Special materials and related equipment","Special materials and related equipment"
@@ -39,6 +40,7 @@ rating,military,short_description,full_description
 1C202,0,"Special materials and related equipment","Special materials and related equipment"
 1C210,0,"Special materials and related equipment","Special materials and related equipment"
 1C216,0,"Special materials and related equipment","Special materials and related equipment"
+1C225,0,"Special materials and related equipment","Special materials and related equipment"
 1C226,0,"Special materials and related equipment","Special materials and related equipment"
 1C227,0,"Special materials and related equipment","Special materials and related equipment"
 1C228,0,"Special materials and related equipment","Special materials and related equipment"
@@ -72,6 +74,7 @@ rating,military,short_description,full_description
 2B002,0,"Materials processing","Materials processing"
 2B006,0,"Materials processing","Materials processing"
 2B008,0,"Materials processing","Materials processing"
+2B109,0,"Materials processing","Materials processing"
 2B116,0,"Materials processing","Materials processing"
 2B122,0,"Materials processing","Materials processing"
 2B201,0,"Materials processing","Materials processing"
@@ -109,6 +112,7 @@ rating,military,short_description,full_description
 3C004,0,Electronics,Electronics
 3D001,0,Electronics,Electronics
 3D002,0,Electronics,Electronics
+3D003,0,Electronics,Electronics
 3D101,0,Electronics,Electronics
 3E001,0,Electronics,Electronics
 3E002,0,Electronics,Electronics
@@ -157,7 +161,9 @@ rating,military,short_description,full_description
 7A104,0,"Navigation and avionics","Navigation and avionics"
 7A105,0,"Navigation and avionics","Navigation and avionics"
 7B001,0,"Navigation and avionics","Navigation and avionics"
+7B103,0,"Navigation and avionics","Navigation and avionics"
 7D101,0,"Navigation and avionics","Navigation and avionics"
+7E001,0,"Navigation and avionics","Navigation and avionics"
 7E003,0,"Navigation and avionics","Navigation and avionics"
 7E101,0,"Navigation and avionics","Navigation and avionics"
 8A001,0,Marine,Marine
@@ -167,6 +173,7 @@ rating,military,short_description,full_description
 8E001,0,Marine,Marine
 8E002,0,Marine,Marine
 9A001,0,"Aerospace and propulsion","Aerospace and propulsion"
+9A002,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A003,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A004,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A005,0,"Aerospace and propulsion","Aerospace and propulsion"
@@ -184,14 +191,18 @@ rating,military,short_description,full_description
 9D002,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D003,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D004,0,"Aerospace and propulsion","Aerospace and propulsion"
+9D103,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E001,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E002,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E003,0,"Aerospace and propulsion","Aerospace and propulsion"
+9E101,0,"Aerospace and propulsion","Aerospace and propulsion"
+9E102,0,"Aerospace and propulsion","Aerospace and propulsion"
 "Art 4B",0,"Libyan bank notes and coins","Libyan bank notes and coins"
 "End Use",0,"May be intended for WMD purposes","May be intended for WMD purposes"
 "HR AIII",0,"restraint equipment, tear gas for self protection","restraint equipment, tear gas for self protection"
 IRN,0,,
 "IRN OG",0,"Iran oil and gas industry equipment/materials","Iran oil and gas industry equipment/materials"
+LBY,0,,
 MEND,0,,
 MILTA,0,"Military technical assistance","Military technical assistance"
 ML1,1,"Small arms","Smooth bore weapons with a calibre of less than 20 mm, other fire arms and automatic weapons with a calibre of 12.7mm"
@@ -225,5 +236,6 @@ PL9002,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemical
 PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
 PL9008,0,"Vessels and related software and technology","Vessels and related software and technology"
 PL9009,0,"Aircraft and related technology","Aircraft and related technology"
+PRK,0,,
 UZB,0,,
 ZIM,0,,
