@@ -13,6 +13,7 @@ rating,military,short_description,full_description
 0E001,0,"Nuclear materials, facilities and equipment","Nuclear materials, facilities and equipment"
 1A001,0,"Special materials and related equipment","Special materials and related equipment"
 1A002,0,"Special materials and related equipment","Special materials and related equipment"
+1A003,0,"Special materials and related equipment","Special materials and related equipment"
 1A004,0,"Special materials and related equipment","Special materials and related equipment"
 1A005,0,"Special materials and related equipment","Special materials and related equipment"
 1A006,0,"Special materials and related equipment","Special materials and related equipment"
@@ -69,6 +70,7 @@ rating,military,short_description,full_description
 1E201,0,"Special materials and related equipment","Special materials and related equipment"
 1E202,0,"Special materials and related equipment","Special materials and related equipment"
 2A001,0,"Materials processing","Materials processing"
+2A101,0,"Materials processing","Materials processing"
 2A226,0,"Materials processing","Materials processing"
 2B001,0,"Materials processing","Materials processing"
 2B002,0,"Materials processing","Materials processing"
@@ -155,6 +157,7 @@ rating,military,short_description,full_description
 7A002,0,"Navigation and avionics","Navigation and avionics"
 7A003,0,"Navigation and avionics","Navigation and avionics"
 7A005,0,"Navigation and avionics","Navigation and avionics"
+7A008,0,"Navigation and avionics","Navigation and avionics"
 7A101,0,"Navigation and avionics","Navigation and avionics"
 7A102,0,"Navigation and avionics","Navigation and avionics"
 7A103,0,"Navigation and avionics","Navigation and avionics"
@@ -239,3 +242,4 @@ PL9009,0,"Aircraft and related technology","Aircraft and related technology"
 PRK,0,,
 UZB,0,,
 ZIM,0,,
+ml16,0,,
