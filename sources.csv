@@ -1,15 +1,15 @@
 licence_group,source
 20,Germany
 35,Ireland
-80,Romania
-80,Serbia
-80,Bulgaria
-79,Romania
-79,Serbia
-79,Bulgaria
 81,Romania
 81,Serbia
 81,Bulgaria
+79,Romania
+79,Serbia
+79,Bulgaria
+80,Romania
+80,Serbia
+80,Bulgaria
 257,"United States of America"
 281,Israel
 316,Romania
@@ -20,8 +20,8 @@ licence_group,source
 397,"United Arab Emirates"
 628,Ukraine
 756,Romania
-761,Ireland
 760,Ireland
+761,Ireland
 796,Switzerland
 796,Hungary
 796,China
@@ -156,10 +156,10 @@ licence_group,source
 5218,"South Africa"
 5237,Ukraine
 5237,Serbia
-5236,Ukraine
-5236,Serbia
 5238,Ukraine
 5238,Serbia
+5236,Ukraine
+5236,Serbia
 5289,Kuwait
 5290,"United States of America"
 5334,Jordan
@@ -276,8 +276,8 @@ licence_group,source
 9179,Italy
 9183,Malaysia
 9183,Italy
-9324,"South Africa"
 9325,"South Africa"
+9324,"South Africa"
 9332,Lebanon
 9513,"Non Specific Country"
 9556,Taiwan
@@ -338,8 +338,8 @@ licence_group,source
 13068,"South Africa"
 13085,Turkey
 13112,"United Arab Emirates"
-13218,Bulgaria
 13217,Bulgaria
+13218,Bulgaria
 13287,"South Africa"
 13469,"United Arab Emirates"
 13492,Germany
@@ -388,8 +388,8 @@ licence_group,source
 16695,Germany
 16727,"United States of America"
 16816,"South Africa"
-16837,"South Africa"
 16836,"South Africa"
+16837,"South Africa"
 16996,Brazil
 17018,"United States of America"
 17198,"United Arab Emirates"
@@ -417,12 +417,12 @@ licence_group,source
 18458,"South Africa"
 18530,Brunei
 18534,Brunei
-18541,Malaysia
-18541,Germany
-18541,Singapore
 18540,Malaysia
 18540,Germany
 18540,Singapore
+18541,Malaysia
+18541,Germany
+18541,Singapore
 18607,"South Africa"
 18893,Malaysia
 18934,"Non Specific Country"
@@ -2119,18 +2119,18 @@ licence_group,source
 28855,France
 28854,Malaysia
 28854,France
-28860,Malaysia
-28860,France
 28859,Malaysia
 28859,France
+28860,Malaysia
+28860,France
 28861,Malaysia
 28861,France
 28862,Malaysia
 28862,France
-28864,Malaysia
-28864,France
 28865,Malaysia
 28865,France
+28864,Malaysia
+28864,France
 28870,Malaysia
 28870,France
 28869,Malaysia
@@ -2139,14 +2139,14 @@ licence_group,source
 28876,France
 28875,Malaysia
 28875,France
-28879,Malaysia
-28879,France
 28878,Malaysia
 28878,France
-28881,Malaysia
-28881,France
+28879,Malaysia
+28879,France
 28880,Malaysia
 28880,France
+28881,Malaysia
+28881,France
 28884,Malaysia
 28884,France
 28885,Malaysia
@@ -2163,46 +2163,46 @@ licence_group,source
 28896,France
 28897,Malaysia
 28897,France
-28899,Malaysia
-28899,France
 28898,Malaysia
 28898,France
-28900,Malaysia
-28900,France
+28899,Malaysia
+28899,France
 28901,Malaysia
 28901,France
+28900,Malaysia
+28900,France
 28902,Malaysia
 28902,France
 28903,Malaysia
 28903,France
-28905,Malaysia
-28905,France
 28904,Malaysia
 28904,France
+28905,Malaysia
+28905,France
 28907,Malaysia
 28907,France
 28906,Malaysia
 28906,France
-28911,Malaysia
-28911,France
 28910,Malaysia
 28910,France
-28914,Malaysia
-28914,France
+28911,Malaysia
+28911,France
 28913,Malaysia
 28913,France
-28919,Malaysia
-28919,France
+28914,Malaysia
+28914,France
 28920,Malaysia
 28920,France
-28922,Malaysia
-28922,France
+28919,Malaysia
+28919,France
 28923,Malaysia
 28923,France
-28925,Malaysia
-28925,France
+28922,Malaysia
+28922,France
 28926,Malaysia
 28926,France
+28925,Malaysia
+28925,France
 28929,Malaysia
 28929,France
 28928,Malaysia
@@ -2326,8 +2326,8 @@ licence_group,source
 34761,Belarus
 34767,"Non Specific Country"
 35036,Hungary
-35120,China
 35119,China
+35120,China
 35176,"South Africa"
 35197,"South Africa"
 35256,Jordan
@@ -5661,10 +5661,10 @@ licence_group,source
 44549,Malaysia
 44549,France
 44551,"United Arab Emirates"
-44552,Malaysia
-44552,France
 44553,Malaysia
 44553,France
+44552,Malaysia
+44552,France
 44554,"United Kingdom"
 44554,Malaysia
 44554,France
@@ -5867,8 +5867,8 @@ licence_group,source
 48803,"United States of America"
 48849,Serbia
 49186,Australia
-49284,Belarus
 49285,Belarus
+49284,Belarus
 49363,"United States of America"
 49498,"South Africa"
 49547,"South Africa"
@@ -6097,10 +6097,10 @@ licence_group,source
 54226,"Bosnia and Herzegovina"
 54317,"United States of America"
 54479,"United States of America"
-54511,Jordan
-54511,"South Africa"
 54512,Jordan
 54512,"South Africa"
+54511,Jordan
+54511,"South Africa"
 54539,"Czech Republic"
 54592,Serbia
 54630,Jordan
@@ -6732,23 +6732,11 @@ licence_group,source
 57297,China
 57297,Japan
 57355,Japan
-57507,"South Africa"
+57509,"South Africa"
 57508,"South Africa"
-57584,"South Africa"
-57622,Australia
-57811,Canada
-57819,Madagascar
-57819,Maldives
-57819,"Vessel, Platform in International Waters"
-57819,"South Africa"
-57819,Egypt
-57819,Oman
-57819,Tanzania
-57819,Mauritius
-57819,Djibouti
-57819,Seychelles
-57819,"Sri Lanka"
-57819,Kenya
+57585,"South Africa"
+57623,Australia
+57812,Canada
 57820,Madagascar
 57820,Maldives
 57820,"Vessel, Platform in International Waters"
@@ -6761,31 +6749,31 @@ licence_group,source
 57820,Seychelles
 57820,"Sri Lanka"
 57820,Kenya
-57821,"Sao Tome and Principe"
-57821,Namibia
-57821,"Cape Verde"
+57821,Madagascar
+57821,Maldives
+57821,"Vessel, Platform in International Waters"
 57821,"South Africa"
-57831,"Sao Tome and Principe"
-57831,Namibia
-57831,"Cape Verde"
-57831,"South Africa"
-57835,"Sao Tome and Principe"
-57835,Namibia
-57835,"Cape Verde"
-57835,Spain
-57835,"South Africa"
-57837,Madagascar
-57837,Maldives
-57837,"Vessel, Platform in International Waters"
-57837,"South Africa"
-57837,Egypt
-57837,Oman
-57837,Tanzania
-57837,Mauritius
-57837,Djibouti
-57837,Seychelles
-57837,"Sri Lanka"
-57837,Kenya
+57821,Egypt
+57821,Oman
+57821,Tanzania
+57821,Mauritius
+57821,Djibouti
+57821,Seychelles
+57821,"Sri Lanka"
+57821,Kenya
+57822,"Sao Tome and Principe"
+57822,Namibia
+57822,"Cape Verde"
+57822,"South Africa"
+57832,"Sao Tome and Principe"
+57832,Namibia
+57832,"Cape Verde"
+57832,"South Africa"
+57836,"Sao Tome and Principe"
+57836,Namibia
+57836,"Cape Verde"
+57836,Spain
+57836,"South Africa"
 57838,Madagascar
 57838,Maldives
 57838,"Vessel, Platform in International Waters"
@@ -6822,61 +6810,61 @@ licence_group,source
 57840,Seychelles
 57840,"Sri Lanka"
 57840,Kenya
-57841,"Sao Tome and Principe"
-57841,Namibia
-57841,"Cape Verde"
+57841,Madagascar
+57841,Maldives
+57841,"Vessel, Platform in International Waters"
 57841,"South Africa"
-57844,Madagascar
-57844,Maldives
-57844,"Vessel, Platform in International Waters"
-57844,"South Africa"
-57844,Egypt
-57844,Oman
-57844,Tanzania
-57844,Mauritius
-57844,Djibouti
-57844,Seychelles
-57844,"Sri Lanka"
-57844,Kenya
-57845,"Sao Tome and Principe"
+57841,Egypt
+57841,Oman
+57841,Tanzania
+57841,Mauritius
+57841,Djibouti
+57841,Seychelles
+57841,"Sri Lanka"
+57841,Kenya
+57842,"Sao Tome and Principe"
+57842,Namibia
+57842,"Cape Verde"
+57842,"South Africa"
+57845,Madagascar
 57845,Maldives
 57845,"Vessel, Platform in International Waters"
 57845,"South Africa"
 57845,Egypt
 57845,Oman
 57845,Tanzania
-57845,"Cape Verde"
-57845,Madagascar
 57845,Mauritius
 57845,Djibouti
 57845,Seychelles
-57845,Namibia
 57845,"Sri Lanka"
 57845,Kenya
-57846,Madagascar
+57846,"Sao Tome and Principe"
 57846,Maldives
 57846,"Vessel, Platform in International Waters"
 57846,"South Africa"
 57846,Egypt
 57846,Oman
 57846,Tanzania
+57846,"Cape Verde"
+57846,Madagascar
 57846,Mauritius
 57846,Djibouti
 57846,Seychelles
+57846,Namibia
 57846,"Sri Lanka"
 57846,Kenya
-57850,Madagascar
-57850,Maldives
-57850,"Vessel, Platform in International Waters"
-57850,"South Africa"
-57850,Egypt
-57850,Oman
-57850,Tanzania
-57850,Mauritius
-57850,Djibouti
-57850,Seychelles
-57850,"Sri Lanka"
-57850,Kenya
+57847,Madagascar
+57847,Maldives
+57847,"Vessel, Platform in International Waters"
+57847,"South Africa"
+57847,Egypt
+57847,Oman
+57847,Tanzania
+57847,Mauritius
+57847,Djibouti
+57847,Seychelles
+57847,"Sri Lanka"
+57847,Kenya
 57851,Madagascar
 57851,Maldives
 57851,"Vessel, Platform in International Waters"
@@ -6901,81 +6889,86 @@ licence_group,source
 57852,Seychelles
 57852,"Sri Lanka"
 57852,Kenya
-57956,"United Arab Emirates"
-58004,Jordan
-58214,"United States of America"
-58353,Jordan
-58410,Belarus
-58599,Singapore
-58647,Canada
-58694,"Czech Republic"
-58730,Turkey
-58730,Philippines
-58730,China
-58734,Turkey
-58734,Philippines
-58734,China
-58743,Turkey
-58743,Philippines
-58743,China
-58745,Turkey
-58745,Philippines
-58745,China
-58750,Turkey
-58750,Philippines
-58750,China
-58759,Turkey
-58759,Philippines
-58759,China
-58762,Turkey
-58762,Philippines
-58762,China
+57853,Madagascar
+57853,Maldives
+57853,"Vessel, Platform in International Waters"
+57853,"South Africa"
+57853,Egypt
+57853,Oman
+57853,Tanzania
+57853,Mauritius
+57853,Djibouti
+57853,Seychelles
+57853,"Sri Lanka"
+57853,Kenya
+57957,"United Arab Emirates"
+58005,Jordan
+58215,"United States of America"
+58354,Jordan
+58411,Belarus
+58600,Singapore
+58648,Canada
+58695,"Czech Republic"
+58731,Turkey
+58731,Philippines
+58731,China
+58735,Turkey
+58735,Philippines
+58735,China
+58744,Turkey
+58744,Philippines
+58744,China
+58746,Turkey
+58746,Philippines
+58746,China
+58751,Turkey
+58751,Philippines
+58751,China
+58760,Turkey
+58760,Philippines
+58760,China
 58763,Turkey
 58763,Philippines
 58763,China
-58767,Turkey
-58767,Philippines
-58767,China
+58764,Turkey
+58764,Philippines
+58764,China
 58768,Turkey
 58768,Philippines
 58768,China
-58770,Turkey
-58770,Philippines
-58770,China
+58769,Turkey
+58769,Philippines
+58769,China
 58771,Turkey
 58771,Philippines
 58771,China
-58775,Turkey
-58775,Philippines
-58775,China
-58788,"Saudi Arabia"
-58788,Singapore
-58788,"United Arab Emirates"
-58788,Indonesia
-58788,India
-58788,Malaysia
-58788,Thailand
-58794,"Saudi Arabia"
-58794,Singapore
-58794,"United Arab Emirates"
-58794,Indonesia
-58794,India
-58794,Malaysia
-58794,Thailand
-58799,"Saudi Arabia"
-58799,Singapore
-58799,"United Arab Emirates"
-58799,Indonesia
-58799,India
-58799,Malaysia
-58799,Thailand
-58812,"Saudi Arabia"
-58812,Singapore
-58812,"United Arab Emirates"
-58812,Indonesia
-58812,India
-58812,Malaysia
-58812,Thailand
+58772,Turkey
+58772,Philippines
+58772,China
+58776,Turkey
+58776,Philippines
+58776,China
+58789,"Saudi Arabia"
+58789,Singapore
+58789,"United Arab Emirates"
+58789,Indonesia
+58789,India
+58789,Malaysia
+58789,Thailand
+58795,"Saudi Arabia"
+58795,Singapore
+58795,"United Arab Emirates"
+58795,Indonesia
+58795,India
+58795,Malaysia
+58795,Thailand
+58800,"Saudi Arabia"
+58800,Singapore
+58800,"United Arab Emirates"
+58800,Indonesia
+58800,India
+58800,Malaysia
+58800,Thailand
 58813,"Saudi Arabia"
 58813,Singapore
 58813,"United Arab Emirates"
@@ -6983,144 +6976,135 @@ licence_group,source
 58813,India
 58813,Malaysia
 58813,Thailand
-58817,"Saudi Arabia"
-58817,Singapore
-58817,"United Arab Emirates"
-58817,Indonesia
-58817,India
-58817,Malaysia
-58817,Thailand
-58826,"Saudi Arabia"
-58826,Singapore
-58826,"United Arab Emirates"
-58826,Indonesia
-58826,India
-58826,Malaysia
-58826,Thailand
-58830,"Saudi Arabia"
-58830,Singapore
-58830,"United Arab Emirates"
-58830,Indonesia
-58830,India
-58830,Malaysia
-58830,Thailand
-58835,"Saudi Arabia"
-58835,Singapore
-58835,"United Arab Emirates"
-58835,Indonesia
-58835,India
-58835,Malaysia
-58835,Thailand
-58869,Jordan
-58904,Turkey
-59303,Belarus
-59345,Australia
-59448,"Vessel, Platform in International Waters"
-59706,Australia
-59821,Germany
-59834,Jordan
-59846,"Sri Lanka"
-59846,"United States of America"
-59850,Oman
-59850,Djibouti
-59850,"Saudi Arabia"
-59850,"United Arab Emirates"
-59903,"Vessel, Platform in International Waters"
-59908,"Vessel, Platform in International Waters"
-59927,"Vessel, Platform in International Waters"
-59938,"Vessel, Platform in International Waters"
-59965,China
-59976,Germany
-59991,Jordan
+58814,"Saudi Arabia"
+58814,Singapore
+58814,"United Arab Emirates"
+58814,Indonesia
+58814,India
+58814,Malaysia
+58814,Thailand
+58818,"Saudi Arabia"
+58818,Singapore
+58818,"United Arab Emirates"
+58818,Indonesia
+58818,India
+58818,Malaysia
+58818,Thailand
+58827,"Saudi Arabia"
+58827,Singapore
+58827,"United Arab Emirates"
+58827,Indonesia
+58827,India
+58827,Malaysia
+58827,Thailand
+58831,"Saudi Arabia"
+58831,Singapore
+58831,"United Arab Emirates"
+58831,Indonesia
+58831,India
+58831,Malaysia
+58831,Thailand
+58836,"Saudi Arabia"
+58836,Singapore
+58836,"United Arab Emirates"
+58836,Indonesia
+58836,India
+58836,Malaysia
+58836,Thailand
+58870,Jordan
+58905,Turkey
+59304,Belarus
+59346,Australia
+59449,"Vessel, Platform in International Waters"
+59707,Australia
+59822,Germany
+59835,Jordan
+59847,"Sri Lanka"
+59847,"United States of America"
+59851,Oman
+59851,Djibouti
+59851,"Saudi Arabia"
+59851,"United Arab Emirates"
+59904,"Vessel, Platform in International Waters"
+59909,"Vessel, Platform in International Waters"
+59928,"Vessel, Platform in International Waters"
+59939,"Vessel, Platform in International Waters"
+59966,China
+59977,Germany
+59992,Jordan
 60185,Belarus
-60184,Belarus
-60221,Jordan
-60261,Malaysia
-60369,"United States of America"
-60408,Romania
-60459,"United States of America"
-60546,Germany
-60596,Canada
-60814,Australia
-60838,Bulgaria
-60846,Singapore
+60186,Belarus
+60222,Jordan
+60262,Malaysia
+60370,"United States of America"
+60409,Romania
+60460,"United States of America"
+60547,Germany
+60597,Canada
+60815,Australia
+60839,Bulgaria
 60847,Singapore
-60856,Singapore
-60868,"United States of America"
-60876,Singapore
-60878,Singapore
-60880,Singapore
-60885,Singapore
-60891,Singapore
-60897,Singapore
-60900,Singapore
-60904,Singapore
-60907,Singapore
-60912,Singapore
-60915,Singapore
-60945,"South Africa"
-60951,"United States of America"
-61005,Germany
+60848,Singapore
+60857,Singapore
+60869,"United States of America"
+60877,Singapore
+60879,Singapore
+60881,Singapore
+60886,Singapore
+60892,Singapore
+60898,Singapore
+60901,Singapore
+60905,Singapore
+60908,Singapore
+60913,Singapore
+60916,Singapore
+60946,"South Africa"
+60952,"United States of America"
+61007,Germany
 61006,Germany
-61039,Jordan
-61040,"Vessel, Platform in International Waters"
-61041,Madagascar
-61041,Maldives
-61041,"South Africa"
-61041,Egypt
-61041,Oman
-61041,Tanzania
-61041,Malta
-61041,Mauritius
-61041,Djibouti
-61041,Seychelles
-61041,Mozambique
-61041,"Sri Lanka"
-61041,Kenya
-61041,Comoros
-61043,"Vessel, Platform in International Waters"
-61064,"Vessel, Platform in International Waters"
-61065,Jordan
-61066,"Vessel, Platform in International Waters"
-61068,"Vessel, Platform in International Waters"
-61072,"Vessel, Platform in International Waters"
-61074,Jordan
-61077,"Vessel, Platform in International Waters"
-61079,"Vessel, Platform in International Waters"
+61040,Jordan
+61041,"Vessel, Platform in International Waters"
+61042,Madagascar
+61042,Maldives
+61042,"South Africa"
+61042,Egypt
+61042,Oman
+61042,Tanzania
+61042,Malta
+61042,Mauritius
+61042,Djibouti
+61042,Seychelles
+61042,Mozambique
+61042,"Sri Lanka"
+61042,Kenya
+61042,Comoros
+61044,"Vessel, Platform in International Waters"
+61065,"Vessel, Platform in International Waters"
+61066,Jordan
+61067,"Vessel, Platform in International Waters"
+61069,"Vessel, Platform in International Waters"
+61073,"Vessel, Platform in International Waters"
+61075,Jordan
+61078,"Vessel, Platform in International Waters"
 61080,"Vessel, Platform in International Waters"
-61089,"Vessel, Platform in International Waters"
+61081,"Vessel, Platform in International Waters"
 61090,"Vessel, Platform in International Waters"
-61092,"Vessel, Platform in International Waters"
+61091,"Vessel, Platform in International Waters"
 61093,"Vessel, Platform in International Waters"
-61096,"Vessel, Platform in International Waters"
-61120,Cambodia
-61141,Romania
-61242,Belarus
-61253,Malaysia
-61255,Jordan
-61277,Malaysia
-61294,Malaysia
-61303,Malaysia
-61305,Malaysia
-61308,Finland
-61311,Malaysia
-61344,Jordan
-61617,Madagascar
-61617,Maldives
-61617,"Vessel, Platform in International Waters"
-61617,"South Africa"
-61617,Egypt
-61617,Oman
-61617,Tanzania
-61617,India
-61617,"Saudi Arabia"
-61617,Mauritius
-61617,Djibouti
-61617,Mozambique
-61617,"United Arab Emirates"
-61617,"Sri Lanka"
-61617,Kenya
-61617,Comoros
+61094,"Vessel, Platform in International Waters"
+61097,"Vessel, Platform in International Waters"
+61121,Cambodia
+61142,Romania
+61243,Belarus
+61254,Malaysia
+61256,Jordan
+61278,Malaysia
+61295,Malaysia
+61304,Malaysia
+61306,Malaysia
+61309,Finland
+61312,Malaysia
+61345,Jordan
 61618,Madagascar
 61618,Maldives
 61618,"Vessel, Platform in International Waters"
@@ -7137,39 +7121,39 @@ licence_group,source
 61618,"Sri Lanka"
 61618,Kenya
 61618,Comoros
-61635,"United Arab Emirates"
-61636,Madagascar
-61636,Maldives
-61636,"Vessel, Platform in International Waters"
-61636,"South Africa"
-61636,Egypt
-61636,Oman
-61636,Tanzania
-61636,India
-61636,"Saudi Arabia"
-61636,Mauritius
-61636,Djibouti
-61636,Mozambique
+61619,Madagascar
+61619,Maldives
+61619,"Vessel, Platform in International Waters"
+61619,"South Africa"
+61619,Egypt
+61619,Oman
+61619,Tanzania
+61619,India
+61619,"Saudi Arabia"
+61619,Mauritius
+61619,Djibouti
+61619,Mozambique
+61619,"United Arab Emirates"
+61619,"Sri Lanka"
+61619,Kenya
+61619,Comoros
 61636,"United Arab Emirates"
-61636,"Sri Lanka"
-61636,Kenya
-61636,Comoros
-61640,Madagascar
-61640,Maldives
-61640,"Vessel, Platform in International Waters"
-61640,"South Africa"
-61640,Egypt
-61640,Oman
-61640,Tanzania
-61640,India
-61640,"Saudi Arabia"
-61640,Mauritius
-61640,Djibouti
-61640,Mozambique
-61640,"United Arab Emirates"
-61640,"Sri Lanka"
-61640,Kenya
-61640,Comoros
+61637,Madagascar
+61637,Maldives
+61637,"Vessel, Platform in International Waters"
+61637,"South Africa"
+61637,Egypt
+61637,Oman
+61637,Tanzania
+61637,India
+61637,"Saudi Arabia"
+61637,Mauritius
+61637,Djibouti
+61637,Mozambique
+61637,"United Arab Emirates"
+61637,"Sri Lanka"
+61637,Kenya
+61637,Comoros
 61641,Madagascar
 61641,Maldives
 61641,"Vessel, Platform in International Waters"
@@ -7186,54 +7170,54 @@ licence_group,source
 61641,"Sri Lanka"
 61641,Kenya
 61641,Comoros
-61644,Madagascar
-61644,Maldives
-61644,"Vessel, Platform in International Waters"
-61644,"South Africa"
-61644,Egypt
-61644,Oman
-61644,Tanzania
-61644,India
-61644,"Saudi Arabia"
-61644,Mauritius
-61644,Djibouti
-61644,Mozambique
-61644,"United Arab Emirates"
-61644,"Sri Lanka"
-61644,Kenya
-61644,Comoros
-61647,Madagascar
-61647,Maldives
-61647,"Vessel, Platform in International Waters"
-61647,"South Africa"
-61647,Egypt
-61647,Oman
-61647,Tanzania
-61647,India
-61647,"Saudi Arabia"
-61647,Mauritius
-61647,Djibouti
-61647,Mozambique
-61647,"United Arab Emirates"
-61647,"Sri Lanka"
-61647,Kenya
-61647,Comoros
-61655,Madagascar
-61655,Maldives
-61655,"Vessel, Platform in International Waters"
-61655,"South Africa"
-61655,Egypt
-61655,Oman
-61655,Tanzania
-61655,India
-61655,"Saudi Arabia"
-61655,Mauritius
-61655,Djibouti
-61655,Mozambique
-61655,"United Arab Emirates"
-61655,"Sri Lanka"
-61655,Kenya
-61655,Comoros
+61642,Madagascar
+61642,Maldives
+61642,"Vessel, Platform in International Waters"
+61642,"South Africa"
+61642,Egypt
+61642,Oman
+61642,Tanzania
+61642,India
+61642,"Saudi Arabia"
+61642,Mauritius
+61642,Djibouti
+61642,Mozambique
+61642,"United Arab Emirates"
+61642,"Sri Lanka"
+61642,Kenya
+61642,Comoros
+61645,Madagascar
+61645,Maldives
+61645,"Vessel, Platform in International Waters"
+61645,"South Africa"
+61645,Egypt
+61645,Oman
+61645,Tanzania
+61645,India
+61645,"Saudi Arabia"
+61645,Mauritius
+61645,Djibouti
+61645,Mozambique
+61645,"United Arab Emirates"
+61645,"Sri Lanka"
+61645,Kenya
+61645,Comoros
+61648,Madagascar
+61648,Maldives
+61648,"Vessel, Platform in International Waters"
+61648,"South Africa"
+61648,Egypt
+61648,Oman
+61648,Tanzania
+61648,India
+61648,"Saudi Arabia"
+61648,Mauritius
+61648,Djibouti
+61648,Mozambique
+61648,"United Arab Emirates"
+61648,"Sri Lanka"
+61648,Kenya
+61648,Comoros
 61656,Madagascar
 61656,Maldives
 61656,"Vessel, Platform in International Waters"
@@ -7250,71 +7234,71 @@ licence_group,source
 61656,"Sri Lanka"
 61656,Kenya
 61656,Comoros
-61659,Madagascar
-61659,Maldives
-61659,"Vessel, Platform in International Waters"
-61659,"South Africa"
-61659,Egypt
-61659,Oman
-61659,Tanzania
-61659,India
-61659,"Saudi Arabia"
-61659,Mauritius
-61659,Djibouti
-61659,Mozambique
-61659,"United Arab Emirates"
-61659,"Sri Lanka"
-61659,Kenya
-61659,Comoros
-61661,Madagascar
-61661,Maldives
-61661,"Vessel, Platform in International Waters"
-61661,"South Africa"
-61661,Egypt
-61661,Oman
-61661,Tanzania
-61661,India
-61661,"Saudi Arabia"
-61661,Mauritius
-61661,Djibouti
-61661,Mozambique
-61661,"United Arab Emirates"
-61661,"Sri Lanka"
-61661,Kenya
-61661,Comoros
-61666,Madagascar
-61666,Maldives
-61666,"Vessel, Platform in International Waters"
-61666,"South Africa"
-61666,Egypt
-61666,Oman
-61666,Tanzania
-61666,India
-61666,"Saudi Arabia"
-61666,Mauritius
-61666,Djibouti
-61666,Mozambique
-61666,"United Arab Emirates"
-61666,"Sri Lanka"
-61666,Kenya
-61666,Comoros
-61667,Italy
-61669,Madagascar
-61669,Maldives
-61669,"Vessel, Platform in International Waters"
-61669,"South Africa"
-61669,Egypt
-61669,Oman
-61669,Tanzania
-61669,India
-61669,"Saudi Arabia"
-61669,Mauritius
-61669,Djibouti
-61669,Mozambique
-61669,"United Arab Emirates"
-61669,"Sri Lanka"
-61669,Kenya
-61669,Comoros
+61657,Madagascar
+61657,Maldives
+61657,"Vessel, Platform in International Waters"
+61657,"South Africa"
+61657,Egypt
+61657,Oman
+61657,Tanzania
+61657,India
+61657,"Saudi Arabia"
+61657,Mauritius
+61657,Djibouti
+61657,Mozambique
+61657,"United Arab Emirates"
+61657,"Sri Lanka"
+61657,Kenya
+61657,Comoros
+61660,Madagascar
+61660,Maldives
+61660,"Vessel, Platform in International Waters"
+61660,"South Africa"
+61660,Egypt
+61660,Oman
+61660,Tanzania
+61660,India
+61660,"Saudi Arabia"
+61660,Mauritius
+61660,Djibouti
+61660,Mozambique
+61660,"United Arab Emirates"
+61660,"Sri Lanka"
+61660,Kenya
+61660,Comoros
+61662,Madagascar
+61662,Maldives
+61662,"Vessel, Platform in International Waters"
+61662,"South Africa"
+61662,Egypt
+61662,Oman
+61662,Tanzania
+61662,India
+61662,"Saudi Arabia"
+61662,Mauritius
+61662,Djibouti
+61662,Mozambique
+61662,"United Arab Emirates"
+61662,"Sri Lanka"
+61662,Kenya
+61662,Comoros
+61667,Madagascar
+61667,Maldives
+61667,"Vessel, Platform in International Waters"
+61667,"South Africa"
+61667,Egypt
+61667,Oman
+61667,Tanzania
+61667,India
+61667,"Saudi Arabia"
+61667,Mauritius
+61667,Djibouti
+61667,Mozambique
+61667,"United Arab Emirates"
+61667,"Sri Lanka"
+61667,Kenya
+61667,Comoros
+61668,Italy
 61670,Madagascar
 61670,Maldives
 61670,"Vessel, Platform in International Waters"
@@ -7347,92 +7331,91 @@ licence_group,source
 61671,"Sri Lanka"
 61671,Kenya
 61671,Comoros
-61673,Madagascar
-61673,Maldives
-61673,"Vessel, Platform in International Waters"
-61673,"South Africa"
-61673,Egypt
-61673,Oman
-61673,Tanzania
-61673,India
-61673,"Saudi Arabia"
-61673,Mauritius
-61673,Djibouti
-61673,Mozambique
-61673,"United Arab Emirates"
-61673,"Sri Lanka"
-61673,Kenya
-61673,Comoros
-61702,"United Arab Emirates"
-61720,"United States of America"
-61748,Ghana
-61748,Madagascar
-61748,"South Africa"
-61748,Tanzania
-61748,"Sao Tome and Principe"
-61748,"Guinea, Republic of"
-61748,Mauritius
-61748,Togo
-61748,Mozambique
-61748,Gibraltar
-61748,"Republic of Congo"
-61748,Namibia
-61748,Nigeria
-61748,Cameroon
-61748,Comoros
-61748,Spain
-61748,Benin
-61752,Ghana
-61752,Madagascar
-61752,"South Africa"
-61752,Tanzania
-61752,"Sao Tome and Principe"
-61752,"Guinea, Republic of"
-61752,Mauritius
-61752,Togo
-61752,Mozambique
-61752,Gibraltar
-61752,"Republic of Congo"
-61752,Namibia
-61752,Nigeria
-61752,Cameroon
-61752,Comoros
-61752,Spain
-61752,Benin
-61754,Ghana
-61754,Madagascar
-61754,"South Africa"
-61754,Tanzania
-61754,"Sao Tome and Principe"
-61754,"Guinea, Republic of"
-61754,Mauritius
-61754,Togo
-61754,Mozambique
-61754,Gibraltar
-61754,"Republic of Congo"
-61754,Namibia
-61754,Nigeria
-61754,Cameroon
-61754,Comoros
-61754,Spain
-61754,Benin
-61756,Ghana
-61756,Madagascar
-61756,"South Africa"
-61756,Tanzania
-61756,"Sao Tome and Principe"
-61756,"Guinea, Republic of"
-61756,Mauritius
-61756,Togo
-61756,Mozambique
-61756,Gibraltar
-61756,"Republic of Congo"
-61756,Namibia
-61756,Nigeria
-61756,Cameroon
-61756,Comoros
-61756,Spain
-61756,Benin
+61672,Madagascar
+61672,Maldives
+61672,"Vessel, Platform in International Waters"
+61672,"South Africa"
+61672,Egypt
+61672,Oman
+61672,Tanzania
+61672,India
+61672,"Saudi Arabia"
+61672,Mauritius
+61672,Djibouti
+61672,Mozambique
+61672,"United Arab Emirates"
+61672,"Sri Lanka"
+61672,Kenya
+61672,Comoros
+61674,Madagascar
+61674,Maldives
+61674,"Vessel, Platform in International Waters"
+61674,"South Africa"
+61674,Egypt
+61674,Oman
+61674,Tanzania
+61674,India
+61674,"Saudi Arabia"
+61674,Mauritius
+61674,Djibouti
+61674,Mozambique
+61674,"United Arab Emirates"
+61674,"Sri Lanka"
+61674,Kenya
+61674,Comoros
+61703,"United Arab Emirates"
+61721,"United States of America"
+61749,Ghana
+61749,Madagascar
+61749,"South Africa"
+61749,Tanzania
+61749,"Sao Tome and Principe"
+61749,"Guinea, Republic of"
+61749,Mauritius
+61749,Togo
+61749,Mozambique
+61749,Gibraltar
+61749,"Republic of Congo"
+61749,Namibia
+61749,Nigeria
+61749,Cameroon
+61749,Comoros
+61749,Spain
+61749,Benin
+61753,Ghana
+61753,Madagascar
+61753,"South Africa"
+61753,Tanzania
+61753,"Sao Tome and Principe"
+61753,"Guinea, Republic of"
+61753,Mauritius
+61753,Togo
+61753,Mozambique
+61753,Gibraltar
+61753,"Republic of Congo"
+61753,Namibia
+61753,Nigeria
+61753,Cameroon
+61753,Comoros
+61753,Spain
+61753,Benin
+61755,Ghana
+61755,Madagascar
+61755,"South Africa"
+61755,Tanzania
+61755,"Sao Tome and Principe"
+61755,"Guinea, Republic of"
+61755,Mauritius
+61755,Togo
+61755,Mozambique
+61755,Gibraltar
+61755,"Republic of Congo"
+61755,Namibia
+61755,Nigeria
+61755,Cameroon
+61755,Comoros
+61755,Spain
+61755,Benin
 61757,Ghana
 61757,Madagascar
 61757,"South Africa"
@@ -7467,23 +7450,23 @@ licence_group,source
 61758,Comoros
 61758,Spain
 61758,Benin
-61760,Ghana
-61760,Madagascar
-61760,"South Africa"
-61760,Tanzania
-61760,"Sao Tome and Principe"
-61760,"Guinea, Republic of"
-61760,Mauritius
-61760,Togo
-61760,Mozambique
-61760,Gibraltar
-61760,"Republic of Congo"
-61760,Namibia
-61760,Nigeria
-61760,Cameroon
-61760,Comoros
-61760,Spain
-61760,Benin
+61759,Ghana
+61759,Madagascar
+61759,"South Africa"
+61759,Tanzania
+61759,"Sao Tome and Principe"
+61759,"Guinea, Republic of"
+61759,Mauritius
+61759,Togo
+61759,Mozambique
+61759,Gibraltar
+61759,"Republic of Congo"
+61759,Namibia
+61759,Nigeria
+61759,Cameroon
+61759,Comoros
+61759,Spain
+61759,Benin
 61761,Ghana
 61761,Madagascar
 61761,"South Africa"
@@ -7518,76 +7501,76 @@ licence_group,source
 61762,Comoros
 61762,Spain
 61762,Benin
-61765,Ghana
-61765,Madagascar
-61765,"South Africa"
-61765,Tanzania
-61765,"Sao Tome and Principe"
-61765,"Guinea, Republic of"
-61765,Mauritius
-61765,Togo
-61765,Mozambique
-61765,Gibraltar
-61765,"Republic of Congo"
-61765,Namibia
-61765,Nigeria
-61765,Cameroon
-61765,Comoros
-61765,Spain
-61765,Benin
-61770,Ghana
-61770,Madagascar
-61770,"South Africa"
-61770,Tanzania
-61770,"Sao Tome and Principe"
-61770,"Guinea, Republic of"
-61770,Mauritius
-61770,Togo
-61770,Mozambique
-61770,Gibraltar
-61770,"Republic of Congo"
-61770,Namibia
-61770,Nigeria
-61770,Cameroon
-61770,Comoros
-61770,Spain
-61770,Benin
+61763,Ghana
+61763,Madagascar
+61763,"South Africa"
+61763,Tanzania
+61763,"Sao Tome and Principe"
+61763,"Guinea, Republic of"
+61763,Mauritius
+61763,Togo
+61763,Mozambique
+61763,Gibraltar
+61763,"Republic of Congo"
+61763,Namibia
+61763,Nigeria
+61763,Cameroon
+61763,Comoros
+61763,Spain
+61763,Benin
+61766,Ghana
+61766,Madagascar
+61766,"South Africa"
+61766,Tanzania
+61766,"Sao Tome and Principe"
+61766,"Guinea, Republic of"
+61766,Mauritius
+61766,Togo
+61766,Mozambique
+61766,Gibraltar
+61766,"Republic of Congo"
+61766,Namibia
+61766,Nigeria
+61766,Cameroon
+61766,Comoros
+61766,Spain
+61766,Benin
+61771,Ghana
+61771,Madagascar
+61771,"South Africa"
+61771,Tanzania
+61771,"Sao Tome and Principe"
+61771,"Guinea, Republic of"
+61771,Mauritius
+61771,Togo
+61771,Mozambique
+61771,Gibraltar
+61771,"Republic of Congo"
+61771,Namibia
+61771,Nigeria
+61771,Cameroon
+61771,Comoros
+61771,Spain
+61771,Benin
 61773,Norway
-61772,Norway
-61774,Ghana
-61774,Madagascar
-61774,"South Africa"
-61774,Tanzania
-61774,"Sao Tome and Principe"
-61774,"Guinea, Republic of"
-61774,Mauritius
-61774,Togo
-61774,Mozambique
-61774,Gibraltar
-61774,"Republic of Congo"
-61774,Namibia
-61774,Nigeria
-61774,Cameroon
-61774,Comoros
-61774,Spain
-61774,Benin
-61776,Ghana
-61776,Madagascar
-61776,"South Africa"
-61776,Tanzania
-61776,"Sao Tome and Principe"
-61776,"Guinea, Republic of"
-61776,Mauritius
-61776,Togo
-61776,Mozambique
-61776,Gibraltar
-61776,"Republic of Congo"
-61776,Namibia
-61776,Nigeria
-61776,Cameroon
-61776,Comoros
-61776,Spain
-61776,Benin
+61774,Norway
+61775,Ghana
+61775,Madagascar
+61775,"South Africa"
+61775,Tanzania
+61775,"Sao Tome and Principe"
+61775,"Guinea, Republic of"
+61775,Mauritius
+61775,Togo
+61775,Mozambique
+61775,Gibraltar
+61775,"Republic of Congo"
+61775,Namibia
+61775,Nigeria
+61775,Cameroon
+61775,Comoros
+61775,Spain
+61775,Benin
 61777,Ghana
 61777,Madagascar
 61777,"South Africa"
@@ -7605,297 +7588,302 @@ licence_group,source
 61777,Comoros
 61777,Spain
 61777,Benin
-61780,Ghana
-61780,Madagascar
-61780,"South Africa"
-61780,Tanzania
-61780,"Sao Tome and Principe"
-61780,"Guinea, Republic of"
-61780,Mauritius
-61780,Togo
-61780,Mozambique
-61780,Gibraltar
-61780,"Republic of Congo"
-61780,Namibia
-61780,Nigeria
-61780,Cameroon
-61780,Comoros
-61780,Spain
-61780,Benin
-61783,Ghana
-61783,Madagascar
-61783,"South Africa"
-61783,Tanzania
-61783,"Sao Tome and Principe"
-61783,"Guinea, Republic of"
-61783,Mauritius
-61783,Togo
-61783,Mozambique
-61783,Gibraltar
-61783,"Republic of Congo"
-61783,Namibia
-61783,Nigeria
-61783,Cameroon
-61783,Comoros
-61783,Spain
-61783,Benin
-61789,Ghana
-61789,Madagascar
-61789,"South Africa"
-61789,Tanzania
-61789,"Sao Tome and Principe"
-61789,"Guinea, Republic of"
-61789,Mauritius
-61789,Togo
-61789,Mozambique
-61789,Gibraltar
-61789,"Republic of Congo"
-61789,Namibia
-61789,Nigeria
-61789,Cameroon
-61789,Comoros
-61789,Spain
-61789,Benin
-61792,"South Africa"
+61778,Ghana
+61778,Madagascar
+61778,"South Africa"
+61778,Tanzania
+61778,"Sao Tome and Principe"
+61778,"Guinea, Republic of"
+61778,Mauritius
+61778,Togo
+61778,Mozambique
+61778,Gibraltar
+61778,"Republic of Congo"
+61778,Namibia
+61778,Nigeria
+61778,Cameroon
+61778,Comoros
+61778,Spain
+61778,Benin
+61781,Ghana
+61781,Madagascar
+61781,"South Africa"
+61781,Tanzania
+61781,"Sao Tome and Principe"
+61781,"Guinea, Republic of"
+61781,Mauritius
+61781,Togo
+61781,Mozambique
+61781,Gibraltar
+61781,"Republic of Congo"
+61781,Namibia
+61781,Nigeria
+61781,Cameroon
+61781,Comoros
+61781,Spain
+61781,Benin
+61784,Ghana
+61784,Madagascar
+61784,"South Africa"
+61784,Tanzania
+61784,"Sao Tome and Principe"
+61784,"Guinea, Republic of"
+61784,Mauritius
+61784,Togo
+61784,Mozambique
+61784,Gibraltar
+61784,"Republic of Congo"
+61784,Namibia
+61784,Nigeria
+61784,Cameroon
+61784,Comoros
+61784,Spain
+61784,Benin
+61790,Ghana
+61790,Madagascar
+61790,"South Africa"
+61790,Tanzania
+61790,"Sao Tome and Principe"
+61790,"Guinea, Republic of"
+61790,Mauritius
+61790,Togo
+61790,Mozambique
+61790,Gibraltar
+61790,"Republic of Congo"
+61790,Namibia
+61790,Nigeria
+61790,Cameroon
+61790,Comoros
+61790,Spain
+61790,Benin
 61793,"South Africa"
-61795,"South Africa"
+61794,"South Africa"
 61796,"South Africa"
-61801,"South Africa"
-61804,"South Africa"
+61797,"South Africa"
+61802,"South Africa"
 61805,"South Africa"
 61806,"South Africa"
-61809,"South Africa"
-61814,"South Africa"
-61817,"South Africa"
+61807,"South Africa"
+61810,"South Africa"
+61815,"South Africa"
 61818,"South Africa"
 61819,"South Africa"
-61823,"South Africa"
+61820,"South Africa"
 61824,"South Africa"
-61830,"South Africa"
-61834,"South Africa"
-61839,"South Africa"
+61825,"South Africa"
+61831,"South Africa"
+61835,"South Africa"
 61840,"South Africa"
-61844,"South Africa"
+61841,"South Africa"
 61845,"South Africa"
 61846,"South Africa"
-61849,"South Africa"
+61847,"South Africa"
 61850,"South Africa"
 61851,"South Africa"
-61878,"South Africa"
-62027,Jordan
-62185,"Czech Republic"
-62397,Israel
-62399,"United States of America"
-62419,"South Africa"
-62656,Pakistan
-62727,"United States of America"
-62798,"United States of America"
-62816,Jordan
-62944,Germany
-63177,"United States of America"
-63249,Nigeria
-63249,"Cape Verde"
-63249,Malta
-63249,Benin
-63251,Nigeria
-63251,"Cape Verde"
-63251,Malta
-63251,Benin
-63261,Nigeria
-63261,"Cape Verde"
-63261,Malta
-63261,Benin
-63415,"Vessel, Platform in International Waters"
-63423,"Vessel, Platform in International Waters"
-63433,"Vessel, Platform in International Waters"
-63437,"Vessel, Platform in International Waters"
-63443,"Vessel, Platform in International Waters"
-63447,"Vessel, Platform in International Waters"
-63449,"Vessel, Platform in International Waters"
-63453,"Vessel, Platform in International Waters"
-63459,"Vessel, Platform in International Waters"
+61852,"South Africa"
+61879,"South Africa"
+62028,Jordan
+62186,"Czech Republic"
+62398,Israel
+62400,"United States of America"
+62420,"South Africa"
+62657,Pakistan
+62728,"United States of America"
+62799,"United States of America"
+62817,Jordan
+62945,Germany
+63178,"United States of America"
+63250,Nigeria
+63250,"Cape Verde"
+63250,Malta
+63250,Benin
+63252,Nigeria
+63252,"Cape Verde"
+63252,Malta
+63252,Benin
+63262,Nigeria
+63262,"Cape Verde"
+63262,Malta
+63262,Benin
+63416,"Vessel, Platform in International Waters"
+63424,"Vessel, Platform in International Waters"
+63434,"Vessel, Platform in International Waters"
+63438,"Vessel, Platform in International Waters"
+63444,"Vessel, Platform in International Waters"
+63448,"Vessel, Platform in International Waters"
+63450,"Vessel, Platform in International Waters"
+63454,"Vessel, Platform in International Waters"
 63460,"Vessel, Platform in International Waters"
 63461,"Vessel, Platform in International Waters"
-63463,"Vessel, Platform in International Waters"
-63480,Jordan
-63651,"South Africa"
-63671,Russia
-63681,"Vessel, Platform in International Waters"
-63683,Belarus
-63686,"Vessel, Platform in International Waters"
-63688,Madagascar
-63688,Maldives
-63688,"South Africa"
-63688,Egypt
-63688,Oman
-63688,Tanzania
-63688,"Saudi Arabia"
-63688,Mauritius
-63688,Djibouti
-63688,Mozambique
-63688,"Sri Lanka"
-63688,Kenya
-63688,Comoros
-63700,"Vessel, Platform in International Waters"
-63702,"Vessel, Platform in International Waters"
-63710,"Vessel, Platform in International Waters"
-63712,"Vessel, Platform in International Waters"
-63719,"Vessel, Platform in International Waters"
-63723,"Vessel, Platform in International Waters"
-63729,"Vessel, Platform in International Waters"
-63732,"Vessel, Platform in International Waters"
+63462,"Vessel, Platform in International Waters"
+63464,"Vessel, Platform in International Waters"
+63481,Jordan
+63652,"South Africa"
+63672,Russia
+63682,"Vessel, Platform in International Waters"
+63684,Belarus
+63687,"Vessel, Platform in International Waters"
+63689,Madagascar
+63689,Maldives
+63689,"South Africa"
+63689,Egypt
+63689,Oman
+63689,Tanzania
+63689,"Saudi Arabia"
+63689,Mauritius
+63689,Djibouti
+63689,Mozambique
+63689,"Sri Lanka"
+63689,Kenya
+63689,Comoros
+63701,"Vessel, Platform in International Waters"
+63703,"Vessel, Platform in International Waters"
+63711,"Vessel, Platform in International Waters"
+63713,"Vessel, Platform in International Waters"
+63720,"Vessel, Platform in International Waters"
+63724,"Vessel, Platform in International Waters"
+63730,"Vessel, Platform in International Waters"
 63733,"Vessel, Platform in International Waters"
-63736,"Vessel, Platform in International Waters"
+63734,"Vessel, Platform in International Waters"
 63737,"Vessel, Platform in International Waters"
-63743,"Bosnia and Herzegovina"
-63856,"United States of America"
-63917,"Bosnia and Herzegovina"
-64010,"United States of America"
-64020,Jordan
-64138,"South Africa"
-64156,Madagascar
-64156,Maldives
-64156,"South Africa"
-64156,Egypt
-64156,Oman
-64156,Tanzania
-64156,Mauritius
-64156,Djibouti
-64156,Seychelles
-64156,"Sri Lanka"
-64156,Kenya
-64156,Comoros
-64199,Australia
-64245,Brunei
-64245,Maldives
-64245,Pakistan
-64245,Philippines
-64245,Indonesia
-64245,India
-64245,"Korea, South"
-64245,Mongolia
-64245,Malaysia
-64245,Vietnam
-64245,"Sri Lanka"
-64245,Thailand
-64245,Taiwan
-64245,Nepal
-64259,"United States of America"
-64315,Switzerland
-64487,Jordan
-64502,Belarus
-64534,Russia
-64581,Russia
-64712,"Vessel, Platform in International Waters"
-64721,Madagascar
-64721,Maldives
-64721,Singapore
-64721,Egypt
-64721,Oman
-64721,Tanzania
-64721,"South Africa"
-64721,Malta
-64721,Mauritius
-64721,"Sri Lanka"
-64721,Djibouti
-64721,Mozambique
-64721,"United Arab Emirates"
-64721,Namibia
-64721,Kenya
-64721,Comoros
-64726,"Vessel, Platform in International Waters"
-64729,"Vessel, Platform in International Waters"
-64733,"Vessel, Platform in International Waters"
-64734,"United States of America"
-64740,"Vessel, Platform in International Waters"
-64742,"Vessel, Platform in International Waters"
-64744,"Vessel, Platform in International Waters"
-64748,"Vessel, Platform in International Waters"
+63738,"Vessel, Platform in International Waters"
+63744,"Bosnia and Herzegovina"
+63857,"United States of America"
+63918,"Bosnia and Herzegovina"
+64011,"United States of America"
+64021,Jordan
+64139,"South Africa"
+64157,Madagascar
+64157,Maldives
+64157,"South Africa"
+64157,Egypt
+64157,Oman
+64157,Tanzania
+64157,Mauritius
+64157,Djibouti
+64157,Seychelles
+64157,"Sri Lanka"
+64157,Kenya
+64157,Comoros
+64200,Australia
+64246,Brunei
+64246,Maldives
+64246,Pakistan
+64246,Philippines
+64246,Indonesia
+64246,India
+64246,"Korea, South"
+64246,Mongolia
+64246,Malaysia
+64246,Vietnam
+64246,"Sri Lanka"
+64246,Thailand
+64246,Taiwan
+64246,Nepal
+64260,"United States of America"
+64316,Switzerland
+64488,Jordan
+64503,Belarus
+64535,Russia
+64582,Russia
+64713,"Vessel, Platform in International Waters"
+64722,Madagascar
+64722,Maldives
+64722,Singapore
+64722,Egypt
+64722,Oman
+64722,Tanzania
+64722,"South Africa"
+64722,Malta
+64722,Mauritius
+64722,"Sri Lanka"
+64722,Djibouti
+64722,Mozambique
+64722,"United Arab Emirates"
+64722,Namibia
+64722,Kenya
+64722,Comoros
+64727,"Vessel, Platform in International Waters"
+64730,"Vessel, Platform in International Waters"
+64734,"Vessel, Platform in International Waters"
+64735,"United States of America"
+64741,"Vessel, Platform in International Waters"
+64743,"Vessel, Platform in International Waters"
+64745,"Vessel, Platform in International Waters"
 64749,"Vessel, Platform in International Waters"
 64750,"Vessel, Platform in International Waters"
-64752,"Vessel, Platform in International Waters"
+64751,"Vessel, Platform in International Waters"
 64753,"Vessel, Platform in International Waters"
 64754,"Vessel, Platform in International Waters"
-64763,"Vessel, Platform in International Waters"
+64755,"Vessel, Platform in International Waters"
 64764,"Vessel, Platform in International Waters"
-64767,"Vessel, Platform in International Waters"
+64765,"Vessel, Platform in International Waters"
 64768,"Vessel, Platform in International Waters"
-64770,"Vessel, Platform in International Waters"
-64862,Canada
-64862,Madagascar
-64862,Maldives
-64862,"Vessel, Platform in International Waters"
-64862,"South Africa"
-64862,Egypt
-64862,Oman
-64862,Tanzania
-64862,Mauritius
-64862,"Sri Lanka"
-64862,Kenya
-64862,Comoros
-64870,Canada
-64870,Madagascar
-64870,Maldives
-64870,"Vessel, Platform in International Waters"
-64870,"South Africa"
-64870,Egypt
-64870,Oman
-64870,Tanzania
-64870,"Saudi Arabia"
-64870,Mauritius
-64870,Djibouti
-64870,"Sri Lanka"
-64870,Kenya
-64870,Comoros
-64885,Canada
-64885,Madagascar
-64885,Maldives
-64885,"Vessel, Platform in International Waters"
-64885,"South Africa"
-64885,Egypt
-64885,Oman
-64885,Tanzania
-64885,Mauritius
-64885,"Sri Lanka"
-64885,Kenya
-64885,Comoros
-64892,Canada
-64892,Madagascar
-64892,Maldives
-64892,"Vessel, Platform in International Waters"
-64892,"South Africa"
-64892,Egypt
-64892,Oman
-64892,Tanzania
-64892,Mauritius
-64892,"Sri Lanka"
-64892,Kenya
-64892,Comoros
-64895,Canada
-64895,Madagascar
-64895,Maldives
-64895,"Vessel, Platform in International Waters"
-64895,"South Africa"
-64895,Egypt
-64895,Oman
-64895,Tanzania
-64895,Mauritius
-64895,"Sri Lanka"
-64895,Kenya
-64895,Comoros
-64901,"Vessel, Platform in International Waters"
-64904,Canada
-64904,Madagascar
-64904,Maldives
-64904,"Vessel, Platform in International Waters"
-64904,"South Africa"
-64904,Egypt
-64904,Oman
-64904,Tanzania
-64904,Mauritius
-64904,"Sri Lanka"
-64904,Kenya
-64904,Comoros
+64769,"Vessel, Platform in International Waters"
+64771,"Vessel, Platform in International Waters"
+64863,Canada
+64863,Madagascar
+64863,Maldives
+64863,"Vessel, Platform in International Waters"
+64863,"South Africa"
+64863,Egypt
+64863,Oman
+64863,Tanzania
+64863,Mauritius
+64863,"Sri Lanka"
+64863,Kenya
+64863,Comoros
+64871,Canada
+64871,Madagascar
+64871,Maldives
+64871,"Vessel, Platform in International Waters"
+64871,"South Africa"
+64871,Egypt
+64871,Oman
+64871,Tanzania
+64871,"Saudi Arabia"
+64871,Mauritius
+64871,Djibouti
+64871,"Sri Lanka"
+64871,Kenya
+64871,Comoros
+64886,Canada
+64886,Madagascar
+64886,Maldives
+64886,"Vessel, Platform in International Waters"
+64886,"South Africa"
+64886,Egypt
+64886,Oman
+64886,Tanzania
+64886,Mauritius
+64886,"Sri Lanka"
+64886,Kenya
+64886,Comoros
+64893,Canada
+64893,Madagascar
+64893,Maldives
+64893,"Vessel, Platform in International Waters"
+64893,"South Africa"
+64893,Egypt
+64893,Oman
+64893,Tanzania
+64893,Mauritius
+64893,"Sri Lanka"
+64893,Kenya
+64893,Comoros
+64896,Canada
+64896,Madagascar
+64896,Maldives
+64896,"Vessel, Platform in International Waters"
+64896,"South Africa"
+64896,Egypt
+64896,Oman
+64896,Tanzania
+64896,Mauritius
+64896,"Sri Lanka"
+64896,Kenya
+64896,Comoros
+64902,"Vessel, Platform in International Waters"
 64905,Canada
 64905,Madagascar
 64905,Maldives
@@ -7908,96 +7896,1612 @@ licence_group,source
 64905,"Sri Lanka"
 64905,Kenya
 64905,Comoros
-64912,Canada
-64912,Madagascar
-64912,Maldives
-64912,"Vessel, Platform in International Waters"
-64912,"South Africa"
-64912,Egypt
-64912,Oman
-64912,Tanzania
-64912,Mauritius
-64912,"Sri Lanka"
-64912,Kenya
-64912,Comoros
-64916,Canada
-64916,Madagascar
-64916,Maldives
-64916,"Vessel, Platform in International Waters"
-64916,"South Africa"
-64916,Egypt
-64916,Oman
-64916,Tanzania
-64916,Mauritius
-64916,"Sri Lanka"
-64916,Kenya
-64916,Comoros
-64924,"Vessel, Platform in International Waters"
-64925,Canada
-64925,Madagascar
-64925,Maldives
+64906,Canada
+64906,Madagascar
+64906,Maldives
+64906,"Vessel, Platform in International Waters"
+64906,"South Africa"
+64906,Egypt
+64906,Oman
+64906,Tanzania
+64906,Mauritius
+64906,"Sri Lanka"
+64906,Kenya
+64906,Comoros
+64913,Canada
+64913,Madagascar
+64913,Maldives
+64913,"Vessel, Platform in International Waters"
+64913,"South Africa"
+64913,Egypt
+64913,Oman
+64913,Tanzania
+64913,Mauritius
+64913,"Sri Lanka"
+64913,Kenya
+64913,Comoros
+64917,Canada
+64917,Madagascar
+64917,Maldives
+64917,"Vessel, Platform in International Waters"
+64917,"South Africa"
+64917,Egypt
+64917,Oman
+64917,Tanzania
+64917,Mauritius
+64917,"Sri Lanka"
+64917,Kenya
+64917,Comoros
 64925,"Vessel, Platform in International Waters"
-64925,"South Africa"
-64925,Egypt
-64925,Oman
-64925,Tanzania
-64925,Mauritius
-64925,"Sri Lanka"
-64925,Kenya
-64925,Comoros
-64927,Canada
-64927,Madagascar
-64927,Maldives
-64927,"Vessel, Platform in International Waters"
-64927,"South Africa"
-64927,Egypt
-64927,Oman
-64927,Tanzania
-64927,Mauritius
-64927,"Sri Lanka"
-64927,Kenya
-64927,Comoros
-65015,Serbia
-65015,India
-65015,"South Africa"
-65078,"United Arab Emirates"
-65176,Chad
-65211,Jordan
-65242,Jordan
-65266,"United States of America"
-65271,Jordan
-65600,Jordan
-65604,Israel
-65630,Japan
-65630,Sweden
-65649,Burundi
-65659,Japan
-65659,Sweden
-65862,Brazil
-66023,Jordan
-66083,Spain
-66153,Taiwan
-66309,"Hong Kong Special Administrative Region"
-66343,Australia
+64926,Canada
+64926,Madagascar
+64926,Maldives
+64926,"Vessel, Platform in International Waters"
+64926,"South Africa"
+64926,Egypt
+64926,Oman
+64926,Tanzania
+64926,Mauritius
+64926,"Sri Lanka"
+64926,Kenya
+64926,Comoros
+64928,Canada
+64928,Madagascar
+64928,Maldives
+64928,"Vessel, Platform in International Waters"
+64928,"South Africa"
+64928,Egypt
+64928,Oman
+64928,Tanzania
+64928,Mauritius
+64928,"Sri Lanka"
+64928,Kenya
+64928,Comoros
+65016,Serbia
+65016,India
+65016,"South Africa"
+65079,"United Arab Emirates"
+65177,Chad
+65212,Jordan
+65243,Jordan
+65267,"United States of America"
+65272,Jordan
+65601,Jordan
+65605,Israel
+65631,Japan
+65631,Sweden
+65650,Burundi
+65660,Japan
+65660,Sweden
+65863,Brazil
+66024,Jordan
+66084,Spain
+66154,Taiwan
+66310,"Hong Kong Special Administrative Region"
+66344,Australia
+66366,Belarus
 66365,Belarus
-66364,Belarus
-66392,"United States of America"
-66445,"United States of America"
-66512,"United States of America"
-66538,Norway
-66646,Australia
-66700,"South Africa"
-66715,"United States of America"
-66820,"South Africa"
-66954,Jordan
-66977,"United States of America"
+66393,"United States of America"
+66446,"United States of America"
+66513,"United States of America"
+66539,Norway
+66647,Australia
+66701,"South Africa"
+66716,"United States of America"
+66821,"South Africa"
+66955,Jordan
+66978,"United States of America"
+67050,Zimbabwe
+67050,"South Africa"
 67049,Zimbabwe
 67049,"South Africa"
-67048,Zimbabwe
-67048,"South Africa"
-67066,Israel
-67122,Jordan
-67264,Australia
-67367,Romania
-67474,Serbia
-67478,Australia
+67067,Israel
+67123,Jordan
+67265,Australia
+67368,Romania
+67475,Serbia
+67479,Australia
+67620,"Vessel, Platform in International Waters"
+67628,Madagascar
+67628,"Vessel, Platform in International Waters"
+67628,"South Africa"
+67628,Egypt
+67628,Oman
+67628,Tanzania
+67628,Mauritius
+67628,Djibouti
+67628,"Sri Lanka"
+67628,Comoros
+67641,"Vessel, Platform in International Waters"
+67644,"Vessel, Platform in International Waters"
+67646,"Vessel, Platform in International Waters"
+67652,"Vessel, Platform in International Waters"
+67655,"Vessel, Platform in International Waters"
+67659,"Vessel, Platform in International Waters"
+67662,"Vessel, Platform in International Waters"
+67663,"Vessel, Platform in International Waters"
+67752,Jordan
+67902,Belarus
+67923,Serbia
+67965,Jordan
+68064,Madagascar
+68064,Maldives
+68064,"South Africa"
+68064,Egypt
+68064,Oman
+68064,Tanzania
+68064,India
+68064,Malta
+68064,Mauritius
+68064,Malaysia
+68064,Djibouti
+68064,Seychelles
+68064,Mozambique
+68064,"Sri Lanka"
+68064,Kenya
+68071,Madagascar
+68071,Maldives
+68071,"South Africa"
+68071,Egypt
+68071,Oman
+68071,Tanzania
+68071,India
+68071,Malta
+68071,Mauritius
+68071,Malaysia
+68071,Djibouti
+68071,Seychelles
+68071,Mozambique
+68071,"Sri Lanka"
+68071,Kenya
+68085,Madagascar
+68085,Maldives
+68085,"South Africa"
+68085,Egypt
+68085,Oman
+68085,Tanzania
+68085,India
+68085,Malta
+68085,Mauritius
+68085,Malaysia
+68085,Djibouti
+68085,Seychelles
+68085,Mozambique
+68085,"Sri Lanka"
+68085,Kenya
+68086,"United States of America"
+68092,Madagascar
+68092,Maldives
+68092,"South Africa"
+68092,Egypt
+68092,Oman
+68092,Tanzania
+68092,India
+68092,Malta
+68092,Mauritius
+68092,Malaysia
+68092,Djibouti
+68092,Seychelles
+68092,Mozambique
+68092,"Sri Lanka"
+68092,Kenya
+68094,Madagascar
+68094,Maldives
+68094,"South Africa"
+68094,Egypt
+68094,Oman
+68094,Tanzania
+68094,India
+68094,Malta
+68094,Mauritius
+68094,Malaysia
+68094,Djibouti
+68094,Seychelles
+68094,Mozambique
+68094,"Sri Lanka"
+68094,Kenya
+68096,Madagascar
+68096,Maldives
+68096,"South Africa"
+68096,Egypt
+68096,Oman
+68096,Tanzania
+68096,India
+68096,Malta
+68096,Mauritius
+68096,Malaysia
+68096,Djibouti
+68096,Seychelles
+68096,Mozambique
+68096,"Sri Lanka"
+68096,Kenya
+68102,Madagascar
+68102,Maldives
+68102,"South Africa"
+68102,Egypt
+68102,Oman
+68102,Tanzania
+68102,India
+68102,Malta
+68102,Mauritius
+68102,Malaysia
+68102,Djibouti
+68102,Seychelles
+68102,Mozambique
+68102,"Sri Lanka"
+68102,Kenya
+68103,Madagascar
+68103,Maldives
+68103,"South Africa"
+68103,Egypt
+68103,Oman
+68103,Tanzania
+68103,India
+68103,Malta
+68103,Mauritius
+68103,Malaysia
+68103,Djibouti
+68103,Seychelles
+68103,Mozambique
+68103,"Sri Lanka"
+68103,Kenya
+68105,Madagascar
+68105,Maldives
+68105,"South Africa"
+68105,Egypt
+68105,Oman
+68105,Tanzania
+68105,India
+68105,Malta
+68105,Mauritius
+68105,Malaysia
+68105,Djibouti
+68105,Seychelles
+68105,Mozambique
+68105,"Sri Lanka"
+68105,Kenya
+68108,Madagascar
+68108,Maldives
+68108,"South Africa"
+68108,Egypt
+68108,Oman
+68108,Tanzania
+68108,India
+68108,Malta
+68108,Mauritius
+68108,Malaysia
+68108,Djibouti
+68108,Seychelles
+68108,Mozambique
+68108,"Sri Lanka"
+68108,Kenya
+68112,Madagascar
+68112,Maldives
+68112,"South Africa"
+68112,Egypt
+68112,Oman
+68112,Tanzania
+68112,India
+68112,Malta
+68112,Mauritius
+68112,Malaysia
+68112,Djibouti
+68112,Seychelles
+68112,Mozambique
+68112,"Sri Lanka"
+68112,Kenya
+68114,Madagascar
+68114,Maldives
+68114,"South Africa"
+68114,Egypt
+68114,Oman
+68114,Tanzania
+68114,India
+68114,Malta
+68114,Mauritius
+68114,Malaysia
+68114,Djibouti
+68114,Seychelles
+68114,Mozambique
+68114,"Sri Lanka"
+68114,Kenya
+68115,Madagascar
+68115,Maldives
+68115,"South Africa"
+68115,Egypt
+68115,Oman
+68115,Tanzania
+68115,India
+68115,Malta
+68115,Mauritius
+68115,Malaysia
+68115,Djibouti
+68115,Seychelles
+68115,Mozambique
+68115,"Sri Lanka"
+68115,Kenya
+68117,Madagascar
+68117,Maldives
+68117,"South Africa"
+68117,Egypt
+68117,Oman
+68117,Tanzania
+68117,India
+68117,Malta
+68117,Mauritius
+68117,Malaysia
+68117,Djibouti
+68117,Seychelles
+68117,Mozambique
+68117,"Sri Lanka"
+68117,Kenya
+68119,Madagascar
+68119,Maldives
+68119,"South Africa"
+68119,Egypt
+68119,Oman
+68119,Tanzania
+68119,India
+68119,Malta
+68119,Mauritius
+68119,Malaysia
+68119,Djibouti
+68119,Seychelles
+68119,Mozambique
+68119,"Sri Lanka"
+68119,Kenya
+68123,Cambodia
+68160,Jordan
+68213,Bulgaria
+68265,Serbia
+68347,"Hong Kong Special Administrative Region"
+68428,"South Africa"
+68430,"South Africa"
+68431,Serbia
+68525,Jordan
+68622,"South Africa"
+68665,Italy
+68688,China
+68802,Australia
+68804,Switzerland
+68814,Jordan
+69021,Jordan
+69197,"Central African Republic"
+69238,"United States of America"
+69408,Malta
+69474,Jordan
+69567,Israel
+69590,"United States of America"
+69606,Poland
+69622,Israel
+69631,Madagascar
+69631,Maldives
+69631,"Vessel, Platform in International Waters"
+69631,"South Africa"
+69631,Egypt
+69631,Oman
+69631,Tanzania
+69631,Mauritius
+69631,Djibouti
+69631,Seychelles
+69631,"Sri Lanka"
+69631,Kenya
+69631,Comoros
+69632,Madagascar
+69632,Maldives
+69632,"Vessel, Platform in International Waters"
+69632,"South Africa"
+69632,Egypt
+69632,Oman
+69632,Tanzania
+69632,Mauritius
+69632,Djibouti
+69632,Seychelles
+69632,"Sri Lanka"
+69632,Kenya
+69632,Comoros
+69649,Poland
+69649,Germany
+69649,France
+69650,Madagascar
+69650,Maldives
+69650,"Vessel, Platform in International Waters"
+69650,"South Africa"
+69650,Egypt
+69650,Oman
+69650,Tanzania
+69650,Mauritius
+69650,Djibouti
+69650,Seychelles
+69650,"Sri Lanka"
+69650,Kenya
+69650,Comoros
+69651,Madagascar
+69651,Maldives
+69651,"Vessel, Platform in International Waters"
+69651,"South Africa"
+69651,Egypt
+69651,Oman
+69651,Tanzania
+69651,Mauritius
+69651,Djibouti
+69651,Seychelles
+69651,"Sri Lanka"
+69651,Kenya
+69651,Comoros
+69652,Madagascar
+69652,Maldives
+69652,"Vessel, Platform in International Waters"
+69652,"South Africa"
+69652,Egypt
+69652,Oman
+69652,Tanzania
+69652,Mauritius
+69652,Djibouti
+69652,Seychelles
+69652,"Sri Lanka"
+69652,Kenya
+69652,Comoros
+69655,Madagascar
+69655,Maldives
+69655,"Vessel, Platform in International Waters"
+69655,"South Africa"
+69655,Egypt
+69655,Oman
+69655,Tanzania
+69655,Mauritius
+69655,Djibouti
+69655,Seychelles
+69655,"Sri Lanka"
+69655,Kenya
+69655,Comoros
+69662,Madagascar
+69662,Maldives
+69662,"Vessel, Platform in International Waters"
+69662,"South Africa"
+69662,Egypt
+69662,Oman
+69662,Tanzania
+69662,Mauritius
+69662,Djibouti
+69662,Seychelles
+69662,"Sri Lanka"
+69662,Kenya
+69662,Comoros
+69664,Madagascar
+69664,Maldives
+69664,"Vessel, Platform in International Waters"
+69664,"South Africa"
+69664,Egypt
+69664,Oman
+69664,Tanzania
+69664,Mauritius
+69664,Djibouti
+69664,Seychelles
+69664,"Sri Lanka"
+69664,Kenya
+69664,Comoros
+69665,Madagascar
+69665,Maldives
+69665,"Vessel, Platform in International Waters"
+69665,"South Africa"
+69665,Egypt
+69665,Oman
+69665,Tanzania
+69665,Mauritius
+69665,Djibouti
+69665,Seychelles
+69665,"Sri Lanka"
+69665,Kenya
+69665,Comoros
+69671,Madagascar
+69671,Maldives
+69671,"Vessel, Platform in International Waters"
+69671,"South Africa"
+69671,Egypt
+69671,Oman
+69671,Tanzania
+69671,Mauritius
+69671,Djibouti
+69671,Seychelles
+69671,"Sri Lanka"
+69671,Kenya
+69671,Comoros
+69672,China
+69675,Madagascar
+69675,Maldives
+69675,"Vessel, Platform in International Waters"
+69675,"South Africa"
+69675,Egypt
+69675,Oman
+69675,Tanzania
+69675,Mauritius
+69675,Djibouti
+69675,Seychelles
+69675,"Sri Lanka"
+69675,Kenya
+69675,Comoros
+69676,Madagascar
+69676,Maldives
+69676,"Vessel, Platform in International Waters"
+69676,"South Africa"
+69676,Egypt
+69676,Oman
+69676,Tanzania
+69676,Mauritius
+69676,Djibouti
+69676,Seychelles
+69676,"Sri Lanka"
+69676,Kenya
+69676,Comoros
+69678,Madagascar
+69678,Maldives
+69678,"Vessel, Platform in International Waters"
+69678,"South Africa"
+69678,Egypt
+69678,Oman
+69678,Tanzania
+69678,Mauritius
+69678,Djibouti
+69678,Seychelles
+69678,"Sri Lanka"
+69678,Kenya
+69678,Comoros
+69726,"South Africa"
+69795,"Hong Kong Special Administrative Region"
+69812,"United States of America"
+69831,Madagascar
+69831,"Vessel, Platform in International Waters"
+69831,Nigeria
+69831,Benin
+69831,Ghana
+69831,Singapore
+69831,Togo
+69831,Jordan
+69831,Maldives
+69831,Oman
+69831,Tanzania
+69831,Mauritius
+69831,Gabon
+69831,Kenya
+69831,Seychelles
+69831,Angola
+69831,"South Africa"
+69831,Egypt
+69831,Malaysia
+69831,Mozambique
+69831,"Sri Lanka"
+69831,Namibia
+69831,Comoros
+69832,Madagascar
+69832,"Vessel, Platform in International Waters"
+69832,Nigeria
+69832,Benin
+69832,Ghana
+69832,Singapore
+69832,Togo
+69832,Jordan
+69832,Maldives
+69832,Oman
+69832,Tanzania
+69832,Mauritius
+69832,Gabon
+69832,Kenya
+69832,Seychelles
+69832,Angola
+69832,"South Africa"
+69832,Egypt
+69832,Malaysia
+69832,Mozambique
+69832,"Sri Lanka"
+69832,Namibia
+69832,Comoros
+69835,Madagascar
+69835,"Vessel, Platform in International Waters"
+69835,Nigeria
+69835,Benin
+69835,Ghana
+69835,Singapore
+69835,"Cape Verde"
+69835,Togo
+69835,Jordan
+69835,Maldives
+69835,Oman
+69835,Tanzania
+69835,Mauritius
+69835,Gabon
+69835,Namibia
+69835,Seychelles
+69835,Angola
+69835,"South Africa"
+69835,Egypt
+69835,Malaysia
+69835,Mozambique
+69835,"Sri Lanka"
+69835,Kenya
+69835,Comoros
+69838,Madagascar
+69838,"Vessel, Platform in International Waters"
+69838,Nigeria
+69838,Benin
+69838,Ghana
+69838,Singapore
+69838,"Cape Verde"
+69838,Togo
+69838,Jordan
+69838,Maldives
+69838,Oman
+69838,Tanzania
+69838,Mauritius
+69838,Gabon
+69838,Namibia
+69838,Seychelles
+69838,Angola
+69838,"South Africa"
+69838,Egypt
+69838,Malaysia
+69838,Mozambique
+69838,"Sri Lanka"
+69838,Kenya
+69838,Comoros
+69839,Madagascar
+69839,"Vessel, Platform in International Waters"
+69839,Nigeria
+69839,Benin
+69839,Ghana
+69839,Singapore
+69839,"Cape Verde"
+69839,Togo
+69839,Jordan
+69839,Maldives
+69839,Oman
+69839,Tanzania
+69839,Mauritius
+69839,Gabon
+69839,Namibia
+69839,Seychelles
+69839,Angola
+69839,"South Africa"
+69839,Egypt
+69839,Malaysia
+69839,Mozambique
+69839,"Sri Lanka"
+69839,Kenya
+69839,Comoros
+69840,Australia
+69843,"Hong Kong Special Administrative Region"
+69845,Madagascar
+69845,"Vessel, Platform in International Waters"
+69845,Nigeria
+69845,Benin
+69845,Ghana
+69845,Singapore
+69845,Togo
+69845,Jordan
+69845,Maldives
+69845,Oman
+69845,Tanzania
+69845,Mauritius
+69845,Gabon
+69845,Namibia
+69845,Seychelles
+69845,Angola
+69845,"South Africa"
+69845,Egypt
+69845,Malaysia
+69845,Mozambique
+69845,"Sri Lanka"
+69845,Kenya
+69845,Comoros
+69851,Ghana
+69851,"Cape Verde"
+69851,Togo
+69851,Namibia
+69851,Nigeria
+69851,Benin
+69853,Madagascar
+69853,"Vessel, Platform in International Waters"
+69853,Nigeria
+69853,Benin
+69853,Ghana
+69853,Singapore
+69853,Togo
+69853,Jordan
+69853,Maldives
+69853,Oman
+69853,Tanzania
+69853,Mauritius
+69853,Gabon
+69853,Namibia
+69853,Seychelles
+69853,Angola
+69853,"South Africa"
+69853,Egypt
+69853,Malaysia
+69853,Mozambique
+69853,"Sri Lanka"
+69853,Kenya
+69853,Comoros
+69855,Russia
+69857,Madagascar
+69857,"Vessel, Platform in International Waters"
+69857,Nigeria
+69857,Benin
+69857,Ghana
+69857,Singapore
+69857,Togo
+69857,Jordan
+69857,Maldives
+69857,Oman
+69857,Tanzania
+69857,Mauritius
+69857,Gabon
+69857,Kenya
+69857,Seychelles
+69857,Angola
+69857,"South Africa"
+69857,Egypt
+69857,Malaysia
+69857,Mozambique
+69857,"Sri Lanka"
+69857,Namibia
+69857,Comoros
+69858,Madagascar
+69858,"Vessel, Platform in International Waters"
+69858,Nigeria
+69858,Benin
+69858,Ghana
+69858,Singapore
+69858,Togo
+69858,Jordan
+69858,Maldives
+69858,Oman
+69858,Tanzania
+69858,Mauritius
+69858,Gabon
+69858,Kenya
+69858,Seychelles
+69858,Angola
+69858,"South Africa"
+69858,Egypt
+69858,Malaysia
+69858,Mozambique
+69858,"Sri Lanka"
+69858,Namibia
+69858,Comoros
+69860,Madagascar
+69860,"Vessel, Platform in International Waters"
+69860,Nigeria
+69860,Benin
+69860,Ghana
+69860,Singapore
+69860,Togo
+69860,Jordan
+69860,Maldives
+69860,Oman
+69860,Tanzania
+69860,Mauritius
+69860,Gabon
+69860,Kenya
+69860,Seychelles
+69860,Angola
+69860,"South Africa"
+69860,Egypt
+69860,Malaysia
+69860,Mozambique
+69860,"Sri Lanka"
+69860,Namibia
+69860,Comoros
+69863,Madagascar
+69863,"Vessel, Platform in International Waters"
+69863,Nigeria
+69863,Benin
+69863,Ghana
+69863,Singapore
+69863,Togo
+69863,Jordan
+69863,Maldives
+69863,Oman
+69863,Tanzania
+69863,Mauritius
+69863,Gabon
+69863,Kenya
+69863,Seychelles
+69863,Angola
+69863,"South Africa"
+69863,Egypt
+69863,Malaysia
+69863,Mozambique
+69863,"Sri Lanka"
+69863,Namibia
+69863,Comoros
+69865,Madagascar
+69865,"Vessel, Platform in International Waters"
+69865,Nigeria
+69865,Benin
+69865,Ghana
+69865,Singapore
+69865,Togo
+69865,Jordan
+69865,Maldives
+69865,Oman
+69865,Tanzania
+69865,Mauritius
+69865,Gabon
+69865,Namibia
+69865,Seychelles
+69865,Angola
+69865,"South Africa"
+69865,Egypt
+69865,Malaysia
+69865,Mozambique
+69865,"Sri Lanka"
+69865,Kenya
+69865,Comoros
+69867,Ghana
+69867,"Cape Verde"
+69867,Togo
+69867,Namibia
+69867,Nigeria
+69867,Benin
+69868,Madagascar
+69868,"Vessel, Platform in International Waters"
+69868,Nigeria
+69868,Benin
+69868,Ghana
+69868,Singapore
+69868,Togo
+69868,Jordan
+69868,Maldives
+69868,Oman
+69868,Tanzania
+69868,Mauritius
+69868,Gabon
+69868,Namibia
+69868,Seychelles
+69868,Angola
+69868,"South Africa"
+69868,Egypt
+69868,Malaysia
+69868,Mozambique
+69868,"Sri Lanka"
+69868,Kenya
+69868,Comoros
+69870,Madagascar
+69870,"Vessel, Platform in International Waters"
+69870,Nigeria
+69870,Benin
+69870,Ghana
+69870,Singapore
+69870,Togo
+69870,Jordan
+69870,Maldives
+69870,Oman
+69870,Tanzania
+69870,Mauritius
+69870,Gabon
+69870,Kenya
+69870,Seychelles
+69870,Angola
+69870,"South Africa"
+69870,Egypt
+69870,Malaysia
+69870,Mozambique
+69870,"Sri Lanka"
+69870,Namibia
+69870,Comoros
+69871,Madagascar
+69871,"Vessel, Platform in International Waters"
+69871,Nigeria
+69871,Benin
+69871,Ghana
+69871,Singapore
+69871,Togo
+69871,Jordan
+69871,Maldives
+69871,Oman
+69871,Tanzania
+69871,Mauritius
+69871,Gabon
+69871,Namibia
+69871,Seychelles
+69871,Angola
+69871,"South Africa"
+69871,Egypt
+69871,Malaysia
+69871,Mozambique
+69871,"Sri Lanka"
+69871,Kenya
+69871,Comoros
+69872,Madagascar
+69872,"Vessel, Platform in International Waters"
+69872,Nigeria
+69872,Benin
+69872,Ghana
+69872,Singapore
+69872,Togo
+69872,Jordan
+69872,Maldives
+69872,Oman
+69872,Tanzania
+69872,Mauritius
+69872,Gabon
+69872,Kenya
+69872,Seychelles
+69872,Angola
+69872,"South Africa"
+69872,Egypt
+69872,Malaysia
+69872,Mozambique
+69872,"Sri Lanka"
+69872,Namibia
+69872,Comoros
+69873,Madagascar
+69873,"Vessel, Platform in International Waters"
+69873,Nigeria
+69873,Benin
+69873,Ghana
+69873,Singapore
+69873,Togo
+69873,Jordan
+69873,Maldives
+69873,Oman
+69873,Tanzania
+69873,Mauritius
+69873,Gabon
+69873,Kenya
+69873,Seychelles
+69873,Angola
+69873,"South Africa"
+69873,Egypt
+69873,Malaysia
+69873,Mozambique
+69873,"Sri Lanka"
+69873,Namibia
+69873,Comoros
+69880,Madagascar
+69880,"Vessel, Platform in International Waters"
+69880,Nigeria
+69880,Benin
+69880,Ghana
+69880,Singapore
+69880,Togo
+69880,Jordan
+69880,Maldives
+69880,Oman
+69880,Tanzania
+69880,Mauritius
+69880,Gabon
+69880,Namibia
+69880,Seychelles
+69880,Angola
+69880,"South Africa"
+69880,Egypt
+69880,Malaysia
+69880,Mozambique
+69880,"Sri Lanka"
+69880,Kenya
+69880,Comoros
+69883,Ghana
+69883,"Cape Verde"
+69883,Togo
+69883,Namibia
+69883,Nigeria
+69883,Benin
+69884,Madagascar
+69884,"Vessel, Platform in International Waters"
+69884,Nigeria
+69884,Benin
+69884,Ghana
+69884,Singapore
+69884,Togo
+69884,Jordan
+69884,Maldives
+69884,Oman
+69884,Tanzania
+69884,Mauritius
+69884,Gabon
+69884,Namibia
+69884,Seychelles
+69884,Angola
+69884,"South Africa"
+69884,Egypt
+69884,Malaysia
+69884,Mozambique
+69884,"Sri Lanka"
+69884,Kenya
+69884,Comoros
+69885,Madagascar
+69885,"Vessel, Platform in International Waters"
+69885,Nigeria
+69885,Benin
+69885,Ghana
+69885,Singapore
+69885,Togo
+69885,Jordan
+69885,Maldives
+69885,Oman
+69885,Tanzania
+69885,Mauritius
+69885,Gabon
+69885,Namibia
+69885,Seychelles
+69885,Angola
+69885,"South Africa"
+69885,Egypt
+69885,Malaysia
+69885,Mozambique
+69885,"Sri Lanka"
+69885,Kenya
+69885,Comoros
+69886,Madagascar
+69886,"Vessel, Platform in International Waters"
+69886,Nigeria
+69886,Benin
+69886,Ghana
+69886,Singapore
+69886,Togo
+69886,Jordan
+69886,Maldives
+69886,Oman
+69886,Tanzania
+69886,Mauritius
+69886,Gabon
+69886,Kenya
+69886,Seychelles
+69886,Angola
+69886,"South Africa"
+69886,Egypt
+69886,Malaysia
+69886,Mozambique
+69886,"Sri Lanka"
+69886,Namibia
+69886,Comoros
+69887,Madagascar
+69887,"Vessel, Platform in International Waters"
+69887,Nigeria
+69887,Benin
+69887,Ghana
+69887,Singapore
+69887,Togo
+69887,Jordan
+69887,Maldives
+69887,Oman
+69887,Tanzania
+69887,Mauritius
+69887,Gabon
+69887,Kenya
+69887,Seychelles
+69887,Angola
+69887,"South Africa"
+69887,Egypt
+69887,Malaysia
+69887,Mozambique
+69887,"Sri Lanka"
+69887,Namibia
+69887,Comoros
+69889,Madagascar
+69889,"Vessel, Platform in International Waters"
+69889,Nigeria
+69889,Benin
+69889,Ghana
+69889,Singapore
+69889,Togo
+69889,Jordan
+69889,Maldives
+69889,Oman
+69889,Tanzania
+69889,Mauritius
+69889,Gabon
+69889,Kenya
+69889,Seychelles
+69889,Angola
+69889,"South Africa"
+69889,Egypt
+69889,Malaysia
+69889,Mozambique
+69889,"Sri Lanka"
+69889,Namibia
+69889,Comoros
+69947,Madagascar
+69947,Maldives
+69947,"Vessel, Platform in International Waters"
+69947,"South Africa"
+69947,Egypt
+69947,Oman
+69947,Tanzania
+69947,Israel
+69947,Malta
+69947,France
+69947,Mauritius
+69947,Malaysia
+69947,Djibouti
+69947,Seychelles
+69947,Mozambique
+69947,Somalia
+69947,Greece
+69947,"Sri Lanka"
+69947,Kenya
+69947,Comoros
+69947,Spain
+69948,Madagascar
+69948,Maldives
+69948,"Vessel, Platform in International Waters"
+69948,"South Africa"
+69948,Egypt
+69948,Oman
+69948,Malta
+69948,Mauritius
+69948,Djibouti
+69948,Seychelles
+69948,Somalia
+69948,Greece
+69948,"Sri Lanka"
+69948,Kenya
+69950,Israel
+69950,Maldives
+69950,"Vessel, Platform in International Waters"
+69950,"South Africa"
+69950,Egypt
+69950,Oman
+69950,Tanzania
+69950,Madagascar
+69950,Malta
+69950,France
+69950,Mauritius
+69950,Malaysia
+69950,Djibouti
+69950,Seychelles
+69950,Mozambique
+69950,Somalia
+69950,Greece
+69950,"Sri Lanka"
+69950,Kenya
+69950,Comoros
+69950,Spain
+69951,Israel
+69951,Maldives
+69951,"South Africa"
+69951,Egypt
+69951,Oman
+69951,Tanzania
+69951,Madagascar
+69951,Malta
+69951,France
+69951,Mauritius
+69951,Malaysia
+69951,Djibouti
+69951,Seychelles
+69951,Mozambique
+69951,Greece
+69951,"Sri Lanka"
+69951,Kenya
+69951,Comoros
+69951,Spain
+69953,Madagascar
+69953,Maldives
+69953,"Vessel, Platform in International Waters"
+69953,"South Africa"
+69953,Egypt
+69953,Oman
+69953,Malta
+69953,Mauritius
+69953,Djibouti
+69953,Seychelles
+69953,Somalia
+69953,Greece
+69953,"Sri Lanka"
+69953,Kenya
+69954,Israel
+69954,Maldives
+69954,"South Africa"
+69954,Egypt
+69954,Oman
+69954,Tanzania
+69954,Madagascar
+69954,Malta
+69954,France
+69954,Mauritius
+69954,Malaysia
+69954,Djibouti
+69954,Seychelles
+69954,Mozambique
+69954,Greece
+69954,"Sri Lanka"
+69954,Kenya
+69954,Comoros
+69954,Spain
+69955,Israel
+69955,Maldives
+69955,"South Africa"
+69955,Egypt
+69955,Oman
+69955,Tanzania
+69955,Madagascar
+69955,Malta
+69955,France
+69955,Mauritius
+69955,Malaysia
+69955,Djibouti
+69955,Seychelles
+69955,Mozambique
+69955,Greece
+69955,"Sri Lanka"
+69955,Kenya
+69955,Comoros
+69955,Spain
+69956,Israel
+69956,Maldives
+69956,"South Africa"
+69956,Egypt
+69956,Oman
+69956,Tanzania
+69956,Madagascar
+69956,Malta
+69956,France
+69956,Mauritius
+69956,Malaysia
+69956,Djibouti
+69956,Seychelles
+69956,Mozambique
+69956,Greece
+69956,"Sri Lanka"
+69956,Kenya
+69956,Comoros
+69956,Spain
+69959,Israel
+69959,Maldives
+69959,"South Africa"
+69959,Egypt
+69959,Oman
+69959,Tanzania
+69959,Madagascar
+69959,Malta
+69959,France
+69959,Mauritius
+69959,Malaysia
+69959,Djibouti
+69959,Seychelles
+69959,Mozambique
+69959,Greece
+69959,"Sri Lanka"
+69959,Kenya
+69959,Comoros
+69959,Spain
+69960,Israel
+69960,Maldives
+69960,"South Africa"
+69960,Egypt
+69960,Oman
+69960,Tanzania
+69960,Madagascar
+69960,Malta
+69960,France
+69960,Mauritius
+69960,Malaysia
+69960,Djibouti
+69960,Seychelles
+69960,Mozambique
+69960,Greece
+69960,"Sri Lanka"
+69960,Kenya
+69960,Comoros
+69960,Spain
+69964,Israel
+69964,Maldives
+69964,"South Africa"
+69964,Egypt
+69964,Oman
+69964,Tanzania
+69964,Madagascar
+69964,Malta
+69964,France
+69964,Mauritius
+69964,Malaysia
+69964,Djibouti
+69964,Seychelles
+69964,Mozambique
+69964,Greece
+69964,"Sri Lanka"
+69964,Kenya
+69964,Comoros
+69964,Spain
+69966,Madagascar
+69966,Maldives
+69966,"Vessel, Platform in International Waters"
+69966,"South Africa"
+69966,Egypt
+69966,Oman
+69966,Tanzania
+69966,Israel
+69966,Malta
+69966,France
+69966,Mauritius
+69966,Malaysia
+69966,Djibouti
+69966,Seychelles
+69966,Mozambique
+69966,Somalia
+69966,Greece
+69966,"Sri Lanka"
+69966,Kenya
+69966,Comoros
+69966,Spain
+69967,Madagascar
+69967,Maldives
+69967,"Vessel, Platform in International Waters"
+69967,"South Africa"
+69967,Egypt
+69967,Oman
+69967,Tanzania
+69967,Israel
+69967,Malta
+69967,France
+69967,Mauritius
+69967,Malaysia
+69967,Djibouti
+69967,Seychelles
+69967,Mozambique
+69967,Somalia
+69967,Greece
+69967,"Sri Lanka"
+69967,Kenya
+69967,Comoros
+69967,Spain
+69968,Israel
+69968,Maldives
+69968,"South Africa"
+69968,Egypt
+69968,Oman
+69968,Tanzania
+69968,Madagascar
+69968,Malta
+69968,France
+69968,Mauritius
+69968,Malaysia
+69968,Djibouti
+69968,Seychelles
+69968,Mozambique
+69968,Greece
+69968,"Sri Lanka"
+69968,Kenya
+69968,Comoros
+69968,Spain
+69971,Madagascar
+69971,Maldives
+69971,"Vessel, Platform in International Waters"
+69971,"South Africa"
+69971,Egypt
+69971,Oman
+69971,Tanzania
+69971,Israel
+69971,Malta
+69971,France
+69971,Mauritius
+69971,Malaysia
+69971,Djibouti
+69971,Seychelles
+69971,Mozambique
+69971,Somalia
+69971,Greece
+69971,"Sri Lanka"
+69971,Kenya
+69971,Comoros
+69971,Spain
+69973,Madagascar
+69973,Maldives
+69973,"Vessel, Platform in International Waters"
+69973,"South Africa"
+69973,Egypt
+69973,Oman
+69973,Tanzania
+69973,Israel
+69973,Malta
+69973,France
+69973,Mauritius
+69973,Malaysia
+69973,Djibouti
+69973,Seychelles
+69973,Mozambique
+69973,Somalia
+69973,Greece
+69973,"Sri Lanka"
+69973,Kenya
+69973,Comoros
+69973,Spain
+69975,Madagascar
+69975,Maldives
+69975,"Vessel, Platform in International Waters"
+69975,"South Africa"
+69975,Egypt
+69975,Oman
+69975,Tanzania
+69975,Israel
+69975,Malta
+69975,France
+69975,Mauritius
+69975,Malaysia
+69975,Djibouti
+69975,Seychelles
+69975,Mozambique
+69975,Somalia
+69975,Greece
+69975,"Sri Lanka"
+69975,Kenya
+69975,Comoros
+69975,Spain
+69977,Madagascar
+69977,Maldives
+69977,"Vessel, Platform in International Waters"
+69977,"South Africa"
+69977,Egypt
+69977,Oman
+69977,Tanzania
+69977,Israel
+69977,Malta
+69977,France
+69977,Mauritius
+69977,Malaysia
+69977,Djibouti
+69977,Seychelles
+69977,Mozambique
+69977,Somalia
+69977,Greece
+69977,"Sri Lanka"
+69977,Kenya
+69977,Comoros
+69977,Spain
+69978,Israel
+69978,Maldives
+69978,"South Africa"
+69978,Egypt
+69978,Oman
+69978,Tanzania
+69978,Madagascar
+69978,Malta
+69978,France
+69978,Mauritius
+69978,Malaysia
+69978,Djibouti
+69978,Seychelles
+69978,Mozambique
+69978,Greece
+69978,"Sri Lanka"
+69978,Kenya
+69978,Comoros
+69978,Spain
+69980,Madagascar
+69980,Maldives
+69980,"Vessel, Platform in International Waters"
+69980,"South Africa"
+69980,Egypt
+69980,Oman
+69980,Tanzania
+69980,Israel
+69980,Malta
+69980,France
+69980,Mauritius
+69980,Malaysia
+69980,Djibouti
+69980,Seychelles
+69980,Mozambique
+69980,Somalia
+69980,Greece
+69980,"Sri Lanka"
+69980,Kenya
+69980,Comoros
+69980,Spain
+69981,Israel
+69981,Maldives
+69981,"South Africa"
+69981,Egypt
+69981,Oman
+69981,Tanzania
+69981,Madagascar
+69981,Malta
+69981,France
+69981,Mauritius
+69981,Malaysia
+69981,Djibouti
+69981,Seychelles
+69981,Mozambique
+69981,Greece
+69981,"Sri Lanka"
+69981,Kenya
+69981,Comoros
+69981,Spain
+69982,Israel
+69982,Maldives
+69982,"Vessel, Platform in International Waters"
+69982,"South Africa"
+69982,Egypt
+69982,Oman
+69982,Tanzania
+69982,Madagascar
+69982,Malta
+69982,France
+69982,Mauritius
+69982,Malaysia
+69982,Djibouti
+69982,Seychelles
+69982,Mozambique
+69982,Somalia
+69982,Greece
+69982,"Sri Lanka"
+69982,Kenya
+69982,Comoros
+69982,Spain
+69983,Madagascar
+69983,Maldives
+69983,"Vessel, Platform in International Waters"
+69983,"South Africa"
+69983,Egypt
+69983,Oman
+69983,Tanzania
+69983,Israel
+69983,Malta
+69983,France
+69983,Mauritius
+69983,Malaysia
+69983,Djibouti
+69983,Seychelles
+69983,Mozambique
+69983,Somalia
+69983,Greece
+69983,"Sri Lanka"
+69983,Kenya
+69983,Comoros
+69983,Spain
+69984,Madagascar
+69984,Maldives
+69984,"Vessel, Platform in International Waters"
+69984,"South Africa"
+69984,Egypt
+69984,Oman
+69984,Tanzania
+69984,Israel
+69984,Malta
+69984,France
+69984,Mauritius
+69984,Malaysia
+69984,Djibouti
+69984,Seychelles
+69984,Mozambique
+69984,Somalia
+69984,Greece
+69984,"Sri Lanka"
+69984,Kenya
+69984,Comoros
+69984,Spain
+69985,Israel
+69985,Maldives
+69985,"South Africa"
+69985,Egypt
+69985,Oman
+69985,Tanzania
+69985,Madagascar
+69985,Malta
+69985,France
+69985,Mauritius
+69985,Malaysia
+69985,Djibouti
+69985,Seychelles
+69985,Mozambique
+69985,Greece
+69985,"Sri Lanka"
+69985,Kenya
+69985,Comoros
+69985,Spain
+70023,Jordan
+70053,"Vessel, Platform in International Waters"
+70063,"United States of America"
+70090,Egypt
+70125,Jordan
+70136,Jordan
+70156,Singapore
+70189,"Hong Kong Special Administrative Region"
+70204,Bulgaria
+70283,Poland
+70299,"United States of America"
+70320,Germany
+70501,Australia
