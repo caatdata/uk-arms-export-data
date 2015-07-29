@@ -34,6 +34,7 @@ rating,military,short_description,full_description
 1C008,0,"Special materials and related equipment","Special materials and related equipment"
 1C010,0,"Special materials and related equipment","Special materials and related equipment"
 1C011,0,"Special materials and related equipment","Special materials and related equipment"
+1C012,0,"Special materials and related equipment","Special materials and related equipment"
 1C101,0,"Special materials and related equipment","Special materials and related equipment"
 1C107,0,"Special materials and related equipment","Special materials and related equipment"
 1C111,0,"Special materials and related equipment","Special materials and related equipment"
@@ -205,6 +206,7 @@ rating,military,short_description,full_description
 9E102,0,"Aerospace and propulsion","Aerospace and propulsion"
 "Art 4B",0,"Libyan bank notes and coins","Libyan bank notes and coins"
 "End Use",0,"May be intended for WMD purposes","May be intended for WMD purposes"
+"HR AII",0,,
 "HR AIII",0,"restraint equipment, tear gas for self protection","restraint equipment, tear gas for self protection"
 IRN,0,,
 "IRN OG",0,"Iran oil and gas industry equipment/materials","Iran oil and gas industry equipment/materials"
