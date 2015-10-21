@@ -54,6 +54,7 @@ rating,military,short_description,full_description
 1C233,0,"Special materials and related equipment","Special materials and related equipment"
 1C234,0,"Special materials and related equipment","Special materials and related equipment"
 1C235,0,"Special materials and related equipment","Special materials and related equipment"
+1C236,0,"Special materials and related equipment","Special materials and related equipment"
 1C237,0,"Special materials and related equipment","Special materials and related equipment"
 1C240,0,"Special materials and related equipment","Special materials and related equipment"
 1C350,0,"Special materials and related equipment","Special materials and related equipment"
@@ -244,6 +245,7 @@ PL9002,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemical
 PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
 PL9008,0,"Vessels and related software and technology","Vessels and related software and technology"
 PL9009,0,"Aircraft and related technology","Aircraft and related technology"
+PL9010,0,,
 PRK,0,,
 RUS,0,,
 UZB,0,,
