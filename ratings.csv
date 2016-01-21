@@ -89,6 +89,7 @@ rating,military,short_description,full_description
 2B225,0,"Materials processing","Materials processing"
 2B226,0,"Materials processing","Materials processing"
 2B230,0,"Materials processing","Materials processing"
+2B233,0,"Materials processing","Materials processing"
 2B350,0,"Materials processing","Materials processing"
 2B351,0,"Materials processing","Materials processing"
 2B352,0,"Materials processing","Materials processing"
@@ -120,6 +121,7 @@ rating,military,short_description,full_description
 3D002,0,Electronics,Electronics
 3D003,0,Electronics,Electronics
 3D101,0,Electronics,Electronics
+3D225,0,Electronics,Electronics
 3E001,0,Electronics,Electronics
 3E002,0,Electronics,Electronics
 3E003,0,Electronics,Electronics
@@ -250,4 +252,5 @@ PRK,0,,
 RUS,0,,
 UZB,0,,
 ZIM,0,,
+ZWE,0,,
 ml16,0,,
