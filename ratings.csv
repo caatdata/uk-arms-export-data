@@ -142,6 +142,7 @@ rating,military,short_description,full_description
 4E001,0,Computers,Computers
 5A001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5A002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
+5A003,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5B001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5B002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5D001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
@@ -214,6 +215,7 @@ rating,military,short_description,full_description
 9D002,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D003,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D004,0,"Aerospace and propulsion","Aerospace and propulsion"
+9D005,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D103,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E001,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E002,0,"Aerospace and propulsion","Aerospace and propulsion"
