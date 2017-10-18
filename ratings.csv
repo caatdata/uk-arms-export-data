@@ -99,6 +99,7 @@ rating,military,short_description,full_description
 2D001,0,"Materials processing","Materials processing"
 2D002,0,"Materials processing","Materials processing"
 2D003,0,"Materials processing","Materials processing"
+2D101,0,"Materials processing","Materials processing"
 2D202,0,"Materials processing","Materials processing"
 2D351,0,"Materials processing","Materials processing"
 2E001,0,"Materials processing","Materials processing"
@@ -143,6 +144,7 @@ rating,military,short_description,full_description
 5A001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5A002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5A003,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
+5A004,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5B001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5B002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
 5D001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
@@ -217,6 +219,7 @@ rating,military,short_description,full_description
 9D004,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D005,0,"Aerospace and propulsion","Aerospace and propulsion"
 9D103,0,"Aerospace and propulsion","Aerospace and propulsion"
+9D104,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E001,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E002,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E003,0,"Aerospace and propulsion","Aerospace and propulsion"
@@ -251,6 +254,7 @@ ML18,1,"Production equipment","Equipment specially designed for the ‘productio
 ML19,1,"Directed energy weapons","Directed Energy Weapon (DEW) systems inc laser /high power Radio Frequency (RF)systems for destruction or effecting mission-abort of a target"
 ML21,1,Software,Software
 ML22,1,Technology,"Technology required for development, production or use of goods specified in this Schedule, of toxilogical agents, biopolymer cultures or bio catalysts"
+OC001,0,,
 PL5001,1,"Security and para-military police goods","Other security and para-military police goods inc anti-riot and ballistic shields, shackles for restraint, electric shock belts, water cannon, riot control vehicles, electric shock dart guns, electric shock batons, stun guns, hand-held spiked batons"
 PL5006,1,"Military improvised explosive device disposal equipment","Military improvised explosive device disposal equipment"
 PL5017,1,"Equipment and test models","Equipment and test models other than those specified in ML11, ML12.b., ML17.n. or ML19.e. specially designed or modified for the ""development"" or ""use"" of goods that are both specially designed for military use and specified in this Schedule."
