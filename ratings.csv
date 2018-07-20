@@ -190,6 +190,7 @@ rating,military,short_description,full_description
 7E001,0,"Navigation and avionics","Navigation and avionics"
 7E003,0,"Navigation and avionics","Navigation and avionics"
 7E101,0,"Navigation and avionics","Navigation and avionics"
+7E104,0,"Navigation and avionics","Navigation and avionics"
 8A001,0,Marine,Marine
 8A002,0,Marine,Marine
 8C001,0,Marine,Marine
@@ -259,7 +260,7 @@ PL5001,1,"Security and para-military police goods","Other security and para-mili
 PL5006,1,"Military improvised explosive device disposal equipment","Military improvised explosive device disposal equipment"
 PL5017,1,"Equipment and test models","Equipment and test models other than those specified in ML11, ML12.b., ML17.n. or ML19.e. specially designed or modified for the ""development"" or ""use"" of goods that are both specially designed for military use and specified in this Schedule."
 PL5030,1,"Non-military stun grenades","Non-military stun grenades"
-PL5035,1," Ballistic protection components for vehicles","Components that are both specially designed to provide ballistic protection and specially designed or modified for ""vehicles"" specified in ML6.b."
+PL5035,1,"Ballistic protection components for vehicles","Components that are both specially designed to provide ballistic protection and specially designed or modified for ""vehicles"" specified in ML6.b."
 PL8001,0,"Explosive-related goods and technology","Explosive-related goods and technology"
 PL9002,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
 PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
