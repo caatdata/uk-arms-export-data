@@ -6142,8 +6142,8 @@ licence_group,source
 55490,France
 55498,France
 55506,Jordan
-55627,Jordan
-55699,Jordan
+55628,Jordan
+55700,Jordan
 55750,Jordan
 55983,Germany
 55997,Germany
@@ -6919,9 +6919,9 @@ licence_group,source
 57997,Jordan
 58170,"United States of America"
 58333,Jordan
-58399,Belarus
-58563,Singapore
-58627,Canada
+58400,Belarus
+58564,Singapore
+58628,Canada
 58706,"Czech Republic"
 58717,China
 58717,Philippines
@@ -7704,10 +7704,10 @@ licence_group,source
 61857,"South Africa"
 62007,Jordan
 62162,"Czech Republic"
-62357,Israel
-62393,"United States of America"
-62427,"South Africa"
-62640,Pakistan
+62356,Israel
+62392,"United States of America"
+62426,"South Africa"
+62638,Pakistan
 62725,"United States of America"
 62784,"United States of America"
 62798,Jordan
@@ -9673,25 +9673,25 @@ licence_group,source
 71515,Serbia
 71529,"Hong Kong Special Administrative Region"
 71548,"United Arab Emirates"
-71815,"Hong Kong Special Administrative Region"
-71820,France
-71832,China
-71897,Serbia
-71904,Ghana
+71813,"Hong Kong Special Administrative Region"
+71818,France
+71830,China
+71895,Serbia
+71902,Ghana
+71911,Ghana
 71913,Ghana
-71915,Ghana
-71918,Spain
-71919,Ghana
-71927,Japan
-71935,Ghana
-71971,Singapore
-72013,Malaysia
-72067,Jordan
-72092,"Vessel and/or Platform in International Waters"
-72093,"Bosnia and Herzegovina"
-72096,Japan
-72111,"United Arab Emirates"
-72116,Switzerland
+71916,Spain
+71917,Ghana
+71925,Japan
+71933,Ghana
+71969,Singapore
+72011,Malaysia
+72065,Jordan
+72090,"Vessel and/or Platform in International Waters"
+72091,"Bosnia and Herzegovina"
+72095,Japan
+72110,"United Arab Emirates"
+72115,Switzerland
 72127,"United States of America"
 72164,Japan
 72167,Serbia
@@ -11749,7 +11749,7 @@ licence_group,source
 84043,Zimbabwe
 84124,Germany
 84198,Jordan
-84424,"South Africa"
+84412,"South Africa"
 84578,Bulgaria
 84626,Sweden
 84629,India
@@ -11769,37 +11769,37 @@ licence_group,source
 85226,"Vessel and/or Platform in International Waters"
 85593,"Sri Lanka"
 85654,Italy
-85712,Singapore
-85712,"United Arab Emirates"
 85713,Singapore
 85713,"United Arab Emirates"
 85714,Singapore
 85714,"United Arab Emirates"
-85743,Denmark
-85810,Germany
-85816,Singapore
-85887,Jordan
-85898,"Sri Lanka"
-85910,Jordan
-85937,"Sri Lanka"
-85937,"Vessel and/or Platform in International Waters"
-85946,"Sri Lanka"
-85946,"Vessel and/or Platform in International Waters"
-86082,"Vessel and/or Platform in International Waters"
-86083,Belarus
-86093,"South Africa"
-86095,Bulgaria
-86098,"South Africa"
+85715,Singapore
+85715,"United Arab Emirates"
+85745,Denmark
+85812,Germany
+85818,Singapore
+85889,Jordan
+85900,"Sri Lanka"
+85912,Jordan
+85939,"Sri Lanka"
+85939,"Vessel and/or Platform in International Waters"
+85948,"Sri Lanka"
+85948,"Vessel and/or Platform in International Waters"
+86083,"Vessel and/or Platform in International Waters"
+86084,Belarus
+86094,"South Africa"
+86096,Bulgaria
 86099,"South Africa"
-86101,"South Africa"
-86109,"South Africa"
-86111,"Vessel and/or Platform in International Waters"
-86166,Pakistan
-86177,Jordan
-86221,Germany
-86260,Romania
-86277,"Sri Lanka"
-86305,Jordan
+86100,"South Africa"
+86102,"South Africa"
+86110,"South Africa"
+86112,"Vessel and/or Platform in International Waters"
+86167,Pakistan
+86178,Jordan
+86222,Germany
+86261,Romania
+86278,"Sri Lanka"
+86306,Jordan
 86473,Australia
 86536,Belgium
 86592,Jordan
@@ -12047,8 +12047,8 @@ licence_group,source
 93227,Finland
 93245,Jordan
 93260,Japan
-93329,Norway
-93346,France
+93328,Norway
+93345,France
 93468,Japan
 93468,Singapore
 93526,Germany
@@ -14981,278 +14981,337 @@ licence_group,source
 109365,Djibouti
 109446,Belarus
 109466,Italy
-109579,Romania
-109605,"Vessel and/or Platform in International Waters"
-109693,Singapore
-109704,"United States of America"
-109818,France
-109831,Croatia
-109831,"New Zealand"
-109843,Croatia
-109843,"New Zealand"
-109874,Iraq
-109909,Switzerland
-110018,Djibouti
-110059,Spain
-110131,Indonesia
-110131,Japan
-110131,Singapore
-110199,Japan
+109580,Romania
+109606,"Vessel and/or Platform in International Waters"
+109694,Singapore
+109705,"United States of America"
+109819,France
+109832,Croatia
+109832,"New Zealand"
+109844,Croatia
+109844,"New Zealand"
+109875,Iraq
+109910,Switzerland
+110019,Djibouti
+110060,Spain
+110132,Indonesia
+110132,Japan
+110132,Singapore
 110200,Japan
-110205,Turkey
-110205,"United States of America"
-110361,"United States of America"
-110378,"South Africa"
-110399,Djibouti
-110401,Bulgaria
-110420,Turkey
-110421,France
-110544,Poland
-110571,Djibouti
-110593,Belgium
-110623,Djibouti
-110718,Jordan
-110759,Djibouti
-110875,Djibouti
-110908,Romania
-110927,Denmark
-110927,France
-110940,Japan
+110201,Japan
+110206,Turkey
+110206,"United States of America"
+110362,"United States of America"
+110379,"South Africa"
+110400,Djibouti
+110402,Bulgaria
+110421,Turkey
+110422,France
+110545,Poland
+110572,Djibouti
+110594,Belgium
+110624,Djibouti
+110719,Jordan
+110760,Djibouti
+110876,Djibouti
+110909,Romania
+110928,Denmark
+110928,France
 110941,Japan
-110985,"South Africa"
-111006,Belgium
-111075,Slovenia
-111075,Spain
-111244,"Vessel and/or Platform in International Waters"
-111318,"Vessel and/or Platform in International Waters"
-111363,Senegal
-111392,Djibouti
-111476,France
-111486,Jordan
-111515,"Vessel and/or Platform in International Waters"
-111516,Djibouti
-111525,Turkey
-111539,Brazil
-111647,France
-111647,Slovakia
-111760,"South Africa"
-111836,"Vessel and/or Platform in International Waters"
-111900,Jordan
-111929,Turkey
-111931,Japan
-111976,Australia
-111996,Djibouti
-112006,France
-112045,Germany
-112045,Israel
-112045,Morocco
-112045,Switzerland
-112049,Germany
-112049,Israel
-112049,Morocco
-112049,Switzerland
-112053,Malaysia
-112056,Germany
-112056,Israel
-112056,Morocco
-112056,Switzerland
-112064,Germany
-112064,Israel
-112064,Morocco
-112064,Switzerland
-112084,Japan
-112122,Norway
-112176,"Sri Lanka"
-112388,Turkey
-112494,Djibouti
-112496,Djibouti
-112532,Turkey
-112541,Spain
-112634,France
-112721,Germany
-112841,Belgium
-113001,Germany
-113037,China
-113045,Germany
-113157,"United States of America"
-113199,Poland
-113217,Germany
-113270,"South Africa"
-113349,"United States of America"
-113356,Singapore
-113388,Singapore
-113390,Bulgaria
-113401,Belarus
-113413,Germany
-113414,Spain
-113429,Singapore
-113433,Jordan
-113523,"United States of America"
-113634,Bahrain
-113634,France
-113634,Germany
-113634,Italy
-113634,Kuwait
-113634,"Saudi Arabia"
-113634,"United States of America"
-113649,Bahrain
-113649,France
-113649,Germany
-113649,Italy
-113649,Kuwait
-113649,"Saudi Arabia"
-113649,"United States of America"
-113656,Bahrain
-113656,France
-113656,Germany
-113656,Italy
-113656,Kuwait
-113656,"Saudi Arabia"
-113656,"United States of America"
-113674,Djibouti
-113812,Canada
-113813,Croatia
-113854,"Saudi Arabia"
-113855,India
-113996,Germany
-114003,Denmark
-114003,France
-114140,Turkey
-114151,France
-114159,Belgium
-114199,"Czech Republic"
-114199,Italy
-114199,Switzerland
-114205,Belgium
-114205,Brazil
-114205,Italy
-114205,Spain
-114209,Singapore
-114222,Russia
+110942,Japan
+110986,"South Africa"
+111007,Belgium
+111076,Slovenia
+111076,Spain
+111245,"Vessel and/or Platform in International Waters"
+111319,"Vessel and/or Platform in International Waters"
+111364,Senegal
+111393,Djibouti
+111477,France
+111487,Jordan
+111516,"Vessel and/or Platform in International Waters"
+111517,Djibouti
+111526,Turkey
+111540,Brazil
+111648,France
+111648,Slovakia
+111761,"South Africa"
+111837,"Vessel and/or Platform in International Waters"
+111901,Jordan
+111930,Turkey
+111932,Japan
+111977,Australia
+111997,Djibouti
+112007,France
+112046,Germany
+112046,Israel
+112046,Morocco
+112046,Switzerland
+112050,Germany
+112050,Israel
+112050,Morocco
+112050,Switzerland
+112054,Malaysia
+112057,Germany
+112057,Israel
+112057,Morocco
+112057,Switzerland
+112065,Germany
+112065,Israel
+112065,Morocco
+112065,Switzerland
+112085,Japan
+112123,Norway
+112177,"Sri Lanka"
+112389,Turkey
+112495,Djibouti
+112497,Djibouti
+112533,Turkey
+112542,Spain
+112635,France
+112722,Germany
+112842,Belgium
+113002,Germany
+113038,China
+113046,Germany
+113158,"United States of America"
+113200,Poland
+113218,Germany
+113271,"South Africa"
+113350,"United States of America"
+113357,Singapore
+113389,Singapore
+113391,Bulgaria
+113402,Belarus
+113414,Germany
+113415,Spain
+113430,Singapore
+113434,Jordan
+113524,"United States of America"
+113635,Bahrain
+113635,France
+113635,Germany
+113635,Italy
+113635,Kuwait
+113635,"Saudi Arabia"
+113635,"United States of America"
+113650,Bahrain
+113650,France
+113650,Germany
+113650,Italy
+113650,Kuwait
+113650,"Saudi Arabia"
+113650,"United States of America"
+113657,Bahrain
+113657,France
+113657,Germany
+113657,Italy
+113657,Kuwait
+113657,"Saudi Arabia"
+113657,"United States of America"
+113675,Djibouti
+113813,Canada
+113814,Croatia
+113855,"Saudi Arabia"
+113856,India
+113997,Germany
+114004,Denmark
+114004,France
+114141,Turkey
+114152,France
+114160,Belgium
+114200,"Czech Republic"
+114200,Italy
+114200,Switzerland
+114206,Belgium
+114206,Brazil
+114206,Italy
+114206,Spain
+114210,Singapore
 114223,Russia
-114236,Singapore
-114243,Greece
-114246,Japan
-114246,Malaysia
-114246,Singapore
-114279,Belgium
-114285,Romania
-114292,"Vessel and/or Platform in International Waters"
-114296,Serbia
-114306,Italy
-114319,Singapore
-114422,Belgium
-114428,Malaysia
-114442,"Vessel and/or Platform in International Waters"
-114443,Djibouti
-114505,Djibouti
-114638,"Vessel and/or Platform in International Waters"
-114827,Singapore
+114224,Russia
+114237,Singapore
+114244,Greece
+114247,Japan
+114247,Malaysia
+114247,Singapore
+114280,Belgium
+114286,Romania
+114293,"Vessel and/or Platform in International Waters"
+114297,Serbia
+114307,Italy
+114320,Singapore
+114423,Belgium
+114429,Malaysia
+114443,"Vessel and/or Platform in International Waters"
+114444,Djibouti
+114506,Djibouti
+114639,"Vessel and/or Platform in International Waters"
 114828,Singapore
-114976,"Vessel and/or Platform in International Waters"
-114979,Djibouti
-115031,China
-115098,Luxembourg
-115107,"New Zealand"
-115112,"South Africa"
-115153,"Sri Lanka"
-115167,Austria
-115236,Belgium
-115295,Spain
-115320,"United States of America"
-115324,Mauritius
-115341,"Vessel and/or Platform in International Waters"
-115351,Comoros
-115353,"Czech Republic"
-115425,"South Africa"
-115487,Spain
-115498,"South Africa"
-115519,Djibouti
-115530,France
-115530,"United States of America"
-115534,Iraq
-115536,Greece
-115536,"South Korea"
-115536,Spain
-115547,"United States of America"
-115631,Belgium
-115631,Italy
-115645,"Sri Lanka"
-115674,Spain
-115678,Switzerland
-115684,Belgium
-115687,Singapore
-115715,France
-115724,"Saudi Arabia"
-115834,Kuwait
-115834,"Saudi Arabia"
-115841,Kuwait
-115841,"Saudi Arabia"
-115849,Belgium
-115849,Bulgaria
-115849,"Channel Islands"
-115849,Croatia
-115849,"Czech Republic"
-115849,Denmark
-115849,Estonia
-115849,France
-115849,Germany
-115849,Gibraltar
-115849,Greece
-115849,Greenland
-115849,Hungary
-115849,Ireland
-115849,"Isle Of Man"
-115849,Israel
-115849,Italy
-115849,Liechtenstein
-115849,Lithuania
-115849,Luxembourg
-115849,Monaco
-115849,Montenegro
-115849,Netherlands
-115849,Norway
-115849,Poland
-115849,Portugal
-115849,Romania
-115849,"Saudi Arabia"
-115849,Serbia
-115849,Singapore
-115849,Slovakia
-115849,Slovenia
-115849,Spain
-115849,Sweden
-115849,Switzerland
-115849,Turkey
-115849,"United Arab Emirates"
-115849,"Vatican City"
-115869,"United States of America"
+114829,Singapore
+114977,"Vessel and/or Platform in International Waters"
+114980,Djibouti
+115032,China
+115099,Luxembourg
+115108,"New Zealand"
+115113,"South Africa"
+115154,"Sri Lanka"
+115168,Austria
+115237,Belgium
+115296,Spain
+115321,"United States of America"
+115325,Mauritius
+115342,"Vessel and/or Platform in International Waters"
+115352,Comoros
+115354,"Czech Republic"
+115426,"South Africa"
+115488,Spain
+115499,"South Africa"
+115520,Djibouti
+115531,France
+115531,"United States of America"
+115535,Iraq
+115537,Greece
+115537,"South Korea"
+115537,Spain
+115548,"United States of America"
+115632,Belgium
+115632,Italy
+115646,"Sri Lanka"
+115675,Spain
+115679,Switzerland
+115685,Belgium
+115688,Singapore
+115716,France
+115725,"Saudi Arabia"
+115835,Kuwait
+115835,"Saudi Arabia"
+115842,Kuwait
+115842,"Saudi Arabia"
+115850,Belgium
+115850,Bulgaria
+115850,"Channel Islands"
+115850,Croatia
+115850,"Czech Republic"
+115850,Denmark
+115850,Estonia
+115850,France
+115850,Germany
+115850,Gibraltar
+115850,Greece
+115850,Greenland
+115850,Hungary
+115850,Ireland
+115850,"Isle Of Man"
+115850,Israel
+115850,Italy
+115850,Liechtenstein
+115850,Lithuania
+115850,Luxembourg
+115850,Monaco
+115850,Montenegro
+115850,Netherlands
+115850,Norway
+115850,Poland
+115850,Portugal
+115850,Romania
+115850,"Saudi Arabia"
+115850,Serbia
+115850,Singapore
+115850,Slovakia
+115850,Slovenia
+115850,Spain
+115850,Sweden
+115850,Switzerland
+115850,Turkey
+115850,"United Arab Emirates"
+115850,"Vatican City"
 115870,"United States of America"
-115914,Japan
-115927,Djibouti
-116044,Djibouti
-116085,"Czech Republic"
-116085,Germany
+115871,"United States of America"
+115915,Japan
+115928,Djibouti
+116045,Djibouti
 116086,"Czech Republic"
 116086,Germany
-116105,Poland
-116129,Djibouti
-116133,Bahrain
-116133,"Saudi Arabia"
-116141,Canada
-116142,Australia
-116142,"United States of America"
-116150,Oman
-116150,"Saudi Arabia"
-116161,Bahrain
-116161,"Saudi Arabia"
-116186,"United States of America"
-116198,Australia
-116256,Djibouti
-116281,Croatia
-116320,Djibouti
-116323,Turkey
-116334,France
-116347,Belgium
-116423,"Vessel and/or Platform in International Waters"
-116425,Djibouti
+116087,"Czech Republic"
+116087,Germany
+116106,Poland
+116130,Djibouti
+116134,Bahrain
+116134,"Saudi Arabia"
+116142,Canada
+116143,Australia
+116143,"United States of America"
+116151,Oman
+116151,"Saudi Arabia"
+116162,Bahrain
+116162,"Saudi Arabia"
+116187,"United States of America"
+116199,Australia
+116257,Djibouti
+116282,Croatia
+116321,Djibouti
+116324,Turkey
+116335,France
+116348,Belgium
+116424,"Vessel and/or Platform in International Waters"
+116426,Djibouti
+116458,Belgium
+116486,Italy
+116493,Australia
+116498,Belgium
+116499,Belgium
+116512,Djibouti
+116791,"Czech Republic"
+116791,"United States of America"
+116792,"Czech Republic"
+116792,"United States of America"
+116924,Bulgaria
+117090,Germany
+117105,"South Korea"
+117138,Serbia
+117138,Turkey
+117139,Serbia
+117139,Turkey
+117168,Belgium
+117168,Greece
+117172,Turkey
+117173,Turkey
+117184,Turkey
+117249,Finland
+117299,Finland
+117343,France
+117359,Germany
+117479,"United States of America"
+117487,Germany
+117601,Spain
+117652,Japan
+117676,Belgium
+117701,Japan
+117724,Spain
+117742,"United States of America"
+117766,Slovenia
+117785,"South Africa"
+117912,"United States of America"
+117926,Spain
+117967,France
+117982,Ireland
+118044,Singapore
+118104,Bangladesh
+118112,Portugal
+118134,"United States of America"
+118139,France
+118214,France
+118232,Taiwan
+118347,Italy
+118383,Italy
+118610,China
+118656,Canada
+118717,China
+118724,"United States of America"
+118743,Australia
+118753,Turkey
+118956,Israel
+119019,Taiwan
+119042,"South Africa"
+119153,Sweden

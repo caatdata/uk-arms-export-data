@@ -85,6 +85,7 @@ rating,military,short_description,full_description
 2B109,0,"Materials processing","Materials processing"
 2B116,0,"Materials processing","Materials processing"
 2B119,0,"Materials processing","Materials processing"
+2B121,0,"Materials processing","Materials processing"
 2B122,0,"Materials processing","Materials processing"
 2B201,0,"Materials processing","Materials processing"
 2B204,0,"Materials processing","Materials processing"
@@ -229,6 +230,7 @@ rating,military,short_description,full_description
 9E102,0,"Aerospace and propulsion","Aerospace and propulsion"
 "Art 4B",0,"Libyan bank notes and coins","Libyan bank notes and coins"
 "End Use",0,"May be intended for WMD purposes","May be intended for WMD purposes"
+"FR AI",0,,
 "HR AII",0,,
 "HR AIII",0,"restraint equipment, tear gas for self protection","restraint equipment, tear gas for self protection"
 IRN,0,,
@@ -268,6 +270,7 @@ PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemical
 PL9008,0,"Vessels and related software and technology","Vessels and related software and technology"
 PL9009,0,"Aircraft and related technology","Aircraft and related technology"
 PL9010,0,,
+PL9011,0,,
 PRK,0,,
 RUS,0,,
 UKR,0,,
