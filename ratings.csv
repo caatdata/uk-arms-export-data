@@ -72,6 +72,7 @@ rating,military,short_description,full_description
 1E001,0,"Special materials and related equipment","Special materials and related equipment"
 1E002,0,"Special materials and related equipment","Special materials and related equipment"
 1E101,0,"Special materials and related equipment","Special materials and related equipment"
+1E102,0,"Special materials and related equipment","Special materials and related equipment"
 1E103,0,"Special materials and related equipment","Special materials and related equipment"
 1E201,0,"Special materials and related equipment","Special materials and related equipment"
 1E202,0,"Special materials and related equipment","Special materials and related equipment"
@@ -80,6 +81,7 @@ rating,military,short_description,full_description
 2A226,0,"Materials processing","Materials processing"
 2B001,0,"Materials processing","Materials processing"
 2B002,0,"Materials processing","Materials processing"
+2B003,0,"Materials processing","Materials processing"
 2B006,0,"Materials processing","Materials processing"
 2B008,0,"Materials processing","Materials processing"
 2B109,0,"Materials processing","Materials processing"
@@ -93,6 +95,7 @@ rating,military,short_description,full_description
 2B225,0,"Materials processing","Materials processing"
 2B226,0,"Materials processing","Materials processing"
 2B230,0,"Materials processing","Materials processing"
+2B231,0,"Materials processing","Materials processing"
 2B233,0,"Materials processing","Materials processing"
 2B350,0,"Materials processing","Materials processing"
 2B351,0,"Materials processing","Materials processing"
@@ -273,6 +276,7 @@ PL9010,0,,
 PL9011,0,,
 PRK,0,,
 RUS,0,,
+SYR,0,,
 UKR,0,,
 UZB,0,,
 ZIM,0,,
