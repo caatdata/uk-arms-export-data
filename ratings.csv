@@ -194,6 +194,7 @@ rating,military,short_description,full_description
 7D101,0,"Navigation and avionics","Navigation and avionics"
 7E001,0,"Navigation and avionics","Navigation and avionics"
 7E003,0,"Navigation and avionics","Navigation and avionics"
+7E004,0,"Navigation and avionics","Navigation and avionics"
 7E101,0,"Navigation and avionics","Navigation and avionics"
 7E104,0,"Navigation and avionics","Navigation and avionics"
 8A001,0,Marine,Marine
@@ -208,6 +209,7 @@ rating,military,short_description,full_description
 9A004,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A005,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A006,0,"Aerospace and propulsion","Aerospace and propulsion"
+9A010,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A012,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A101,0,"Aerospace and propulsion","Aerospace and propulsion"
 9A105,0,"Aerospace and propulsion","Aerospace and propulsion"
@@ -234,7 +236,6 @@ rating,military,short_description,full_description
 "Art 4B",0,"Libyan bank notes and coins","Libyan bank notes and coins"
 "End Use",0,"May be intended for WMD purposes","May be intended for WMD purposes"
 "FR AI",0,,
-"HR AII",0,,
 "HR AIII",0,"restraint equipment, tear gas for self protection","restraint equipment, tear gas for self protection"
 IRN,0,,
 "IRN OG",0,"Iran oil and gas industry equipment/materials","Iran oil and gas industry equipment/materials"
@@ -281,4 +282,3 @@ UKR,0,,
 UZB,0,,
 ZIM,0,,
 ZWE,0,,
-ml16,0,,
