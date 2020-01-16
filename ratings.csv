@@ -117,6 +117,7 @@ rating,military,short_description,full_description
 3A101,0,Electronics,Electronics
 3A201,0,Electronics,Electronics
 3A225,0,Electronics,Electronics
+3A227,0,Electronics,Electronics
 3A228,0,Electronics,Electronics
 3A229,0,Electronics,Electronics
 3A230,0,Electronics,Electronics
@@ -275,6 +276,7 @@ PL9008,0,"Vessels and related software and technology","Vessels and related soft
 PL9009,0,"Aircraft and related technology","Aircraft and related technology"
 PL9010,0,,
 PL9011,0,,
+PL9012,0,,
 PRK,0,,
 RUS,0,,
 SYR,0,,
