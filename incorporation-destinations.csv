@@ -64315,463 +64315,556 @@ licence_id,destination,iso2
 124509,"South Korea",KR
 124509,Tunisia,TN
 124509,"United Kingdom",GB
-124631,Turkey,TR
-124708,Australia,AU
-124708,Bahrain,BH
-124708,Bangladesh,BD
-124708,Canada,CA
-124708,Denmark,DK
-124708,France,FR
-124708,Germany,DE
-124708,India,IN
-124708,Iraq,IQ
-124708,Israel,IL
-124708,Italy,IT
-124708,Kuwait,KW
-124708,Luxembourg,LU
-124708,Norway,NO
-124708,Oman,OM
-124708,Qatar,QA
-124708,"Saudi Arabia",SA
-124708,"South Korea",KR
-124708,Tunisia,TN
-124708,"United Kingdom",GB
-124763,Turkey,TR
-124813,Turkey,TR
-124854,"United States of America",US
-124862,Turkey,TR
-124896,Australia,AU
-124896,Bahrain,BH
-124896,Bangladesh,BD
-124896,Canada,CA
-124896,Denmark,DK
-124896,France,FR
-124896,Germany,DE
-124896,India,IN
-124896,Iraq,IQ
-124896,Israel,IL
-124896,Italy,IT
-124896,Kuwait,KW
-124896,Luxembourg,LU
-124896,Norway,NO
-124896,Oman,OM
-124896,Qatar,QA
-124896,"Saudi Arabia",SA
-124896,"South Korea",KR
-124896,Tunisia,TN
-124896,"United Kingdom",GB
-124929,"United States of America",US
-124997,Turkey,TR
-125059,Australia,AU
-125059,Bahrain,BH
-125059,Bangladesh,BD
-125059,Canada,CA
-125059,Denmark,DK
-125059,France,FR
-125059,Germany,DE
-125059,India,IN
-125059,Iraq,IQ
-125059,Israel,IL
-125059,Italy,IT
-125059,Kuwait,KW
-125059,Luxembourg,LU
-125059,Norway,NO
-125059,Oman,OM
-125059,Qatar,QA
-125059,"Saudi Arabia",SA
-125059,"South Korea",KR
-125059,Tunisia,TN
-125059,"United Kingdom",GB
-125084,Turkey,TR
-125113,Australia,AU
-125113,Bahrain,BH
-125113,Bangladesh,BD
-125113,Canada,CA
-125113,Denmark,DK
-125113,France,FR
-125113,Germany,DE
-125113,India,IN
-125113,Iraq,IQ
-125113,Israel,IL
-125113,Italy,IT
-125113,Kuwait,KW
-125113,Luxembourg,LU
-125113,Norway,NO
-125113,Oman,OM
-125113,Qatar,QA
-125113,"Saudi Arabia",SA
-125113,"South Korea",KR
-125113,Tunisia,TN
-125113,"United Kingdom",GB
-125120,"United States of America",US
-125123,Turkey,TR
-125160,"United States of America",US
-125243,Turkey,TR
-125296,Australia,AU
-125296,Bahrain,BH
-125296,Bangladesh,BD
-125296,Canada,CA
-125296,Denmark,DK
-125296,France,FR
-125296,Germany,DE
-125296,India,IN
-125296,Iraq,IQ
-125296,Israel,IL
-125296,Italy,IT
-125296,Kuwait,KW
-125296,Luxembourg,LU
-125296,Norway,NO
-125296,Oman,OM
-125296,Qatar,QA
-125296,"Saudi Arabia",SA
-125296,"South Korea",KR
-125296,Tunisia,TN
-125296,"United Kingdom",GB
-125309,Turkey,TR
-125329,Australia,AU
-125329,Bahrain,BH
-125329,Bangladesh,BD
-125329,Canada,CA
-125329,Denmark,DK
-125329,France,FR
-125329,Germany,DE
-125329,India,IN
-125329,Iraq,IQ
-125329,Israel,IL
-125329,Italy,IT
-125329,Kuwait,KW
-125329,Luxembourg,LU
-125329,Norway,NO
-125329,Oman,OM
-125329,Qatar,QA
-125329,"Saudi Arabia",SA
-125329,"South Korea",KR
-125329,Tunisia,TN
-125329,"United Kingdom",GB
-125364,Turkey,TR
-125399,"United States of America",US
-125409,Turkey,TR
-125452,Australia,AU
-125452,Bahrain,BH
-125452,Bangladesh,BD
-125452,Canada,CA
-125452,Denmark,DK
-125452,France,FR
-125452,Germany,DE
-125452,India,IN
-125452,Iraq,IQ
-125452,Israel,IL
-125452,Italy,IT
-125452,Kuwait,KW
-125452,Luxembourg,LU
-125452,Norway,NO
-125452,Oman,OM
-125452,Qatar,QA
-125452,"Saudi Arabia",SA
-125452,"South Korea",KR
-125452,Tunisia,TN
-125452,"United Kingdom",GB
-125468,Turkey,TR
-125492,Australia,AU
-125492,Bahrain,BH
-125492,Bangladesh,BD
-125492,Canada,CA
-125492,Denmark,DK
-125492,France,FR
-125492,Germany,DE
-125492,India,IN
-125492,Iraq,IQ
-125492,Israel,IL
-125492,Italy,IT
-125492,Kuwait,KW
-125492,Luxembourg,LU
-125492,Norway,NO
-125492,Oman,OM
-125492,Qatar,QA
-125492,"Saudi Arabia",SA
-125492,"South Korea",KR
-125492,Tunisia,TN
-125492,"United Kingdom",GB
-125510,Turkey,TR
-125639,"United States of America",US
-125760,"United States of America",US
-125799,"United States of America",US
-125806,Turkey,TR
-125860,Turkey,TR
-126012,Turkey,TR
-126035,Australia,AU
-126035,Brazil,BR
-126035,Canada,CA
-126035,China,CN
-126035,"Czech Republic",CZ
-126035,India,IN
-126035,Mexico,MX
-126035,Netherlands,NL
-126035,Norway,NO
-126035,Poland,PL
-126035,"South Africa",ZA
-126035,Turkey,TR
-126035,"United Kingdom",GB
-126035,"United States of America",US
-126070,Turkey,TR
-126687,Australia,AU
-126687,Brazil,BR
-126687,Canada,CA
-126687,China,CN
-126687,"Czech Republic",CZ
-126687,India,IN
-126687,Mexico,MX
-126687,Netherlands,NL
-126687,Norway,NO
-126687,Poland,PL
-126687,"South Africa",ZA
-126687,Turkey,TR
-126687,"United Kingdom",GB
-126687,"United States of America",US
-126714,Canada,CA
-126774,Canada,CA
-126834,Canada,CA
-126909,Canada,CA
-127008,Canada,CA
-127054,Canada,CA
-127119,Canada,CA
-127146,Poland,PL
-127178,Canada,CA
-127340,Canada,CA
-127408,Canada,CA
-127558,Canada,CA
-127606,Canada,CA
-128009,Canada,CA
-128045,Canada,CA
-128383,France,FR
-128412,France,FR
-128518,Canada,CA
-128571,Germany,DE
-128722,France,FR
-128805,"United States of America",US
-128838,France,FR
-128852,"United States of America",US
-128870,Brazil,BR
-128870,Portugal,PT
-128879,France,FR
-128963,Canada,CA
-128976,Germany,DE
-129043,Germany,DE
-129102,France,FR
-129223,"United States of America",US
-129256,"United States of America",US
-129265,Germany,DE
-129280,Australia,AU
-129280,Brazil,BR
-129280,Canada,CA
-129280,China,CN
-129280,"Czech Republic",CZ
-129280,India,IN
-129280,Mexico,MX
-129280,Netherlands,NL
-129280,Norway,NO
-129280,Poland,PL
-129280,"South Africa",ZA
-129280,Turkey,TR
-129280,"United Kingdom",GB
-129280,"United States of America",US
-129292,France,FR
-129333,"United Kingdom",GB
-129341,Australia,AU
-129341,Brazil,BR
-129341,Canada,CA
-129341,China,CN
-129341,"Czech Republic",CZ
-129341,India,IN
-129341,Mexico,MX
-129341,Netherlands,NL
-129341,Norway,NO
-129341,Poland,PL
-129341,"South Africa",ZA
-129341,Turkey,TR
-129341,"United Kingdom",GB
-129341,"United States of America",US
-129362,Germany,DE
-129369,Australia,AU
-129369,Brazil,BR
-129369,Canada,CA
-129369,China,CN
-129369,"Czech Republic",CZ
-129369,India,IN
-129369,Mexico,MX
-129369,Netherlands,NL
-129369,Norway,NO
-129369,Poland,PL
-129369,"South Africa",ZA
-129369,Turkey,TR
-129369,"United Kingdom",GB
-129369,"United States of America",US
-129467,"United States of America",US
-129514,"United States of America",US
-129531,Germany,DE
-129619,Australia,AU
-129619,Brazil,BR
-129619,Canada,CA
-129619,China,CN
-129619,"Czech Republic",CZ
-129619,India,IN
-129619,Mexico,MX
-129619,Netherlands,NL
-129619,Norway,NO
-129619,Poland,PL
-129619,"South Africa",ZA
-129619,Turkey,TR
-129619,"United Kingdom",GB
-129619,"United States of America",US
-129686,Australia,AU
-129686,Brazil,BR
-129686,Canada,CA
-129686,China,CN
-129686,"Czech Republic",CZ
-129686,India,IN
-129686,Mexico,MX
-129686,Netherlands,NL
-129686,Norway,NO
-129686,Poland,PL
-129686,"South Africa",ZA
-129686,Turkey,TR
-129686,"United Kingdom",GB
-129686,"United States of America",US
-129722,Australia,AU
-129722,Brazil,BR
-129722,Canada,CA
-129722,China,CN
-129722,"Czech Republic",CZ
-129722,India,IN
-129722,Mexico,MX
-129722,Netherlands,NL
-129722,Norway,NO
-129722,Poland,PL
-129722,"South Africa",ZA
-129722,Turkey,TR
-129722,"United Kingdom",GB
-129722,"United States of America",US
-129742,"United States of America",US
-129802,Australia,AU
-129802,Brazil,BR
-129802,Canada,CA
-129802,China,CN
-129802,"Czech Republic",CZ
-129802,India,IN
-129802,Mexico,MX
-129802,Netherlands,NL
-129802,Norway,NO
-129802,Poland,PL
-129802,"South Africa",ZA
-129802,Turkey,TR
-129802,"United Kingdom",GB
-129802,"United States of America",US
-129978,"United States of America",US
-130011,Australia,AU
-130011,Brazil,BR
-130011,Canada,CA
-130011,China,CN
-130011,"Czech Republic",CZ
-130011,India,IN
-130011,Mexico,MX
-130011,Netherlands,NL
-130011,Norway,NO
-130011,Poland,PL
-130011,"South Africa",ZA
-130011,Turkey,TR
-130011,"United Kingdom",GB
-130011,"United States of America",US
-130169,Canada,CA
-130252,"United States of America",US
-130266,Switzerland,CH
-130314,"United States of America",US
-130347,"United States of America",US
-130359,Canada,CA
-130487,"United States of America",US
-130653,"United States of America",US
-130699,"United States of America",US
-130722,"United Kingdom",GB
-130913,"United States of America",US
-130921,"United Kingdom",GB
-131188,"United States of America",US
-131266,"United Kingdom",GB
-131430,"United States of America",US
-131530,"United States of America",US
-131574,Australia,AU
-131574,Canada,CA
-131574,Denmark,DK
-131574,Israel,IL
-131574,Japan,JP
-131574,Netherlands,NL
-131574,"United Kingdom",GB
-131574,"United States of America",US
-131608,Australia,AU
-131608,Canada,CA
-131608,Denmark,DK
-131608,Israel,IL
-131608,Japan,JP
-131608,Netherlands,NL
-131608,"United Kingdom",GB
-131608,"United States of America",US
-131644,Australia,AU
-131644,Canada,CA
-131644,Denmark,DK
-131644,Israel,IL
-131644,Japan,JP
-131644,Netherlands,NL
-131644,"United Kingdom",GB
-131644,"United States of America",US
-131681,Australia,AU
-131681,Canada,CA
-131681,Denmark,DK
-131681,Israel,IL
-131681,Japan,JP
-131681,Netherlands,NL
-131681,"United Kingdom",GB
-131681,"United States of America",US
-131723,"United States of America",US
-131825,"United States of America",US
-131971,Australia,AU
-131971,Canada,CA
-131971,Denmark,DK
-131971,Israel,IL
-131971,Japan,JP
-131971,Netherlands,NL
-131971,"United Kingdom",GB
-131971,"United States of America",US
-132012,"United States of America",US
-132113,Australia,AU
-132113,Canada,CA
-132113,Denmark,DK
-132113,Israel,IL
-132113,Japan,JP
-132113,Netherlands,NL
-132113,"United Kingdom",GB
-132113,"United States of America",US
-132192,"United Kingdom",GB
-132199,Australia,AU
-132199,Canada,CA
-132199,Denmark,DK
-132199,Israel,IL
-132199,Japan,JP
-132199,Netherlands,NL
-132199,"United Kingdom",GB
-132199,"United States of America",US
-132283,"United Kingdom",GB
-132287,Australia,AU
-132287,Canada,CA
-132287,Denmark,DK
-132287,Israel,IL
-132287,Japan,JP
-132287,Netherlands,NL
-132287,"United Kingdom",GB
-132287,"United States of America",US
-132355,Australia,AU
-132355,Canada,CA
-132355,Denmark,DK
-132355,Israel,IL
-132355,Japan,JP
-132355,Netherlands,NL
-132355,"United Kingdom",GB
-132355,"United States of America",US
-132374,Bermuda,BM
+124632,Turkey,TR
+124711,Australia,AU
+124711,Bahrain,BH
+124711,Bangladesh,BD
+124711,Canada,CA
+124711,Denmark,DK
+124711,France,FR
+124711,Germany,DE
+124711,India,IN
+124711,Iraq,IQ
+124711,Israel,IL
+124711,Italy,IT
+124711,Kuwait,KW
+124711,Luxembourg,LU
+124711,Norway,NO
+124711,Oman,OM
+124711,Qatar,QA
+124711,"Saudi Arabia",SA
+124711,"South Korea",KR
+124711,Tunisia,TN
+124711,"United Kingdom",GB
+124766,Turkey,TR
+124816,Turkey,TR
+124857,"United States of America",US
+124865,Turkey,TR
+124899,Australia,AU
+124899,Bahrain,BH
+124899,Bangladesh,BD
+124899,Canada,CA
+124899,Denmark,DK
+124899,France,FR
+124899,Germany,DE
+124899,India,IN
+124899,Iraq,IQ
+124899,Israel,IL
+124899,Italy,IT
+124899,Kuwait,KW
+124899,Luxembourg,LU
+124899,Norway,NO
+124899,Oman,OM
+124899,Qatar,QA
+124899,"Saudi Arabia",SA
+124899,"South Korea",KR
+124899,Tunisia,TN
+124899,"United Kingdom",GB
+124932,"United States of America",US
+125000,Turkey,TR
+125062,Australia,AU
+125062,Bahrain,BH
+125062,Bangladesh,BD
+125062,Canada,CA
+125062,Denmark,DK
+125062,France,FR
+125062,Germany,DE
+125062,India,IN
+125062,Iraq,IQ
+125062,Israel,IL
+125062,Italy,IT
+125062,Kuwait,KW
+125062,Luxembourg,LU
+125062,Norway,NO
+125062,Oman,OM
+125062,Qatar,QA
+125062,"Saudi Arabia",SA
+125062,"South Korea",KR
+125062,Tunisia,TN
+125062,"United Kingdom",GB
+125087,Turkey,TR
+125116,Australia,AU
+125116,Bahrain,BH
+125116,Bangladesh,BD
+125116,Canada,CA
+125116,Denmark,DK
+125116,France,FR
+125116,Germany,DE
+125116,India,IN
+125116,Iraq,IQ
+125116,Israel,IL
+125116,Italy,IT
+125116,Kuwait,KW
+125116,Luxembourg,LU
+125116,Norway,NO
+125116,Oman,OM
+125116,Qatar,QA
+125116,"Saudi Arabia",SA
+125116,"South Korea",KR
+125116,Tunisia,TN
+125116,"United Kingdom",GB
+125123,"United States of America",US
+125126,Turkey,TR
+125163,"United States of America",US
+125246,Turkey,TR
+125299,Australia,AU
+125299,Bahrain,BH
+125299,Bangladesh,BD
+125299,Canada,CA
+125299,Denmark,DK
+125299,France,FR
+125299,Germany,DE
+125299,India,IN
+125299,Iraq,IQ
+125299,Israel,IL
+125299,Italy,IT
+125299,Kuwait,KW
+125299,Luxembourg,LU
+125299,Norway,NO
+125299,Oman,OM
+125299,Qatar,QA
+125299,"Saudi Arabia",SA
+125299,"South Korea",KR
+125299,Tunisia,TN
+125299,"United Kingdom",GB
+125312,Turkey,TR
+125332,Australia,AU
+125332,Bahrain,BH
+125332,Bangladesh,BD
+125332,Canada,CA
+125332,Denmark,DK
+125332,France,FR
+125332,Germany,DE
+125332,India,IN
+125332,Iraq,IQ
+125332,Israel,IL
+125332,Italy,IT
+125332,Kuwait,KW
+125332,Luxembourg,LU
+125332,Norway,NO
+125332,Oman,OM
+125332,Qatar,QA
+125332,"Saudi Arabia",SA
+125332,"South Korea",KR
+125332,Tunisia,TN
+125332,"United Kingdom",GB
+125367,Turkey,TR
+125402,"United States of America",US
+125412,Turkey,TR
+125455,Australia,AU
+125455,Bahrain,BH
+125455,Bangladesh,BD
+125455,Canada,CA
+125455,Denmark,DK
+125455,France,FR
+125455,Germany,DE
+125455,India,IN
+125455,Iraq,IQ
+125455,Israel,IL
+125455,Italy,IT
+125455,Kuwait,KW
+125455,Luxembourg,LU
+125455,Norway,NO
+125455,Oman,OM
+125455,Qatar,QA
+125455,"Saudi Arabia",SA
+125455,"South Korea",KR
+125455,Tunisia,TN
+125455,"United Kingdom",GB
+125471,Turkey,TR
+125495,Australia,AU
+125495,Bahrain,BH
+125495,Bangladesh,BD
+125495,Canada,CA
+125495,Denmark,DK
+125495,France,FR
+125495,Germany,DE
+125495,India,IN
+125495,Iraq,IQ
+125495,Israel,IL
+125495,Italy,IT
+125495,Kuwait,KW
+125495,Luxembourg,LU
+125495,Norway,NO
+125495,Oman,OM
+125495,Qatar,QA
+125495,"Saudi Arabia",SA
+125495,"South Korea",KR
+125495,Tunisia,TN
+125495,"United Kingdom",GB
+125513,Turkey,TR
+125642,"United States of America",US
+125763,"United States of America",US
+125802,"United States of America",US
+125809,Turkey,TR
+125863,Turkey,TR
+126015,Turkey,TR
+126038,Australia,AU
+126038,Brazil,BR
+126038,Canada,CA
+126038,China,CN
+126038,"Czech Republic",CZ
+126038,India,IN
+126038,Mexico,MX
+126038,Netherlands,NL
+126038,Norway,NO
+126038,Poland,PL
+126038,"South Africa",ZA
+126038,Turkey,TR
+126038,"United Kingdom",GB
+126038,"United States of America",US
+126073,Turkey,TR
+126690,Australia,AU
+126690,Brazil,BR
+126690,Canada,CA
+126690,China,CN
+126690,"Czech Republic",CZ
+126690,India,IN
+126690,Mexico,MX
+126690,Netherlands,NL
+126690,Norway,NO
+126690,Poland,PL
+126690,"South Africa",ZA
+126690,Turkey,TR
+126690,"United Kingdom",GB
+126690,"United States of America",US
+126717,Canada,CA
+126777,Canada,CA
+126837,Canada,CA
+126912,Canada,CA
+127011,Canada,CA
+127057,Canada,CA
+127122,Canada,CA
+127149,Poland,PL
+127181,Canada,CA
+127343,Canada,CA
+127411,Canada,CA
+127561,Canada,CA
+127609,Canada,CA
+128012,Canada,CA
+128048,Canada,CA
+128386,France,FR
+128415,France,FR
+128521,Canada,CA
+128574,Germany,DE
+128725,France,FR
+128808,"United States of America",US
+128841,France,FR
+128855,"United States of America",US
+128873,Brazil,BR
+128873,Portugal,PT
+128882,France,FR
+128966,Canada,CA
+128979,Germany,DE
+129046,Germany,DE
+129105,France,FR
+129226,"United States of America",US
+129259,"United States of America",US
+129268,Germany,DE
+129283,Australia,AU
+129283,Brazil,BR
+129283,Canada,CA
+129283,China,CN
+129283,"Czech Republic",CZ
+129283,India,IN
+129283,Mexico,MX
+129283,Netherlands,NL
+129283,Norway,NO
+129283,Poland,PL
+129283,"South Africa",ZA
+129283,Turkey,TR
+129283,"United Kingdom",GB
+129283,"United States of America",US
+129295,France,FR
+129336,"United Kingdom",GB
+129344,Australia,AU
+129344,Brazil,BR
+129344,Canada,CA
+129344,China,CN
+129344,"Czech Republic",CZ
+129344,India,IN
+129344,Mexico,MX
+129344,Netherlands,NL
+129344,Norway,NO
+129344,Poland,PL
+129344,"South Africa",ZA
+129344,Turkey,TR
+129344,"United Kingdom",GB
+129344,"United States of America",US
+129365,Germany,DE
+129372,Australia,AU
+129372,Brazil,BR
+129372,Canada,CA
+129372,China,CN
+129372,"Czech Republic",CZ
+129372,India,IN
+129372,Mexico,MX
+129372,Netherlands,NL
+129372,Norway,NO
+129372,Poland,PL
+129372,"South Africa",ZA
+129372,Turkey,TR
+129372,"United Kingdom",GB
+129372,"United States of America",US
+129470,"United States of America",US
+129517,"United States of America",US
+129534,Germany,DE
+129622,Australia,AU
+129622,Brazil,BR
+129622,Canada,CA
+129622,China,CN
+129622,"Czech Republic",CZ
+129622,India,IN
+129622,Mexico,MX
+129622,Netherlands,NL
+129622,Norway,NO
+129622,Poland,PL
+129622,"South Africa",ZA
+129622,Turkey,TR
+129622,"United Kingdom",GB
+129622,"United States of America",US
+129689,Australia,AU
+129689,Brazil,BR
+129689,Canada,CA
+129689,China,CN
+129689,"Czech Republic",CZ
+129689,India,IN
+129689,Mexico,MX
+129689,Netherlands,NL
+129689,Norway,NO
+129689,Poland,PL
+129689,"South Africa",ZA
+129689,Turkey,TR
+129689,"United Kingdom",GB
+129689,"United States of America",US
+129725,Australia,AU
+129725,Brazil,BR
+129725,Canada,CA
+129725,China,CN
+129725,"Czech Republic",CZ
+129725,India,IN
+129725,Mexico,MX
+129725,Netherlands,NL
+129725,Norway,NO
+129725,Poland,PL
+129725,"South Africa",ZA
+129725,Turkey,TR
+129725,"United Kingdom",GB
+129725,"United States of America",US
+129745,"United States of America",US
+129805,Australia,AU
+129805,Brazil,BR
+129805,Canada,CA
+129805,China,CN
+129805,"Czech Republic",CZ
+129805,India,IN
+129805,Mexico,MX
+129805,Netherlands,NL
+129805,Norway,NO
+129805,Poland,PL
+129805,"South Africa",ZA
+129805,Turkey,TR
+129805,"United Kingdom",GB
+129805,"United States of America",US
+129981,"United States of America",US
+130014,Australia,AU
+130014,Brazil,BR
+130014,Canada,CA
+130014,China,CN
+130014,"Czech Republic",CZ
+130014,India,IN
+130014,Mexico,MX
+130014,Netherlands,NL
+130014,Norway,NO
+130014,Poland,PL
+130014,"South Africa",ZA
+130014,Turkey,TR
+130014,"United Kingdom",GB
+130014,"United States of America",US
+130172,Canada,CA
+130255,"United States of America",US
+130269,Switzerland,CH
+130317,"United States of America",US
+130350,"United States of America",US
+130362,Canada,CA
+130490,"United States of America",US
+130656,"United States of America",US
+130702,"United States of America",US
+130725,"United Kingdom",GB
+130916,"United States of America",US
+130924,"United Kingdom",GB
+131191,"United States of America",US
+131269,"United Kingdom",GB
+131433,"United States of America",US
+131533,"United States of America",US
+131577,Australia,AU
+131577,Canada,CA
+131577,Denmark,DK
+131577,Israel,IL
+131577,Japan,JP
+131577,Netherlands,NL
+131577,"United Kingdom",GB
+131577,"United States of America",US
+131611,Australia,AU
+131611,Canada,CA
+131611,Denmark,DK
+131611,Israel,IL
+131611,Japan,JP
+131611,Netherlands,NL
+131611,"United Kingdom",GB
+131611,"United States of America",US
+131647,Australia,AU
+131647,Canada,CA
+131647,Denmark,DK
+131647,Israel,IL
+131647,Japan,JP
+131647,Netherlands,NL
+131647,"United Kingdom",GB
+131647,"United States of America",US
+131684,Australia,AU
+131684,Canada,CA
+131684,Denmark,DK
+131684,Israel,IL
+131684,Japan,JP
+131684,Netherlands,NL
+131684,"United Kingdom",GB
+131684,"United States of America",US
+131726,"United States of America",US
+131828,"United States of America",US
+131974,Australia,AU
+131974,Canada,CA
+131974,Denmark,DK
+131974,Israel,IL
+131974,Japan,JP
+131974,Netherlands,NL
+131974,"United Kingdom",GB
+131974,"United States of America",US
+132015,"United States of America",US
+132116,Australia,AU
+132116,Canada,CA
+132116,Denmark,DK
+132116,Israel,IL
+132116,Japan,JP
+132116,Netherlands,NL
+132116,"United Kingdom",GB
+132116,"United States of America",US
+132195,"United Kingdom",GB
+132202,Australia,AU
+132202,Canada,CA
+132202,Denmark,DK
+132202,Israel,IL
+132202,Japan,JP
+132202,Netherlands,NL
+132202,"United Kingdom",GB
+132202,"United States of America",US
+132286,"United Kingdom",GB
+132290,Australia,AU
+132290,Canada,CA
+132290,Denmark,DK
+132290,Israel,IL
+132290,Japan,JP
+132290,Netherlands,NL
+132290,"United Kingdom",GB
+132290,"United States of America",US
+132358,Australia,AU
+132358,Canada,CA
+132358,Denmark,DK
+132358,Israel,IL
+132358,Japan,JP
+132358,Netherlands,NL
+132358,"United Kingdom",GB
+132358,"United States of America",US
+132377,Bermuda,BM
+132832,Australia,AU
+132832,Canada,CA
+132832,Denmark,DK
+132832,Israel,IL
+132832,Japan,JP
+132832,Netherlands,NL
+132832,"United Kingdom",GB
+132832,"United States of America",US
+132854,"United Kingdom",GB
+132947,Australia,AU
+132947,Canada,CA
+132947,Denmark,DK
+132947,Israel,IL
+132947,Japan,JP
+132947,Netherlands,NL
+132947,"United Kingdom",GB
+132947,"United States of America",US
+133350,France,FR
+133350,Italy,IT
+133350,Norway,NO
+133627,France,FR
+133627,Italy,IT
+133627,Norway,NO
+133704,France,FR
+133704,Italy,IT
+133704,Norway,NO
+134195,Australia,AU
+134195,Germany,DE
+134195,Italy,IT
+134195,Japan,JP
+134195,"South Korea",KR
+134258,Australia,AU
+134258,Germany,DE
+134258,Italy,IT
+134258,Japan,JP
+134258,"South Korea",KR
+134408,Australia,AU
+134408,Germany,DE
+134408,Italy,IT
+134408,Japan,JP
+134408,"South Korea",KR
+134450,Australia,AU
+134450,Germany,DE
+134450,Italy,IT
+134450,Japan,JP
+134450,"South Korea",KR
+134483,Australia,AU
+134483,Germany,DE
+134483,Italy,IT
+134483,Japan,JP
+134483,"South Korea",KR
+134521,Australia,AU
+134521,Germany,DE
+134521,Italy,IT
+134521,Japan,JP
+134521,"South Korea",KR
+134643,Australia,AU
+134643,Germany,DE
+134643,Italy,IT
+134643,Japan,JP
+134643,"South Korea",KR
+134683,Australia,AU
+134683,Germany,DE
+134683,Italy,IT
+134683,Japan,JP
+134683,"South Korea",KR
+134733,Israel,IL
+134744,Australia,AU
+134744,Germany,DE
+134744,Italy,IT
+134744,Japan,JP
+134744,"South Korea",KR
+134797,Australia,AU
+134797,Germany,DE
+134797,Italy,IT
+134797,Japan,JP
+134797,"South Korea",KR
+134881,Australia,AU
+134881,Germany,DE
+134881,Italy,IT
+134881,Japan,JP
+134881,"South Korea",KR
+134893,Germany,DE
+134908,Australia,AU
+134908,Germany,DE
+134908,Italy,IT
+134908,Japan,JP
+134908,"South Korea",KR
+134932,Australia,AU
+134932,Germany,DE
+134932,Italy,IT
+134932,Japan,JP
+134932,"South Korea",KR
