@@ -15262,231 +15262,214 @@ licence_id,source,iso2
 116399,Belgium,BE
 116400,Belgium,BE
 116413,Djibouti,DJ
-116692,"Czech Republic",CZ
-116692,"United States of America",US
-116693,"Czech Republic",CZ
-116693,"United States of America",US
-116824,Bulgaria,BG
-116990,Germany,DE
-117005,"South Korea",KR
-117038,Serbia,RS
-117038,Turkey,TR
-117039,Serbia,RS
-117039,Turkey,TR
-117068,Belgium,BE
-117068,Greece,GR
-117072,Turkey,TR
-117073,Turkey,TR
-117084,Turkey,TR
-117149,Finland,FI
-117199,Finland,FI
-117243,France,FR
-117259,Germany,DE
-117379,"United States of America",US
-117386,Germany,DE
-117501,Spain,ES
-117552,Japan,JP
-117576,Belgium,BE
-117601,Japan,JP
-117624,Spain,ES
-117642,"United States of America",US
-117666,Slovenia,SI
-117685,"South Africa",ZA
-117815,"United States of America",US
-117829,Spain,ES
-117869,France,FR
-117885,Ireland,IE
-117947,Singapore,SG
-118007,Bangladesh,BD
-118014,Portugal,PT
-118036,"United States of America",US
-118041,France,FR
-118117,France,FR
-118135,Taiwan,TW
-118250,Italy,IT
-118286,Italy,IT
-118513,China,CN
-118559,Canada,CA
-118620,China,CN
-118627,"United States of America",US
-118646,Australia,AU
-118656,Turkey,TR
-118859,Israel,IL
-118922,Taiwan,TW
-118945,"South Africa",ZA
-119056,Sweden,SE
-119154,Poland,PL
-119177,China,CN
-119187,China,CN
-119194,China,CN
-119198,China,CN
-119200,China,CN
+116695,"Czech Republic",CZ
+116695,"United States of America",US
+116696,"Czech Republic",CZ
+116696,"United States of America",US
+116827,Bulgaria,BG
+116993,Germany,DE
+117008,"South Korea",KR
+117041,Serbia,RS
+117041,Turkey,TR
+117042,Serbia,RS
+117042,Turkey,TR
+117071,Belgium,BE
+117071,Greece,GR
+117075,Turkey,TR
+117076,Turkey,TR
+117087,Turkey,TR
+117152,Finland,FI
+117202,Finland,FI
+117246,France,FR
+117262,Germany,DE
+117382,"United States of America",US
+117389,Germany,DE
+117504,Spain,ES
+117555,Japan,JP
+117579,Belgium,BE
+117604,Japan,JP
+117627,Spain,ES
+117645,"United States of America",US
+117669,Slovenia,SI
+117688,"South Africa",ZA
+117818,"United States of America",US
+117832,Spain,ES
+117872,France,FR
+117888,Ireland,IE
+117950,Singapore,SG
+118010,Bangladesh,BD
+118017,Portugal,PT
+118039,"United States of America",US
+118044,France,FR
+118120,France,FR
+118138,Taiwan,TW
+118253,Italy,IT
+118289,Italy,IT
+118516,China,CN
+118562,Canada,CA
+118623,China,CN
+118630,"United States of America",US
+118649,Australia,AU
+118659,Turkey,TR
+118862,Israel,IL
+118925,Taiwan,TW
+118948,"South Africa",ZA
+119059,Sweden,SE
+119157,Poland,PL
+119180,China,CN
+119190,China,CN
+119197,China,CN
+119201,China,CN
 119203,China,CN
-119281,Djibouti,DJ
-119437,France,FR
-119480,Romania,RO
-119497,France,FR
-119523,"Czech Republic",CZ
-119523,Sweden,SE
-119580,Spain,ES
-119598,"Vessel and/or Platform in International Waters",
-119646,Italy,IT
-119763,"United States of America",US
-119850,"United Arab Emirates",AE
-119896,"New Zealand",NZ
-119967,"United States of America",US
-120101,Jordan,JO
-120104,Canada,CA
-120262,Jordan,JO
-120265,"South Korea",KR
-120284,"Vessel and/or Platform in International Waters",
-120319,France,FR
-120340,Belgium,BE
-120571,Canada,CA
-120593,Poland,PL
-120703,"Vessel and/or Platform in International Waters",
-120810,"Vessel and/or Platform in International Waters",
-120905,Austria,AT
-120921,Germany,DE
-120996,Belgium,BE
-121086,Luxembourg,LU
-121218,Belgium,BE
-121372,Bulgaria,BG
-121442,Canada,CA
-121452,France,FR
-121460,France,FR
-121581,"United States of America",US
-121589,Turkey,TR
-121656,Brazil,BR
-121796,Bulgaria,BG
-121875,France,FR
-121875,Poland,PL
-121898,Italy,IT
-121930,Sweden,SE
-121958,Spain,ES
-122072,Poland,PL
-122137,Turkey,TR
-122192,Germany,DE
-122248,Germany,DE
-122281,Switzerland,CH
-122314,Germany,DE
-122356,France,FR
-122382,"New Zealand",NZ
-122578,Canada,CA
-122627,France,FR
-122742,"Vessel and/or Platform in International Waters",
-122745,"United States of America",US
-122829,Poland,PL
-122839,Taiwan,TW
-122848,Brazil,BR
-122886,Japan,JP
-122993,"United Arab Emirates",AE
-123008,Bulgaria,BG
-123052,Lebanon,LB
-123052,Sweden,SE
-123052,Switzerland,CH
-123052,Zimbabwe,ZW
-123074,Ukraine,UA
-123140,"United States of America",US
-123357,Sweden,SE
-123539,"United States of America",US
-123645,Germany,DE
-123717,France,FR
-123862,Slovakia,SK
-123946,Jordan,JO
-123950,Italy,IT
-123955,India,IN
-123968,Malaysia,MY
-123995,Germany,DE
-124047,"Vessel and/or Platform in International Waters",
-124200,Japan,JP
-124278,"Vessel and/or Platform in International Waters",
-124424,"Vessel and/or Platform in International Waters",
-124606,Comoros,KM
-124606,Djibouti,DJ
-124606,Egypt,EG
-124606,Kenya,KE
-124606,Madagascar,MG
-124606,Malaysia,MY
-124606,Maldives,MV
-124606,Mauritius,MU
-124606,Mozambique,MZ
-124606,Oman,OM
-124606,Seychelles,SC
-124606,Singapore,SG
-124606,"South Africa",ZA
-124606,"Sri Lanka",LK
-124606,Tanzania,TZ
-124606,"United Arab Emirates",AE
-124606,"Vessel and/or Platform in International Waters",
-124611,Comoros,KM
-124611,Djibouti,DJ
-124611,Egypt,EG
-124611,Kenya,KE
-124611,Madagascar,MG
-124611,Malaysia,MY
-124611,Maldives,MV
-124611,Mauritius,MU
-124611,Mozambique,MZ
-124611,Oman,OM
-124611,Seychelles,SC
-124611,Singapore,SG
-124611,"South Africa",ZA
-124611,"Sri Lanka",LK
-124611,Tanzania,TZ
-124611,"United Arab Emirates",AE
-124611,"Vessel and/or Platform in International Waters",
-124612,Comoros,KM
-124612,Djibouti,DJ
-124612,Egypt,EG
-124612,Kenya,KE
-124612,Madagascar,MG
-124612,Malaysia,MY
-124612,Maldives,MV
-124612,Mauritius,MU
-124612,Mozambique,MZ
-124612,Oman,OM
-124612,Seychelles,SC
-124612,Singapore,SG
-124612,"South Africa",ZA
-124612,"Sri Lanka",LK
-124612,Tanzania,TZ
-124612,"United Arab Emirates",AE
-124612,"Vessel and/or Platform in International Waters",
-124636,Comoros,KM
-124636,Djibouti,DJ
-124636,Egypt,EG
-124636,Kenya,KE
-124636,Madagascar,MG
-124636,Malaysia,MY
-124636,Maldives,MV
-124636,Mauritius,MU
-124636,Mozambique,MZ
-124636,Oman,OM
-124636,Seychelles,SC
-124636,Singapore,SG
-124636,"South Africa",ZA
-124636,"Sri Lanka",LK
-124636,Tanzania,TZ
-124636,"United Arab Emirates",AE
-124636,"Vessel and/or Platform in International Waters",
-124641,Comoros,KM
-124641,Djibouti,DJ
-124641,Egypt,EG
-124641,Kenya,KE
-124641,Madagascar,MG
-124641,Malaysia,MY
-124641,Maldives,MV
-124641,Mauritius,MU
-124641,Mozambique,MZ
-124641,Oman,OM
-124641,Seychelles,SC
-124641,Singapore,SG
-124641,"South Africa",ZA
-124641,"Sri Lanka",LK
-124641,Tanzania,TZ
-124641,"United Arab Emirates",AE
-124641,"Vessel and/or Platform in International Waters",
+119206,China,CN
+119284,Djibouti,DJ
+119440,France,FR
+119483,Romania,RO
+119500,France,FR
+119526,"Czech Republic",CZ
+119526,Sweden,SE
+119583,Spain,ES
+119601,"Vessel and/or Platform in International Waters",
+119649,Italy,IT
+119766,"United States of America",US
+119853,"United Arab Emirates",AE
+119899,"New Zealand",NZ
+119970,"United States of America",US
+120104,Jordan,JO
+120107,Canada,CA
+120265,Jordan,JO
+120268,"South Korea",KR
+120287,"Vessel and/or Platform in International Waters",
+120322,France,FR
+120343,Belgium,BE
+120574,Canada,CA
+120596,Poland,PL
+120706,"Vessel and/or Platform in International Waters",
+120813,"Vessel and/or Platform in International Waters",
+120908,Austria,AT
+120924,Germany,DE
+120999,Belgium,BE
+121089,Luxembourg,LU
+121221,Belgium,BE
+121375,Bulgaria,BG
+121445,Canada,CA
+121455,France,FR
+121463,France,FR
+121584,"United States of America",US
+121592,Turkey,TR
+121659,Brazil,BR
+121799,Bulgaria,BG
+121878,France,FR
+121878,Poland,PL
+121901,Italy,IT
+121933,Sweden,SE
+121961,Spain,ES
+122075,Poland,PL
+122140,Turkey,TR
+122195,Germany,DE
+122251,Germany,DE
+122284,Switzerland,CH
+122317,Germany,DE
+122359,France,FR
+122385,"New Zealand",NZ
+122581,Canada,CA
+122630,France,FR
+122745,"Vessel and/or Platform in International Waters",
+122748,"United States of America",US
+122832,Poland,PL
+122842,Taiwan,TW
+122851,Brazil,BR
+122889,Japan,JP
+122996,"United Arab Emirates",AE
+123011,Bulgaria,BG
+123055,Lebanon,LB
+123055,Sweden,SE
+123055,Switzerland,CH
+123055,Zimbabwe,ZW
+123077,Ukraine,UA
+123143,"United States of America",US
+123360,Sweden,SE
+123542,"United States of America",US
+123648,Germany,DE
+123720,France,FR
+123865,Slovakia,SK
+123949,Jordan,JO
+123953,Italy,IT
+123958,India,IN
+123971,Malaysia,MY
+123998,Germany,DE
+124050,"Vessel and/or Platform in International Waters",
+124203,Japan,JP
+124281,"Vessel and/or Platform in International Waters",
+124427,"Vessel and/or Platform in International Waters",
+124609,Comoros,KM
+124609,Djibouti,DJ
+124609,Egypt,EG
+124609,Kenya,KE
+124609,Madagascar,MG
+124609,Malaysia,MY
+124609,Maldives,MV
+124609,Mauritius,MU
+124609,Mozambique,MZ
+124609,Oman,OM
+124609,Seychelles,SC
+124609,Singapore,SG
+124609,"South Africa",ZA
+124609,"Sri Lanka",LK
+124609,Tanzania,TZ
+124609,"United Arab Emirates",AE
+124609,"Vessel and/or Platform in International Waters",
+124614,Comoros,KM
+124614,Djibouti,DJ
+124614,Egypt,EG
+124614,Kenya,KE
+124614,Madagascar,MG
+124614,Malaysia,MY
+124614,Maldives,MV
+124614,Mauritius,MU
+124614,Mozambique,MZ
+124614,Oman,OM
+124614,Seychelles,SC
+124614,Singapore,SG
+124614,"South Africa",ZA
+124614,"Sri Lanka",LK
+124614,Tanzania,TZ
+124614,"United Arab Emirates",AE
+124614,"Vessel and/or Platform in International Waters",
+124615,Comoros,KM
+124615,Djibouti,DJ
+124615,Egypt,EG
+124615,Kenya,KE
+124615,Madagascar,MG
+124615,Malaysia,MY
+124615,Maldives,MV
+124615,Mauritius,MU
+124615,Mozambique,MZ
+124615,Oman,OM
+124615,Seychelles,SC
+124615,Singapore,SG
+124615,"South Africa",ZA
+124615,"Sri Lanka",LK
+124615,Tanzania,TZ
+124615,"United Arab Emirates",AE
+124615,"Vessel and/or Platform in International Waters",
+124639,Comoros,KM
+124639,Djibouti,DJ
+124639,Egypt,EG
+124639,Kenya,KE
+124639,Madagascar,MG
+124639,Malaysia,MY
+124639,Maldives,MV
+124639,Mauritius,MU
+124639,Mozambique,MZ
+124639,Oman,OM
+124639,Seychelles,SC
+124639,Singapore,SG
+124639,"South Africa",ZA
+124639,"Sri Lanka",LK
+124639,Tanzania,TZ
+124639,"United Arab Emirates",AE
+124639,"Vessel and/or Platform in International Waters",
 124644,Comoros,KM
 124644,Djibouti,DJ
 124644,Egypt,EG
@@ -15504,23 +15487,6 @@ licence_id,source,iso2
 124644,Tanzania,TZ
 124644,"United Arab Emirates",AE
 124644,"Vessel and/or Platform in International Waters",
-124645,Comoros,KM
-124645,Djibouti,DJ
-124645,Egypt,EG
-124645,Kenya,KE
-124645,Madagascar,MG
-124645,Malaysia,MY
-124645,Maldives,MV
-124645,Mauritius,MU
-124645,Mozambique,MZ
-124645,Oman,OM
-124645,Seychelles,SC
-124645,Singapore,SG
-124645,"South Africa",ZA
-124645,"Sri Lanka",LK
-124645,Tanzania,TZ
-124645,"United Arab Emirates",AE
-124645,"Vessel and/or Platform in International Waters",
 124647,Comoros,KM
 124647,Djibouti,DJ
 124647,Egypt,EG
@@ -15538,433 +15504,368 @@ licence_id,source,iso2
 124647,Tanzania,TZ
 124647,"United Arab Emirates",AE
 124647,"Vessel and/or Platform in International Waters",
-124651,Comoros,KM
-124651,Djibouti,DJ
-124651,Egypt,EG
-124651,Kenya,KE
-124651,Madagascar,MG
-124651,Malaysia,MY
-124651,Maldives,MV
-124651,Mauritius,MU
-124651,Mozambique,MZ
-124651,Oman,OM
-124651,Seychelles,SC
-124651,Singapore,SG
-124651,"South Africa",ZA
-124651,"Sri Lanka",LK
-124651,Tanzania,TZ
-124651,"United Arab Emirates",AE
-124651,"Vessel and/or Platform in International Waters",
-124659,Comoros,KM
-124659,Djibouti,DJ
-124659,Egypt,EG
-124659,Kenya,KE
-124659,Madagascar,MG
-124659,Malaysia,MY
-124659,Maldives,MV
-124659,Mauritius,MU
-124659,Mozambique,MZ
-124659,Oman,OM
-124659,Seychelles,SC
-124659,Singapore,SG
-124659,"South Africa",ZA
-124659,"Sri Lanka",LK
-124659,Tanzania,TZ
-124659,"United Arab Emirates",AE
-124659,"Vessel and/or Platform in International Waters",
-124674,Comoros,KM
-124674,Djibouti,DJ
-124674,Egypt,EG
-124674,Kenya,KE
-124674,Madagascar,MG
-124674,Malaysia,MY
-124674,Maldives,MV
-124674,Mauritius,MU
-124674,Mozambique,MZ
-124674,Oman,OM
-124674,Seychelles,SC
-124674,Singapore,SG
-124674,"South Africa",ZA
-124674,"Sri Lanka",LK
-124674,Tanzania,TZ
-124674,"United Arab Emirates",AE
-124674,"Vessel and/or Platform in International Waters",
-124676,Comoros,KM
-124676,Djibouti,DJ
-124676,Egypt,EG
-124676,Kenya,KE
-124676,Madagascar,MG
-124676,Malaysia,MY
-124676,Maldives,MV
-124676,Mauritius,MU
-124676,Mozambique,MZ
-124676,Oman,OM
-124676,Seychelles,SC
-124676,Singapore,SG
-124676,"South Africa",ZA
-124676,"Sri Lanka",LK
-124676,Tanzania,TZ
-124676,"United Arab Emirates",AE
-124676,"Vessel and/or Platform in International Waters",
-124682,Comoros,KM
-124682,Djibouti,DJ
-124682,Egypt,EG
-124682,Kenya,KE
-124682,Madagascar,MG
-124682,Malaysia,MY
-124682,Maldives,MV
-124682,Mauritius,MU
-124682,Mozambique,MZ
-124682,Oman,OM
-124682,Seychelles,SC
-124682,Singapore,SG
-124682,"South Africa",ZA
-124682,"Sri Lanka",LK
-124682,Tanzania,TZ
-124682,"United Arab Emirates",AE
-124682,"Vessel and/or Platform in International Waters",
-124690,Comoros,KM
-124690,Djibouti,DJ
-124690,Egypt,EG
-124690,Kenya,KE
-124690,Madagascar,MG
-124690,Malaysia,MY
-124690,Maldives,MV
-124690,Mauritius,MU
-124690,Mozambique,MZ
-124690,Oman,OM
-124690,Seychelles,SC
-124690,Singapore,SG
-124690,"South Africa",ZA
-124690,"Sri Lanka",LK
-124690,Tanzania,TZ
-124690,"United Arab Emirates",AE
-124690,"Vessel and/or Platform in International Waters",
-124698,Comoros,KM
-124698,Djibouti,DJ
-124698,Egypt,EG
-124698,Kenya,KE
-124698,Madagascar,MG
-124698,Malaysia,MY
-124698,Maldives,MV
-124698,Mauritius,MU
-124698,Mozambique,MZ
-124698,Oman,OM
-124698,Seychelles,SC
-124698,Singapore,SG
-124698,"South Africa",ZA
-124698,"Sri Lanka",LK
-124698,Tanzania,TZ
-124698,"United Arab Emirates",AE
-124698,"Vessel and/or Platform in International Waters",
-124706,Comoros,KM
-124706,Djibouti,DJ
-124706,Egypt,EG
-124706,Kenya,KE
-124706,Madagascar,MG
-124706,Malaysia,MY
-124706,Maldives,MV
-124706,Mauritius,MU
-124706,Mozambique,MZ
-124706,Oman,OM
-124706,Seychelles,SC
-124706,Singapore,SG
-124706,"South Africa",ZA
-124706,"Sri Lanka",LK
-124706,Tanzania,TZ
-124706,"United Arab Emirates",AE
-124706,"Vessel and/or Platform in International Waters",
-124713,Comoros,KM
-124713,Djibouti,DJ
-124713,Egypt,EG
-124713,Kenya,KE
-124713,Madagascar,MG
-124713,Malaysia,MY
-124713,Maldives,MV
-124713,Mauritius,MU
-124713,Mozambique,MZ
-124713,Oman,OM
-124713,Seychelles,SC
-124713,Singapore,SG
-124713,"South Africa",ZA
-124713,"Sri Lanka",LK
-124713,Tanzania,TZ
-124713,"United Arab Emirates",AE
-124713,"Vessel and/or Platform in International Waters",
-124877,Japan,JP
-125043,Japan,JP
-125141,Turkey,TR
-125193,China,CN
-125333,Djibouti,DJ
-125360,China,CN
-125360,"Czech Republic",CZ
-125360,Israel,IL
-125360,Philippines,PH
-125360,Serbia,RS
-125374,"Vessel and/or Platform in International Waters",
-125548,"United States of America",US
-125584,"Vessel and/or Platform in International Waters",
-125705,Canada,CA
-125752,"Vessel and/or Platform in International Waters",
-125859,France,FR
-125925,"United States of America",US
-126025,Malaysia,MY
-126145,Singapore,SG
-126436,Australia,AU
-126495,Spain,ES
-126596,Jordan,JO
-126602,Djibouti,DJ
-126798,Germany,DE
-126849,"United States of America",US
-126850,"Bosnia and Herzegovina",BA
-127006,"South Africa",ZA
-127037,France,FR
-127127,Italy,IT
-127130,Iraq,IQ
-127192,Denmark,DK
-127237,Kenya,KE
-127237,"South Sudan",SS
-127237,Zimbabwe,ZW
-127258,Malaysia,MY
-127260,Mauritius,MU
-127280,"Vessel and/or Platform in International Waters",
-127299,Belgium,BE
-127299,Canada,CA
-127299,Denmark,DK
-127299,Finland,FI
-127299,France,FR
-127299,Germany,DE
-127299,Italy,IT
-127299,Norway,NO
-127299,Poland,PL
-127299,Portugal,PT
-127299,Spain,ES
-127299,Sweden,SE
-127362,"United States of America",US
-127431,"United States of America",US
-127522,"Czech Republic",CZ
-127529,"Czech Republic",CZ
+124648,Comoros,KM
+124648,Djibouti,DJ
+124648,Egypt,EG
+124648,Kenya,KE
+124648,Madagascar,MG
+124648,Malaysia,MY
+124648,Maldives,MV
+124648,Mauritius,MU
+124648,Mozambique,MZ
+124648,Oman,OM
+124648,Seychelles,SC
+124648,Singapore,SG
+124648,"South Africa",ZA
+124648,"Sri Lanka",LK
+124648,Tanzania,TZ
+124648,"United Arab Emirates",AE
+124648,"Vessel and/or Platform in International Waters",
+124650,Comoros,KM
+124650,Djibouti,DJ
+124650,Egypt,EG
+124650,Kenya,KE
+124650,Madagascar,MG
+124650,Malaysia,MY
+124650,Maldives,MV
+124650,Mauritius,MU
+124650,Mozambique,MZ
+124650,Oman,OM
+124650,Seychelles,SC
+124650,Singapore,SG
+124650,"South Africa",ZA
+124650,"Sri Lanka",LK
+124650,Tanzania,TZ
+124650,"United Arab Emirates",AE
+124650,"Vessel and/or Platform in International Waters",
+124654,Comoros,KM
+124654,Djibouti,DJ
+124654,Egypt,EG
+124654,Kenya,KE
+124654,Madagascar,MG
+124654,Malaysia,MY
+124654,Maldives,MV
+124654,Mauritius,MU
+124654,Mozambique,MZ
+124654,Oman,OM
+124654,Seychelles,SC
+124654,Singapore,SG
+124654,"South Africa",ZA
+124654,"Sri Lanka",LK
+124654,Tanzania,TZ
+124654,"United Arab Emirates",AE
+124654,"Vessel and/or Platform in International Waters",
+124662,Comoros,KM
+124662,Djibouti,DJ
+124662,Egypt,EG
+124662,Kenya,KE
+124662,Madagascar,MG
+124662,Malaysia,MY
+124662,Maldives,MV
+124662,Mauritius,MU
+124662,Mozambique,MZ
+124662,Oman,OM
+124662,Seychelles,SC
+124662,Singapore,SG
+124662,"South Africa",ZA
+124662,"Sri Lanka",LK
+124662,Tanzania,TZ
+124662,"United Arab Emirates",AE
+124662,"Vessel and/or Platform in International Waters",
+124677,Comoros,KM
+124677,Djibouti,DJ
+124677,Egypt,EG
+124677,Kenya,KE
+124677,Madagascar,MG
+124677,Malaysia,MY
+124677,Maldives,MV
+124677,Mauritius,MU
+124677,Mozambique,MZ
+124677,Oman,OM
+124677,Seychelles,SC
+124677,Singapore,SG
+124677,"South Africa",ZA
+124677,"Sri Lanka",LK
+124677,Tanzania,TZ
+124677,"United Arab Emirates",AE
+124677,"Vessel and/or Platform in International Waters",
+124679,Comoros,KM
+124679,Djibouti,DJ
+124679,Egypt,EG
+124679,Kenya,KE
+124679,Madagascar,MG
+124679,Malaysia,MY
+124679,Maldives,MV
+124679,Mauritius,MU
+124679,Mozambique,MZ
+124679,Oman,OM
+124679,Seychelles,SC
+124679,Singapore,SG
+124679,"South Africa",ZA
+124679,"Sri Lanka",LK
+124679,Tanzania,TZ
+124679,"United Arab Emirates",AE
+124679,"Vessel and/or Platform in International Waters",
+124685,Comoros,KM
+124685,Djibouti,DJ
+124685,Egypt,EG
+124685,Kenya,KE
+124685,Madagascar,MG
+124685,Malaysia,MY
+124685,Maldives,MV
+124685,Mauritius,MU
+124685,Mozambique,MZ
+124685,Oman,OM
+124685,Seychelles,SC
+124685,Singapore,SG
+124685,"South Africa",ZA
+124685,"Sri Lanka",LK
+124685,Tanzania,TZ
+124685,"United Arab Emirates",AE
+124685,"Vessel and/or Platform in International Waters",
+124693,Comoros,KM
+124693,Djibouti,DJ
+124693,Egypt,EG
+124693,Kenya,KE
+124693,Madagascar,MG
+124693,Malaysia,MY
+124693,Maldives,MV
+124693,Mauritius,MU
+124693,Mozambique,MZ
+124693,Oman,OM
+124693,Seychelles,SC
+124693,Singapore,SG
+124693,"South Africa",ZA
+124693,"Sri Lanka",LK
+124693,Tanzania,TZ
+124693,"United Arab Emirates",AE
+124693,"Vessel and/or Platform in International Waters",
+124701,Comoros,KM
+124701,Djibouti,DJ
+124701,Egypt,EG
+124701,Kenya,KE
+124701,Madagascar,MG
+124701,Malaysia,MY
+124701,Maldives,MV
+124701,Mauritius,MU
+124701,Mozambique,MZ
+124701,Oman,OM
+124701,Seychelles,SC
+124701,Singapore,SG
+124701,"South Africa",ZA
+124701,"Sri Lanka",LK
+124701,Tanzania,TZ
+124701,"United Arab Emirates",AE
+124701,"Vessel and/or Platform in International Waters",
+124709,Comoros,KM
+124709,Djibouti,DJ
+124709,Egypt,EG
+124709,Kenya,KE
+124709,Madagascar,MG
+124709,Malaysia,MY
+124709,Maldives,MV
+124709,Mauritius,MU
+124709,Mozambique,MZ
+124709,Oman,OM
+124709,Seychelles,SC
+124709,Singapore,SG
+124709,"South Africa",ZA
+124709,"Sri Lanka",LK
+124709,Tanzania,TZ
+124709,"United Arab Emirates",AE
+124709,"Vessel and/or Platform in International Waters",
+124716,Comoros,KM
+124716,Djibouti,DJ
+124716,Egypt,EG
+124716,Kenya,KE
+124716,Madagascar,MG
+124716,Malaysia,MY
+124716,Maldives,MV
+124716,Mauritius,MU
+124716,Mozambique,MZ
+124716,Oman,OM
+124716,Seychelles,SC
+124716,Singapore,SG
+124716,"South Africa",ZA
+124716,"Sri Lanka",LK
+124716,Tanzania,TZ
+124716,"United Arab Emirates",AE
+124716,"Vessel and/or Platform in International Waters",
+124880,Japan,JP
+125046,Japan,JP
+125144,Turkey,TR
+125196,China,CN
+125338,Djibouti,DJ
+125365,China,CN
+125365,"Czech Republic",CZ
+125365,Israel,IL
+125365,Philippines,PH
+125365,Serbia,RS
+125379,"Vessel and/or Platform in International Waters",
+125553,"United States of America",US
+125589,"Vessel and/or Platform in International Waters",
+125710,Canada,CA
+125757,"Vessel and/or Platform in International Waters",
+125864,France,FR
+125930,"United States of America",US
+126030,Malaysia,MY
+126150,Singapore,SG
+126441,Australia,AU
+126500,Spain,ES
+126601,Jordan,JO
+126607,Djibouti,DJ
+126803,Germany,DE
+126854,"United States of America",US
+126855,"Bosnia and Herzegovina",BA
+127011,"South Africa",ZA
+127042,France,FR
+127132,Italy,IT
+127135,Iraq,IQ
+127197,Denmark,DK
+127242,Kenya,KE
+127242,"South Sudan",SS
+127242,Zimbabwe,ZW
+127263,Malaysia,MY
+127265,Mauritius,MU
+127285,"Vessel and/or Platform in International Waters",
+127304,Belgium,BE
+127304,Canada,CA
+127304,Denmark,DK
+127304,Finland,FI
+127304,France,FR
+127304,Germany,DE
+127304,Italy,IT
+127304,Norway,NO
+127304,Poland,PL
+127304,Portugal,PT
+127304,Spain,ES
+127304,Sweden,SE
+127367,"United States of America",US
+127436,"United States of America",US
+127527,"Czech Republic",CZ
 127534,"Czech Republic",CZ
-127544,"Czech Republic",CZ
-127545,"Czech Republic",CZ
-127558,Jordan,JO
-127603,Ukraine,UA
-127651,Zimbabwe,ZW
-127795,Iraq,IQ
-127799,Canada,CA
-127830,Comoros,KM
-127853,"Vessel and/or Platform in International Waters",
-127855,Austria,AT
-127855,Belgium,BE
-127855,Bulgaria,BG
-127855,Canada,CA
-127855,Croatia,HR
-127855,Finland,FI
-127855,Germany,DE
-127855,Greece,GR
-127855,Hungary,HU
-127855,Italy,IT
-127855,Poland,PL
-127855,Romania,RO
-127855,Slovakia,SK
-127855,"South Africa",ZA
-127855,"South Korea",KR
-127855,Switzerland,CH
-128140,Belgium,BE
-128145,Japan,JP
-128146,Japan,JP
-128188,"Vessel and/or Platform in International Waters",
-128220,"Czech Republic",CZ
-128220,Italy,IT
-128258,"Czech Republic",CZ
-128259,Djibouti,DJ
-128402,Namibia,NA
-128402,"South Africa",ZA
-128402,"United States of America",US
-128457,Belgium,BE
-128513,Djibouti,DJ
-128541,Serbia,RS
-128578,Seychelles,SC
-128586,"Vessel and/or Platform in International Waters",
-128600,Ireland,IE
-128659,Brazil,BR
-128688,"United States of America",US
-128700,Maldives,MV
-128875,"United States of America",US
-128984,Russia,RU
-129275,Australia,AU
-129296,"Vessel and/or Platform in International Waters",
-129486,Singapore,SG
-129640,Japan,JP
-129667,Brazil,BR
-129698,Oman,OM
-129733,Switzerland,CH
-129734,"Vessel and/or Platform in International Waters",
-129877,Israel,IL
-129908,China,CN
-129945,Afghanistan,AF
-129977,Germany,DE
-130155,"United States of America",US
-130214,Israel,IL
-130544,Australia,AU
-130555,"New Zealand",NZ
-130641,"Czech Republic",CZ
-130750,"Sri Lanka",LK
-130809,Russia,RU
-131010,Estonia,EE
-131693,Australia,AU
-131749,"Bosnia and Herzegovina",BA
-131992,Jordan,JO
-132055,France,FR
-132196,Malaysia,MY
-132288,"United States of America",US
-132338,Finland,FI
-132405,Yemen,YE
-132439,Yemen,YE
-132440,Yemen,YE
-132489,"South Korea",KR
-132503,Turkey,TR
-132569,Greece,GR
-132576,"New Zealand",NZ
-132638,Spain,ES
-132688,Canada,CA
-132718,Germany,DE
-132763,Spain,ES
-132774,"United States of America",US
-132785,"United States of America",US
-132830,Jordan,JO
-132851,Albania,AL
-132851,Austria,AT
-132851,Bangladesh,BD
-132851,"Bosnia and Herzegovina",BA
-132851,Brazil,BR
-132851,Bulgaria,BG
-132851,Canada,CA
-132851,China,CN
-132851,Croatia,HR
-132851,Cyprus,CY
-132851,"Czech Republic",CZ
-132851,Egypt,EG
-132851,Estonia,EE
-132851,France,FR
-132851,Germany,DE
-132851,Greece,GR
-132851,India,IN
-132851,Indonesia,ID
-132851,Israel,IL
-132851,Kazakhstan,KZ
-132851,Kenya,KE
-132851,Pakistan,PK
-132851,Philippines,PH
-132851,Poland,PL
-132851,Romania,RO
-132851,Serbia,RS
-132851,Slovakia,SK
-132851,Slovenia,SI
-132851,"South Korea",KR
-132851,Thailand,TH
-132851,Turkey,TR
-132851,Ukraine,UA
-132851,"United States of America",US
-132857,Albania,AL
-132857,Austria,AT
-132857,Bangladesh,BD
-132857,"Bosnia and Herzegovina",BA
-132857,Brazil,BR
-132857,Bulgaria,BG
-132857,Canada,CA
-132857,China,CN
-132857,Croatia,HR
-132857,Cyprus,CY
-132857,"Czech Republic",CZ
-132857,Egypt,EG
-132857,Estonia,EE
-132857,France,FR
-132857,Germany,DE
-132857,Greece,GR
-132857,India,IN
-132857,Indonesia,ID
-132857,Israel,IL
-132857,Kazakhstan,KZ
-132857,Kenya,KE
-132857,Pakistan,PK
-132857,Philippines,PH
-132857,Poland,PL
-132857,Romania,RO
-132857,Serbia,RS
-132857,Slovakia,SK
-132857,Slovenia,SI
-132857,"South Korea",KR
-132857,Thailand,TH
-132857,Turkey,TR
-132857,Ukraine,UA
-132857,"United States of America",US
-132858,Albania,AL
-132858,Austria,AT
-132858,Bangladesh,BD
-132858,"Bosnia and Herzegovina",BA
-132858,Brazil,BR
-132858,Bulgaria,BG
-132858,Canada,CA
-132858,China,CN
-132858,Croatia,HR
-132858,Cyprus,CY
-132858,"Czech Republic",CZ
-132858,Egypt,EG
-132858,Estonia,EE
-132858,France,FR
-132858,Germany,DE
-132858,Greece,GR
-132858,India,IN
-132858,Indonesia,ID
-132858,Israel,IL
-132858,Kazakhstan,KZ
-132858,Kenya,KE
-132858,Pakistan,PK
-132858,Philippines,PH
-132858,Poland,PL
-132858,Romania,RO
-132858,Serbia,RS
-132858,Slovakia,SK
-132858,Slovenia,SI
-132858,"South Korea",KR
-132858,Thailand,TH
-132858,Turkey,TR
-132858,Ukraine,UA
-132858,"United States of America",US
-132860,Albania,AL
-132860,Austria,AT
-132860,Bangladesh,BD
-132860,"Bosnia and Herzegovina",BA
-132860,Brazil,BR
-132860,Bulgaria,BG
-132860,Canada,CA
-132860,China,CN
-132860,Croatia,HR
-132860,Cyprus,CY
-132860,"Czech Republic",CZ
-132860,Egypt,EG
-132860,Estonia,EE
-132860,France,FR
-132860,Germany,DE
-132860,Greece,GR
-132860,India,IN
-132860,Indonesia,ID
-132860,Israel,IL
-132860,Kazakhstan,KZ
-132860,Kenya,KE
-132860,Pakistan,PK
-132860,Philippines,PH
-132860,Poland,PL
-132860,Romania,RO
-132860,Serbia,RS
-132860,Slovakia,SK
-132860,Slovenia,SI
-132860,"South Korea",KR
-132860,Thailand,TH
-132860,Turkey,TR
-132860,Ukraine,UA
-132860,"United States of America",US
+127539,"Czech Republic",CZ
+127549,"Czech Republic",CZ
+127550,"Czech Republic",CZ
+127563,Jordan,JO
+127608,Ukraine,UA
+127656,Zimbabwe,ZW
+127800,Iraq,IQ
+127804,Canada,CA
+127835,Comoros,KM
+127858,"Vessel and/or Platform in International Waters",
+127860,Austria,AT
+127860,Belgium,BE
+127860,Bulgaria,BG
+127860,Canada,CA
+127860,Croatia,HR
+127860,Finland,FI
+127860,Germany,DE
+127860,Greece,GR
+127860,Hungary,HU
+127860,Italy,IT
+127860,Poland,PL
+127860,Romania,RO
+127860,Slovakia,SK
+127860,"South Africa",ZA
+127860,"South Korea",KR
+127860,Switzerland,CH
+128145,Belgium,BE
+128150,Japan,JP
+128151,Japan,JP
+128193,"Vessel and/or Platform in International Waters",
+128225,"Czech Republic",CZ
+128225,Italy,IT
+128263,"Czech Republic",CZ
+128264,Djibouti,DJ
+128407,Namibia,NA
+128407,"South Africa",ZA
+128407,"United States of America",US
+128462,Belgium,BE
+128518,Djibouti,DJ
+128546,Serbia,RS
+128583,Seychelles,SC
+128591,"Vessel and/or Platform in International Waters",
+128605,Ireland,IE
+128664,Brazil,BR
+128693,"United States of America",US
+128705,Maldives,MV
+128880,"United States of America",US
+128989,Russia,RU
+129280,Australia,AU
+129301,"Vessel and/or Platform in International Waters",
+129491,Singapore,SG
+129645,Japan,JP
+129672,Brazil,BR
+129703,Oman,OM
+129738,Switzerland,CH
+129739,"Vessel and/or Platform in International Waters",
+129882,Israel,IL
+129913,China,CN
+129950,Afghanistan,AF
+129982,Germany,DE
+130160,"United States of America",US
+130219,Israel,IL
+130549,Australia,AU
+130560,"New Zealand",NZ
+130646,"Czech Republic",CZ
+130755,"Sri Lanka",LK
+130814,Russia,RU
+131015,Estonia,EE
+131698,Australia,AU
+131754,"Bosnia and Herzegovina",BA
+131997,Jordan,JO
+132060,France,FR
+132201,Malaysia,MY
+132293,"United States of America",US
+132343,Finland,FI
+132410,Yemen,YE
+132444,Yemen,YE
+132445,Yemen,YE
+132494,"South Korea",KR
+132508,Turkey,TR
+132574,Greece,GR
+132581,"New Zealand",NZ
+132643,Spain,ES
+132693,Canada,CA
+132723,Germany,DE
+132768,Spain,ES
+132779,"United States of America",US
+132790,"United States of America",US
+132835,Jordan,JO
+132856,Albania,AL
+132856,Austria,AT
+132856,Bangladesh,BD
+132856,"Bosnia and Herzegovina",BA
+132856,Brazil,BR
+132856,Bulgaria,BG
+132856,Canada,CA
+132856,China,CN
+132856,Croatia,HR
+132856,Cyprus,CY
+132856,"Czech Republic",CZ
+132856,Egypt,EG
+132856,Estonia,EE
+132856,France,FR
+132856,Germany,DE
+132856,Greece,GR
+132856,India,IN
+132856,Indonesia,ID
+132856,Israel,IL
+132856,Kazakhstan,KZ
+132856,Kenya,KE
+132856,Pakistan,PK
+132856,Philippines,PH
+132856,Poland,PL
+132856,Romania,RO
+132856,Serbia,RS
+132856,Slovakia,SK
+132856,Slovenia,SI
+132856,"South Korea",KR
+132856,Thailand,TH
+132856,Turkey,TR
+132856,Ukraine,UA
+132856,"United States of America",US
 132862,Albania,AL
 132862,Austria,AT
 132862,Bangladesh,BD
@@ -16031,72 +15932,72 @@ licence_id,source,iso2
 132863,Turkey,TR
 132863,Ukraine,UA
 132863,"United States of America",US
-132864,Albania,AL
-132864,Austria,AT
-132864,Bangladesh,BD
-132864,"Bosnia and Herzegovina",BA
-132864,Brazil,BR
-132864,Bulgaria,BG
-132864,Canada,CA
-132864,China,CN
-132864,Croatia,HR
-132864,Cyprus,CY
-132864,"Czech Republic",CZ
-132864,Egypt,EG
-132864,Estonia,EE
-132864,France,FR
-132864,Germany,DE
-132864,Greece,GR
-132864,India,IN
-132864,Indonesia,ID
-132864,Israel,IL
-132864,Kazakhstan,KZ
-132864,Kenya,KE
-132864,Pakistan,PK
-132864,Philippines,PH
-132864,Poland,PL
-132864,Romania,RO
-132864,Serbia,RS
-132864,Slovakia,SK
-132864,Slovenia,SI
-132864,"South Korea",KR
-132864,Thailand,TH
-132864,Turkey,TR
-132864,Ukraine,UA
-132864,"United States of America",US
-132866,Albania,AL
-132866,Austria,AT
-132866,Bangladesh,BD
-132866,"Bosnia and Herzegovina",BA
-132866,Brazil,BR
-132866,Bulgaria,BG
-132866,Canada,CA
-132866,China,CN
-132866,Croatia,HR
-132866,Cyprus,CY
-132866,"Czech Republic",CZ
-132866,Egypt,EG
-132866,Estonia,EE
-132866,France,FR
-132866,Germany,DE
-132866,Greece,GR
-132866,India,IN
-132866,Indonesia,ID
-132866,Israel,IL
-132866,Kazakhstan,KZ
-132866,Kenya,KE
-132866,Pakistan,PK
-132866,Philippines,PH
-132866,Poland,PL
-132866,Romania,RO
-132866,Serbia,RS
-132866,Slovakia,SK
-132866,Slovenia,SI
-132866,"South Korea",KR
-132866,Thailand,TH
-132866,Turkey,TR
-132866,Ukraine,UA
-132866,"United States of America",US
+132865,Albania,AL
+132865,Austria,AT
+132865,Bangladesh,BD
+132865,"Bosnia and Herzegovina",BA
+132865,Brazil,BR
+132865,Bulgaria,BG
+132865,Canada,CA
+132865,China,CN
+132865,Croatia,HR
+132865,Cyprus,CY
+132865,"Czech Republic",CZ
+132865,Egypt,EG
+132865,Estonia,EE
+132865,France,FR
+132865,Germany,DE
+132865,Greece,GR
+132865,India,IN
+132865,Indonesia,ID
+132865,Israel,IL
+132865,Kazakhstan,KZ
+132865,Kenya,KE
+132865,Pakistan,PK
+132865,Philippines,PH
+132865,Poland,PL
+132865,Romania,RO
+132865,Serbia,RS
+132865,Slovakia,SK
+132865,Slovenia,SI
+132865,"South Korea",KR
+132865,Thailand,TH
+132865,Turkey,TR
+132865,Ukraine,UA
+132865,"United States of America",US
+132867,Albania,AL
+132867,Austria,AT
+132867,Bangladesh,BD
+132867,"Bosnia and Herzegovina",BA
+132867,Brazil,BR
+132867,Bulgaria,BG
+132867,Canada,CA
+132867,China,CN
+132867,Croatia,HR
+132867,Cyprus,CY
+132867,"Czech Republic",CZ
+132867,Egypt,EG
+132867,Estonia,EE
+132867,France,FR
+132867,Germany,DE
+132867,Greece,GR
+132867,India,IN
+132867,Indonesia,ID
+132867,Israel,IL
+132867,Kazakhstan,KZ
+132867,Kenya,KE
+132867,Pakistan,PK
+132867,Philippines,PH
+132867,Poland,PL
+132867,Romania,RO
+132867,Serbia,RS
+132867,Slovakia,SK
+132867,Slovenia,SI
+132867,"South Korea",KR
+132867,Thailand,TH
+132867,Turkey,TR
+132867,Ukraine,UA
+132867,"United States of America",US
 132868,Albania,AL
 132868,Austria,AT
 132868,Bangladesh,BD
@@ -16130,72 +16031,105 @@ licence_id,source,iso2
 132868,Turkey,TR
 132868,Ukraine,UA
 132868,"United States of America",US
-132870,Albania,AL
-132870,Austria,AT
-132870,Bangladesh,BD
-132870,"Bosnia and Herzegovina",BA
-132870,Brazil,BR
-132870,Bulgaria,BG
-132870,Canada,CA
-132870,China,CN
-132870,Croatia,HR
-132870,Cyprus,CY
-132870,"Czech Republic",CZ
-132870,Egypt,EG
-132870,Estonia,EE
-132870,France,FR
-132870,Germany,DE
-132870,Greece,GR
-132870,India,IN
-132870,Indonesia,ID
-132870,Israel,IL
-132870,Kazakhstan,KZ
-132870,Kenya,KE
-132870,Pakistan,PK
-132870,Philippines,PH
-132870,Poland,PL
-132870,Romania,RO
-132870,Serbia,RS
-132870,Slovakia,SK
-132870,Slovenia,SI
-132870,"South Korea",KR
-132870,Thailand,TH
-132870,Turkey,TR
-132870,Ukraine,UA
-132870,"United States of America",US
-132872,Albania,AL
-132872,Austria,AT
-132872,Bangladesh,BD
-132872,"Bosnia and Herzegovina",BA
-132872,Brazil,BR
-132872,Bulgaria,BG
-132872,Canada,CA
-132872,China,CN
-132872,Croatia,HR
-132872,Cyprus,CY
-132872,"Czech Republic",CZ
-132872,Egypt,EG
-132872,Estonia,EE
-132872,France,FR
-132872,Germany,DE
-132872,Greece,GR
-132872,India,IN
-132872,Indonesia,ID
-132872,Israel,IL
-132872,Kazakhstan,KZ
-132872,Kenya,KE
-132872,Pakistan,PK
-132872,Philippines,PH
-132872,Poland,PL
-132872,Romania,RO
-132872,Serbia,RS
-132872,Slovakia,SK
-132872,Slovenia,SI
-132872,"South Korea",KR
-132872,Thailand,TH
-132872,Turkey,TR
-132872,Ukraine,UA
-132872,"United States of America",US
+132869,Albania,AL
+132869,Austria,AT
+132869,Bangladesh,BD
+132869,"Bosnia and Herzegovina",BA
+132869,Brazil,BR
+132869,Bulgaria,BG
+132869,Canada,CA
+132869,China,CN
+132869,Croatia,HR
+132869,Cyprus,CY
+132869,"Czech Republic",CZ
+132869,Egypt,EG
+132869,Estonia,EE
+132869,France,FR
+132869,Germany,DE
+132869,Greece,GR
+132869,India,IN
+132869,Indonesia,ID
+132869,Israel,IL
+132869,Kazakhstan,KZ
+132869,Kenya,KE
+132869,Pakistan,PK
+132869,Philippines,PH
+132869,Poland,PL
+132869,Romania,RO
+132869,Serbia,RS
+132869,Slovakia,SK
+132869,Slovenia,SI
+132869,"South Korea",KR
+132869,Thailand,TH
+132869,Turkey,TR
+132869,Ukraine,UA
+132869,"United States of America",US
+132871,Albania,AL
+132871,Austria,AT
+132871,Bangladesh,BD
+132871,"Bosnia and Herzegovina",BA
+132871,Brazil,BR
+132871,Bulgaria,BG
+132871,Canada,CA
+132871,China,CN
+132871,Croatia,HR
+132871,Cyprus,CY
+132871,"Czech Republic",CZ
+132871,Egypt,EG
+132871,Estonia,EE
+132871,France,FR
+132871,Germany,DE
+132871,Greece,GR
+132871,India,IN
+132871,Indonesia,ID
+132871,Israel,IL
+132871,Kazakhstan,KZ
+132871,Kenya,KE
+132871,Pakistan,PK
+132871,Philippines,PH
+132871,Poland,PL
+132871,Romania,RO
+132871,Serbia,RS
+132871,Slovakia,SK
+132871,Slovenia,SI
+132871,"South Korea",KR
+132871,Thailand,TH
+132871,Turkey,TR
+132871,Ukraine,UA
+132871,"United States of America",US
+132873,Albania,AL
+132873,Austria,AT
+132873,Bangladesh,BD
+132873,"Bosnia and Herzegovina",BA
+132873,Brazil,BR
+132873,Bulgaria,BG
+132873,Canada,CA
+132873,China,CN
+132873,Croatia,HR
+132873,Cyprus,CY
+132873,"Czech Republic",CZ
+132873,Egypt,EG
+132873,Estonia,EE
+132873,France,FR
+132873,Germany,DE
+132873,Greece,GR
+132873,India,IN
+132873,Indonesia,ID
+132873,Israel,IL
+132873,Kazakhstan,KZ
+132873,Kenya,KE
+132873,Pakistan,PK
+132873,Philippines,PH
+132873,Poland,PL
+132873,Romania,RO
+132873,Serbia,RS
+132873,Slovakia,SK
+132873,Slovenia,SI
+132873,"South Korea",KR
+132873,Thailand,TH
+132873,Turkey,TR
+132873,Ukraine,UA
+132873,"United States of America",US
 132875,Albania,AL
 132875,Austria,AT
 132875,Bangladesh,BD
@@ -16229,171 +16163,138 @@ licence_id,source,iso2
 132875,Turkey,TR
 132875,Ukraine,UA
 132875,"United States of America",US
-132878,Albania,AL
-132878,Austria,AT
-132878,Bangladesh,BD
-132878,"Bosnia and Herzegovina",BA
-132878,Brazil,BR
-132878,Bulgaria,BG
-132878,Canada,CA
-132878,China,CN
-132878,Croatia,HR
-132878,Cyprus,CY
-132878,"Czech Republic",CZ
-132878,Egypt,EG
-132878,Estonia,EE
-132878,France,FR
-132878,Germany,DE
-132878,Greece,GR
-132878,India,IN
-132878,Indonesia,ID
-132878,Israel,IL
-132878,Kazakhstan,KZ
-132878,Kenya,KE
-132878,Pakistan,PK
-132878,Philippines,PH
-132878,Poland,PL
-132878,Romania,RO
-132878,Serbia,RS
-132878,Slovakia,SK
-132878,Slovenia,SI
-132878,"South Korea",KR
-132878,Thailand,TH
-132878,Turkey,TR
-132878,Ukraine,UA
-132878,"United States of America",US
-132879,Albania,AL
-132879,Austria,AT
-132879,Bangladesh,BD
-132879,"Bosnia and Herzegovina",BA
-132879,Brazil,BR
-132879,Bulgaria,BG
-132879,Canada,CA
-132879,China,CN
-132879,Croatia,HR
-132879,Cyprus,CY
-132879,"Czech Republic",CZ
-132879,Egypt,EG
-132879,Estonia,EE
-132879,France,FR
-132879,Germany,DE
-132879,Greece,GR
-132879,India,IN
-132879,Indonesia,ID
-132879,Israel,IL
-132879,Kazakhstan,KZ
-132879,Kenya,KE
-132879,Pakistan,PK
-132879,Philippines,PH
-132879,Poland,PL
-132879,Romania,RO
-132879,Serbia,RS
-132879,Slovakia,SK
-132879,Slovenia,SI
-132879,"South Korea",KR
-132879,Thailand,TH
-132879,Turkey,TR
-132879,Ukraine,UA
-132879,"United States of America",US
-132885,Albania,AL
-132885,Austria,AT
-132885,Bangladesh,BD
-132885,"Bosnia and Herzegovina",BA
-132885,Brazil,BR
-132885,Bulgaria,BG
-132885,Canada,CA
-132885,China,CN
-132885,Croatia,HR
-132885,Cyprus,CY
-132885,"Czech Republic",CZ
-132885,Egypt,EG
-132885,Estonia,EE
-132885,France,FR
-132885,Germany,DE
-132885,Greece,GR
-132885,India,IN
-132885,Indonesia,ID
-132885,Israel,IL
-132885,Kazakhstan,KZ
-132885,Kenya,KE
-132885,Pakistan,PK
-132885,Philippines,PH
-132885,Poland,PL
-132885,Romania,RO
-132885,Serbia,RS
-132885,Slovakia,SK
-132885,Slovenia,SI
-132885,"South Korea",KR
-132885,Thailand,TH
-132885,Turkey,TR
-132885,Ukraine,UA
-132885,"United States of America",US
-132886,Albania,AL
-132886,Austria,AT
-132886,Bangladesh,BD
-132886,"Bosnia and Herzegovina",BA
-132886,Brazil,BR
-132886,Bulgaria,BG
-132886,Canada,CA
-132886,China,CN
-132886,Croatia,HR
-132886,Cyprus,CY
-132886,"Czech Republic",CZ
-132886,Egypt,EG
-132886,Estonia,EE
-132886,France,FR
-132886,Germany,DE
-132886,Greece,GR
-132886,India,IN
-132886,Indonesia,ID
-132886,Israel,IL
-132886,Kazakhstan,KZ
-132886,Kenya,KE
-132886,Pakistan,PK
-132886,Philippines,PH
-132886,Poland,PL
-132886,Romania,RO
-132886,Serbia,RS
-132886,Slovakia,SK
-132886,Slovenia,SI
-132886,"South Korea",KR
-132886,Thailand,TH
-132886,Turkey,TR
-132886,Ukraine,UA
-132886,"United States of America",US
-132888,Albania,AL
-132888,Austria,AT
-132888,Bangladesh,BD
-132888,"Bosnia and Herzegovina",BA
-132888,Brazil,BR
-132888,Bulgaria,BG
-132888,Canada,CA
-132888,China,CN
-132888,Croatia,HR
-132888,Cyprus,CY
-132888,"Czech Republic",CZ
-132888,Egypt,EG
-132888,Estonia,EE
-132888,France,FR
-132888,Germany,DE
-132888,Greece,GR
-132888,India,IN
-132888,Indonesia,ID
-132888,Israel,IL
-132888,Kazakhstan,KZ
-132888,Kenya,KE
-132888,Pakistan,PK
-132888,Philippines,PH
-132888,Poland,PL
-132888,Romania,RO
-132888,Serbia,RS
-132888,Slovakia,SK
-132888,Slovenia,SI
-132888,"South Korea",KR
-132888,Thailand,TH
-132888,Turkey,TR
-132888,Ukraine,UA
-132888,"United States of America",US
+132877,Albania,AL
+132877,Austria,AT
+132877,Bangladesh,BD
+132877,"Bosnia and Herzegovina",BA
+132877,Brazil,BR
+132877,Bulgaria,BG
+132877,Canada,CA
+132877,China,CN
+132877,Croatia,HR
+132877,Cyprus,CY
+132877,"Czech Republic",CZ
+132877,Egypt,EG
+132877,Estonia,EE
+132877,France,FR
+132877,Germany,DE
+132877,Greece,GR
+132877,India,IN
+132877,Indonesia,ID
+132877,Israel,IL
+132877,Kazakhstan,KZ
+132877,Kenya,KE
+132877,Pakistan,PK
+132877,Philippines,PH
+132877,Poland,PL
+132877,Romania,RO
+132877,Serbia,RS
+132877,Slovakia,SK
+132877,Slovenia,SI
+132877,"South Korea",KR
+132877,Thailand,TH
+132877,Turkey,TR
+132877,Ukraine,UA
+132877,"United States of America",US
+132880,Albania,AL
+132880,Austria,AT
+132880,Bangladesh,BD
+132880,"Bosnia and Herzegovina",BA
+132880,Brazil,BR
+132880,Bulgaria,BG
+132880,Canada,CA
+132880,China,CN
+132880,Croatia,HR
+132880,Cyprus,CY
+132880,"Czech Republic",CZ
+132880,Egypt,EG
+132880,Estonia,EE
+132880,France,FR
+132880,Germany,DE
+132880,Greece,GR
+132880,India,IN
+132880,Indonesia,ID
+132880,Israel,IL
+132880,Kazakhstan,KZ
+132880,Kenya,KE
+132880,Pakistan,PK
+132880,Philippines,PH
+132880,Poland,PL
+132880,Romania,RO
+132880,Serbia,RS
+132880,Slovakia,SK
+132880,Slovenia,SI
+132880,"South Korea",KR
+132880,Thailand,TH
+132880,Turkey,TR
+132880,Ukraine,UA
+132880,"United States of America",US
+132883,Albania,AL
+132883,Austria,AT
+132883,Bangladesh,BD
+132883,"Bosnia and Herzegovina",BA
+132883,Brazil,BR
+132883,Bulgaria,BG
+132883,Canada,CA
+132883,China,CN
+132883,Croatia,HR
+132883,Cyprus,CY
+132883,"Czech Republic",CZ
+132883,Egypt,EG
+132883,Estonia,EE
+132883,France,FR
+132883,Germany,DE
+132883,Greece,GR
+132883,India,IN
+132883,Indonesia,ID
+132883,Israel,IL
+132883,Kazakhstan,KZ
+132883,Kenya,KE
+132883,Pakistan,PK
+132883,Philippines,PH
+132883,Poland,PL
+132883,Romania,RO
+132883,Serbia,RS
+132883,Slovakia,SK
+132883,Slovenia,SI
+132883,"South Korea",KR
+132883,Thailand,TH
+132883,Turkey,TR
+132883,Ukraine,UA
+132883,"United States of America",US
+132884,Albania,AL
+132884,Austria,AT
+132884,Bangladesh,BD
+132884,"Bosnia and Herzegovina",BA
+132884,Brazil,BR
+132884,Bulgaria,BG
+132884,Canada,CA
+132884,China,CN
+132884,Croatia,HR
+132884,Cyprus,CY
+132884,"Czech Republic",CZ
+132884,Egypt,EG
+132884,Estonia,EE
+132884,France,FR
+132884,Germany,DE
+132884,Greece,GR
+132884,India,IN
+132884,Indonesia,ID
+132884,Israel,IL
+132884,Kazakhstan,KZ
+132884,Kenya,KE
+132884,Pakistan,PK
+132884,Philippines,PH
+132884,Poland,PL
+132884,Romania,RO
+132884,Serbia,RS
+132884,Slovakia,SK
+132884,Slovenia,SI
+132884,"South Korea",KR
+132884,Thailand,TH
+132884,Turkey,TR
+132884,Ukraine,UA
+132884,"United States of America",US
 132890,Albania,AL
 132890,Austria,AT
 132890,Bangladesh,BD
@@ -16460,210 +16361,480 @@ licence_id,source,iso2
 132891,Turkey,TR
 132891,Ukraine,UA
 132891,"United States of America",US
-132898,Albania,AL
-132898,Austria,AT
-132898,Bangladesh,BD
-132898,"Bosnia and Herzegovina",BA
-132898,Brazil,BR
-132898,Bulgaria,BG
-132898,Canada,CA
-132898,China,CN
-132898,Croatia,HR
-132898,Cyprus,CY
-132898,"Czech Republic",CZ
-132898,Egypt,EG
-132898,Estonia,EE
-132898,France,FR
-132898,Germany,DE
-132898,Greece,GR
-132898,India,IN
-132898,Indonesia,ID
-132898,Israel,IL
-132898,Kazakhstan,KZ
-132898,Kenya,KE
-132898,Pakistan,PK
-132898,Philippines,PH
-132898,Poland,PL
-132898,Romania,RO
-132898,Serbia,RS
-132898,Slovakia,SK
-132898,Slovenia,SI
-132898,"South Korea",KR
-132898,Thailand,TH
-132898,Turkey,TR
-132898,Ukraine,UA
-132898,"United States of America",US
-132899,Albania,AL
-132899,Austria,AT
-132899,Bangladesh,BD
-132899,"Bosnia and Herzegovina",BA
-132899,Brazil,BR
-132899,Bulgaria,BG
-132899,Canada,CA
-132899,China,CN
-132899,Croatia,HR
-132899,Cyprus,CY
-132899,"Czech Republic",CZ
-132899,Egypt,EG
-132899,Estonia,EE
-132899,France,FR
-132899,Germany,DE
-132899,Greece,GR
-132899,India,IN
-132899,Indonesia,ID
-132899,Israel,IL
-132899,Kazakhstan,KZ
-132899,Kenya,KE
-132899,Pakistan,PK
-132899,Philippines,PH
-132899,Poland,PL
-132899,Romania,RO
-132899,Serbia,RS
-132899,Slovakia,SK
-132899,Slovenia,SI
-132899,"South Korea",KR
-132899,Thailand,TH
-132899,Turkey,TR
-132899,Ukraine,UA
-132899,"United States of America",US
-132900,Albania,AL
-132900,Austria,AT
-132900,Bangladesh,BD
-132900,"Bosnia and Herzegovina",BA
-132900,Brazil,BR
-132900,Bulgaria,BG
-132900,Canada,CA
-132900,China,CN
-132900,Croatia,HR
-132900,Cyprus,CY
-132900,"Czech Republic",CZ
-132900,Egypt,EG
-132900,Estonia,EE
-132900,France,FR
-132900,Germany,DE
-132900,Greece,GR
-132900,India,IN
-132900,Indonesia,ID
-132900,Israel,IL
-132900,Kazakhstan,KZ
-132900,Kenya,KE
-132900,Pakistan,PK
-132900,Philippines,PH
-132900,Poland,PL
-132900,Romania,RO
-132900,Serbia,RS
-132900,Slovakia,SK
-132900,Slovenia,SI
-132900,"South Korea",KR
-132900,Thailand,TH
-132900,Turkey,TR
-132900,Ukraine,UA
-132900,"United States of America",US
-133010,"United States of America",US
-133071,Jordan,JO
-133091,Poland,PL
-133111,Turkey,TR
-133136,Switzerland,CH
-133192,"South Korea",KR
-133197,Colombia,CO
-133284,Comoros,KM
-133314,"South Africa",ZA
-133315,Brazil,BR
-133389,Brazil,BR
-133449,"Sri Lanka",LK
-133480,Belgium,BE
-133518,Belgium,BE
-133542,"Hong Kong Special Administrative Region",HK
-133706,Japan,JP
-133812,Turkey,TR
-133838,China,CN
-133891,Poland,PL
-133921,Spain,ES
-133921,Sweden,SE
-133926,Finland,FI
-133944,Canada,CA
-133985,Pakistan,PK
-134011,Singapore,SG
-134067,Comoros,KM
-134113,Comoros,KM
-134128,Oman,OM
-134141,"Vessel and/or Platform in International Waters",
-134148,"Vessel and/or Platform in International Waters",
-134149,"Vessel and/or Platform in International Waters",
-134159,"Vessel and/or Platform in International Waters",
-134163,"Vessel and/or Platform in International Waters",
+132893,Albania,AL
+132893,Austria,AT
+132893,Bangladesh,BD
+132893,"Bosnia and Herzegovina",BA
+132893,Brazil,BR
+132893,Bulgaria,BG
+132893,Canada,CA
+132893,China,CN
+132893,Croatia,HR
+132893,Cyprus,CY
+132893,"Czech Republic",CZ
+132893,Egypt,EG
+132893,Estonia,EE
+132893,France,FR
+132893,Germany,DE
+132893,Greece,GR
+132893,India,IN
+132893,Indonesia,ID
+132893,Israel,IL
+132893,Kazakhstan,KZ
+132893,Kenya,KE
+132893,Pakistan,PK
+132893,Philippines,PH
+132893,Poland,PL
+132893,Romania,RO
+132893,Serbia,RS
+132893,Slovakia,SK
+132893,Slovenia,SI
+132893,"South Korea",KR
+132893,Thailand,TH
+132893,Turkey,TR
+132893,Ukraine,UA
+132893,"United States of America",US
+132895,Albania,AL
+132895,Austria,AT
+132895,Bangladesh,BD
+132895,"Bosnia and Herzegovina",BA
+132895,Brazil,BR
+132895,Bulgaria,BG
+132895,Canada,CA
+132895,China,CN
+132895,Croatia,HR
+132895,Cyprus,CY
+132895,"Czech Republic",CZ
+132895,Egypt,EG
+132895,Estonia,EE
+132895,France,FR
+132895,Germany,DE
+132895,Greece,GR
+132895,India,IN
+132895,Indonesia,ID
+132895,Israel,IL
+132895,Kazakhstan,KZ
+132895,Kenya,KE
+132895,Pakistan,PK
+132895,Philippines,PH
+132895,Poland,PL
+132895,Romania,RO
+132895,Serbia,RS
+132895,Slovakia,SK
+132895,Slovenia,SI
+132895,"South Korea",KR
+132895,Thailand,TH
+132895,Turkey,TR
+132895,Ukraine,UA
+132895,"United States of America",US
+132896,Albania,AL
+132896,Austria,AT
+132896,Bangladesh,BD
+132896,"Bosnia and Herzegovina",BA
+132896,Brazil,BR
+132896,Bulgaria,BG
+132896,Canada,CA
+132896,China,CN
+132896,Croatia,HR
+132896,Cyprus,CY
+132896,"Czech Republic",CZ
+132896,Egypt,EG
+132896,Estonia,EE
+132896,France,FR
+132896,Germany,DE
+132896,Greece,GR
+132896,India,IN
+132896,Indonesia,ID
+132896,Israel,IL
+132896,Kazakhstan,KZ
+132896,Kenya,KE
+132896,Pakistan,PK
+132896,Philippines,PH
+132896,Poland,PL
+132896,Romania,RO
+132896,Serbia,RS
+132896,Slovakia,SK
+132896,Slovenia,SI
+132896,"South Korea",KR
+132896,Thailand,TH
+132896,Turkey,TR
+132896,Ukraine,UA
+132896,"United States of America",US
+132903,Albania,AL
+132903,Austria,AT
+132903,Bangladesh,BD
+132903,"Bosnia and Herzegovina",BA
+132903,Brazil,BR
+132903,Bulgaria,BG
+132903,Canada,CA
+132903,China,CN
+132903,Croatia,HR
+132903,Cyprus,CY
+132903,"Czech Republic",CZ
+132903,Egypt,EG
+132903,Estonia,EE
+132903,France,FR
+132903,Germany,DE
+132903,Greece,GR
+132903,India,IN
+132903,Indonesia,ID
+132903,Israel,IL
+132903,Kazakhstan,KZ
+132903,Kenya,KE
+132903,Pakistan,PK
+132903,Philippines,PH
+132903,Poland,PL
+132903,Romania,RO
+132903,Serbia,RS
+132903,Slovakia,SK
+132903,Slovenia,SI
+132903,"South Korea",KR
+132903,Thailand,TH
+132903,Turkey,TR
+132903,Ukraine,UA
+132903,"United States of America",US
+132904,Albania,AL
+132904,Austria,AT
+132904,Bangladesh,BD
+132904,"Bosnia and Herzegovina",BA
+132904,Brazil,BR
+132904,Bulgaria,BG
+132904,Canada,CA
+132904,China,CN
+132904,Croatia,HR
+132904,Cyprus,CY
+132904,"Czech Republic",CZ
+132904,Egypt,EG
+132904,Estonia,EE
+132904,France,FR
+132904,Germany,DE
+132904,Greece,GR
+132904,India,IN
+132904,Indonesia,ID
+132904,Israel,IL
+132904,Kazakhstan,KZ
+132904,Kenya,KE
+132904,Pakistan,PK
+132904,Philippines,PH
+132904,Poland,PL
+132904,Romania,RO
+132904,Serbia,RS
+132904,Slovakia,SK
+132904,Slovenia,SI
+132904,"South Korea",KR
+132904,Thailand,TH
+132904,Turkey,TR
+132904,Ukraine,UA
+132904,"United States of America",US
+132905,Albania,AL
+132905,Austria,AT
+132905,Bangladesh,BD
+132905,"Bosnia and Herzegovina",BA
+132905,Brazil,BR
+132905,Bulgaria,BG
+132905,Canada,CA
+132905,China,CN
+132905,Croatia,HR
+132905,Cyprus,CY
+132905,"Czech Republic",CZ
+132905,Egypt,EG
+132905,Estonia,EE
+132905,France,FR
+132905,Germany,DE
+132905,Greece,GR
+132905,India,IN
+132905,Indonesia,ID
+132905,Israel,IL
+132905,Kazakhstan,KZ
+132905,Kenya,KE
+132905,Pakistan,PK
+132905,Philippines,PH
+132905,Poland,PL
+132905,Romania,RO
+132905,Serbia,RS
+132905,Slovakia,SK
+132905,Slovenia,SI
+132905,"South Korea",KR
+132905,Thailand,TH
+132905,Turkey,TR
+132905,Ukraine,UA
+132905,"United States of America",US
+133015,"United States of America",US
+133076,Jordan,JO
+133096,Poland,PL
+133116,Turkey,TR
+133141,Switzerland,CH
+133197,"South Korea",KR
+133202,Colombia,CO
+133289,Comoros,KM
+133319,"South Africa",ZA
+133320,Brazil,BR
+133394,Brazil,BR
+133454,"Sri Lanka",LK
+133485,Belgium,BE
+133523,Belgium,BE
+133547,"Hong Kong Special Administrative Region",HK
+133711,Japan,JP
+133817,Turkey,TR
+133843,China,CN
+133896,Poland,PL
+133926,Spain,ES
+133926,Sweden,SE
+133931,Finland,FI
+133949,Canada,CA
+133990,Pakistan,PK
+134016,Singapore,SG
+134072,Comoros,KM
+134118,Comoros,KM
+134133,Oman,OM
+134146,"Vessel and/or Platform in International Waters",
+134153,"Vessel and/or Platform in International Waters",
+134154,"Vessel and/or Platform in International Waters",
 134164,"Vessel and/or Platform in International Waters",
-134165,"Vessel and/or Platform in International Waters",
-134166,"Vessel and/or Platform in International Waters",
+134168,"Vessel and/or Platform in International Waters",
 134169,"Vessel and/or Platform in International Waters",
-134172,"Vessel and/or Platform in International Waters",
-134176,"Vessel and/or Platform in International Waters",
+134170,"Vessel and/or Platform in International Waters",
+134171,"Vessel and/or Platform in International Waters",
+134174,"Vessel and/or Platform in International Waters",
 134177,"Vessel and/or Platform in International Waters",
-134180,"Vessel and/or Platform in International Waters",
 134181,"Vessel and/or Platform in International Waters",
-134182,"Sri Lanka",LK
-134188,"Vessel and/or Platform in International Waters",
-134196,Comoros,KM
-134196,Djibouti,DJ
-134196,Kenya,KE
-134196,Madagascar,MG
-134196,Malaysia,MY
-134196,Maldives,MV
-134196,Mauritius,MU
-134196,Mozambique,MZ
-134196,Oman,OM
-134196,Seychelles,SC
-134196,Singapore,SG
-134196,"South Africa",ZA
-134196,"Sri Lanka",LK
-134196,Tanzania,TZ
-134196,"Vessel and/or Platform in International Waters",
-134197,"Vessel and/or Platform in International Waters",
-134213,Romania,RO
-134215,Switzerland,CH
-134221,"Vessel and/or Platform in International Waters",
-134222,"Vessel and/or Platform in International Waters",
-134236,"South Africa",ZA
-134259,Comoros,KM
-134259,Djibouti,DJ
-134259,Kenya,KE
-134259,Madagascar,MG
-134259,Malaysia,MY
-134259,Maldives,MV
-134259,Mauritius,MU
-134259,Mozambique,MZ
-134259,Oman,OM
-134259,Seychelles,SC
-134259,Singapore,SG
-134259,"South Africa",ZA
-134259,"Sri Lanka",LK
-134259,Tanzania,TZ
-134259,"Vessel and/or Platform in International Waters",
-134270,Hungary,HU
-134303,Ireland,IE
-134318,"United States of America",US
-134411,Djibouti,DJ
-134427,France,FR
-134427,Italy,IT
-134433,France,FR
-134433,Italy,IT
-134522,"Vessel and/or Platform in International Waters",
-134615,Netherlands,NL
-134645,"Vessel and/or Platform in International Waters",
-134667,Brazil,BR
-134769,"United States of America",US
-134771,"South Africa",ZA
-134802,"Czech Republic",CZ
-134821,Germany,DE
-134922,Belgium,BE
-134922,China,CN
-134922,Denmark,DK
-134922,Estonia,EE
-134922,France,FR
-134922,Germany,DE
-134922,Italy,IT
-134922,Netherlands,NL
-134922,Portugal,PT
-134922,Russia,RU
-134922,"South Korea",KR
-134922,Switzerland,CH
+134182,"Vessel and/or Platform in International Waters",
+134185,"Vessel and/or Platform in International Waters",
+134186,"Vessel and/or Platform in International Waters",
+134187,"Sri Lanka",LK
+134193,"Vessel and/or Platform in International Waters",
+134201,Comoros,KM
+134201,Djibouti,DJ
+134201,Kenya,KE
+134201,Madagascar,MG
+134201,Malaysia,MY
+134201,Maldives,MV
+134201,Mauritius,MU
+134201,Mozambique,MZ
+134201,Oman,OM
+134201,Seychelles,SC
+134201,Singapore,SG
+134201,"South Africa",ZA
+134201,"Sri Lanka",LK
+134201,Tanzania,TZ
+134201,"Vessel and/or Platform in International Waters",
+134202,"Vessel and/or Platform in International Waters",
+134218,Romania,RO
+134220,Switzerland,CH
+134226,"Vessel and/or Platform in International Waters",
+134227,"Vessel and/or Platform in International Waters",
+134241,"South Africa",ZA
+134264,Comoros,KM
+134264,Djibouti,DJ
+134264,Kenya,KE
+134264,Madagascar,MG
+134264,Malaysia,MY
+134264,Maldives,MV
+134264,Mauritius,MU
+134264,Mozambique,MZ
+134264,Oman,OM
+134264,Seychelles,SC
+134264,Singapore,SG
+134264,"South Africa",ZA
+134264,"Sri Lanka",LK
+134264,Tanzania,TZ
+134264,"Vessel and/or Platform in International Waters",
+134275,Hungary,HU
+134308,Ireland,IE
+134323,"United States of America",US
+134416,Djibouti,DJ
+134432,France,FR
+134432,Italy,IT
+134438,France,FR
+134438,Italy,IT
+134527,"Vessel and/or Platform in International Waters",
+134620,Netherlands,NL
+134650,"Vessel and/or Platform in International Waters",
+134672,Brazil,BR
+134774,"United States of America",US
+134776,"South Africa",ZA
+134807,"Czech Republic",CZ
+134826,Germany,DE
+134927,Belgium,BE
+134927,China,CN
+134927,Denmark,DK
+134927,Estonia,EE
+134927,France,FR
+134927,Germany,DE
+134927,Italy,IT
+134927,Netherlands,NL
+134927,Portugal,PT
+134927,Russia,RU
+134927,"South Korea",KR
+134927,Switzerland,CH
+135211,"Czech Republic",CZ
+135272,Canada,CA
+135373,China,CN
+135491,Malaysia,MY
+135494,Malaysia,MY
+135497,Malaysia,MY
+135502,Malaysia,MY
+135504,Malaysia,MY
+135508,Malaysia,MY
+135511,Malaysia,MY
+135513,Malaysia,MY
+135552,"South Africa",ZA
+135579,"United States of America",US
+135625,Serbia,RS
+135727,"Vessel and/or Platform in International Waters",
+135729,Bulgaria,BG
+135781,Serbia,RS
+135791,Israel,IL
+135791,Qatar,QA
+135791,Switzerland,CH
+135799,"New Zealand",NZ
+135801,Israel,IL
+135801,Qatar,QA
+135801,Switzerland,CH
+135809,Israel,IL
+135809,Qatar,QA
+135809,Switzerland,CH
+136068,Spain,ES
+136119,"Vessel and/or Platform in International Waters",
+136290,Indonesia,ID
+136290,Singapore,SG
+136307,India,IN
+136381,Bulgaria,BG
+136434,Bulgaria,BG
+136612,Jordan,JO
+136634,Serbia,RS
+136765,"Vessel and/or Platform in International Waters",
+136846,Belgium,BE
+136846,China,CN
+136846,"Czech Republic",CZ
+136846,France,FR
+136846,"United States of America",US
+136847,Belgium,BE
+136847,China,CN
+136847,"Czech Republic",CZ
+136847,France,FR
+136847,"United States of America",US
+136849,Belgium,BE
+136849,China,CN
+136849,"Czech Republic",CZ
+136849,France,FR
+136849,"United States of America",US
+136850,Belgium,BE
+136850,China,CN
+136850,"Czech Republic",CZ
+136850,France,FR
+136850,"United States of America",US
+136853,Belgium,BE
+136853,China,CN
+136853,"Czech Republic",CZ
+136853,France,FR
+136853,"United States of America",US
+136857,Belgium,BE
+136857,China,CN
+136857,"Czech Republic",CZ
+136857,France,FR
+136857,"United States of America",US
+136860,Belgium,BE
+136860,China,CN
+136860,"Czech Republic",CZ
+136860,France,FR
+136860,"United States of America",US
+136864,Belgium,BE
+136864,China,CN
+136864,"Czech Republic",CZ
+136864,France,FR
+136864,"United States of America",US
+136872,Belgium,BE
+136872,China,CN
+136872,"Czech Republic",CZ
+136872,France,FR
+136872,"United States of America",US
+136873,Belgium,BE
+136873,China,CN
+136873,"Czech Republic",CZ
+136873,France,FR
+136873,"United States of America",US
+136874,Belgium,BE
+136874,China,CN
+136874,"Czech Republic",CZ
+136874,France,FR
+136874,"United States of America",US
+136875,Belgium,BE
+136875,China,CN
+136875,"Czech Republic",CZ
+136875,France,FR
+136875,"United States of America",US
+136876,Belgium,BE
+136876,China,CN
+136876,"Czech Republic",CZ
+136876,France,FR
+136876,"United States of America",US
+136877,Belgium,BE
+136877,China,CN
+136877,"Czech Republic",CZ
+136877,France,FR
+136877,"United States of America",US
+136879,Belgium,BE
+136879,China,CN
+136879,"Czech Republic",CZ
+136879,France,FR
+136879,"United States of America",US
+136883,Belgium,BE
+136883,China,CN
+136883,"Czech Republic",CZ
+136883,France,FR
+136883,"United States of America",US
+136884,Belgium,BE
+136884,China,CN
+136884,"Czech Republic",CZ
+136884,France,FR
+136884,"United States of America",US
+136889,Belgium,BE
+136889,China,CN
+136889,"Czech Republic",CZ
+136889,France,FR
+136889,"United States of America",US
+136891,Belgium,BE
+136891,China,CN
+136891,"Czech Republic",CZ
+136891,France,FR
+136891,"United States of America",US
+136893,Belgium,BE
+136893,China,CN
+136893,"Czech Republic",CZ
+136893,France,FR
+136893,"United States of America",US
+136896,Belgium,BE
+136896,China,CN
+136896,"Czech Republic",CZ
+136896,France,FR
+136896,"United States of America",US
+136899,Belgium,BE
+136899,China,CN
+136899,"Czech Republic",CZ
+136899,France,FR
+136899,"United States of America",US
+136901,Belgium,BE
+136901,China,CN
+136901,"Czech Republic",CZ
+136901,France,FR
+136901,"United States of America",US
+136906,Belgium,BE
+136906,China,CN
+136906,"Czech Republic",CZ
+136906,France,FR
+136906,"United States of America",US
+136907,Belgium,BE
+136907,China,CN
+136907,"Czech Republic",CZ
+136907,France,FR
+136907,"United States of America",US
+137063,Djibouti,DJ
+137178,"United States of America",US
+137223,Bulgaria,BG
+137274,"South Sudan",SS
+137289,Spain,ES
+137328,"United States of America",US
+137329,Djibouti,DJ
+137369,Brazil,BR
+137373,Turkey,TR
