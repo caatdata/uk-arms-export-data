@@ -63084,1787 +63084,1815 @@ licence_id,destination,iso2
 116362,"United Kingdom",GB
 116407,Chile,CL
 116407,Jordan,JO
-116487,Australia,AU
-116487,Austria,AT
-116487,Belgium,BE
-116487,Bulgaria,BG
-116487,Canada,CA
-116487,Croatia,HR
-116487,Cyprus,CY
-116487,"Czech Republic",CZ
-116487,Denmark,DK
-116487,Estonia,EE
-116487,Finland,FI
-116487,Germany,DE
-116487,Greece,GR
-116487,Hungary,HU
-116487,Iceland,IS
-116487,Ireland,IE
-116487,Italy,IT
-116487,Japan,JP
-116487,Luxembourg,LU
-116487,Malta,MT
-116487,Netherlands,NL
-116487,"New Zealand",NZ
-116487,Norway,NO
-116487,Poland,PL
-116487,Portugal,PT
-116487,Romania,RO
-116487,Slovakia,SK
-116487,Slovenia,SI
-116487,Spain,ES
-116487,Sweden,SE
-116487,Switzerland,CH
-116487,"United Kingdom",GB
-116487,"United States of America",US
-116495,Australia,AU
-116495,Belgium,BE
-116495,Brazil,BR
-116495,Finland,FI
-116495,France,FR
-116495,Germany,DE
-116495,Greece,GR
-116495,Netherlands,NL
-116495,"New Zealand",NZ
-116495,Norway,NO
-116495,Oman,OM
-116495,Portugal,PT
-116495,Spain,ES
-116495,Sweden,SE
-116495,"United Kingdom",GB
-116500,France,FR
-116500,Japan,JP
-116500,"United Kingdom",GB
-116540,Australia,AU
-116540,Belgium,BE
-116540,Brazil,BR
-116540,Finland,FI
-116540,France,FR
-116540,Germany,DE
-116540,Greece,GR
-116540,Netherlands,NL
-116540,"New Zealand",NZ
-116540,Norway,NO
-116540,Oman,OM
-116540,Portugal,PT
-116540,Spain,ES
-116540,Sweden,SE
-116540,"United Kingdom",GB
-116615,Australia,AU
-116615,Belgium,BE
-116615,Brazil,BR
-116615,Finland,FI
-116615,France,FR
-116615,Germany,DE
-116615,Greece,GR
-116615,Netherlands,NL
-116615,"New Zealand",NZ
-116615,Norway,NO
-116615,Oman,OM
-116615,Portugal,PT
-116615,Spain,ES
-116615,Sweden,SE
-116615,"United Kingdom",GB
-116630,Chile,CL
-116630,Jordan,JO
-116648,Australia,AU
-116648,Austria,AT
-116648,Belgium,BE
-116648,Bulgaria,BG
-116648,Canada,CA
-116648,Croatia,HR
-116648,Cyprus,CY
-116648,"Czech Republic",CZ
-116648,Denmark,DK
-116648,Estonia,EE
-116648,Finland,FI
-116648,Germany,DE
-116648,Greece,GR
-116648,Hungary,HU
-116648,Iceland,IS
-116648,Ireland,IE
-116648,Italy,IT
-116648,Japan,JP
-116648,Luxembourg,LU
-116648,Malta,MT
-116648,Netherlands,NL
-116648,"New Zealand",NZ
-116648,Norway,NO
-116648,Poland,PL
-116648,Portugal,PT
-116648,Romania,RO
-116648,Slovakia,SK
-116648,Slovenia,SI
-116648,Spain,ES
-116648,Sweden,SE
-116648,Switzerland,CH
-116648,"United Kingdom",GB
-116648,"United States of America",US
-116666,Chile,CL
-116666,Italy,IT
-116666,Jordan,JO
-116696,Australia,AU
-116696,Belgium,BE
-116696,Brazil,BR
-116696,Finland,FI
-116696,France,FR
-116696,Germany,DE
-116696,Greece,GR
-116696,Netherlands,NL
-116696,"New Zealand",NZ
-116696,Norway,NO
-116696,Oman,OM
-116696,Portugal,PT
-116696,Spain,ES
-116696,Sweden,SE
-116696,"United Kingdom",GB
-116711,Chile,CL
-116711,Jordan,JO
-116721,Australia,AU
-116721,Bahrain,BH
-116721,Bulgaria,BG
-116721,Canada,CA
-116721,Chad,TD
-116721,Denmark,DK
-116721,France,FR
-116721,Greece,GR
-116721,India,IN
-116721,Iraq,IQ
-116721,Israel,IL
-116721,Italy,IT
-116721,Kuwait,KW
-116721,Lithuania,LT
-116721,Luxembourg,LU
-116721,Mexico,MX
-116721,Morocco,MA
-116721,Norway,NO
-116721,Oman,OM
-116721,Peru,PE
-116721,Portugal,PT
-116721,Qatar,QA
-116721,Romania,RO
-116721,"Saudi Arabia",SA
-116721,Slovakia,SK
-116721,"South Korea",KR
-116721,Tunisia,TN
-116721,"United Kingdom",GB
-116721,Zambia,ZM
-116738,Australia,AU
-116738,Belgium,BE
-116738,Finland,FI
-116738,France,FR
-116738,Germany,DE
-116738,Greece,GR
-116738,Netherlands,NL
-116738,"New Zealand",NZ
-116738,Norway,NO
-116738,Oman,OM
-116738,Portugal,PT
-116738,Spain,ES
-116738,Sweden,SE
-116738,"United Kingdom",GB
-116752,Chile,CL
-116752,Jordan,JO
-116848,Chile,CL
-116848,Jordan,JO
-116878,Australia,AU
-116878,Belgium,BE
-116878,Finland,FI
-116878,France,FR
-116878,Germany,DE
-116878,Greece,GR
-116878,Netherlands,NL
-116878,"New Zealand",NZ
-116878,Norway,NO
-116878,Oman,OM
-116878,Portugal,PT
-116878,Spain,ES
-116878,Sweden,SE
-116878,"United Kingdom",GB
-116895,Chile,CL
-116895,Jordan,JO
-116954,Australia,AU
-116954,Belgium,BE
-116954,Finland,FI
-116954,France,FR
-116954,Germany,DE
-116954,Greece,GR
-116954,Netherlands,NL
-116954,"New Zealand",NZ
-116954,Norway,NO
-116954,Oman,OM
-116954,Portugal,PT
-116954,Spain,ES
-116954,Sweden,SE
-116954,"United Kingdom",GB
-116996,Australia,AU
-116996,Belgium,BE
-116996,Finland,FI
-116996,France,FR
-116996,Germany,DE
-116996,Greece,GR
-116996,Netherlands,NL
-116996,"New Zealand",NZ
-116996,Norway,NO
-116996,Oman,OM
-116996,Portugal,PT
-116996,Spain,ES
-116996,Sweden,SE
-116996,"United Kingdom",GB
-117018,Chile,CL
-117018,Jordan,JO
-117061,Australia,AU
-117061,Belgium,BE
-117061,Finland,FI
-117061,France,FR
-117061,Germany,DE
-117061,Greece,GR
-117061,Netherlands,NL
-117061,"New Zealand",NZ
-117061,Norway,NO
-117061,Oman,OM
-117061,Portugal,PT
-117061,Spain,ES
-117061,Sweden,SE
-117061,"United Kingdom",GB
-117108,Australia,AU
-117108,Belgium,BE
-117108,Finland,FI
-117108,France,FR
-117108,Germany,DE
-117108,Greece,GR
-117108,Netherlands,NL
-117108,"New Zealand",NZ
-117108,Norway,NO
-117108,Oman,OM
-117108,Portugal,PT
-117108,Spain,ES
-117108,Sweden,SE
-117108,"United Kingdom",GB
-117143,Australia,AU
-117143,Austria,AT
-117143,Belgium,BE
-117143,Bulgaria,BG
-117143,Canada,CA
-117143,Croatia,HR
-117143,Cyprus,CY
-117143,"Czech Republic",CZ
-117143,Denmark,DK
-117143,Estonia,EE
-117143,Finland,FI
-117143,Germany,DE
-117143,Greece,GR
-117143,Hungary,HU
-117143,Iceland,IS
-117143,Ireland,IE
-117143,Italy,IT
-117143,Japan,JP
-117143,Luxembourg,LU
-117143,Malta,MT
-117143,Netherlands,NL
-117143,"New Zealand",NZ
-117143,Norway,NO
-117143,Poland,PL
-117143,Portugal,PT
-117143,Romania,RO
-117143,Slovakia,SK
-117143,Slovenia,SI
-117143,Spain,ES
-117143,Sweden,SE
-117143,Switzerland,CH
-117143,"United Kingdom",GB
-117143,"United States of America",US
-117202,Australia,AU
-117202,Belgium,BE
-117202,Finland,FI
-117202,France,FR
-117202,Germany,DE
-117202,Greece,GR
-117202,Netherlands,NL
-117202,"New Zealand",NZ
-117202,Norway,NO
-117202,Oman,OM
-117202,Portugal,PT
-117202,Spain,ES
-117202,Sweden,SE
-117202,"United Kingdom",GB
-117240,"United Kingdom",GB
-117278,Australia,AU
-117278,Austria,AT
-117278,Belgium,BE
-117278,Bulgaria,BG
-117278,Canada,CA
-117278,Croatia,HR
-117278,Cyprus,CY
-117278,"Czech Republic",CZ
-117278,Denmark,DK
-117278,Estonia,EE
-117278,Finland,FI
-117278,Germany,DE
-117278,Greece,GR
-117278,Hungary,HU
-117278,Iceland,IS
-117278,Ireland,IE
-117278,Italy,IT
-117278,Japan,JP
-117278,Luxembourg,LU
-117278,Malta,MT
-117278,Netherlands,NL
-117278,"New Zealand",NZ
-117278,Norway,NO
-117278,Poland,PL
-117278,Portugal,PT
-117278,Romania,RO
-117278,Slovakia,SK
-117278,Slovenia,SI
-117278,Spain,ES
-117278,Sweden,SE
-117278,Switzerland,CH
-117278,"United Kingdom",GB
-117278,"United States of America",US
-117333,"United Kingdom",GB
-117408,Australia,AU
-117408,Austria,AT
-117408,Belgium,BE
-117408,Bulgaria,BG
-117408,Canada,CA
-117408,Croatia,HR
-117408,Cyprus,CY
-117408,"Czech Republic",CZ
-117408,Denmark,DK
-117408,Estonia,EE
-117408,Finland,FI
-117408,Germany,DE
-117408,Greece,GR
-117408,Hungary,HU
-117408,Iceland,IS
-117408,Ireland,IE
-117408,Italy,IT
-117408,Japan,JP
-117408,Luxembourg,LU
-117408,Malta,MT
-117408,Netherlands,NL
-117408,"New Zealand",NZ
-117408,Norway,NO
-117408,Poland,PL
-117408,Portugal,PT
-117408,Romania,RO
-117408,Slovakia,SK
-117408,Slovenia,SI
-117408,Spain,ES
-117408,Sweden,SE
-117408,Switzerland,CH
-117408,"United Kingdom",GB
-117408,"United States of America",US
-117604,Switzerland,CH
-117607,"United Kingdom",GB
-117724,"United Kingdom",GB
-117778,"United Kingdom",GB
-117782,Australia,AU
-117782,Belgium,BE
-117782,Finland,FI
-117782,France,FR
-117782,Germany,DE
-117782,Greece,GR
-117782,Netherlands,NL
-117782,"New Zealand",NZ
-117782,Norway,NO
-117782,Oman,OM
-117782,Portugal,PT
-117782,Spain,ES
-117782,Sweden,SE
-117782,"United Kingdom",GB
-117824,"United Kingdom",GB
-117864,"United Kingdom",GB
-117865,"United Kingdom",GB
-117971,Australia,AU
-117971,Belgium,BE
-117971,Finland,FI
-117971,France,FR
-117971,Germany,DE
-117971,Greece,GR
-117971,Netherlands,NL
-117971,"New Zealand",NZ
-117971,Norway,NO
-117971,Oman,OM
-117971,Portugal,PT
-117971,Spain,ES
-117971,Sweden,SE
-117971,"United Kingdom",GB
-118035,"United Kingdom",GB
-118111,"United Kingdom",GB
-118120,Australia,AU
-118120,Belgium,BE
-118120,Finland,FI
-118120,France,FR
-118120,Germany,DE
-118120,Greece,GR
-118120,Netherlands,NL
-118120,"New Zealand",NZ
-118120,Norway,NO
-118120,Oman,OM
-118120,Portugal,PT
-118120,Spain,ES
-118120,Sweden,SE
-118120,"United Kingdom",GB
-118139,Australia,AU
-118139,Japan,JP
-118139,"South Korea",KR
-118168,"United Kingdom",GB
-118180,"United Kingdom",GB
-118211,"United Kingdom",GB
-118214,Australia,AU
-118214,Belgium,BE
-118214,Finland,FI
-118214,France,FR
-118214,Germany,DE
-118214,Greece,GR
-118214,Netherlands,NL
-118214,"New Zealand",NZ
-118214,Norway,NO
-118214,Oman,OM
-118214,Portugal,PT
-118214,Spain,ES
-118214,Sweden,SE
+116490,Australia,AU
+116490,Austria,AT
+116490,Belgium,BE
+116490,Bulgaria,BG
+116490,Canada,CA
+116490,Croatia,HR
+116490,Cyprus,CY
+116490,"Czech Republic",CZ
+116490,Denmark,DK
+116490,Estonia,EE
+116490,Finland,FI
+116490,Germany,DE
+116490,Greece,GR
+116490,Hungary,HU
+116490,Iceland,IS
+116490,Ireland,IE
+116490,Italy,IT
+116490,Japan,JP
+116490,Luxembourg,LU
+116490,Malta,MT
+116490,Netherlands,NL
+116490,"New Zealand",NZ
+116490,Norway,NO
+116490,Poland,PL
+116490,Portugal,PT
+116490,Romania,RO
+116490,Slovakia,SK
+116490,Slovenia,SI
+116490,Spain,ES
+116490,Sweden,SE
+116490,Switzerland,CH
+116490,"United Kingdom",GB
+116490,"United States of America",US
+116498,Australia,AU
+116498,Belgium,BE
+116498,Brazil,BR
+116498,Finland,FI
+116498,France,FR
+116498,Germany,DE
+116498,Greece,GR
+116498,Netherlands,NL
+116498,"New Zealand",NZ
+116498,Norway,NO
+116498,Oman,OM
+116498,Portugal,PT
+116498,Spain,ES
+116498,Sweden,SE
+116498,"United Kingdom",GB
+116503,France,FR
+116503,Japan,JP
+116503,"United Kingdom",GB
+116543,Australia,AU
+116543,Belgium,BE
+116543,Brazil,BR
+116543,Finland,FI
+116543,France,FR
+116543,Germany,DE
+116543,Greece,GR
+116543,Netherlands,NL
+116543,"New Zealand",NZ
+116543,Norway,NO
+116543,Oman,OM
+116543,Portugal,PT
+116543,Spain,ES
+116543,Sweden,SE
+116543,"United Kingdom",GB
+116618,Australia,AU
+116618,Belgium,BE
+116618,Brazil,BR
+116618,Finland,FI
+116618,France,FR
+116618,Germany,DE
+116618,Greece,GR
+116618,Netherlands,NL
+116618,"New Zealand",NZ
+116618,Norway,NO
+116618,Oman,OM
+116618,Portugal,PT
+116618,Spain,ES
+116618,Sweden,SE
+116618,"United Kingdom",GB
+116633,Chile,CL
+116633,Jordan,JO
+116651,Australia,AU
+116651,Austria,AT
+116651,Belgium,BE
+116651,Bulgaria,BG
+116651,Canada,CA
+116651,Croatia,HR
+116651,Cyprus,CY
+116651,"Czech Republic",CZ
+116651,Denmark,DK
+116651,Estonia,EE
+116651,Finland,FI
+116651,Germany,DE
+116651,Greece,GR
+116651,Hungary,HU
+116651,Iceland,IS
+116651,Ireland,IE
+116651,Italy,IT
+116651,Japan,JP
+116651,Luxembourg,LU
+116651,Malta,MT
+116651,Netherlands,NL
+116651,"New Zealand",NZ
+116651,Norway,NO
+116651,Poland,PL
+116651,Portugal,PT
+116651,Romania,RO
+116651,Slovakia,SK
+116651,Slovenia,SI
+116651,Spain,ES
+116651,Sweden,SE
+116651,Switzerland,CH
+116651,"United Kingdom",GB
+116651,"United States of America",US
+116669,Chile,CL
+116669,Italy,IT
+116669,Jordan,JO
+116699,Australia,AU
+116699,Belgium,BE
+116699,Brazil,BR
+116699,Finland,FI
+116699,France,FR
+116699,Germany,DE
+116699,Greece,GR
+116699,Netherlands,NL
+116699,"New Zealand",NZ
+116699,Norway,NO
+116699,Oman,OM
+116699,Portugal,PT
+116699,Spain,ES
+116699,Sweden,SE
+116699,"United Kingdom",GB
+116714,Chile,CL
+116714,Jordan,JO
+116724,Australia,AU
+116724,Bahrain,BH
+116724,Bulgaria,BG
+116724,Canada,CA
+116724,Chad,TD
+116724,Denmark,DK
+116724,France,FR
+116724,Greece,GR
+116724,India,IN
+116724,Iraq,IQ
+116724,Israel,IL
+116724,Italy,IT
+116724,Kuwait,KW
+116724,Lithuania,LT
+116724,Luxembourg,LU
+116724,Mexico,MX
+116724,Morocco,MA
+116724,Norway,NO
+116724,Oman,OM
+116724,Peru,PE
+116724,Portugal,PT
+116724,Qatar,QA
+116724,Romania,RO
+116724,"Saudi Arabia",SA
+116724,Slovakia,SK
+116724,"South Korea",KR
+116724,Tunisia,TN
+116724,"United Kingdom",GB
+116724,Zambia,ZM
+116741,Australia,AU
+116741,Belgium,BE
+116741,Finland,FI
+116741,France,FR
+116741,Germany,DE
+116741,Greece,GR
+116741,Netherlands,NL
+116741,"New Zealand",NZ
+116741,Norway,NO
+116741,Oman,OM
+116741,Portugal,PT
+116741,Spain,ES
+116741,Sweden,SE
+116741,"United Kingdom",GB
+116755,Chile,CL
+116755,Jordan,JO
+116851,Chile,CL
+116851,Jordan,JO
+116881,Australia,AU
+116881,Belgium,BE
+116881,Finland,FI
+116881,France,FR
+116881,Germany,DE
+116881,Greece,GR
+116881,Netherlands,NL
+116881,"New Zealand",NZ
+116881,Norway,NO
+116881,Oman,OM
+116881,Portugal,PT
+116881,Spain,ES
+116881,Sweden,SE
+116881,"United Kingdom",GB
+116898,Chile,CL
+116898,Jordan,JO
+116957,Australia,AU
+116957,Belgium,BE
+116957,Finland,FI
+116957,France,FR
+116957,Germany,DE
+116957,Greece,GR
+116957,Netherlands,NL
+116957,"New Zealand",NZ
+116957,Norway,NO
+116957,Oman,OM
+116957,Portugal,PT
+116957,Spain,ES
+116957,Sweden,SE
+116957,"United Kingdom",GB
+116999,Australia,AU
+116999,Belgium,BE
+116999,Finland,FI
+116999,France,FR
+116999,Germany,DE
+116999,Greece,GR
+116999,Netherlands,NL
+116999,"New Zealand",NZ
+116999,Norway,NO
+116999,Oman,OM
+116999,Portugal,PT
+116999,Spain,ES
+116999,Sweden,SE
+116999,"United Kingdom",GB
+117021,Chile,CL
+117021,Jordan,JO
+117064,Australia,AU
+117064,Belgium,BE
+117064,Finland,FI
+117064,France,FR
+117064,Germany,DE
+117064,Greece,GR
+117064,Netherlands,NL
+117064,"New Zealand",NZ
+117064,Norway,NO
+117064,Oman,OM
+117064,Portugal,PT
+117064,Spain,ES
+117064,Sweden,SE
+117064,"United Kingdom",GB
+117111,Australia,AU
+117111,Belgium,BE
+117111,Finland,FI
+117111,France,FR
+117111,Germany,DE
+117111,Greece,GR
+117111,Netherlands,NL
+117111,"New Zealand",NZ
+117111,Norway,NO
+117111,Oman,OM
+117111,Portugal,PT
+117111,Spain,ES
+117111,Sweden,SE
+117111,"United Kingdom",GB
+117146,Australia,AU
+117146,Austria,AT
+117146,Belgium,BE
+117146,Bulgaria,BG
+117146,Canada,CA
+117146,Croatia,HR
+117146,Cyprus,CY
+117146,"Czech Republic",CZ
+117146,Denmark,DK
+117146,Estonia,EE
+117146,Finland,FI
+117146,Germany,DE
+117146,Greece,GR
+117146,Hungary,HU
+117146,Iceland,IS
+117146,Ireland,IE
+117146,Italy,IT
+117146,Japan,JP
+117146,Luxembourg,LU
+117146,Malta,MT
+117146,Netherlands,NL
+117146,"New Zealand",NZ
+117146,Norway,NO
+117146,Poland,PL
+117146,Portugal,PT
+117146,Romania,RO
+117146,Slovakia,SK
+117146,Slovenia,SI
+117146,Spain,ES
+117146,Sweden,SE
+117146,Switzerland,CH
+117146,"United Kingdom",GB
+117146,"United States of America",US
+117205,Australia,AU
+117205,Belgium,BE
+117205,Finland,FI
+117205,France,FR
+117205,Germany,DE
+117205,Greece,GR
+117205,Netherlands,NL
+117205,"New Zealand",NZ
+117205,Norway,NO
+117205,Oman,OM
+117205,Portugal,PT
+117205,Spain,ES
+117205,Sweden,SE
+117205,"United Kingdom",GB
+117243,"United Kingdom",GB
+117281,Australia,AU
+117281,Austria,AT
+117281,Belgium,BE
+117281,Bulgaria,BG
+117281,Canada,CA
+117281,Croatia,HR
+117281,Cyprus,CY
+117281,"Czech Republic",CZ
+117281,Denmark,DK
+117281,Estonia,EE
+117281,Finland,FI
+117281,Germany,DE
+117281,Greece,GR
+117281,Hungary,HU
+117281,Iceland,IS
+117281,Ireland,IE
+117281,Italy,IT
+117281,Japan,JP
+117281,Luxembourg,LU
+117281,Malta,MT
+117281,Netherlands,NL
+117281,"New Zealand",NZ
+117281,Norway,NO
+117281,Poland,PL
+117281,Portugal,PT
+117281,Romania,RO
+117281,Slovakia,SK
+117281,Slovenia,SI
+117281,Spain,ES
+117281,Sweden,SE
+117281,Switzerland,CH
+117281,"United Kingdom",GB
+117281,"United States of America",US
+117336,"United Kingdom",GB
+117411,Australia,AU
+117411,Austria,AT
+117411,Belgium,BE
+117411,Bulgaria,BG
+117411,Canada,CA
+117411,Croatia,HR
+117411,Cyprus,CY
+117411,"Czech Republic",CZ
+117411,Denmark,DK
+117411,Estonia,EE
+117411,Finland,FI
+117411,Germany,DE
+117411,Greece,GR
+117411,Hungary,HU
+117411,Iceland,IS
+117411,Ireland,IE
+117411,Italy,IT
+117411,Japan,JP
+117411,Luxembourg,LU
+117411,Malta,MT
+117411,Netherlands,NL
+117411,"New Zealand",NZ
+117411,Norway,NO
+117411,Poland,PL
+117411,Portugal,PT
+117411,Romania,RO
+117411,Slovakia,SK
+117411,Slovenia,SI
+117411,Spain,ES
+117411,Sweden,SE
+117411,Switzerland,CH
+117411,"United Kingdom",GB
+117411,"United States of America",US
+117607,Switzerland,CH
+117610,"United Kingdom",GB
+117727,"United Kingdom",GB
+117781,"United Kingdom",GB
+117785,Australia,AU
+117785,Belgium,BE
+117785,Finland,FI
+117785,France,FR
+117785,Germany,DE
+117785,Greece,GR
+117785,Netherlands,NL
+117785,"New Zealand",NZ
+117785,Norway,NO
+117785,Oman,OM
+117785,Portugal,PT
+117785,Spain,ES
+117785,Sweden,SE
+117785,"United Kingdom",GB
+117827,"United Kingdom",GB
+117867,"United Kingdom",GB
+117868,"United Kingdom",GB
+117974,Australia,AU
+117974,Belgium,BE
+117974,Finland,FI
+117974,France,FR
+117974,Germany,DE
+117974,Greece,GR
+117974,Netherlands,NL
+117974,"New Zealand",NZ
+117974,Norway,NO
+117974,Oman,OM
+117974,Portugal,PT
+117974,Spain,ES
+117974,Sweden,SE
+117974,"United Kingdom",GB
+118038,"United Kingdom",GB
+118114,"United Kingdom",GB
+118123,Australia,AU
+118123,Belgium,BE
+118123,Finland,FI
+118123,France,FR
+118123,Germany,DE
+118123,Greece,GR
+118123,Netherlands,NL
+118123,"New Zealand",NZ
+118123,Norway,NO
+118123,Oman,OM
+118123,Portugal,PT
+118123,Spain,ES
+118123,Sweden,SE
+118123,"United Kingdom",GB
+118142,Australia,AU
+118142,Japan,JP
+118142,"South Korea",KR
+118171,"United Kingdom",GB
+118183,"United Kingdom",GB
 118214,"United Kingdom",GB
-118245,"United Kingdom",GB
-118470,Australia,AU
-118470,Botswana,BW
-118470,Brunei,BN
-118470,Bulgaria,BG
-118470,Croatia,HR
-118470,Germany,DE
-118470,India,IN
-118470,Ireland,IE
-118470,Malaysia,MY
-118470,Mexico,MX
-118470,Oman,OM
-118470,Qatar,QA
-118470,Slovenia,SI
-118470,"South Africa",ZA
-118470,Thailand,TH
-118470,"United Arab Emirates",AE
-118470,"United Kingdom",GB
-118597,"United Kingdom",GB
-118632,"United Kingdom",GB
-118670,Australia,AU
-118670,Bulgaria,BG
-118670,Chad,TD
-118670,Greece,GR
-118670,Italy,IT
-118670,Kenya,KE
-118670,Lithuania,LT
-118670,Luxembourg,LU
-118670,Mexico,MX
-118670,Morocco,MA
-118670,Peru,PE
-118670,Portugal,PT
-118670,Romania,RO
-118670,Slovakia,SK
-118670,Zambia,ZM
-118706,"United Kingdom",GB
-118719,Australia,AU
-118719,Botswana,BW
-118719,Brunei,BN
-118719,Bulgaria,BG
-118719,Croatia,HR
-118719,Germany,DE
-118719,India,IN
-118719,Ireland,IE
-118719,Malaysia,MY
-118719,Mexico,MX
-118719,Oman,OM
-118719,Qatar,QA
-118719,Slovenia,SI
-118719,"South Africa",ZA
-118719,Thailand,TH
-118719,"United Arab Emirates",AE
-118719,"United Kingdom",GB
+118217,Australia,AU
+118217,Belgium,BE
+118217,Finland,FI
+118217,France,FR
+118217,Germany,DE
+118217,Greece,GR
+118217,Netherlands,NL
+118217,"New Zealand",NZ
+118217,Norway,NO
+118217,Oman,OM
+118217,Portugal,PT
+118217,Spain,ES
+118217,Sweden,SE
+118217,"United Kingdom",GB
+118248,"United Kingdom",GB
+118473,Australia,AU
+118473,Botswana,BW
+118473,Brunei,BN
+118473,Bulgaria,BG
+118473,Croatia,HR
+118473,Germany,DE
+118473,India,IN
+118473,Ireland,IE
+118473,Malaysia,MY
+118473,Mexico,MX
+118473,Oman,OM
+118473,Qatar,QA
+118473,Slovenia,SI
+118473,"South Africa",ZA
+118473,Thailand,TH
+118473,"United Arab Emirates",AE
+118473,"United Kingdom",GB
+118600,"United Kingdom",GB
+118635,"United Kingdom",GB
+118673,Australia,AU
+118673,Bulgaria,BG
+118673,Chad,TD
+118673,Greece,GR
+118673,Italy,IT
+118673,Kenya,KE
+118673,Lithuania,LT
+118673,Luxembourg,LU
+118673,Mexico,MX
+118673,Morocco,MA
+118673,Peru,PE
+118673,Portugal,PT
+118673,Romania,RO
+118673,Slovakia,SK
+118673,Zambia,ZM
+118709,"United Kingdom",GB
 118722,Australia,AU
+118722,Botswana,BW
+118722,Brunei,BN
 118722,Bulgaria,BG
-118722,Chad,TD
-118722,Greece,GR
-118722,Italy,IT
-118722,Kenya,KE
-118722,Lithuania,LT
-118722,Luxembourg,LU
+118722,Croatia,HR
+118722,Germany,DE
+118722,India,IN
+118722,Ireland,IE
+118722,Malaysia,MY
 118722,Mexico,MX
-118722,Morocco,MA
-118722,Peru,PE
-118722,Portugal,PT
-118722,Romania,RO
-118722,Slovakia,SK
-118722,Zambia,ZM
-118774,"United Kingdom",GB
-118793,Australia,AU
-118793,Japan,JP
-118793,"South Korea",KR
-118803,Australia,AU
-118803,Bulgaria,BG
-118803,Chad,TD
-118803,Greece,GR
-118803,Italy,IT
-118803,Kenya,KE
-118803,Lithuania,LT
-118803,Luxembourg,LU
-118803,Mexico,MX
-118803,Morocco,MA
-118803,Peru,PE
-118803,Portugal,PT
-118803,Romania,RO
-118803,Slovakia,SK
-118803,Zambia,ZM
-118836,Australia,AU
-118836,Botswana,BW
-118836,Brunei,BN
-118836,Bulgaria,BG
-118836,Croatia,HR
-118836,Germany,DE
-118836,India,IN
-118836,Ireland,IE
-118836,Malaysia,MY
-118836,Mexico,MX
-118836,Oman,OM
-118836,Qatar,QA
-118836,Slovenia,SI
-118836,"South Africa",ZA
-118836,Thailand,TH
-118836,"United Arab Emirates",AE
-118836,"United Kingdom",GB
-118840,Australia,AU
-118840,Bulgaria,BG
-118840,Chad,TD
-118840,Greece,GR
-118840,Italy,IT
-118840,Kenya,KE
-118840,Lithuania,LT
-118840,Luxembourg,LU
-118840,Mexico,MX
-118840,Morocco,MA
-118840,Peru,PE
-118840,Portugal,PT
-118840,Romania,RO
-118840,Slovakia,SK
-118840,Zambia,ZM
-118860,Australia,AU
-118860,Belgium,BE
-118860,Finland,FI
-118860,France,FR
-118860,Germany,DE
-118860,Greece,GR
-118860,Netherlands,NL
-118860,"New Zealand",NZ
-118860,Norway,NO
-118860,Oman,OM
-118860,Portugal,PT
-118860,Spain,ES
-118860,Sweden,SE
-118860,"United Kingdom",GB
-118868,"United Kingdom",GB
-118912,"United Kingdom",GB
-118927,Australia,AU
-118927,Botswana,BW
-118927,Brunei,BN
-118927,Bulgaria,BG
-118927,Croatia,HR
-118927,Germany,DE
-118927,India,IN
-118927,Ireland,IE
-118927,Malaysia,MY
-118927,Mexico,MX
-118927,Oman,OM
-118927,Qatar,QA
-118927,Slovenia,SI
-118927,"South Africa",ZA
-118927,Thailand,TH
-118927,"United Arab Emirates",AE
-118927,"United Kingdom",GB
-118965,Australia,AU
-118965,Bulgaria,BG
-118965,Chad,TD
-118965,Greece,GR
-118965,Italy,IT
-118965,Kenya,KE
-118965,Lithuania,LT
-118965,Luxembourg,LU
-118965,Mexico,MX
-118965,Morocco,MA
-118965,Peru,PE
-118965,Portugal,PT
-118965,Romania,RO
-118965,Slovakia,SK
-118965,Zambia,ZM
-119042,Australia,AU
-119042,Bulgaria,BG
-119042,Chad,TD
-119042,Greece,GR
-119042,Italy,IT
-119042,Kenya,KE
-119042,Lithuania,LT
-119042,Luxembourg,LU
-119042,Mexico,MX
-119042,Morocco,MA
-119042,Peru,PE
-119042,Portugal,PT
-119042,Romania,RO
-119042,Slovakia,SK
-119042,Zambia,ZM
-119087,Australia,AU
-119087,Belgium,BE
-119087,Finland,FI
-119087,France,FR
-119087,Germany,DE
-119087,Greece,GR
-119087,Netherlands,NL
-119087,"New Zealand",NZ
-119087,Norway,NO
-119087,Oman,OM
-119087,Portugal,PT
-119087,Spain,ES
-119087,Sweden,SE
-119087,"United Kingdom",GB
-119138,Australia,AU
-119138,Bulgaria,BG
-119138,Chad,TD
-119138,Greece,GR
-119138,Italy,IT
-119138,Kenya,KE
-119138,Lithuania,LT
-119138,Luxembourg,LU
-119138,Mexico,MX
-119138,Morocco,MA
-119138,Peru,PE
-119138,Portugal,PT
-119138,Romania,RO
-119138,Slovakia,SK
-119138,Zambia,ZM
-119157,"United Kingdom",GB
-119167,Australia,AU
-119167,Botswana,BW
-119167,Brunei,BN
-119167,Bulgaria,BG
-119167,Croatia,HR
-119167,Germany,DE
-119167,India,IN
-119167,Ireland,IE
-119167,Malaysia,MY
-119167,Mexico,MX
-119167,Oman,OM
-119167,Qatar,QA
-119167,Slovenia,SI
-119167,"South Africa",ZA
-119167,Thailand,TH
-119167,"United Arab Emirates",AE
-119167,"United Kingdom",GB
-119175,Australia,AU
-119175,Bulgaria,BG
-119175,Chad,TD
-119175,Greece,GR
-119175,Italy,IT
-119175,Kenya,KE
-119175,Lithuania,LT
-119175,Luxembourg,LU
-119175,Mexico,MX
-119175,Morocco,MA
-119175,Peru,PE
-119175,Portugal,PT
-119175,Romania,RO
-119175,Slovakia,SK
-119175,Zambia,ZM
-119185,Australia,AU
-119185,Denmark,DK
-119185,Finland,FI
-119185,Germany,DE
-119185,Japan,JP
-119185,Netherlands,NL
-119185,"New Zealand",NZ
-119185,Portugal,PT
-119185,Qatar,QA
-119215,Australia,AU
-119215,Bulgaria,BG
-119215,Chad,TD
-119215,Greece,GR
-119215,Italy,IT
-119215,Kenya,KE
-119215,Lithuania,LT
-119215,Luxembourg,LU
-119215,Mexico,MX
-119215,Morocco,MA
-119215,Peru,PE
-119215,Portugal,PT
-119215,Romania,RO
-119215,Slovakia,SK
-119215,Zambia,ZM
-119232,"United Kingdom",GB
-119244,Australia,AU
-119244,Bulgaria,BG
-119244,Chad,TD
-119244,Greece,GR
-119244,Italy,IT
-119244,Kenya,KE
-119244,Lithuania,LT
-119244,Luxembourg,LU
-119244,Mexico,MX
-119244,Morocco,MA
-119244,Peru,PE
-119244,Portugal,PT
-119244,Romania,RO
-119244,Slovakia,SK
-119244,Zambia,ZM
-119251,Australia,AU
-119251,Denmark,DK
-119251,Finland,FI
-119251,Germany,DE
-119251,Japan,JP
-119251,Netherlands,NL
-119251,"New Zealand",NZ
-119251,Portugal,PT
-119251,Qatar,QA
-119279,Australia,AU
-119279,Bulgaria,BG
-119279,Chad,TD
-119279,Greece,GR
-119279,Italy,IT
-119279,Kenya,KE
-119279,Lithuania,LT
-119279,Luxembourg,LU
-119279,Mexico,MX
-119279,Morocco,MA
-119279,Peru,PE
-119279,Portugal,PT
-119279,Romania,RO
-119279,Slovakia,SK
-119279,Zambia,ZM
-119320,Australia,AU
-119320,Bulgaria,BG
-119320,Chad,TD
-119320,Greece,GR
-119320,Italy,IT
-119320,Kenya,KE
-119320,Lithuania,LT
-119320,Luxembourg,LU
-119320,Mexico,MX
-119320,Morocco,MA
-119320,Peru,PE
-119320,Portugal,PT
-119320,Romania,RO
-119320,Slovakia,SK
-119320,Zambia,ZM
-119337,"United Kingdom",GB
-119380,Australia,AU
-119380,Denmark,DK
-119380,Finland,FI
-119380,Germany,DE
-119380,Japan,JP
-119380,Netherlands,NL
-119380,"New Zealand",NZ
-119380,Portugal,PT
-119380,Qatar,QA
-119423,Australia,AU
-119423,Denmark,DK
-119423,Finland,FI
-119423,Germany,DE
-119423,Japan,JP
-119423,Netherlands,NL
-119423,"New Zealand",NZ
-119423,Portugal,PT
-119423,Qatar,QA
-119443,Australia,AU
-119443,Bulgaria,BG
-119443,Chad,TD
-119443,Greece,GR
-119443,Italy,IT
-119443,Kenya,KE
-119443,Lithuania,LT
-119443,Luxembourg,LU
-119443,Mexico,MX
-119443,Morocco,MA
-119443,Peru,PE
-119443,Portugal,PT
-119443,Romania,RO
-119443,Slovakia,SK
-119443,Zambia,ZM
-119459,"United Kingdom",GB
-119500,"United Kingdom",GB
-119536,Australia,AU
-119536,Denmark,DK
-119536,Finland,FI
-119536,Germany,DE
-119536,Japan,JP
-119536,Netherlands,NL
-119536,"New Zealand",NZ
-119536,Portugal,PT
-119536,Qatar,QA
-119572,Australia,AU
-119572,Denmark,DK
-119572,Finland,FI
-119572,Germany,DE
-119572,Japan,JP
-119572,Netherlands,NL
-119572,"New Zealand",NZ
-119572,Portugal,PT
-119572,Qatar,QA
-119607,Australia,AU
-119607,Denmark,DK
-119607,Finland,FI
-119607,Germany,DE
-119607,Japan,JP
-119607,Netherlands,NL
-119607,"New Zealand",NZ
-119607,Portugal,PT
-119607,Qatar,QA
-119716,Australia,AU
-119716,Bulgaria,BG
-119716,Chad,TD
-119716,Greece,GR
-119716,Italy,IT
-119716,Kenya,KE
-119716,Lithuania,LT
-119716,Luxembourg,LU
-119716,Mexico,MX
-119716,Morocco,MA
-119716,Peru,PE
-119716,Portugal,PT
-119716,Romania,RO
-119716,Slovakia,SK
-119716,Zambia,ZM
-119734,Australia,AU
-119734,Denmark,DK
-119734,Finland,FI
-119734,Germany,DE
-119734,Japan,JP
-119734,Netherlands,NL
-119734,"New Zealand",NZ
-119734,Portugal,PT
-119734,Qatar,QA
-119837,"United Kingdom",GB
-119875,Australia,AU
-119875,Denmark,DK
-119875,Finland,FI
-119875,Germany,DE
-119875,Japan,JP
-119875,Netherlands,NL
-119875,"New Zealand",NZ
-119875,Portugal,PT
-119875,Qatar,QA
-119906,Australia,AU
-119906,Bulgaria,BG
-119906,Chad,TD
-119906,Greece,GR
-119906,Italy,IT
-119906,Kenya,KE
-119906,Lithuania,LT
-119906,Luxembourg,LU
-119906,Mexico,MX
-119906,Morocco,MA
-119906,Peru,PE
-119906,Portugal,PT
-119906,Romania,RO
-119906,Slovakia,SK
-119906,Zambia,ZM
-119984,Australia,AU
-119984,Denmark,DK
-119984,Finland,FI
-119984,Germany,DE
-119984,Japan,JP
-119984,Netherlands,NL
-119984,"New Zealand",NZ
-119984,Portugal,PT
-119984,Qatar,QA
-120049,"United Kingdom",GB
-120073,Australia,AU
-120073,Bulgaria,BG
-120073,Chad,TD
-120073,Greece,GR
-120073,Italy,IT
-120073,Kenya,KE
-120073,Lithuania,LT
-120073,Luxembourg,LU
-120073,Mexico,MX
-120073,Morocco,MA
-120073,Peru,PE
-120073,Portugal,PT
-120073,Romania,RO
-120073,Slovakia,SK
-120073,Zambia,ZM
-120090,Australia,AU
-120090,Denmark,DK
-120090,Finland,FI
-120090,Germany,DE
-120090,Japan,JP
-120090,Netherlands,NL
-120090,"New Zealand",NZ
-120090,Portugal,PT
-120090,Qatar,QA
-120125,Australia,AU
-120125,Bulgaria,BG
-120125,Chad,TD
-120125,Greece,GR
-120125,Italy,IT
-120125,Kenya,KE
-120125,Lithuania,LT
-120125,Luxembourg,LU
-120125,Mexico,MX
-120125,Morocco,MA
-120125,Peru,PE
-120125,Portugal,PT
-120125,Romania,RO
-120125,Slovakia,SK
-120125,Zambia,ZM
-120139,"United Kingdom",GB
-120159,Australia,AU
-120159,Bulgaria,BG
-120159,Chad,TD
-120159,Greece,GR
-120159,Italy,IT
-120159,Kenya,KE
-120159,Lithuania,LT
-120159,Luxembourg,LU
-120159,Mexico,MX
-120159,Morocco,MA
-120159,Peru,PE
-120159,Portugal,PT
-120159,Romania,RO
-120159,Slovakia,SK
-120159,Zambia,ZM
-120376,Australia,AU
-120376,Denmark,DK
-120376,Finland,FI
-120376,Germany,DE
-120376,Japan,JP
-120376,Netherlands,NL
-120376,"New Zealand",NZ
-120376,Portugal,PT
-120376,Qatar,QA
-120428,Australia,AU
-120428,Denmark,DK
-120428,Finland,FI
-120428,Germany,DE
-120428,Japan,JP
-120428,Netherlands,NL
-120428,"New Zealand",NZ
-120428,Portugal,PT
-120428,Qatar,QA
-120826,Australia,AU
-120826,Denmark,DK
-120826,Finland,FI
-120826,Germany,DE
-120826,Japan,JP
-120826,Netherlands,NL
-120826,"New Zealand",NZ
-120826,Portugal,PT
-120826,Qatar,QA
-120889,"United States of America",US
-120945,"United Kingdom",GB
-120977,Australia,AU
-120977,Denmark,DK
-120977,Finland,FI
-120977,Germany,DE
-120977,Japan,JP
-120977,Netherlands,NL
-120977,"New Zealand",NZ
-120977,Portugal,PT
-120977,Qatar,QA
-121122,Australia,AU
-121122,Denmark,DK
-121122,Finland,FI
-121122,Germany,DE
-121122,Japan,JP
-121122,Netherlands,NL
-121122,"New Zealand",NZ
-121122,Portugal,PT
-121122,Qatar,QA
-121170,"United Kingdom",GB
-121189,Australia,AU
-121189,Bulgaria,BG
-121189,Chad,TD
-121189,Greece,GR
-121189,Italy,IT
-121189,Kenya,KE
-121189,Lithuania,LT
-121189,Luxembourg,LU
-121189,Mexico,MX
-121189,Morocco,MA
-121189,Peru,PE
-121189,Portugal,PT
-121189,Romania,RO
-121189,Slovakia,SK
-121189,Zambia,ZM
-121675,Australia,AU
-121675,Denmark,DK
-121675,Finland,FI
-121675,Germany,DE
-121675,Japan,JP
-121675,Netherlands,NL
-121675,"New Zealand",NZ
-121675,Portugal,PT
-121675,Qatar,QA
-121675,"United Kingdom",GB
-121709,Australia,AU
-121709,Denmark,DK
-121709,Finland,FI
-121709,Germany,DE
-121709,Japan,JP
-121709,Netherlands,NL
-121709,"New Zealand",NZ
-121709,Portugal,PT
-121709,Qatar,QA
-121709,"United Kingdom",GB
-121808,Australia,AU
-121808,Denmark,DK
-121808,Finland,FI
-121808,Germany,DE
-121808,Japan,JP
-121808,Netherlands,NL
-121808,"New Zealand",NZ
-121808,Portugal,PT
-121808,Qatar,QA
-121808,"United Kingdom",GB
-121949,Australia,AU
-121949,Denmark,DK
-121949,Finland,FI
-121949,Germany,DE
-121949,Japan,JP
-121949,Netherlands,NL
-121949,"New Zealand",NZ
-121949,Portugal,PT
-121949,Qatar,QA
-121949,"United Kingdom",GB
-122176,Australia,AU
-122176,Denmark,DK
-122176,Finland,FI
-122176,Germany,DE
-122176,Japan,JP
-122176,Netherlands,NL
-122176,"New Zealand",NZ
-122176,Portugal,PT
-122176,Qatar,QA
-122176,"United Kingdom",GB
-122257,Australia,AU
-122257,Denmark,DK
-122257,Finland,FI
-122257,Germany,DE
-122257,Japan,JP
-122257,Netherlands,NL
-122257,"New Zealand",NZ
-122257,Portugal,PT
-122257,Qatar,QA
-122257,"United Kingdom",GB
-122289,"United Kingdom",GB
-122487,Australia,AU
-122487,Denmark,DK
-122487,Finland,FI
-122487,Germany,DE
-122487,Japan,JP
-122487,Netherlands,NL
-122487,"New Zealand",NZ
-122487,Portugal,PT
-122487,Qatar,QA
-122487,"United Kingdom",GB
-123121,Australia,AU
-123121,Denmark,DK
-123121,Finland,FI
-123121,Germany,DE
-123121,Japan,JP
-123121,Netherlands,NL
-123121,"New Zealand",NZ
-123121,Portugal,PT
-123121,Qatar,QA
-123121,"United Kingdom",GB
-123132,Austria,AT
-123132,Germany,DE
-123132,Kuwait,KW
-123132,Oman,OM
-123132,"Saudi Arabia",SA
-123132,Spain,ES
-123132,"United Kingdom",GB
-123145,Austria,AT
-123145,Italy,IT
-123145,"Saudi Arabia",SA
-123145,"United Kingdom",GB
-123172,"United States of America",US
-123176,Austria,AT
-123176,Germany,DE
-123176,Kuwait,KW
-123176,Oman,OM
-123176,"Saudi Arabia",SA
-123176,Spain,ES
-123176,"United Kingdom",GB
-123222,Austria,AT
-123222,Germany,DE
-123222,Kuwait,KW
-123222,Oman,OM
-123222,"Saudi Arabia",SA
-123222,Spain,ES
-123222,"United Kingdom",GB
-123281,Austria,AT
-123281,Italy,IT
-123281,"Saudi Arabia",SA
-123281,"United Kingdom",GB
-123289,Australia,AU
-123289,Brazil,BR
-123289,India,IN
-123289,"South Korea",KR
-123289,Sweden,SE
-123365,Austria,AT
-123365,Italy,IT
-123365,"Saudi Arabia",SA
-123365,"United Kingdom",GB
-123385,Australia,AU
-123385,Brazil,BR
-123385,India,IN
-123385,"South Korea",KR
-123385,Sweden,SE
-123424,Australia,AU
-123424,India,IN
-123424,"South Korea",KR
-123474,Austria,AT
-123474,Italy,IT
-123474,"Saudi Arabia",SA
-123474,"United Kingdom",GB
-123490,Australia,AU
-123490,India,IN
-123490,"South Korea",KR
-123572,Australia,AU
-123572,India,IN
-123572,"South Korea",KR
-123616,"United States of America",US
-123644,Australia,AU
-123644,India,IN
-123644,"South Korea",KR
-123750,Austria,AT
-123750,Italy,IT
-123750,"Saudi Arabia",SA
-123750,"United Kingdom",GB
-123872,Australia,AU
-123872,India,IN
-123872,"South Korea",KR
-123917,Australia,AU
-123917,India,IN
-123917,"South Korea",KR
-123948,Australia,AU
-123948,India,IN
-123948,"South Korea",KR
-123988,Australia,AU
-123988,India,IN
-123988,"South Korea",KR
-124033,Austria,AT
-124033,Italy,IT
-124033,"Saudi Arabia",SA
-124033,"United Kingdom",GB
-124046,Australia,AU
-124046,India,IN
-124046,"South Korea",KR
-124154,Australia,AU
-124154,India,IN
-124154,"South Korea",KR
-124221,Australia,AU
-124221,India,IN
-124221,"South Korea",KR
-124300,Turkey,TR
-124351,Turkey,TR
-124387,Australia,AU
-124387,India,IN
-124387,"South Korea",KR
-124402,Turkey,TR
-124445,Turkey,TR
-124460,Austria,AT
-124460,Italy,IT
-124460,"Saudi Arabia",SA
-124460,"United Kingdom",GB
-124470,Australia,AU
-124470,Bahrain,BH
-124470,Bangladesh,BD
-124470,Brazil,BR
-124470,Canada,CA
-124470,Denmark,DK
-124470,France,FR
-124470,Germany,DE
-124470,India,IN
-124470,Iraq,IQ
-124470,Israel,IL
-124470,Italy,IT
-124470,Kuwait,KW
-124470,Luxembourg,LU
-124470,Norway,NO
-124470,Oman,OM
-124470,Qatar,QA
-124470,"Saudi Arabia",SA
-124470,"South Korea",KR
-124470,Sweden,SE
-124470,Tunisia,TN
-124470,"United Kingdom",GB
-124484,Turkey,TR
-124509,Australia,AU
-124509,Bahrain,BH
-124509,Bangladesh,BD
-124509,Canada,CA
-124509,Denmark,DK
-124509,France,FR
-124509,Germany,DE
-124509,India,IN
-124509,Iraq,IQ
-124509,Israel,IL
-124509,Italy,IT
-124509,Kuwait,KW
-124509,Luxembourg,LU
-124509,Norway,NO
-124509,Oman,OM
-124509,Qatar,QA
-124509,"Saudi Arabia",SA
-124509,"South Korea",KR
-124509,Tunisia,TN
-124509,"United Kingdom",GB
-124632,Turkey,TR
-124711,Australia,AU
-124711,Bahrain,BH
-124711,Bangladesh,BD
-124711,Canada,CA
-124711,Denmark,DK
-124711,France,FR
-124711,Germany,DE
-124711,India,IN
-124711,Iraq,IQ
-124711,Israel,IL
-124711,Italy,IT
-124711,Kuwait,KW
-124711,Luxembourg,LU
-124711,Norway,NO
-124711,Oman,OM
-124711,Qatar,QA
-124711,"Saudi Arabia",SA
-124711,"South Korea",KR
-124711,Tunisia,TN
-124711,"United Kingdom",GB
-124766,Turkey,TR
-124816,Turkey,TR
-124857,"United States of America",US
-124865,Turkey,TR
-124899,Australia,AU
-124899,Bahrain,BH
-124899,Bangladesh,BD
-124899,Canada,CA
-124899,Denmark,DK
-124899,France,FR
-124899,Germany,DE
-124899,India,IN
-124899,Iraq,IQ
-124899,Israel,IL
-124899,Italy,IT
-124899,Kuwait,KW
-124899,Luxembourg,LU
-124899,Norway,NO
-124899,Oman,OM
-124899,Qatar,QA
-124899,"Saudi Arabia",SA
-124899,"South Korea",KR
-124899,Tunisia,TN
-124899,"United Kingdom",GB
-124932,"United States of America",US
-125000,Turkey,TR
-125062,Australia,AU
-125062,Bahrain,BH
-125062,Bangladesh,BD
-125062,Canada,CA
-125062,Denmark,DK
-125062,France,FR
-125062,Germany,DE
-125062,India,IN
-125062,Iraq,IQ
-125062,Israel,IL
-125062,Italy,IT
-125062,Kuwait,KW
-125062,Luxembourg,LU
-125062,Norway,NO
-125062,Oman,OM
-125062,Qatar,QA
-125062,"Saudi Arabia",SA
-125062,"South Korea",KR
-125062,Tunisia,TN
-125062,"United Kingdom",GB
-125087,Turkey,TR
-125116,Australia,AU
-125116,Bahrain,BH
-125116,Bangladesh,BD
-125116,Canada,CA
-125116,Denmark,DK
-125116,France,FR
-125116,Germany,DE
-125116,India,IN
-125116,Iraq,IQ
-125116,Israel,IL
-125116,Italy,IT
-125116,Kuwait,KW
-125116,Luxembourg,LU
-125116,Norway,NO
-125116,Oman,OM
-125116,Qatar,QA
-125116,"Saudi Arabia",SA
-125116,"South Korea",KR
-125116,Tunisia,TN
-125116,"United Kingdom",GB
-125123,"United States of America",US
-125126,Turkey,TR
-125163,"United States of America",US
-125246,Turkey,TR
-125299,Australia,AU
-125299,Bahrain,BH
-125299,Bangladesh,BD
-125299,Canada,CA
-125299,Denmark,DK
-125299,France,FR
-125299,Germany,DE
-125299,India,IN
-125299,Iraq,IQ
-125299,Israel,IL
-125299,Italy,IT
-125299,Kuwait,KW
-125299,Luxembourg,LU
-125299,Norway,NO
-125299,Oman,OM
-125299,Qatar,QA
-125299,"Saudi Arabia",SA
-125299,"South Korea",KR
-125299,Tunisia,TN
-125299,"United Kingdom",GB
-125312,Turkey,TR
-125332,Australia,AU
-125332,Bahrain,BH
-125332,Bangladesh,BD
-125332,Canada,CA
-125332,Denmark,DK
-125332,France,FR
-125332,Germany,DE
-125332,India,IN
-125332,Iraq,IQ
-125332,Israel,IL
-125332,Italy,IT
-125332,Kuwait,KW
-125332,Luxembourg,LU
-125332,Norway,NO
-125332,Oman,OM
-125332,Qatar,QA
-125332,"Saudi Arabia",SA
-125332,"South Korea",KR
-125332,Tunisia,TN
-125332,"United Kingdom",GB
-125367,Turkey,TR
-125402,"United States of America",US
-125412,Turkey,TR
-125455,Australia,AU
-125455,Bahrain,BH
-125455,Bangladesh,BD
-125455,Canada,CA
-125455,Denmark,DK
-125455,France,FR
-125455,Germany,DE
-125455,India,IN
-125455,Iraq,IQ
-125455,Israel,IL
-125455,Italy,IT
-125455,Kuwait,KW
-125455,Luxembourg,LU
-125455,Norway,NO
-125455,Oman,OM
-125455,Qatar,QA
-125455,"Saudi Arabia",SA
-125455,"South Korea",KR
-125455,Tunisia,TN
-125455,"United Kingdom",GB
-125471,Turkey,TR
-125495,Australia,AU
-125495,Bahrain,BH
-125495,Bangladesh,BD
-125495,Canada,CA
-125495,Denmark,DK
-125495,France,FR
-125495,Germany,DE
-125495,India,IN
-125495,Iraq,IQ
-125495,Israel,IL
-125495,Italy,IT
-125495,Kuwait,KW
-125495,Luxembourg,LU
-125495,Norway,NO
-125495,Oman,OM
-125495,Qatar,QA
-125495,"Saudi Arabia",SA
-125495,"South Korea",KR
-125495,Tunisia,TN
-125495,"United Kingdom",GB
-125513,Turkey,TR
-125642,"United States of America",US
-125763,"United States of America",US
-125802,"United States of America",US
-125809,Turkey,TR
-125863,Turkey,TR
-126015,Turkey,TR
-126038,Australia,AU
-126038,Brazil,BR
-126038,Canada,CA
-126038,China,CN
-126038,"Czech Republic",CZ
-126038,India,IN
-126038,Mexico,MX
-126038,Netherlands,NL
-126038,Norway,NO
-126038,Poland,PL
-126038,"South Africa",ZA
-126038,Turkey,TR
-126038,"United Kingdom",GB
-126038,"United States of America",US
-126073,Turkey,TR
-126690,Australia,AU
-126690,Brazil,BR
-126690,Canada,CA
-126690,China,CN
-126690,"Czech Republic",CZ
-126690,India,IN
-126690,Mexico,MX
-126690,Netherlands,NL
-126690,Norway,NO
-126690,Poland,PL
-126690,"South Africa",ZA
-126690,Turkey,TR
-126690,"United Kingdom",GB
-126690,"United States of America",US
-126717,Canada,CA
-126777,Canada,CA
-126837,Canada,CA
-126912,Canada,CA
-127011,Canada,CA
-127057,Canada,CA
-127122,Canada,CA
-127149,Poland,PL
-127181,Canada,CA
-127343,Canada,CA
-127411,Canada,CA
-127561,Canada,CA
-127609,Canada,CA
-128012,Canada,CA
-128048,Canada,CA
-128386,France,FR
-128415,France,FR
-128521,Canada,CA
-128574,Germany,DE
-128725,France,FR
-128808,"United States of America",US
-128841,France,FR
-128855,"United States of America",US
-128873,Brazil,BR
-128873,Portugal,PT
-128882,France,FR
-128966,Canada,CA
-128979,Germany,DE
-129046,Germany,DE
-129105,France,FR
-129226,"United States of America",US
-129259,"United States of America",US
-129268,Germany,DE
-129283,Australia,AU
-129283,Brazil,BR
-129283,Canada,CA
-129283,China,CN
-129283,"Czech Republic",CZ
-129283,India,IN
-129283,Mexico,MX
-129283,Netherlands,NL
-129283,Norway,NO
-129283,Poland,PL
-129283,"South Africa",ZA
-129283,Turkey,TR
-129283,"United Kingdom",GB
-129283,"United States of America",US
-129295,France,FR
-129336,"United Kingdom",GB
-129344,Australia,AU
-129344,Brazil,BR
-129344,Canada,CA
-129344,China,CN
-129344,"Czech Republic",CZ
-129344,India,IN
-129344,Mexico,MX
-129344,Netherlands,NL
-129344,Norway,NO
-129344,Poland,PL
-129344,"South Africa",ZA
-129344,Turkey,TR
-129344,"United Kingdom",GB
-129344,"United States of America",US
-129365,Germany,DE
-129372,Australia,AU
-129372,Brazil,BR
-129372,Canada,CA
-129372,China,CN
-129372,"Czech Republic",CZ
-129372,India,IN
-129372,Mexico,MX
-129372,Netherlands,NL
-129372,Norway,NO
-129372,Poland,PL
-129372,"South Africa",ZA
-129372,Turkey,TR
-129372,"United Kingdom",GB
-129372,"United States of America",US
-129470,"United States of America",US
-129517,"United States of America",US
-129534,Germany,DE
-129622,Australia,AU
-129622,Brazil,BR
-129622,Canada,CA
-129622,China,CN
-129622,"Czech Republic",CZ
-129622,India,IN
-129622,Mexico,MX
-129622,Netherlands,NL
-129622,Norway,NO
-129622,Poland,PL
-129622,"South Africa",ZA
-129622,Turkey,TR
-129622,"United Kingdom",GB
-129622,"United States of America",US
-129689,Australia,AU
-129689,Brazil,BR
-129689,Canada,CA
-129689,China,CN
-129689,"Czech Republic",CZ
-129689,India,IN
-129689,Mexico,MX
-129689,Netherlands,NL
-129689,Norway,NO
-129689,Poland,PL
-129689,"South Africa",ZA
-129689,Turkey,TR
-129689,"United Kingdom",GB
-129689,"United States of America",US
-129725,Australia,AU
-129725,Brazil,BR
-129725,Canada,CA
-129725,China,CN
-129725,"Czech Republic",CZ
-129725,India,IN
-129725,Mexico,MX
-129725,Netherlands,NL
-129725,Norway,NO
-129725,Poland,PL
-129725,"South Africa",ZA
-129725,Turkey,TR
-129725,"United Kingdom",GB
-129725,"United States of America",US
-129745,"United States of America",US
-129805,Australia,AU
-129805,Brazil,BR
-129805,Canada,CA
-129805,China,CN
-129805,"Czech Republic",CZ
-129805,India,IN
-129805,Mexico,MX
-129805,Netherlands,NL
-129805,Norway,NO
-129805,Poland,PL
-129805,"South Africa",ZA
-129805,Turkey,TR
-129805,"United Kingdom",GB
-129805,"United States of America",US
-129981,"United States of America",US
-130014,Australia,AU
-130014,Brazil,BR
-130014,Canada,CA
-130014,China,CN
-130014,"Czech Republic",CZ
-130014,India,IN
-130014,Mexico,MX
-130014,Netherlands,NL
-130014,Norway,NO
-130014,Poland,PL
-130014,"South Africa",ZA
-130014,Turkey,TR
-130014,"United Kingdom",GB
-130014,"United States of America",US
-130172,Canada,CA
-130255,"United States of America",US
-130269,Switzerland,CH
-130317,"United States of America",US
-130350,"United States of America",US
-130362,Canada,CA
-130490,"United States of America",US
-130656,"United States of America",US
-130702,"United States of America",US
-130725,"United Kingdom",GB
-130916,"United States of America",US
-130924,"United Kingdom",GB
-131191,"United States of America",US
-131269,"United Kingdom",GB
-131433,"United States of America",US
-131533,"United States of America",US
-131577,Australia,AU
-131577,Canada,CA
-131577,Denmark,DK
-131577,Israel,IL
-131577,Japan,JP
-131577,Netherlands,NL
-131577,"United Kingdom",GB
-131577,"United States of America",US
-131611,Australia,AU
-131611,Canada,CA
-131611,Denmark,DK
-131611,Israel,IL
-131611,Japan,JP
-131611,Netherlands,NL
-131611,"United Kingdom",GB
-131611,"United States of America",US
-131647,Australia,AU
-131647,Canada,CA
-131647,Denmark,DK
-131647,Israel,IL
-131647,Japan,JP
-131647,Netherlands,NL
-131647,"United Kingdom",GB
-131647,"United States of America",US
-131684,Australia,AU
-131684,Canada,CA
-131684,Denmark,DK
-131684,Israel,IL
-131684,Japan,JP
-131684,Netherlands,NL
-131684,"United Kingdom",GB
-131684,"United States of America",US
-131726,"United States of America",US
-131828,"United States of America",US
-131974,Australia,AU
-131974,Canada,CA
-131974,Denmark,DK
-131974,Israel,IL
-131974,Japan,JP
-131974,Netherlands,NL
-131974,"United Kingdom",GB
-131974,"United States of America",US
-132015,"United States of America",US
-132116,Australia,AU
-132116,Canada,CA
-132116,Denmark,DK
-132116,Israel,IL
-132116,Japan,JP
-132116,Netherlands,NL
-132116,"United Kingdom",GB
-132116,"United States of America",US
-132195,"United Kingdom",GB
-132202,Australia,AU
-132202,Canada,CA
-132202,Denmark,DK
-132202,Israel,IL
-132202,Japan,JP
-132202,Netherlands,NL
-132202,"United Kingdom",GB
-132202,"United States of America",US
-132286,"United Kingdom",GB
-132290,Australia,AU
-132290,Canada,CA
-132290,Denmark,DK
-132290,Israel,IL
-132290,Japan,JP
-132290,Netherlands,NL
-132290,"United Kingdom",GB
-132290,"United States of America",US
-132358,Australia,AU
-132358,Canada,CA
-132358,Denmark,DK
-132358,Israel,IL
-132358,Japan,JP
-132358,Netherlands,NL
-132358,"United Kingdom",GB
-132358,"United States of America",US
-132377,Bermuda,BM
-132832,Australia,AU
-132832,Canada,CA
-132832,Denmark,DK
-132832,Israel,IL
-132832,Japan,JP
-132832,Netherlands,NL
-132832,"United Kingdom",GB
-132832,"United States of America",US
-132854,"United Kingdom",GB
-132947,Australia,AU
-132947,Canada,CA
-132947,Denmark,DK
-132947,Israel,IL
-132947,Japan,JP
-132947,Netherlands,NL
-132947,"United Kingdom",GB
-132947,"United States of America",US
-133350,France,FR
-133350,Italy,IT
-133350,Norway,NO
-133627,France,FR
-133627,Italy,IT
-133627,Norway,NO
-133704,France,FR
-133704,Italy,IT
-133704,Norway,NO
-134195,Australia,AU
-134195,Germany,DE
-134195,Italy,IT
-134195,Japan,JP
-134195,"South Korea",KR
-134258,Australia,AU
-134258,Germany,DE
-134258,Italy,IT
-134258,Japan,JP
-134258,"South Korea",KR
-134408,Australia,AU
-134408,Germany,DE
-134408,Italy,IT
-134408,Japan,JP
-134408,"South Korea",KR
-134450,Australia,AU
-134450,Germany,DE
-134450,Italy,IT
-134450,Japan,JP
-134450,"South Korea",KR
-134483,Australia,AU
-134483,Germany,DE
-134483,Italy,IT
-134483,Japan,JP
-134483,"South Korea",KR
-134521,Australia,AU
-134521,Germany,DE
-134521,Italy,IT
-134521,Japan,JP
-134521,"South Korea",KR
-134643,Australia,AU
-134643,Germany,DE
-134643,Italy,IT
-134643,Japan,JP
-134643,"South Korea",KR
-134683,Australia,AU
-134683,Germany,DE
-134683,Italy,IT
-134683,Japan,JP
-134683,"South Korea",KR
-134733,Israel,IL
-134744,Australia,AU
-134744,Germany,DE
-134744,Italy,IT
-134744,Japan,JP
-134744,"South Korea",KR
-134797,Australia,AU
-134797,Germany,DE
-134797,Italy,IT
-134797,Japan,JP
-134797,"South Korea",KR
-134881,Australia,AU
-134881,Germany,DE
-134881,Italy,IT
-134881,Japan,JP
-134881,"South Korea",KR
-134893,Germany,DE
-134908,Australia,AU
-134908,Germany,DE
-134908,Italy,IT
-134908,Japan,JP
-134908,"South Korea",KR
-134932,Australia,AU
-134932,Germany,DE
-134932,Italy,IT
-134932,Japan,JP
-134932,"South Korea",KR
+118722,Oman,OM
+118722,Qatar,QA
+118722,Slovenia,SI
+118722,"South Africa",ZA
+118722,Thailand,TH
+118722,"United Arab Emirates",AE
+118722,"United Kingdom",GB
+118725,Australia,AU
+118725,Bulgaria,BG
+118725,Chad,TD
+118725,Greece,GR
+118725,Italy,IT
+118725,Kenya,KE
+118725,Lithuania,LT
+118725,Luxembourg,LU
+118725,Mexico,MX
+118725,Morocco,MA
+118725,Peru,PE
+118725,Portugal,PT
+118725,Romania,RO
+118725,Slovakia,SK
+118725,Zambia,ZM
+118777,"United Kingdom",GB
+118796,Australia,AU
+118796,Japan,JP
+118796,"South Korea",KR
+118806,Australia,AU
+118806,Bulgaria,BG
+118806,Chad,TD
+118806,Greece,GR
+118806,Italy,IT
+118806,Kenya,KE
+118806,Lithuania,LT
+118806,Luxembourg,LU
+118806,Mexico,MX
+118806,Morocco,MA
+118806,Peru,PE
+118806,Portugal,PT
+118806,Romania,RO
+118806,Slovakia,SK
+118806,Zambia,ZM
+118839,Australia,AU
+118839,Botswana,BW
+118839,Brunei,BN
+118839,Bulgaria,BG
+118839,Croatia,HR
+118839,Germany,DE
+118839,India,IN
+118839,Ireland,IE
+118839,Malaysia,MY
+118839,Mexico,MX
+118839,Oman,OM
+118839,Qatar,QA
+118839,Slovenia,SI
+118839,"South Africa",ZA
+118839,Thailand,TH
+118839,"United Arab Emirates",AE
+118839,"United Kingdom",GB
+118843,Australia,AU
+118843,Bulgaria,BG
+118843,Chad,TD
+118843,Greece,GR
+118843,Italy,IT
+118843,Kenya,KE
+118843,Lithuania,LT
+118843,Luxembourg,LU
+118843,Mexico,MX
+118843,Morocco,MA
+118843,Peru,PE
+118843,Portugal,PT
+118843,Romania,RO
+118843,Slovakia,SK
+118843,Zambia,ZM
+118863,Australia,AU
+118863,Belgium,BE
+118863,Finland,FI
+118863,France,FR
+118863,Germany,DE
+118863,Greece,GR
+118863,Netherlands,NL
+118863,"New Zealand",NZ
+118863,Norway,NO
+118863,Oman,OM
+118863,Portugal,PT
+118863,Spain,ES
+118863,Sweden,SE
+118863,"United Kingdom",GB
+118871,"United Kingdom",GB
+118915,"United Kingdom",GB
+118930,Australia,AU
+118930,Botswana,BW
+118930,Brunei,BN
+118930,Bulgaria,BG
+118930,Croatia,HR
+118930,Germany,DE
+118930,India,IN
+118930,Ireland,IE
+118930,Malaysia,MY
+118930,Mexico,MX
+118930,Oman,OM
+118930,Qatar,QA
+118930,Slovenia,SI
+118930,"South Africa",ZA
+118930,Thailand,TH
+118930,"United Arab Emirates",AE
+118930,"United Kingdom",GB
+118968,Australia,AU
+118968,Bulgaria,BG
+118968,Chad,TD
+118968,Greece,GR
+118968,Italy,IT
+118968,Kenya,KE
+118968,Lithuania,LT
+118968,Luxembourg,LU
+118968,Mexico,MX
+118968,Morocco,MA
+118968,Peru,PE
+118968,Portugal,PT
+118968,Romania,RO
+118968,Slovakia,SK
+118968,Zambia,ZM
+119045,Australia,AU
+119045,Bulgaria,BG
+119045,Chad,TD
+119045,Greece,GR
+119045,Italy,IT
+119045,Kenya,KE
+119045,Lithuania,LT
+119045,Luxembourg,LU
+119045,Mexico,MX
+119045,Morocco,MA
+119045,Peru,PE
+119045,Portugal,PT
+119045,Romania,RO
+119045,Slovakia,SK
+119045,Zambia,ZM
+119090,Australia,AU
+119090,Belgium,BE
+119090,Finland,FI
+119090,France,FR
+119090,Germany,DE
+119090,Greece,GR
+119090,Netherlands,NL
+119090,"New Zealand",NZ
+119090,Norway,NO
+119090,Oman,OM
+119090,Portugal,PT
+119090,Spain,ES
+119090,Sweden,SE
+119090,"United Kingdom",GB
+119141,Australia,AU
+119141,Bulgaria,BG
+119141,Chad,TD
+119141,Greece,GR
+119141,Italy,IT
+119141,Kenya,KE
+119141,Lithuania,LT
+119141,Luxembourg,LU
+119141,Mexico,MX
+119141,Morocco,MA
+119141,Peru,PE
+119141,Portugal,PT
+119141,Romania,RO
+119141,Slovakia,SK
+119141,Zambia,ZM
+119160,"United Kingdom",GB
+119170,Australia,AU
+119170,Botswana,BW
+119170,Brunei,BN
+119170,Bulgaria,BG
+119170,Croatia,HR
+119170,Germany,DE
+119170,India,IN
+119170,Ireland,IE
+119170,Malaysia,MY
+119170,Mexico,MX
+119170,Oman,OM
+119170,Qatar,QA
+119170,Slovenia,SI
+119170,"South Africa",ZA
+119170,Thailand,TH
+119170,"United Arab Emirates",AE
+119170,"United Kingdom",GB
+119178,Australia,AU
+119178,Bulgaria,BG
+119178,Chad,TD
+119178,Greece,GR
+119178,Italy,IT
+119178,Kenya,KE
+119178,Lithuania,LT
+119178,Luxembourg,LU
+119178,Mexico,MX
+119178,Morocco,MA
+119178,Peru,PE
+119178,Portugal,PT
+119178,Romania,RO
+119178,Slovakia,SK
+119178,Zambia,ZM
+119188,Australia,AU
+119188,Denmark,DK
+119188,Finland,FI
+119188,Germany,DE
+119188,Japan,JP
+119188,Netherlands,NL
+119188,"New Zealand",NZ
+119188,Portugal,PT
+119188,Qatar,QA
+119218,Australia,AU
+119218,Bulgaria,BG
+119218,Chad,TD
+119218,Greece,GR
+119218,Italy,IT
+119218,Kenya,KE
+119218,Lithuania,LT
+119218,Luxembourg,LU
+119218,Mexico,MX
+119218,Morocco,MA
+119218,Peru,PE
+119218,Portugal,PT
+119218,Romania,RO
+119218,Slovakia,SK
+119218,Zambia,ZM
+119235,"United Kingdom",GB
+119247,Australia,AU
+119247,Bulgaria,BG
+119247,Chad,TD
+119247,Greece,GR
+119247,Italy,IT
+119247,Kenya,KE
+119247,Lithuania,LT
+119247,Luxembourg,LU
+119247,Mexico,MX
+119247,Morocco,MA
+119247,Peru,PE
+119247,Portugal,PT
+119247,Romania,RO
+119247,Slovakia,SK
+119247,Zambia,ZM
+119254,Australia,AU
+119254,Denmark,DK
+119254,Finland,FI
+119254,Germany,DE
+119254,Japan,JP
+119254,Netherlands,NL
+119254,"New Zealand",NZ
+119254,Portugal,PT
+119254,Qatar,QA
+119282,Australia,AU
+119282,Bulgaria,BG
+119282,Chad,TD
+119282,Greece,GR
+119282,Italy,IT
+119282,Kenya,KE
+119282,Lithuania,LT
+119282,Luxembourg,LU
+119282,Mexico,MX
+119282,Morocco,MA
+119282,Peru,PE
+119282,Portugal,PT
+119282,Romania,RO
+119282,Slovakia,SK
+119282,Zambia,ZM
+119323,Australia,AU
+119323,Bulgaria,BG
+119323,Chad,TD
+119323,Greece,GR
+119323,Italy,IT
+119323,Kenya,KE
+119323,Lithuania,LT
+119323,Luxembourg,LU
+119323,Mexico,MX
+119323,Morocco,MA
+119323,Peru,PE
+119323,Portugal,PT
+119323,Romania,RO
+119323,Slovakia,SK
+119323,Zambia,ZM
+119340,"United Kingdom",GB
+119383,Australia,AU
+119383,Denmark,DK
+119383,Finland,FI
+119383,Germany,DE
+119383,Japan,JP
+119383,Netherlands,NL
+119383,"New Zealand",NZ
+119383,Portugal,PT
+119383,Qatar,QA
+119426,Australia,AU
+119426,Denmark,DK
+119426,Finland,FI
+119426,Germany,DE
+119426,Japan,JP
+119426,Netherlands,NL
+119426,"New Zealand",NZ
+119426,Portugal,PT
+119426,Qatar,QA
+119446,Australia,AU
+119446,Bulgaria,BG
+119446,Chad,TD
+119446,Greece,GR
+119446,Italy,IT
+119446,Kenya,KE
+119446,Lithuania,LT
+119446,Luxembourg,LU
+119446,Mexico,MX
+119446,Morocco,MA
+119446,Peru,PE
+119446,Portugal,PT
+119446,Romania,RO
+119446,Slovakia,SK
+119446,Zambia,ZM
+119462,"United Kingdom",GB
+119503,"United Kingdom",GB
+119539,Australia,AU
+119539,Denmark,DK
+119539,Finland,FI
+119539,Germany,DE
+119539,Japan,JP
+119539,Netherlands,NL
+119539,"New Zealand",NZ
+119539,Portugal,PT
+119539,Qatar,QA
+119575,Australia,AU
+119575,Denmark,DK
+119575,Finland,FI
+119575,Germany,DE
+119575,Japan,JP
+119575,Netherlands,NL
+119575,"New Zealand",NZ
+119575,Portugal,PT
+119575,Qatar,QA
+119610,Australia,AU
+119610,Denmark,DK
+119610,Finland,FI
+119610,Germany,DE
+119610,Japan,JP
+119610,Netherlands,NL
+119610,"New Zealand",NZ
+119610,Portugal,PT
+119610,Qatar,QA
+119719,Australia,AU
+119719,Bulgaria,BG
+119719,Chad,TD
+119719,Greece,GR
+119719,Italy,IT
+119719,Kenya,KE
+119719,Lithuania,LT
+119719,Luxembourg,LU
+119719,Mexico,MX
+119719,Morocco,MA
+119719,Peru,PE
+119719,Portugal,PT
+119719,Romania,RO
+119719,Slovakia,SK
+119719,Zambia,ZM
+119737,Australia,AU
+119737,Denmark,DK
+119737,Finland,FI
+119737,Germany,DE
+119737,Japan,JP
+119737,Netherlands,NL
+119737,"New Zealand",NZ
+119737,Portugal,PT
+119737,Qatar,QA
+119840,"United Kingdom",GB
+119878,Australia,AU
+119878,Denmark,DK
+119878,Finland,FI
+119878,Germany,DE
+119878,Japan,JP
+119878,Netherlands,NL
+119878,"New Zealand",NZ
+119878,Portugal,PT
+119878,Qatar,QA
+119909,Australia,AU
+119909,Bulgaria,BG
+119909,Chad,TD
+119909,Greece,GR
+119909,Italy,IT
+119909,Kenya,KE
+119909,Lithuania,LT
+119909,Luxembourg,LU
+119909,Mexico,MX
+119909,Morocco,MA
+119909,Peru,PE
+119909,Portugal,PT
+119909,Romania,RO
+119909,Slovakia,SK
+119909,Zambia,ZM
+119987,Australia,AU
+119987,Denmark,DK
+119987,Finland,FI
+119987,Germany,DE
+119987,Japan,JP
+119987,Netherlands,NL
+119987,"New Zealand",NZ
+119987,Portugal,PT
+119987,Qatar,QA
+120052,"United Kingdom",GB
+120076,Australia,AU
+120076,Bulgaria,BG
+120076,Chad,TD
+120076,Greece,GR
+120076,Italy,IT
+120076,Kenya,KE
+120076,Lithuania,LT
+120076,Luxembourg,LU
+120076,Mexico,MX
+120076,Morocco,MA
+120076,Peru,PE
+120076,Portugal,PT
+120076,Romania,RO
+120076,Slovakia,SK
+120076,Zambia,ZM
+120093,Australia,AU
+120093,Denmark,DK
+120093,Finland,FI
+120093,Germany,DE
+120093,Japan,JP
+120093,Netherlands,NL
+120093,"New Zealand",NZ
+120093,Portugal,PT
+120093,Qatar,QA
+120128,Australia,AU
+120128,Bulgaria,BG
+120128,Chad,TD
+120128,Greece,GR
+120128,Italy,IT
+120128,Kenya,KE
+120128,Lithuania,LT
+120128,Luxembourg,LU
+120128,Mexico,MX
+120128,Morocco,MA
+120128,Peru,PE
+120128,Portugal,PT
+120128,Romania,RO
+120128,Slovakia,SK
+120128,Zambia,ZM
+120142,"United Kingdom",GB
+120162,Australia,AU
+120162,Bulgaria,BG
+120162,Chad,TD
+120162,Greece,GR
+120162,Italy,IT
+120162,Kenya,KE
+120162,Lithuania,LT
+120162,Luxembourg,LU
+120162,Mexico,MX
+120162,Morocco,MA
+120162,Peru,PE
+120162,Portugal,PT
+120162,Romania,RO
+120162,Slovakia,SK
+120162,Zambia,ZM
+120379,Australia,AU
+120379,Denmark,DK
+120379,Finland,FI
+120379,Germany,DE
+120379,Japan,JP
+120379,Netherlands,NL
+120379,"New Zealand",NZ
+120379,Portugal,PT
+120379,Qatar,QA
+120431,Australia,AU
+120431,Denmark,DK
+120431,Finland,FI
+120431,Germany,DE
+120431,Japan,JP
+120431,Netherlands,NL
+120431,"New Zealand",NZ
+120431,Portugal,PT
+120431,Qatar,QA
+120829,Australia,AU
+120829,Denmark,DK
+120829,Finland,FI
+120829,Germany,DE
+120829,Japan,JP
+120829,Netherlands,NL
+120829,"New Zealand",NZ
+120829,Portugal,PT
+120829,Qatar,QA
+120892,"United States of America",US
+120948,"United Kingdom",GB
+120980,Australia,AU
+120980,Denmark,DK
+120980,Finland,FI
+120980,Germany,DE
+120980,Japan,JP
+120980,Netherlands,NL
+120980,"New Zealand",NZ
+120980,Portugal,PT
+120980,Qatar,QA
+121125,Australia,AU
+121125,Denmark,DK
+121125,Finland,FI
+121125,Germany,DE
+121125,Japan,JP
+121125,Netherlands,NL
+121125,"New Zealand",NZ
+121125,Portugal,PT
+121125,Qatar,QA
+121173,"United Kingdom",GB
+121192,Australia,AU
+121192,Bulgaria,BG
+121192,Chad,TD
+121192,Greece,GR
+121192,Italy,IT
+121192,Kenya,KE
+121192,Lithuania,LT
+121192,Luxembourg,LU
+121192,Mexico,MX
+121192,Morocco,MA
+121192,Peru,PE
+121192,Portugal,PT
+121192,Romania,RO
+121192,Slovakia,SK
+121192,Zambia,ZM
+121678,Australia,AU
+121678,Denmark,DK
+121678,Finland,FI
+121678,Germany,DE
+121678,Japan,JP
+121678,Netherlands,NL
+121678,"New Zealand",NZ
+121678,Portugal,PT
+121678,Qatar,QA
+121678,"United Kingdom",GB
+121712,Australia,AU
+121712,Denmark,DK
+121712,Finland,FI
+121712,Germany,DE
+121712,Japan,JP
+121712,Netherlands,NL
+121712,"New Zealand",NZ
+121712,Portugal,PT
+121712,Qatar,QA
+121712,"United Kingdom",GB
+121811,Australia,AU
+121811,Denmark,DK
+121811,Finland,FI
+121811,Germany,DE
+121811,Japan,JP
+121811,Netherlands,NL
+121811,"New Zealand",NZ
+121811,Portugal,PT
+121811,Qatar,QA
+121811,"United Kingdom",GB
+121952,Australia,AU
+121952,Denmark,DK
+121952,Finland,FI
+121952,Germany,DE
+121952,Japan,JP
+121952,Netherlands,NL
+121952,"New Zealand",NZ
+121952,Portugal,PT
+121952,Qatar,QA
+121952,"United Kingdom",GB
+122179,Australia,AU
+122179,Denmark,DK
+122179,Finland,FI
+122179,Germany,DE
+122179,Japan,JP
+122179,Netherlands,NL
+122179,"New Zealand",NZ
+122179,Portugal,PT
+122179,Qatar,QA
+122179,"United Kingdom",GB
+122260,Australia,AU
+122260,Denmark,DK
+122260,Finland,FI
+122260,Germany,DE
+122260,Japan,JP
+122260,Netherlands,NL
+122260,"New Zealand",NZ
+122260,Portugal,PT
+122260,Qatar,QA
+122260,"United Kingdom",GB
+122292,"United Kingdom",GB
+122490,Australia,AU
+122490,Denmark,DK
+122490,Finland,FI
+122490,Germany,DE
+122490,Japan,JP
+122490,Netherlands,NL
+122490,"New Zealand",NZ
+122490,Portugal,PT
+122490,Qatar,QA
+122490,"United Kingdom",GB
+123124,Australia,AU
+123124,Denmark,DK
+123124,Finland,FI
+123124,Germany,DE
+123124,Japan,JP
+123124,Netherlands,NL
+123124,"New Zealand",NZ
+123124,Portugal,PT
+123124,Qatar,QA
+123124,"United Kingdom",GB
+123135,Austria,AT
+123135,Germany,DE
+123135,Kuwait,KW
+123135,Oman,OM
+123135,"Saudi Arabia",SA
+123135,Spain,ES
+123135,"United Kingdom",GB
+123148,Austria,AT
+123148,Italy,IT
+123148,"Saudi Arabia",SA
+123148,"United Kingdom",GB
+123175,"United States of America",US
+123179,Austria,AT
+123179,Germany,DE
+123179,Kuwait,KW
+123179,Oman,OM
+123179,"Saudi Arabia",SA
+123179,Spain,ES
+123179,"United Kingdom",GB
+123225,Austria,AT
+123225,Germany,DE
+123225,Kuwait,KW
+123225,Oman,OM
+123225,"Saudi Arabia",SA
+123225,Spain,ES
+123225,"United Kingdom",GB
+123284,Austria,AT
+123284,Italy,IT
+123284,"Saudi Arabia",SA
+123284,"United Kingdom",GB
+123292,Australia,AU
+123292,Brazil,BR
+123292,India,IN
+123292,"South Korea",KR
+123292,Sweden,SE
+123368,Austria,AT
+123368,Italy,IT
+123368,"Saudi Arabia",SA
+123368,"United Kingdom",GB
+123388,Australia,AU
+123388,Brazil,BR
+123388,India,IN
+123388,"South Korea",KR
+123388,Sweden,SE
+123427,Australia,AU
+123427,India,IN
+123427,"South Korea",KR
+123477,Austria,AT
+123477,Italy,IT
+123477,"Saudi Arabia",SA
+123477,"United Kingdom",GB
+123493,Australia,AU
+123493,India,IN
+123493,"South Korea",KR
+123575,Australia,AU
+123575,India,IN
+123575,"South Korea",KR
+123619,"United States of America",US
+123647,Australia,AU
+123647,India,IN
+123647,"South Korea",KR
+123753,Austria,AT
+123753,Italy,IT
+123753,"Saudi Arabia",SA
+123753,"United Kingdom",GB
+123875,Australia,AU
+123875,India,IN
+123875,"South Korea",KR
+123920,Australia,AU
+123920,India,IN
+123920,"South Korea",KR
+123951,Australia,AU
+123951,India,IN
+123951,"South Korea",KR
+123991,Australia,AU
+123991,India,IN
+123991,"South Korea",KR
+124036,Austria,AT
+124036,Italy,IT
+124036,"Saudi Arabia",SA
+124036,"United Kingdom",GB
+124049,Australia,AU
+124049,India,IN
+124049,"South Korea",KR
+124157,Australia,AU
+124157,India,IN
+124157,"South Korea",KR
+124224,Australia,AU
+124224,India,IN
+124224,"South Korea",KR
+124303,Turkey,TR
+124354,Turkey,TR
+124390,Australia,AU
+124390,India,IN
+124390,"South Korea",KR
+124405,Turkey,TR
+124448,Turkey,TR
+124463,Austria,AT
+124463,Italy,IT
+124463,"Saudi Arabia",SA
+124463,"United Kingdom",GB
+124473,Australia,AU
+124473,Bahrain,BH
+124473,Bangladesh,BD
+124473,Brazil,BR
+124473,Canada,CA
+124473,Denmark,DK
+124473,France,FR
+124473,Germany,DE
+124473,India,IN
+124473,Iraq,IQ
+124473,Israel,IL
+124473,Italy,IT
+124473,Kuwait,KW
+124473,Luxembourg,LU
+124473,Norway,NO
+124473,Oman,OM
+124473,Qatar,QA
+124473,"Saudi Arabia",SA
+124473,"South Korea",KR
+124473,Sweden,SE
+124473,Tunisia,TN
+124473,"United Kingdom",GB
+124487,Turkey,TR
+124512,Australia,AU
+124512,Bahrain,BH
+124512,Bangladesh,BD
+124512,Canada,CA
+124512,Denmark,DK
+124512,France,FR
+124512,Germany,DE
+124512,India,IN
+124512,Iraq,IQ
+124512,Israel,IL
+124512,Italy,IT
+124512,Kuwait,KW
+124512,Luxembourg,LU
+124512,Norway,NO
+124512,Oman,OM
+124512,Qatar,QA
+124512,"Saudi Arabia",SA
+124512,"South Korea",KR
+124512,Tunisia,TN
+124512,"United Kingdom",GB
+124635,Turkey,TR
+124714,Australia,AU
+124714,Bahrain,BH
+124714,Bangladesh,BD
+124714,Canada,CA
+124714,Denmark,DK
+124714,France,FR
+124714,Germany,DE
+124714,India,IN
+124714,Iraq,IQ
+124714,Israel,IL
+124714,Italy,IT
+124714,Kuwait,KW
+124714,Luxembourg,LU
+124714,Norway,NO
+124714,Oman,OM
+124714,Qatar,QA
+124714,"Saudi Arabia",SA
+124714,"South Korea",KR
+124714,Tunisia,TN
+124714,"United Kingdom",GB
+124769,Turkey,TR
+124819,Turkey,TR
+124860,"United States of America",US
+124868,Turkey,TR
+124902,Australia,AU
+124902,Bahrain,BH
+124902,Bangladesh,BD
+124902,Canada,CA
+124902,Denmark,DK
+124902,France,FR
+124902,Germany,DE
+124902,India,IN
+124902,Iraq,IQ
+124902,Israel,IL
+124902,Italy,IT
+124902,Kuwait,KW
+124902,Luxembourg,LU
+124902,Norway,NO
+124902,Oman,OM
+124902,Qatar,QA
+124902,"Saudi Arabia",SA
+124902,"South Korea",KR
+124902,Tunisia,TN
+124902,"United Kingdom",GB
+124935,"United States of America",US
+125003,Turkey,TR
+125065,Australia,AU
+125065,Bahrain,BH
+125065,Bangladesh,BD
+125065,Canada,CA
+125065,Denmark,DK
+125065,France,FR
+125065,Germany,DE
+125065,India,IN
+125065,Iraq,IQ
+125065,Israel,IL
+125065,Italy,IT
+125065,Kuwait,KW
+125065,Luxembourg,LU
+125065,Norway,NO
+125065,Oman,OM
+125065,Qatar,QA
+125065,"Saudi Arabia",SA
+125065,"South Korea",KR
+125065,Tunisia,TN
+125065,"United Kingdom",GB
+125090,Turkey,TR
+125119,Australia,AU
+125119,Bahrain,BH
+125119,Bangladesh,BD
+125119,Canada,CA
+125119,Denmark,DK
+125119,France,FR
+125119,Germany,DE
+125119,India,IN
+125119,Iraq,IQ
+125119,Israel,IL
+125119,Italy,IT
+125119,Kuwait,KW
+125119,Luxembourg,LU
+125119,Norway,NO
+125119,Oman,OM
+125119,Qatar,QA
+125119,"Saudi Arabia",SA
+125119,"South Korea",KR
+125119,Tunisia,TN
+125119,"United Kingdom",GB
+125126,"United States of America",US
+125129,Turkey,TR
+125166,"United States of America",US
+125249,Turkey,TR
+125304,Australia,AU
+125304,Bahrain,BH
+125304,Bangladesh,BD
+125304,Canada,CA
+125304,Denmark,DK
+125304,France,FR
+125304,Germany,DE
+125304,India,IN
+125304,Iraq,IQ
+125304,Israel,IL
+125304,Italy,IT
+125304,Kuwait,KW
+125304,Luxembourg,LU
+125304,Norway,NO
+125304,Oman,OM
+125304,Qatar,QA
+125304,"Saudi Arabia",SA
+125304,"South Korea",KR
+125304,Tunisia,TN
+125304,"United Kingdom",GB
+125317,Turkey,TR
+125337,Australia,AU
+125337,Bahrain,BH
+125337,Bangladesh,BD
+125337,Canada,CA
+125337,Denmark,DK
+125337,France,FR
+125337,Germany,DE
+125337,India,IN
+125337,Iraq,IQ
+125337,Israel,IL
+125337,Italy,IT
+125337,Kuwait,KW
+125337,Luxembourg,LU
+125337,Norway,NO
+125337,Oman,OM
+125337,Qatar,QA
+125337,"Saudi Arabia",SA
+125337,"South Korea",KR
+125337,Tunisia,TN
+125337,"United Kingdom",GB
+125372,Turkey,TR
+125407,"United States of America",US
+125417,Turkey,TR
+125460,Australia,AU
+125460,Bahrain,BH
+125460,Bangladesh,BD
+125460,Canada,CA
+125460,Denmark,DK
+125460,France,FR
+125460,Germany,DE
+125460,India,IN
+125460,Iraq,IQ
+125460,Israel,IL
+125460,Italy,IT
+125460,Kuwait,KW
+125460,Luxembourg,LU
+125460,Norway,NO
+125460,Oman,OM
+125460,Qatar,QA
+125460,"Saudi Arabia",SA
+125460,"South Korea",KR
+125460,Tunisia,TN
+125460,"United Kingdom",GB
+125476,Turkey,TR
+125500,Australia,AU
+125500,Bahrain,BH
+125500,Bangladesh,BD
+125500,Canada,CA
+125500,Denmark,DK
+125500,France,FR
+125500,Germany,DE
+125500,India,IN
+125500,Iraq,IQ
+125500,Israel,IL
+125500,Italy,IT
+125500,Kuwait,KW
+125500,Luxembourg,LU
+125500,Norway,NO
+125500,Oman,OM
+125500,Qatar,QA
+125500,"Saudi Arabia",SA
+125500,"South Korea",KR
+125500,Tunisia,TN
+125500,"United Kingdom",GB
+125518,Turkey,TR
+125647,"United States of America",US
+125768,"United States of America",US
+125807,"United States of America",US
+125814,Turkey,TR
+125868,Turkey,TR
+126020,Turkey,TR
+126043,Australia,AU
+126043,Brazil,BR
+126043,Canada,CA
+126043,China,CN
+126043,"Czech Republic",CZ
+126043,India,IN
+126043,Mexico,MX
+126043,Netherlands,NL
+126043,Norway,NO
+126043,Poland,PL
+126043,"South Africa",ZA
+126043,Turkey,TR
+126043,"United Kingdom",GB
+126043,"United States of America",US
+126078,Turkey,TR
+126695,Australia,AU
+126695,Brazil,BR
+126695,Canada,CA
+126695,China,CN
+126695,"Czech Republic",CZ
+126695,India,IN
+126695,Mexico,MX
+126695,Netherlands,NL
+126695,Norway,NO
+126695,Poland,PL
+126695,"South Africa",ZA
+126695,Turkey,TR
+126695,"United Kingdom",GB
+126695,"United States of America",US
+126722,Canada,CA
+126782,Canada,CA
+126842,Canada,CA
+126917,Canada,CA
+127016,Canada,CA
+127062,Canada,CA
+127127,Canada,CA
+127154,Poland,PL
+127186,Canada,CA
+127348,Canada,CA
+127416,Canada,CA
+127566,Canada,CA
+127614,Canada,CA
+128017,Canada,CA
+128053,Canada,CA
+128391,France,FR
+128420,France,FR
+128526,Canada,CA
+128579,Germany,DE
+128730,France,FR
+128813,"United States of America",US
+128846,France,FR
+128860,"United States of America",US
+128878,Brazil,BR
+128878,Portugal,PT
+128887,France,FR
+128971,Canada,CA
+128984,Germany,DE
+129051,Germany,DE
+129110,France,FR
+129231,"United States of America",US
+129264,"United States of America",US
+129273,Germany,DE
+129288,Australia,AU
+129288,Brazil,BR
+129288,Canada,CA
+129288,China,CN
+129288,"Czech Republic",CZ
+129288,India,IN
+129288,Mexico,MX
+129288,Netherlands,NL
+129288,Norway,NO
+129288,Poland,PL
+129288,"South Africa",ZA
+129288,Turkey,TR
+129288,"United Kingdom",GB
+129288,"United States of America",US
+129300,France,FR
+129341,"United Kingdom",GB
+129349,Australia,AU
+129349,Brazil,BR
+129349,Canada,CA
+129349,China,CN
+129349,"Czech Republic",CZ
+129349,India,IN
+129349,Mexico,MX
+129349,Netherlands,NL
+129349,Norway,NO
+129349,Poland,PL
+129349,"South Africa",ZA
+129349,Turkey,TR
+129349,"United Kingdom",GB
+129349,"United States of America",US
+129370,Germany,DE
+129377,Australia,AU
+129377,Brazil,BR
+129377,Canada,CA
+129377,China,CN
+129377,"Czech Republic",CZ
+129377,India,IN
+129377,Mexico,MX
+129377,Netherlands,NL
+129377,Norway,NO
+129377,Poland,PL
+129377,"South Africa",ZA
+129377,Turkey,TR
+129377,"United Kingdom",GB
+129377,"United States of America",US
+129475,"United States of America",US
+129522,"United States of America",US
+129539,Germany,DE
+129627,Australia,AU
+129627,Brazil,BR
+129627,Canada,CA
+129627,China,CN
+129627,"Czech Republic",CZ
+129627,India,IN
+129627,Mexico,MX
+129627,Netherlands,NL
+129627,Norway,NO
+129627,Poland,PL
+129627,"South Africa",ZA
+129627,Turkey,TR
+129627,"United Kingdom",GB
+129627,"United States of America",US
+129694,Australia,AU
+129694,Brazil,BR
+129694,Canada,CA
+129694,China,CN
+129694,"Czech Republic",CZ
+129694,India,IN
+129694,Mexico,MX
+129694,Netherlands,NL
+129694,Norway,NO
+129694,Poland,PL
+129694,"South Africa",ZA
+129694,Turkey,TR
+129694,"United Kingdom",GB
+129694,"United States of America",US
+129730,Australia,AU
+129730,Brazil,BR
+129730,Canada,CA
+129730,China,CN
+129730,"Czech Republic",CZ
+129730,India,IN
+129730,Mexico,MX
+129730,Netherlands,NL
+129730,Norway,NO
+129730,Poland,PL
+129730,"South Africa",ZA
+129730,Turkey,TR
+129730,"United Kingdom",GB
+129730,"United States of America",US
+129750,"United States of America",US
+129810,Australia,AU
+129810,Brazil,BR
+129810,Canada,CA
+129810,China,CN
+129810,"Czech Republic",CZ
+129810,India,IN
+129810,Mexico,MX
+129810,Netherlands,NL
+129810,Norway,NO
+129810,Poland,PL
+129810,"South Africa",ZA
+129810,Turkey,TR
+129810,"United Kingdom",GB
+129810,"United States of America",US
+129986,"United States of America",US
+130019,Australia,AU
+130019,Brazil,BR
+130019,Canada,CA
+130019,China,CN
+130019,"Czech Republic",CZ
+130019,India,IN
+130019,Mexico,MX
+130019,Netherlands,NL
+130019,Norway,NO
+130019,Poland,PL
+130019,"South Africa",ZA
+130019,Turkey,TR
+130019,"United Kingdom",GB
+130019,"United States of America",US
+130177,Canada,CA
+130260,"United States of America",US
+130274,Switzerland,CH
+130322,"United States of America",US
+130355,"United States of America",US
+130367,Canada,CA
+130495,"United States of America",US
+130661,"United States of America",US
+130707,"United States of America",US
+130730,"United Kingdom",GB
+130921,"United States of America",US
+130929,"United Kingdom",GB
+131196,"United States of America",US
+131274,"United Kingdom",GB
+131438,"United States of America",US
+131538,"United States of America",US
+131582,Australia,AU
+131582,Canada,CA
+131582,Denmark,DK
+131582,Israel,IL
+131582,Japan,JP
+131582,Netherlands,NL
+131582,"United Kingdom",GB
+131582,"United States of America",US
+131616,Australia,AU
+131616,Canada,CA
+131616,Denmark,DK
+131616,Israel,IL
+131616,Japan,JP
+131616,Netherlands,NL
+131616,"United Kingdom",GB
+131616,"United States of America",US
+131652,Australia,AU
+131652,Canada,CA
+131652,Denmark,DK
+131652,Israel,IL
+131652,Japan,JP
+131652,Netherlands,NL
+131652,"United Kingdom",GB
+131652,"United States of America",US
+131689,Australia,AU
+131689,Canada,CA
+131689,Denmark,DK
+131689,Israel,IL
+131689,Japan,JP
+131689,Netherlands,NL
+131689,"United Kingdom",GB
+131689,"United States of America",US
+131731,"United States of America",US
+131833,"United States of America",US
+131979,Australia,AU
+131979,Canada,CA
+131979,Denmark,DK
+131979,Israel,IL
+131979,Japan,JP
+131979,Netherlands,NL
+131979,"United Kingdom",GB
+131979,"United States of America",US
+132020,"United States of America",US
+132121,Australia,AU
+132121,Canada,CA
+132121,Denmark,DK
+132121,Israel,IL
+132121,Japan,JP
+132121,Netherlands,NL
+132121,"United Kingdom",GB
+132121,"United States of America",US
+132200,"United Kingdom",GB
+132207,Australia,AU
+132207,Canada,CA
+132207,Denmark,DK
+132207,Israel,IL
+132207,Japan,JP
+132207,Netherlands,NL
+132207,"United Kingdom",GB
+132207,"United States of America",US
+132291,"United Kingdom",GB
+132295,Australia,AU
+132295,Canada,CA
+132295,Denmark,DK
+132295,Israel,IL
+132295,Japan,JP
+132295,Netherlands,NL
+132295,"United Kingdom",GB
+132295,"United States of America",US
+132363,Australia,AU
+132363,Canada,CA
+132363,Denmark,DK
+132363,Israel,IL
+132363,Japan,JP
+132363,Netherlands,NL
+132363,"United Kingdom",GB
+132363,"United States of America",US
+132382,Bermuda,BM
+132837,Australia,AU
+132837,Canada,CA
+132837,Denmark,DK
+132837,Israel,IL
+132837,Japan,JP
+132837,Netherlands,NL
+132837,"United Kingdom",GB
+132837,"United States of America",US
+132859,"United Kingdom",GB
+132952,Australia,AU
+132952,Canada,CA
+132952,Denmark,DK
+132952,Israel,IL
+132952,Japan,JP
+132952,Netherlands,NL
+132952,"United Kingdom",GB
+132952,"United States of America",US
+133355,France,FR
+133355,Italy,IT
+133355,Norway,NO
+133632,France,FR
+133632,Italy,IT
+133632,Norway,NO
+133709,France,FR
+133709,Italy,IT
+133709,Norway,NO
+134200,Australia,AU
+134200,Germany,DE
+134200,Italy,IT
+134200,Japan,JP
+134200,"South Korea",KR
+134263,Australia,AU
+134263,Germany,DE
+134263,Italy,IT
+134263,Japan,JP
+134263,"South Korea",KR
+134413,Australia,AU
+134413,Germany,DE
+134413,Italy,IT
+134413,Japan,JP
+134413,"South Korea",KR
+134455,Australia,AU
+134455,Germany,DE
+134455,Italy,IT
+134455,Japan,JP
+134455,"South Korea",KR
+134488,Australia,AU
+134488,Germany,DE
+134488,Italy,IT
+134488,Japan,JP
+134488,"South Korea",KR
+134526,Australia,AU
+134526,Germany,DE
+134526,Italy,IT
+134526,Japan,JP
+134526,"South Korea",KR
+134648,Australia,AU
+134648,Germany,DE
+134648,Italy,IT
+134648,Japan,JP
+134648,"South Korea",KR
+134688,Australia,AU
+134688,Germany,DE
+134688,Italy,IT
+134688,Japan,JP
+134688,"South Korea",KR
+134738,Israel,IL
+134749,Australia,AU
+134749,Germany,DE
+134749,Italy,IT
+134749,Japan,JP
+134749,"South Korea",KR
+134802,Australia,AU
+134802,Germany,DE
+134802,Italy,IT
+134802,Japan,JP
+134802,"South Korea",KR
+134886,Australia,AU
+134886,Germany,DE
+134886,Italy,IT
+134886,Japan,JP
+134886,"South Korea",KR
+134898,Germany,DE
+134913,Australia,AU
+134913,Germany,DE
+134913,Italy,IT
+134913,Japan,JP
+134913,"South Korea",KR
+134937,Australia,AU
+134937,Germany,DE
+134937,Italy,IT
+134937,Japan,JP
+134937,"South Korea",KR
+135219,Australia,AU
+135219,Germany,DE
+135219,Italy,IT
+135219,Japan,JP
+135219,"South Korea",KR
+135454,Australia,AU
+135454,Germany,DE
+135454,Italy,IT
+135454,Japan,JP
+135454,"South Korea",KR
+135506,Germany,DE
+135619,Australia,AU
+135619,Germany,DE
+135619,Italy,IT
+135619,Japan,JP
+135619,"South Korea",KR
+135687,Bangladesh,BD
+136500,Bangladesh,BD
+136978,"United Kingdom",GB
+136978,"United States of America",US
+137164,"United Kingdom",GB
+137164,"United States of America",US
+137200,"United Kingdom",GB
+137200,"United States of America",US
+137237,"United Kingdom",GB
+137237,"United States of America",US
+137306,"United Kingdom",GB
+137306,"United States of America",US
