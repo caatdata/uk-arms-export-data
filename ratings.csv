@@ -130,6 +130,7 @@ rating,military,short_description,full_description
 3C001,0,Electronics,Electronics
 3C003,0,Electronics,Electronics
 3C004,0,Electronics,Electronics
+3C006,0,Electronics,Electronics
 3D001,0,Electronics,Electronics
 3D002,0,Electronics,Electronics
 3D003,0,Electronics,Electronics
@@ -147,18 +148,18 @@ rating,military,short_description,full_description
 4D001,0,Computers,Computers
 4D004,0,Computers,Computers
 4E001,0,Computers,Computers
-5A001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5A002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5A003,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5A004,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5B001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5B002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5D001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5D002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5D101,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5E001,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5E002,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
-5E101,0,"Telecommunications and ""information security""","Telecommunications and ""information security"""
+5A001,0,"Telecommunications and information security","Telecommunications and information security"
+5A002,0,"Telecommunications and information security","Telecommunications and information security"
+5A003,0,"Telecommunications and information security","Telecommunications and information security"
+5A004,0,"Telecommunications and information security","Telecommunications and information security"
+5B001,0,"Telecommunications and information security","Telecommunications and information security"
+5B002,0,"Telecommunications and information security","Telecommunications and information security"
+5D001,0,"Telecommunications and information security","Telecommunications and information security"
+5D002,0,"Telecommunications and information security","Telecommunications and information security"
+5D101,0,"Telecommunications and information security","Telecommunications and information security"
+5E001,0,"Telecommunications and information security","Telecommunications and information security"
+5E002,0,"Telecommunications and information security","Telecommunications and information security"
+5E101,0,"Telecommunications and information security","Telecommunications and information security"
 6A001,0,"Sensors and lasers","Sensors and lasers"
 6A002,0,"Sensors and lasers","Sensors and lasers"
 6A003,0,"Sensors and lasers","Sensors and lasers"
@@ -194,6 +195,7 @@ rating,military,short_description,full_description
 7A105,0,"Navigation and avionics","Navigation and avionics"
 7B001,0,"Navigation and avionics","Navigation and avionics"
 7B103,0,"Navigation and avionics","Navigation and avionics"
+7D002,0,"Navigation and avionics","Navigation and avionics"
 7D003,0,"Navigation and avionics","Navigation and avionics"
 7D101,0,"Navigation and avionics","Navigation and avionics"
 7E001,0,"Navigation and avionics","Navigation and avionics"
@@ -269,9 +271,9 @@ ML22,1,Technology,"Technology required for development, production or use of goo
 OC001,0,,
 PL5001,1,"Security and para-military police goods","Other security and para-military police goods inc anti-riot and ballistic shields, shackles for restraint, electric shock belts, water cannon, riot control vehicles, electric shock dart guns, electric shock batons, stun guns, hand-held spiked batons"
 PL5006,1,"Military improvised explosive device disposal equipment","Military improvised explosive device disposal equipment"
-PL5017,1,"Equipment and test models","Equipment and test models other than those specified in ML11, ML12.b., ML17.n. or ML19.e. specially designed or modified for the ""development"" or ""use"" of goods that are both specially designed for military use and specified in this Schedule."
+PL5017,1,"Equipment and test models","Equipment and test models other than those specified in ML11, ML12.b., ML17.n. or ML19.e. specially designed or modified for the development or use of goods that are both specially designed for military use and specified in this Schedule."
 PL5030,1,"Non-military stun grenades","Non-military stun grenades"
-PL5035,1,"Ballistic protection components for vehicles","Components that are both specially designed to provide ballistic protection and specially designed or modified for ""vehicles"" specified in ML6.b."
+PL5035,1,"Ballistic protection components for vehicles","Components that are both specially designed to provide ballistic protection and specially designed or modified for vehicles specified in ML6.b."
 PL8001,0,"Explosive-related goods and technology","Explosive-related goods and technology"
 PL9002,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
 PL9003,0,"Materials, chemicals, micro-organisms and toxins","Materials, chemicals, micro-organisms and toxins"
