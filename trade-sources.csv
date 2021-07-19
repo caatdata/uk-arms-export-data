@@ -17250,38 +17250,569 @@ licence_id,source,iso2
 142602,Spain,ES
 142622,"Vessel and/or Platform in International Waters",
 142623,"Vessel and/or Platform in International Waters",
-142628,"Vessel and/or Platform in International Waters",
-142630,"Vessel and/or Platform in International Waters",
+142624,"Vessel and/or Platform in International Waters",
+142629,"Vessel and/or Platform in International Waters",
 142631,"Vessel and/or Platform in International Waters",
 142632,"Vessel and/or Platform in International Waters",
 142633,"Vessel and/or Platform in International Waters",
 142634,"Vessel and/or Platform in International Waters",
-142636,"Vessel and/or Platform in International Waters",
-142638,"Vessel and/or Platform in International Waters",
+142635,"Vessel and/or Platform in International Waters",
+142637,"Vessel and/or Platform in International Waters",
 142639,"Vessel and/or Platform in International Waters",
-142641,"Vessel and/or Platform in International Waters",
-142644,"Vessel and/or Platform in International Waters",
-142647,"Vessel and/or Platform in International Waters",
-142653,"Vessel and/or Platform in International Waters",
-142681,"United States of America",US
-142696,Slovenia,SI
-142696,"United States of America",US
-142720,"South Africa",ZA
-142809,"South Africa",ZA
-142897,Comoros,KM
-142897,Djibouti,DJ
-142897,Kenya,KE
-142897,Madagascar,MG
-142897,Malaysia,MY
-142897,Maldives,MV
-142897,Mauritius,MU
-142897,Mozambique,MZ
-142897,Oman,OM
-142897,Seychelles,SC
-142897,Singapore,SG
-142897,"South Africa",ZA
-142897,"Sri Lanka",LK
-142897,Tanzania,TZ
-142897,"Vessel and/or Platform in International Waters",
-142942,Indonesia,ID
-142942,Singapore,SG
+142640,"Vessel and/or Platform in International Waters",
+142642,"Vessel and/or Platform in International Waters",
+142645,"Vessel and/or Platform in International Waters",
+142648,"Vessel and/or Platform in International Waters",
+142654,"Vessel and/or Platform in International Waters",
+142682,"United States of America",US
+142697,Slovenia,SI
+142697,"United States of America",US
+142721,"South Africa",ZA
+142810,"South Africa",ZA
+142898,Comoros,KM
+142898,Djibouti,DJ
+142898,Kenya,KE
+142898,Madagascar,MG
+142898,Malaysia,MY
+142898,Maldives,MV
+142898,Mauritius,MU
+142898,Mozambique,MZ
+142898,Oman,OM
+142898,Seychelles,SC
+142898,Singapore,SG
+142898,"South Africa",ZA
+142898,"Sri Lanka",LK
+142898,Tanzania,TZ
+142898,"Vessel and/or Platform in International Waters",
+142943,Indonesia,ID
+142943,Singapore,SG
+143098,"United States of America",US
+143166,"Vessel and/or Platform in International Waters",
+143195,Ukraine,UA
+143266,Cambodia,KH
+143500,"Czech Republic",CZ
+143506,France,FR
+143521,"South Sudan",SS
+143526,"South Sudan",SS
+143561,"United States of America",US
+143578,"South Sudan",SS
+143580,"South Sudan",SS
+143628,Serbia,RS
+143633,Switzerland,CH
+143669,Sweden,SE
+143740,China,CN
+143810,Seychelles,SC
+143845,Comoros,KM
+143845,Djibouti,DJ
+143845,Egypt,EG
+143845,Kenya,KE
+143845,Madagascar,MG
+143845,Malaysia,MY
+143845,Maldives,MV
+143845,Mauritius,MU
+143845,Mozambique,MZ
+143845,Oman,OM
+143845,Seychelles,SC
+143845,Singapore,SG
+143845,"South Africa",ZA
+143845,"Sri Lanka",LK
+143845,Tanzania,TZ
+143845,"Vessel and/or Platform in International Waters",
+143931,"Sri Lanka",LK
+143953,"Sri Lanka",LK
+144037,Serbia,RS
+144073,Japan,JP
+144079,Turkey,TR
+144149,Belarus,BY
+144192,"Vessel and/or Platform in International Waters",
+144196,Bulgaria,BG
+144197,Bulgaria,BG
+144200,Belarus,BY
+144216,"Czech Republic",CZ
+144256,Netherlands,NL
+144260,"Vessel and/or Platform in International Waters",
+144264,"Vessel and/or Platform in International Waters",
+144265,"Vessel and/or Platform in International Waters",
+144273,"Vessel and/or Platform in International Waters",
+144274,"Vessel and/or Platform in International Waters",
+144275,"Vessel and/or Platform in International Waters",
+144276,"Vessel and/or Platform in International Waters",
+144277,"Vessel and/or Platform in International Waters",
+144278,"Vessel and/or Platform in International Waters",
+144281,"Vessel and/or Platform in International Waters",
+144286,"Vessel and/or Platform in International Waters",
+144287,"Vessel and/or Platform in International Waters",
+144289,"Vessel and/or Platform in International Waters",
+144293,"Vessel and/or Platform in International Waters",
+144297,"Vessel and/or Platform in International Waters",
+144302,Comoros,KM
+144302,Djibouti,DJ
+144302,Egypt,EG
+144302,Kenya,KE
+144302,Madagascar,MG
+144302,Malaysia,MY
+144302,Maldives,MV
+144302,Mauritius,MU
+144302,Mozambique,MZ
+144302,Oman,OM
+144302,Seychelles,SC
+144302,Singapore,SG
+144302,"South Africa",ZA
+144302,"Sri Lanka",LK
+144302,Tanzania,TZ
+144302,"Vessel and/or Platform in International Waters",
+144303,"Vessel and/or Platform in International Waters",
+144314,Belarus,BY
+144337,Djibouti,DJ
+144368,"New Zealand",NZ
+144376,"Vessel and/or Platform in International Waters",
+144435,"United States of America",US
+144488,China,CN
+144577,Spain,ES
+144657,Belgium,BE
+144657,"Channel Islands",
+144657,Denmark,DK
+144657,Estonia,EE
+144657,Finland,FI
+144657,France,FR
+144657,Germany,DE
+144657,"Isle Of Man",IM
+144657,Italy,IT
+144657,Latvia,LV
+144657,Lithuania,LT
+144657,Netherlands,NL
+144657,Norway,NO
+144657,Poland,PL
+144657,Portugal,PT
+144657,Russia,RU
+144657,Spain,ES
+144657,Sweden,SE
+144661,Belgium,BE
+144661,"Channel Islands",
+144661,Denmark,DK
+144661,Estonia,EE
+144661,Finland,FI
+144661,France,FR
+144661,Germany,DE
+144661,"Isle Of Man",IM
+144661,Italy,IT
+144661,Latvia,LV
+144661,Lithuania,LT
+144661,Netherlands,NL
+144661,Norway,NO
+144661,Poland,PL
+144661,Portugal,PT
+144661,Russia,RU
+144661,Spain,ES
+144661,Sweden,SE
+144664,Belgium,BE
+144664,"Channel Islands",
+144664,Denmark,DK
+144664,Estonia,EE
+144664,Finland,FI
+144664,France,FR
+144664,Germany,DE
+144664,"Isle Of Man",IM
+144664,Italy,IT
+144664,Latvia,LV
+144664,Lithuania,LT
+144664,Netherlands,NL
+144664,Norway,NO
+144664,Poland,PL
+144664,Portugal,PT
+144664,Russia,RU
+144664,Spain,ES
+144664,Sweden,SE
+144665,Belgium,BE
+144665,"Channel Islands",
+144665,Denmark,DK
+144665,Estonia,EE
+144665,Finland,FI
+144665,France,FR
+144665,Germany,DE
+144665,"Isle Of Man",IM
+144665,Italy,IT
+144665,Latvia,LV
+144665,Lithuania,LT
+144665,Netherlands,NL
+144665,Norway,NO
+144665,Poland,PL
+144665,Portugal,PT
+144665,Russia,RU
+144665,Spain,ES
+144665,Sweden,SE
+144666,Belgium,BE
+144666,"Channel Islands",
+144666,Denmark,DK
+144666,Estonia,EE
+144666,Finland,FI
+144666,France,FR
+144666,Germany,DE
+144666,"Isle Of Man",IM
+144666,Italy,IT
+144666,Latvia,LV
+144666,Lithuania,LT
+144666,Netherlands,NL
+144666,Norway,NO
+144666,Poland,PL
+144666,Portugal,PT
+144666,Russia,RU
+144666,Spain,ES
+144666,Sweden,SE
+144668,Belgium,BE
+144668,"Channel Islands",
+144668,Denmark,DK
+144668,Estonia,EE
+144668,Finland,FI
+144668,France,FR
+144668,Germany,DE
+144668,"Isle Of Man",IM
+144668,Italy,IT
+144668,Latvia,LV
+144668,Lithuania,LT
+144668,Netherlands,NL
+144668,Norway,NO
+144668,Poland,PL
+144668,Portugal,PT
+144668,Russia,RU
+144668,Spain,ES
+144668,Sweden,SE
+144670,Belgium,BE
+144670,"Channel Islands",
+144670,Denmark,DK
+144670,Estonia,EE
+144670,Finland,FI
+144670,France,FR
+144670,Germany,DE
+144670,"Isle Of Man",IM
+144670,Italy,IT
+144670,Latvia,LV
+144670,Lithuania,LT
+144670,Netherlands,NL
+144670,Norway,NO
+144670,Poland,PL
+144670,Portugal,PT
+144670,Russia,RU
+144670,Spain,ES
+144670,Sweden,SE
+144672,Belgium,BE
+144672,"Channel Islands",
+144672,Denmark,DK
+144672,Estonia,EE
+144672,Finland,FI
+144672,France,FR
+144672,Germany,DE
+144672,"Isle Of Man",IM
+144672,Italy,IT
+144672,Latvia,LV
+144672,Lithuania,LT
+144672,Netherlands,NL
+144672,Norway,NO
+144672,Poland,PL
+144672,Portugal,PT
+144672,Russia,RU
+144672,Spain,ES
+144672,Sweden,SE
+144674,Belgium,BE
+144674,"Channel Islands",
+144674,Denmark,DK
+144674,Estonia,EE
+144674,Finland,FI
+144674,France,FR
+144674,Germany,DE
+144674,"Isle Of Man",IM
+144674,Italy,IT
+144674,Latvia,LV
+144674,Lithuania,LT
+144674,Netherlands,NL
+144674,Norway,NO
+144674,Poland,PL
+144674,Portugal,PT
+144674,Russia,RU
+144674,Spain,ES
+144674,Sweden,SE
+144675,Belgium,BE
+144675,"Channel Islands",
+144675,Denmark,DK
+144675,Estonia,EE
+144675,Finland,FI
+144675,France,FR
+144675,Germany,DE
+144675,"Isle Of Man",IM
+144675,Italy,IT
+144675,Latvia,LV
+144675,Lithuania,LT
+144675,Netherlands,NL
+144675,Norway,NO
+144675,Poland,PL
+144675,Portugal,PT
+144675,Russia,RU
+144675,Spain,ES
+144675,Sweden,SE
+144679,Belgium,BE
+144679,"Channel Islands",
+144679,Denmark,DK
+144679,Estonia,EE
+144679,Finland,FI
+144679,France,FR
+144679,Germany,DE
+144679,"Isle Of Man",IM
+144679,Italy,IT
+144679,Latvia,LV
+144679,Lithuania,LT
+144679,Netherlands,NL
+144679,Norway,NO
+144679,Poland,PL
+144679,Portugal,PT
+144679,Russia,RU
+144679,Spain,ES
+144679,Sweden,SE
+144681,Belgium,BE
+144681,"Channel Islands",
+144681,Denmark,DK
+144681,Estonia,EE
+144681,Finland,FI
+144681,France,FR
+144681,Germany,DE
+144681,"Isle Of Man",IM
+144681,Italy,IT
+144681,Latvia,LV
+144681,Lithuania,LT
+144681,Netherlands,NL
+144681,Norway,NO
+144681,Poland,PL
+144681,Portugal,PT
+144681,Russia,RU
+144681,Spain,ES
+144681,Sweden,SE
+144685,Belgium,BE
+144685,"Channel Islands",
+144685,Denmark,DK
+144685,Estonia,EE
+144685,Finland,FI
+144685,France,FR
+144685,Germany,DE
+144685,"Isle Of Man",IM
+144685,Italy,IT
+144685,Latvia,LV
+144685,Lithuania,LT
+144685,Netherlands,NL
+144685,Norway,NO
+144685,Poland,PL
+144685,Portugal,PT
+144685,Russia,RU
+144685,Spain,ES
+144685,Sweden,SE
+144686,Belgium,BE
+144686,"Channel Islands",
+144686,Denmark,DK
+144686,Estonia,EE
+144686,Finland,FI
+144686,France,FR
+144686,Germany,DE
+144686,"Isle Of Man",IM
+144686,Italy,IT
+144686,Latvia,LV
+144686,Lithuania,LT
+144686,Netherlands,NL
+144686,Norway,NO
+144686,Poland,PL
+144686,Portugal,PT
+144686,Russia,RU
+144686,Spain,ES
+144686,Sweden,SE
+144689,Belgium,BE
+144689,"Channel Islands",
+144689,Denmark,DK
+144689,Estonia,EE
+144689,Finland,FI
+144689,France,FR
+144689,Germany,DE
+144689,"Isle Of Man",IM
+144689,Italy,IT
+144689,Latvia,LV
+144689,Lithuania,LT
+144689,Netherlands,NL
+144689,Norway,NO
+144689,Poland,PL
+144689,Portugal,PT
+144689,Russia,RU
+144689,Spain,ES
+144689,Sweden,SE
+144692,Belgium,BE
+144692,"Channel Islands",
+144692,Denmark,DK
+144692,Estonia,EE
+144692,Finland,FI
+144692,France,FR
+144692,Germany,DE
+144692,"Isle Of Man",IM
+144692,Italy,IT
+144692,Latvia,LV
+144692,Lithuania,LT
+144692,Netherlands,NL
+144692,Norway,NO
+144692,Poland,PL
+144692,Portugal,PT
+144692,Russia,RU
+144692,Spain,ES
+144692,Sweden,SE
+144697,Belgium,BE
+144697,"Channel Islands",
+144697,Denmark,DK
+144697,Estonia,EE
+144697,Finland,FI
+144697,France,FR
+144697,Germany,DE
+144697,"Isle Of Man",IM
+144697,Italy,IT
+144697,Latvia,LV
+144697,Lithuania,LT
+144697,Netherlands,NL
+144697,Norway,NO
+144697,Poland,PL
+144697,Portugal,PT
+144697,Russia,RU
+144697,Spain,ES
+144697,Sweden,SE
+144699,Belgium,BE
+144699,"Channel Islands",
+144699,Denmark,DK
+144699,Estonia,EE
+144699,Finland,FI
+144699,France,FR
+144699,Germany,DE
+144699,"Isle Of Man",IM
+144699,Italy,IT
+144699,Latvia,LV
+144699,Lithuania,LT
+144699,Netherlands,NL
+144699,Norway,NO
+144699,Poland,PL
+144699,Portugal,PT
+144699,Russia,RU
+144699,Spain,ES
+144699,Sweden,SE
+144700,Belgium,BE
+144700,"Channel Islands",
+144700,Denmark,DK
+144700,Estonia,EE
+144700,Finland,FI
+144700,France,FR
+144700,Germany,DE
+144700,"Isle Of Man",IM
+144700,Italy,IT
+144700,Latvia,LV
+144700,Lithuania,LT
+144700,Netherlands,NL
+144700,Norway,NO
+144700,Poland,PL
+144700,Portugal,PT
+144700,Russia,RU
+144700,Spain,ES
+144700,Sweden,SE
+144709,Belgium,BE
+144709,"Channel Islands",
+144709,Denmark,DK
+144709,Estonia,EE
+144709,Finland,FI
+144709,France,FR
+144709,Germany,DE
+144709,"Isle Of Man",IM
+144709,Italy,IT
+144709,Latvia,LV
+144709,Lithuania,LT
+144709,Netherlands,NL
+144709,Norway,NO
+144709,Poland,PL
+144709,Portugal,PT
+144709,Russia,RU
+144709,Spain,ES
+144709,Sweden,SE
+144710,Belgium,BE
+144710,"Channel Islands",
+144710,Denmark,DK
+144710,Estonia,EE
+144710,Finland,FI
+144710,France,FR
+144710,Germany,DE
+144710,"Isle Of Man",IM
+144710,Italy,IT
+144710,Latvia,LV
+144710,Lithuania,LT
+144710,Netherlands,NL
+144710,Norway,NO
+144710,Poland,PL
+144710,Portugal,PT
+144710,Russia,RU
+144710,Spain,ES
+144710,Sweden,SE
+144715,"South Africa",ZA
+144723,"Vessel and/or Platform in International Waters",
+144753,Belarus,BY
+144763,"United States of America",US
+144776,China,CN
+144776,"United States of America",US
+144786,Romania,RO
+144794,France,FR
+144905,"Czech Republic",CZ
+144948,Jordan,JO
+144962,"United States of America",US
+144987,Oman,OM
+145036,Brazil,BR
+145041,Germany,DE
+145041,Indonesia,ID
+145041,Singapore,SG
+145166,Oman,OM
+145168,"South Africa",ZA
+145215,"United States of America",US
+145216,"United States of America",US
+145235,Djibouti,DJ
+145255,Djibouti,DJ
+145268,Djibouti,DJ
+145365,"United States of America",US
+145376,"United States of America",US
+145396,"United States of America",US
+145461,"United States of America",US
+145496,Brazil,BR
+145552,"Vessel and/or Platform in International Waters",
+145595,Hungary,HU
+145613,"Vessel and/or Platform in International Waters",
+145701,"Czech Republic",CZ
+145705,"Vessel and/or Platform in International Waters",
+145709,"Vessel and/or Platform in International Waters",
+145710,"Vessel and/or Platform in International Waters",
+145721,"South Africa",ZA
+145729,"Vessel and/or Platform in International Waters",
+145732,"Vessel and/or Platform in International Waters",
+145734,"Vessel and/or Platform in International Waters",
+145736,"Vessel and/or Platform in International Waters",
+145737,"Vessel and/or Platform in International Waters",
+145738,"Vessel and/or Platform in International Waters",
+145744,"Vessel and/or Platform in International Waters",
+145745,"Czech Republic",CZ
+145752,"Vessel and/or Platform in International Waters",
+145754,"Vessel and/or Platform in International Waters",
+145756,"Vessel and/or Platform in International Waters",
+145760,"Vessel and/or Platform in International Waters",
+145764,"Vessel and/or Platform in International Waters",
+145775,Comoros,KM
+145775,Djibouti,DJ
+145775,Egypt,EG
+145775,Kenya,KE
+145775,Madagascar,MG
+145775,Malaysia,MY
+145775,Maldives,MV
+145775,Mauritius,MU
+145775,Mozambique,MZ
+145775,Oman,OM
+145775,Seychelles,SC
+145775,Singapore,SG
+145775,"South Africa",ZA
+145775,"Sri Lanka",LK
+145775,Tanzania,TZ
+145775,"Vessel and/or Platform in International Waters",
+145831,"Vessel and/or Platform in International Waters",
+145841,Switzerland,CH
+145905,Greece,GR
+145937,"Vessel and/or Platform in International Waters",

@@ -65018,8 +65018,266 @@ licence_id,destination,iso2
 142410,"South Korea",KR
 142410,Sweden,SE
 142567,Netherlands,NL
-142661,France,FR
-142728,Netherlands,NL
-142821,Netherlands,NL
-142858,"United Kingdom",GB
-142902,Netherlands,NL
+142662,France,FR
+142729,Netherlands,NL
+142822,Netherlands,NL
+142859,"United Kingdom",GB
+142903,Netherlands,NL
+143122,Netherlands,NL
+143220,"United Kingdom",GB
+143434,Netherlands,NL
+143642,Netherlands,NL
+144026,Australia,AU
+144026,Brazil,BR
+144026,Canada,CA
+144026,China,CN
+144026,"Czech Republic",CZ
+144026,India,IN
+144026,Mexico,MX
+144026,Netherlands,NL
+144026,Norway,NO
+144026,Poland,PL
+144026,"South Africa",ZA
+144026,Turkey,TR
+144026,"United Kingdom",GB
+144026,"United States of America",US
+144268,Netherlands,NL
+144352,Brazil,BR
+144352,"Czech Republic",CZ
+144352,Hungary,HU
+144352,"South Africa",ZA
+144352,Sweden,SE
+144352,Thailand,TH
+144352,"United Kingdom",GB
+144393,Brazil,BR
+144393,"Czech Republic",CZ
+144393,Hungary,HU
+144393,"South Africa",ZA
+144393,Sweden,SE
+144393,Thailand,TH
+144393,"United Kingdom",GB
+144416,"United Kingdom",GB
+144460,Brazil,BR
+144460,"Czech Republic",CZ
+144460,Hungary,HU
+144460,"South Africa",ZA
+144460,Sweden,SE
+144460,Thailand,TH
+144460,"United Kingdom",GB
+144479,"United Kingdom",GB
+144507,Brazil,BR
+144507,"Czech Republic",CZ
+144507,Hungary,HU
+144507,"South Africa",ZA
+144507,Sweden,SE
+144507,Thailand,TH
+144507,"United Kingdom",GB
+144555,Brazil,BR
+144555,"Czech Republic",CZ
+144555,Hungary,HU
+144555,"South Africa",ZA
+144555,Sweden,SE
+144555,Thailand,TH
+144555,"United Kingdom",GB
+144655,Australia,AU
+144655,Bahrain,BH
+144655,Bangladesh,BD
+144655,Canada,CA
+144655,Denmark,DK
+144655,France,FR
+144655,Germany,DE
+144655,India,IN
+144655,Iraq,IQ
+144655,Israel,IL
+144655,Italy,IT
+144655,Kuwait,KW
+144655,Luxembourg,LU
+144655,Norway,NO
+144655,Oman,OM
+144655,Portugal,PT
+144655,Qatar,QA
+144655,"Saudi Arabia",SA
+144655,"South Korea",KR
+144655,Tunisia,TN
+144655,"United Kingdom",GB
+144677,Brazil,BR
+144677,"Czech Republic",CZ
+144677,Hungary,HU
+144677,"South Africa",ZA
+144677,Sweden,SE
+144677,Thailand,TH
+144677,"United Kingdom",GB
+144714,"United Kingdom",GB
+144722,Australia,AU
+144722,Bahrain,BH
+144722,Bangladesh,BD
+144722,Canada,CA
+144722,Denmark,DK
+144722,France,FR
+144722,Germany,DE
+144722,India,IN
+144722,Iraq,IQ
+144722,Israel,IL
+144722,Italy,IT
+144722,Kuwait,KW
+144722,Luxembourg,LU
+144722,Norway,NO
+144722,Oman,OM
+144722,Portugal,PT
+144722,Qatar,QA
+144722,"Saudi Arabia",SA
+144722,"South Korea",KR
+144722,Tunisia,TN
+144722,"United Kingdom",GB
+144739,"United Kingdom",GB
+144785,Australia,AU
+144785,Bahrain,BH
+144785,Bangladesh,BD
+144785,Canada,CA
+144785,Denmark,DK
+144785,France,FR
+144785,Germany,DE
+144785,India,IN
+144785,Iraq,IQ
+144785,Israel,IL
+144785,Italy,IT
+144785,Kuwait,KW
+144785,Luxembourg,LU
+144785,Norway,NO
+144785,Oman,OM
+144785,Portugal,PT
+144785,Qatar,QA
+144785,"Saudi Arabia",SA
+144785,"South Korea",KR
+144785,Tunisia,TN
+144785,"United Kingdom",GB
+144944,Brazil,BR
+144944,"Czech Republic",CZ
+144944,Hungary,HU
+144944,"South Africa",ZA
+144944,Sweden,SE
+144944,Thailand,TH
+144944,"United Kingdom",GB
+145110,Brazil,BR
+145110,"Czech Republic",CZ
+145110,Hungary,HU
+145110,"South Africa",ZA
+145110,Sweden,SE
+145110,Thailand,TH
+145110,"United Kingdom",GB
+145195,"United Kingdom",GB
+145243,Brazil,BR
+145243,"Czech Republic",CZ
+145243,Hungary,HU
+145243,"South Africa",ZA
+145243,Sweden,SE
+145243,Thailand,TH
+145243,"United Kingdom",GB
+145272,"United Kingdom",GB
+145283,Australia,AU
+145283,Bahrain,BH
+145283,Bangladesh,BD
+145283,Canada,CA
+145283,Denmark,DK
+145283,France,FR
+145283,Germany,DE
+145283,India,IN
+145283,Iraq,IQ
+145283,Israel,IL
+145283,Italy,IT
+145283,Kuwait,KW
+145283,Luxembourg,LU
+145283,Norway,NO
+145283,Oman,OM
+145283,Portugal,PT
+145283,Qatar,QA
+145283,"Saudi Arabia",SA
+145283,"South Korea",KR
+145283,Tunisia,TN
+145283,"United Kingdom",GB
+145296,Brazil,BR
+145296,"Czech Republic",CZ
+145296,Hungary,HU
+145296,"South Africa",ZA
+145296,Sweden,SE
+145296,Thailand,TH
+145296,"United Kingdom",GB
+145323,Australia,AU
+145323,Bahrain,BH
+145323,Bangladesh,BD
+145323,Canada,CA
+145323,Denmark,DK
+145323,France,FR
+145323,Germany,DE
+145323,India,IN
+145323,Iraq,IQ
+145323,Israel,IL
+145323,Italy,IT
+145323,Kuwait,KW
+145323,Luxembourg,LU
+145323,Norway,NO
+145323,Oman,OM
+145323,Portugal,PT
+145323,Qatar,QA
+145323,"Saudi Arabia",SA
+145323,"South Korea",KR
+145323,Tunisia,TN
+145323,"United Kingdom",GB
+145334,Brazil,BR
+145334,"Czech Republic",CZ
+145334,Hungary,HU
+145334,"South Africa",ZA
+145334,Sweden,SE
+145334,Thailand,TH
+145334,"United Kingdom",GB
+145357,"United Kingdom",GB
+145364,Australia,AU
+145364,Bahrain,BH
+145364,Bangladesh,BD
+145364,Canada,CA
+145364,Denmark,DK
+145364,France,FR
+145364,Germany,DE
+145364,India,IN
+145364,Iraq,IQ
+145364,Israel,IL
+145364,Italy,IT
+145364,Kuwait,KW
+145364,Luxembourg,LU
+145364,Norway,NO
+145364,Oman,OM
+145364,Portugal,PT
+145364,Qatar,QA
+145364,"Saudi Arabia",SA
+145364,"South Korea",KR
+145364,Tunisia,TN
+145364,"United Kingdom",GB
+145377,"United Kingdom",GB
+145386,Brazil,BR
+145386,"Czech Republic",CZ
+145386,Hungary,HU
+145386,"South Africa",ZA
+145386,Sweden,SE
+145386,Thailand,TH
+145386,"United Kingdom",GB
+145512,Australia,AU
+145512,Bahrain,BH
+145512,Bangladesh,BD
+145512,Canada,CA
+145512,Denmark,DK
+145512,France,FR
+145512,Germany,DE
+145512,India,IN
+145512,Iraq,IQ
+145512,Israel,IL
+145512,Italy,IT
+145512,Kuwait,KW
+145512,Luxembourg,LU
+145512,Norway,NO
+145512,Oman,OM
+145512,Portugal,PT
+145512,Qatar,QA
+145512,"Saudi Arabia",SA
+145512,"South Korea",KR
+145512,Tunisia,TN
+145512,"United Kingdom",GB
