@@ -17868,289 +17868,591 @@ licence_id,source,iso2
 148077,Bulgaria,BG
 148077,Romania,RO
 148088,"United States of America",US
-148112,"United States of America",US
-148166,Bulgaria,BG
-148166,"South Africa",ZA
-148167,"Czech Republic",CZ
-148176,"United States of America",US
-148178,"United States of America",US
-148198,"United States of America",US
-148368,Spain,ES
-148386,Jordan,JO
-148606,"South Africa",ZA
-148758,"United States of America",US
-148767,"Vessel and/or Platform in International Waters",
-148768,"United States of America",US
-148770,Bulgaria,BG
-148774,"United States of America",US
-148839,Bulgaria,BG
-148858,"United States of America",US
-148864,Zimbabwe,ZW
-148868,Turkey,TR
-148949,"United States of America",US
-148960,"United States of America",US
-148981,"United States of America",US
-149100,"United States of America",US
-149279,"United States of America",US
-149287,Norway,NO
-149291,"United States of America",US
-149322,Turkey,TR
-149388,Greece,GR
-149391,Spain,ES
-149582,"United States of America",US
-149599,Singapore,SG
-149616,"United Arab Emirates",AE
-149639,"Czech Republic",CZ
-149703,Turkey,TR
-149726,"Czech Republic",CZ
-149738,"United States of America",US
-149783,"South Africa",ZA
-149865,Brazil,BR
-150001,Japan,JP
-150330,"United States of America",US
-150564,"United States of America",US
-150686,Hungary,HU
-151163,"United States of America",US
-151383,Italy,IT
-151445,"United States of America",US
-151497,Germany,DE
-151497,Israel,IL
-151497,Morocco,MA
-151497,Switzerland,CH
-151503,Germany,DE
-151503,Israel,IL
-151503,Morocco,MA
-151503,Switzerland,CH
-151507,Germany,DE
-151507,Israel,IL
-151507,Morocco,MA
-151507,Switzerland,CH
-151517,Germany,DE
-151517,Israel,IL
-151517,Morocco,MA
-151517,Switzerland,CH
-151549,France,FR
-151685,"Czech Republic",CZ
-151830,Russia,RU
-151904,"South Africa",ZA
-151934,Spain,ES
-152149,Jordan,JO
-152185,Switzerland,CH
-152259,Spain,ES
-152309,Jordan,JO
-152321,"United States of America",US
-152401,Malaysia,MY
-152404,Malaysia,MY
-152406,Malaysia,MY
-152414,Malaysia,MY
-152418,Malaysia,MY
-152420,Malaysia,MY
-152423,Malaysia,MY
-152434,Malaysia,MY
-152436,Malaysia,MY
-152440,Malaysia,MY
-152445,Malaysia,MY
-152447,Malaysia,MY
-152460,Malaysia,MY
-152462,Malaysia,MY
-152464,Malaysia,MY
-152469,Malaysia,MY
-152557,"United States of America",US
-152569,Lebanon,LB
-152569,Sweden,SE
-152569,Switzerland,CH
-152569,Zimbabwe,ZW
-152580,Spain,ES
-152634,Malaysia,MY
-152693,Brazil,BR
-152708,Germany,DE
-152708,Japan,JP
-152708,Singapore,SG
-152768,"United States of America",US
-152852,Malaysia,MY
-152947,"United States of America",US
-153047,Spain,ES
-153465,"Vessel and/or Platform in International Waters",
-153499,"Vessel and/or Platform in International Waters",
-153528,Spain,ES
-153615,Japan,JP
-153644,"United States of America",US
-153700,Azerbaijan,AZ
-153700,Spain,ES
-153703,"Czech Republic",CZ
-153724,"Vessel and/or Platform in International Waters",
-153846,Spain,ES
-153850,Spain,ES
-154002,Greece,GR
-154099,France,FR
-154099,"United States of America",US
+148113,"United States of America",US
+148167,Bulgaria,BG
+148167,"South Africa",ZA
+148168,"Czech Republic",CZ
+148177,"United States of America",US
+148179,"United States of America",US
+148199,"United States of America",US
+148369,Spain,ES
+148387,Jordan,JO
+148607,"South Africa",ZA
+148759,"United States of America",US
+148768,"Vessel and/or Platform in International Waters",
+148769,"United States of America",US
+148771,Bulgaria,BG
+148775,"United States of America",US
+148840,Bulgaria,BG
+148859,"United States of America",US
+148865,Zimbabwe,ZW
+148869,Turkey,TR
+148950,"United States of America",US
+148961,"United States of America",US
+148982,"United States of America",US
+149101,"United States of America",US
+149280,"United States of America",US
+149288,Norway,NO
+149292,"United States of America",US
+149323,Turkey,TR
+149389,Greece,GR
+149392,Spain,ES
+149583,"United States of America",US
+149600,Singapore,SG
+149617,"United Arab Emirates",AE
+149640,"Czech Republic",CZ
+149704,Turkey,TR
+149727,"Czech Republic",CZ
+149739,"United States of America",US
+149784,"South Africa",ZA
+149866,Brazil,BR
+150002,Japan,JP
+150331,"United States of America",US
+150565,"United States of America",US
+150687,Hungary,HU
+151164,"United States of America",US
+151384,Italy,IT
+151446,"United States of America",US
+151498,Germany,DE
+151498,Israel,IL
+151498,Morocco,MA
+151498,Switzerland,CH
+151504,Germany,DE
+151504,Israel,IL
+151504,Morocco,MA
+151504,Switzerland,CH
+151508,Germany,DE
+151508,Israel,IL
+151508,Morocco,MA
+151508,Switzerland,CH
+151518,Germany,DE
+151518,Israel,IL
+151518,Morocco,MA
+151518,Switzerland,CH
+151550,France,FR
+151686,"Czech Republic",CZ
+151831,Russia,RU
+151905,"South Africa",ZA
+151935,Spain,ES
+152150,Jordan,JO
+152186,Switzerland,CH
+152260,Spain,ES
+152310,Jordan,JO
+152322,"United States of America",US
+152402,Malaysia,MY
+152405,Malaysia,MY
+152407,Malaysia,MY
+152415,Malaysia,MY
+152419,Malaysia,MY
+152421,Malaysia,MY
+152424,Malaysia,MY
+152435,Malaysia,MY
+152437,Malaysia,MY
+152441,Malaysia,MY
+152446,Malaysia,MY
+152448,Malaysia,MY
+152461,Malaysia,MY
+152463,Malaysia,MY
+152465,Malaysia,MY
+152470,Malaysia,MY
+152558,"United States of America",US
+152570,Lebanon,LB
+152570,Sweden,SE
+152570,Switzerland,CH
+152570,Zimbabwe,ZW
+152581,Spain,ES
+152635,Malaysia,MY
+152694,Brazil,BR
+152709,Germany,DE
+152709,Japan,JP
+152709,Singapore,SG
+152769,"United States of America",US
+152853,Malaysia,MY
+152948,"United States of America",US
+153048,Spain,ES
+153466,"Vessel and/or Platform in International Waters",
+153500,"Vessel and/or Platform in International Waters",
+153529,Spain,ES
+153616,Japan,JP
+153645,"United States of America",US
+153701,Azerbaijan,AZ
+153701,Spain,ES
+153704,"Czech Republic",CZ
+153725,"Vessel and/or Platform in International Waters",
+153847,Spain,ES
+153851,Spain,ES
+154003,Greece,GR
 154100,France,FR
 154100,"United States of America",US
-154128,Cambodia,KH
-154206,Japan,JP
+154101,France,FR
+154101,"United States of America",US
+154129,Cambodia,KH
 154207,Japan,JP
-154243,"South Africa",ZA
-154387,Turkey,TR
-154442,Japan,JP
-154486,"Czech Republic",CZ
-154917,"United States of America",US
-155128,Cambodia,KH
-155128,Zimbabwe,ZW
-155164,Cambodia,KH
-155164,Zimbabwe,ZW
-155166,Cambodia,KH
-155166,Zimbabwe,ZW
-155173,Malaysia,MY
-155427,Bulgaria,BG
-155452,Comoros,KM
-155452,Malaysia,MY
-155452,Mauritius,MU
-155452,Oman,OM
-155452,"Sri Lanka",LK
-155468,"Czech Republic",CZ
-155494,Greece,GR
-155500,"Czech Republic",CZ
-155500,France,FR
-155501,"Czech Republic",CZ
-155501,France,FR
-155674,Iraq,IQ
-155713,"Czech Republic",CZ
-155804,"Czech Republic",CZ
-155844,"United States of America",US
-156112,Peru,PE
-156112,Thailand,TH
-156246,Jordan,JO
-156264,Brazil,BR
-156471,"Czech Republic",CZ
-156547,"United States of America",US
-156557,"United States of America",US
-156582,Hungary,HU
-156603,Australia,AU
-156603,"South Korea",KR
-156603,"United States of America",US
-156775,Netherlands,NL
-156984,"Vessel and/or Platform in International Waters",
-157034,Germany,DE
-157562,Malaysia,MY
-157581,Serbia,RS
-157629,Bulgaria,BG
-157649,Israel,IL
-157656,"South Africa",ZA
-157772,"United States of America",US
-157872,China,CN
-157930,France,FR
-157945,Serbia,RS
-158000,Turkey,TR
-158048,Singapore,SG
-158168,Serbia,RS
-158295,"Vessel and/or Platform in International Waters",
-158469,Cambodia,KH
-158538,"Vessel and/or Platform in International Waters",
-158558,Spain,ES
-158610,"South Africa",ZA
-158907,Germany,DE
-158978,"United States of America",US
-159048,Belgium,BE
-159048,Canada,CA
-159048,Denmark,DK
-159048,Finland,FI
-159048,France,FR
-159048,Germany,DE
-159048,Italy,IT
-159048,Luxembourg,LU
-159048,Norway,NO
-159048,Poland,PL
-159048,Portugal,PT
-159048,Spain,ES
-159048,Sweden,SE
-159072,"United Arab Emirates",AE
-159073,Greece,GR
-159077,"Vessel and/or Platform in International Waters",
-159347,Israel,IL
-159347,"United Kingdom",GB
-159364,Israel,IL
-159364,"United Kingdom",GB
-159420,Switzerland,CH
-159457,India,IN
-159531,"South Africa",ZA
-159542,Philippines,PH
-159544,"South Africa",ZA
-159651,Ukraine,UA
-159651,"United States of America",US
-159654,Ukraine,UA
-159654,"United States of America",US
-159707,Bulgaria,BG
-159776,Switzerland,CH
-159803,Peru,PE
-159817,"United States of America",US
-159978,Brazil,BR
-160094,Serbia,RS
-160149,"South Africa",ZA
-160152,Turkey,TR
-160155,Zimbabwe,ZW
-160195,Cambodia,KH
-160195,Zimbabwe,ZW
-160196,Cambodia,KH
-160196,Zimbabwe,ZW
-160203,Cambodia,KH
-160203,Zimbabwe,ZW
-160207,Cambodia,KH
-160207,Zimbabwe,ZW
-160211,Cambodia,KH
-160211,Zimbabwe,ZW
-160213,Cambodia,KH
-160213,Zimbabwe,ZW
+154208,Japan,JP
+154244,"South Africa",ZA
+154388,Turkey,TR
+154443,Japan,JP
+154487,"Czech Republic",CZ
+154918,"United States of America",US
+155129,Cambodia,KH
+155129,Zimbabwe,ZW
+155165,Cambodia,KH
+155165,Zimbabwe,ZW
+155167,Cambodia,KH
+155167,Zimbabwe,ZW
+155172,Cambodia,KH
+155172,Zimbabwe,ZW
+155175,Malaysia,MY
+155429,Bulgaria,BG
+155454,Comoros,KM
+155454,Malaysia,MY
+155454,Mauritius,MU
+155454,Oman,OM
+155454,"Sri Lanka",LK
+155470,"Czech Republic",CZ
+155496,Greece,GR
+155502,"Czech Republic",CZ
+155502,France,FR
+155503,"Czech Republic",CZ
+155503,France,FR
+155676,Iraq,IQ
+155715,"Czech Republic",CZ
+155806,"Czech Republic",CZ
+155846,"United States of America",US
+156114,Peru,PE
+156114,Thailand,TH
+156248,Jordan,JO
+156266,Brazil,BR
+156473,"Czech Republic",CZ
+156549,"United States of America",US
+156559,"United States of America",US
+156584,Hungary,HU
+156605,Australia,AU
+156605,"South Korea",KR
+156605,"United States of America",US
+156777,Netherlands,NL
+156986,"Vessel and/or Platform in International Waters",
+157036,Germany,DE
+157564,Malaysia,MY
+157583,Serbia,RS
+157631,Bulgaria,BG
+157651,Israel,IL
+157658,"South Africa",ZA
+157774,"United States of America",US
+157874,China,CN
+157932,France,FR
+157947,Serbia,RS
+158002,Turkey,TR
+158050,Singapore,SG
+158170,Serbia,RS
+158297,"Vessel and/or Platform in International Waters",
+158471,Cambodia,KH
+158540,"Vessel and/or Platform in International Waters",
+158560,Spain,ES
+158612,"South Africa",ZA
+158909,Germany,DE
+158980,"United States of America",US
+159050,Belgium,BE
+159050,Canada,CA
+159050,Denmark,DK
+159050,Finland,FI
+159050,France,FR
+159050,Germany,DE
+159050,Italy,IT
+159050,Luxembourg,LU
+159050,Norway,NO
+159050,Poland,PL
+159050,Portugal,PT
+159050,Spain,ES
+159050,Sweden,SE
+159074,"United Arab Emirates",AE
+159075,Greece,GR
+159079,"Vessel and/or Platform in International Waters",
+159349,Israel,IL
+159349,"United Kingdom",GB
+159366,Israel,IL
+159366,"United Kingdom",GB
+159422,Switzerland,CH
+159459,India,IN
+159533,"South Africa",ZA
+159544,Philippines,PH
+159546,"South Africa",ZA
+159653,Ukraine,UA
+159653,"United States of America",US
+159656,Ukraine,UA
+159656,"United States of America",US
+159709,Bulgaria,BG
+159778,Switzerland,CH
+159805,Peru,PE
+159819,"United States of America",US
+159980,Brazil,BR
+160097,Serbia,RS
+160152,"South Africa",ZA
+160155,Turkey,TR
+160158,Zimbabwe,ZW
+160198,Cambodia,KH
+160198,Zimbabwe,ZW
+160199,Cambodia,KH
+160199,Zimbabwe,ZW
+160206,Cambodia,KH
+160206,Zimbabwe,ZW
+160210,Cambodia,KH
+160210,Zimbabwe,ZW
 160214,Cambodia,KH
 160214,Zimbabwe,ZW
-160215,Cambodia,KH
-160215,Zimbabwe,ZW
 160216,Cambodia,KH
 160216,Zimbabwe,ZW
-160223,Cambodia,KH
-160223,Zimbabwe,ZW
-160333,"United States of America",US
-160374,"United States of America",US
-160396,"United States of America",US
-160664,Switzerland,CH
-160716,Ukraine,UA
-160794,Japan,JP
-160809,Zimbabwe,ZW
-160965,Romania,RO
-161336,"United States of America",US
-161355,Spain,ES
-161553,"United States of America",US
-161646,Maldives,MV
-161797,Switzerland,CH
-161809,"United States of America",US
-161937,Malaysia,MY
-161942,Malaysia,MY
-161949,"Czech Republic",CZ
-161952,Malaysia,MY
-161954,Malaysia,MY
-161961,Malaysia,MY
-161964,Malaysia,MY
+160217,Cambodia,KH
+160217,Zimbabwe,ZW
+160218,Cambodia,KH
+160218,Zimbabwe,ZW
+160219,Cambodia,KH
+160219,Zimbabwe,ZW
+160226,Cambodia,KH
+160226,Zimbabwe,ZW
+160336,"United States of America",US
+160377,"United States of America",US
+160399,"United States of America",US
+160667,Switzerland,CH
+160719,Ukraine,UA
+160798,Japan,JP
+160813,Zimbabwe,ZW
+160969,Romania,RO
+161340,"United States of America",US
+161359,Spain,ES
+161557,"United States of America",US
+161650,Maldives,MV
+161801,Switzerland,CH
+161813,"United States of America",US
+161941,Malaysia,MY
+161946,Malaysia,MY
+161953,"Czech Republic",CZ
+161956,Malaysia,MY
+161958,Malaysia,MY
+161965,Malaysia,MY
 161968,Malaysia,MY
-161969,Malaysia,MY
-161986,"United Arab Emirates",AE
-162014,Spain,ES
-162040,"Czech Republic",CZ
-162162,"Czech Republic",CZ
-162223,"Czech Republic",CZ
-162309,Belgium,BE
-162428,Turkey,TR
-162449,Japan,JP
-162453,"United States of America",US
-162564,"United States of America",US
-162598,Ghana,GH
-162903,"Czech Republic",CZ
-162947,Poland,PL
-163118,Malta,MT
-163118,"Saudi Arabia",SA
-163142,Malta,MT
-163142,"Saudi Arabia",SA
-163225,Pakistan,PK
-163281,Turkey,TR
-163283,Malaysia,MY
-163308,Australia,AU
-163317,Malaysia,MY
-163418,Brazil,BR
+161972,Malaysia,MY
+161973,Malaysia,MY
+161990,"United Arab Emirates",AE
+162018,Spain,ES
+162044,"Czech Republic",CZ
+162166,"Czech Republic",CZ
+162227,"Czech Republic",CZ
+162313,Belgium,BE
+162432,Turkey,TR
+162453,Japan,JP
+162457,"United States of America",US
+162568,"United States of America",US
+162602,Ghana,GH
+162907,"Czech Republic",CZ
+162951,Poland,PL
+163122,Malta,MT
+163122,"Saudi Arabia",SA
+163146,Malta,MT
+163146,"Saudi Arabia",SA
+163229,Pakistan,PK
+163285,Turkey,TR
+163287,Malaysia,MY
+163312,Australia,AU
+163321,Malaysia,MY
+163422,Brazil,BR
+163628,"Sri Lanka",LK
+164050,Turkey,TR
+164256,Germany,DE
+164278,Serbia,RS
+164433,"Czech Republic",CZ
+164535,"South Korea",KR
+164663,Italy,IT
+164663,Malaysia,MY
+164664,Italy,IT
+164664,Malaysia,MY
+164736,Switzerland,CH
+164820,Bulgaria,BG
+164820,"South Africa",ZA
+164875,Bulgaria,BG
+165012,"United States of America",US
+165015,Turkey,TR
+165022,"United States of America",US
+165027,"Bosnia and Herzegovina",BA
+165067,China,CN
+165079,China,CN
+165089,"Czech Republic",CZ
+165091,China,CN
+165093,China,CN
+165099,China,CN
+165104,China,CN
+165143,"Saudi Arabia",SA
+165169,Spain,ES
+165172,Spain,ES
+165311,"South Africa",ZA
+165473,Serbia,RS
+165541,Uganda,UG
+165571,Serbia,RS
+165713,"Vessel and/or Platform in International Waters",
+165721,Turkey,TR
+165723,Turkey,TR
+165786,Sweden,SE
+165836,Australia,AU
+165836,China,CN
+165836,Croatia,HR
+165836,Germany,DE
+165836,Japan,JP
+165836,Sweden,SE
+165836,"United States of America",US
+165837,Australia,AU
+165837,China,CN
+165837,Croatia,HR
+165837,Germany,DE
+165837,Japan,JP
+165837,Sweden,SE
+165837,"United States of America",US
+165838,Australia,AU
+165838,China,CN
+165838,Croatia,HR
+165838,Germany,DE
+165838,Japan,JP
+165838,Sweden,SE
+165838,"United States of America",US
+165839,Australia,AU
+165839,China,CN
+165839,Croatia,HR
+165839,Germany,DE
+165839,Japan,JP
+165839,Sweden,SE
+165839,"United States of America",US
+165841,Australia,AU
+165841,China,CN
+165841,Croatia,HR
+165841,Germany,DE
+165841,Japan,JP
+165841,Sweden,SE
+165841,"United States of America",US
+165844,Australia,AU
+165844,China,CN
+165844,Croatia,HR
+165844,Germany,DE
+165844,Japan,JP
+165844,Sweden,SE
+165844,"United States of America",US
+165847,Australia,AU
+165847,China,CN
+165847,Croatia,HR
+165847,Germany,DE
+165847,Japan,JP
+165847,Sweden,SE
+165847,"United States of America",US
+165848,Australia,AU
+165848,China,CN
+165848,Croatia,HR
+165848,Germany,DE
+165848,Japan,JP
+165848,Sweden,SE
+165848,"United States of America",US
+165849,Australia,AU
+165849,China,CN
+165849,Croatia,HR
+165849,Germany,DE
+165849,Japan,JP
+165849,Sweden,SE
+165849,"United States of America",US
+165850,Australia,AU
+165850,China,CN
+165850,Croatia,HR
+165850,Germany,DE
+165850,Japan,JP
+165850,Sweden,SE
+165850,"United States of America",US
+165851,Australia,AU
+165851,China,CN
+165851,Croatia,HR
+165851,Germany,DE
+165851,Japan,JP
+165851,Sweden,SE
+165851,"United States of America",US
+165852,Australia,AU
+165852,China,CN
+165852,Croatia,HR
+165852,Germany,DE
+165852,Japan,JP
+165852,Sweden,SE
+165852,"United States of America",US
+165854,Australia,AU
+165854,China,CN
+165854,Croatia,HR
+165854,Germany,DE
+165854,Japan,JP
+165854,Sweden,SE
+165854,"United States of America",US
+165855,Australia,AU
+165855,China,CN
+165855,Croatia,HR
+165855,Germany,DE
+165855,Japan,JP
+165855,Sweden,SE
+165855,"United States of America",US
+165857,Australia,AU
+165857,China,CN
+165857,Croatia,HR
+165857,Germany,DE
+165857,Japan,JP
+165857,Sweden,SE
+165857,"United States of America",US
+165858,Australia,AU
+165858,China,CN
+165858,Croatia,HR
+165858,Germany,DE
+165858,Japan,JP
+165858,Sweden,SE
+165858,"United States of America",US
+165859,Australia,AU
+165859,China,CN
+165859,Croatia,HR
+165859,Germany,DE
+165859,Japan,JP
+165859,Sweden,SE
+165859,"United States of America",US
+165860,Australia,AU
+165860,China,CN
+165860,Croatia,HR
+165860,Germany,DE
+165860,Japan,JP
+165860,Sweden,SE
+165860,"United States of America",US
+165865,Australia,AU
+165865,China,CN
+165865,Croatia,HR
+165865,Germany,DE
+165865,Japan,JP
+165865,Sweden,SE
+165865,"United States of America",US
+165867,Australia,AU
+165867,China,CN
+165867,Croatia,HR
+165867,Germany,DE
+165867,Japan,JP
+165867,Sweden,SE
+165867,"United States of America",US
+165868,Austria,AT
+165869,Australia,AU
+165869,China,CN
+165869,Croatia,HR
+165869,Germany,DE
+165869,Japan,JP
+165869,Sweden,SE
+165869,"United States of America",US
+165870,Australia,AU
+165870,China,CN
+165870,Croatia,HR
+165870,Germany,DE
+165870,Japan,JP
+165870,Sweden,SE
+165870,"United States of America",US
+165872,Australia,AU
+165872,China,CN
+165872,Croatia,HR
+165872,Germany,DE
+165872,Japan,JP
+165872,Sweden,SE
+165872,"United States of America",US
+165873,Australia,AU
+165873,China,CN
+165873,Croatia,HR
+165873,Germany,DE
+165873,Japan,JP
+165873,Sweden,SE
+165873,"United States of America",US
+165874,Australia,AU
+165874,China,CN
+165874,Croatia,HR
+165874,Germany,DE
+165874,Japan,JP
+165874,Sweden,SE
+165874,"United States of America",US
+165875,Australia,AU
+165875,China,CN
+165875,Croatia,HR
+165875,Germany,DE
+165875,Japan,JP
+165875,Sweden,SE
+165875,"United States of America",US
+165877,Australia,AU
+165877,China,CN
+165877,Croatia,HR
+165877,Germany,DE
+165877,Japan,JP
+165877,Sweden,SE
+165877,"United States of America",US
+165878,Australia,AU
+165878,China,CN
+165878,Croatia,HR
+165878,Germany,DE
+165878,Japan,JP
+165878,Sweden,SE
+165878,"United States of America",US
+165880,Australia,AU
+165880,China,CN
+165880,Croatia,HR
+165880,Germany,DE
+165880,Japan,JP
+165880,Sweden,SE
+165880,"United States of America",US
+165882,Australia,AU
+165882,China,CN
+165882,Croatia,HR
+165882,Germany,DE
+165882,Japan,JP
+165882,Sweden,SE
+165882,"United States of America",US
+165883,Australia,AU
+165883,China,CN
+165883,Croatia,HR
+165883,Germany,DE
+165883,Japan,JP
+165883,Sweden,SE
+165883,"United States of America",US
+165885,Australia,AU
+165885,China,CN
+165885,Croatia,HR
+165885,Germany,DE
+165885,Japan,JP
+165885,Sweden,SE
+165885,"United States of America",US
+165889,Australia,AU
+165889,China,CN
+165889,Croatia,HR
+165889,Germany,DE
+165889,Japan,JP
+165889,Sweden,SE
+165889,"United States of America",US
+165890,Australia,AU
+165890,China,CN
+165890,Croatia,HR
+165890,Germany,DE
+165890,Japan,JP
+165890,Sweden,SE
+165890,"United States of America",US
+165892,Australia,AU
+165892,China,CN
+165892,Croatia,HR
+165892,Germany,DE
+165892,Japan,JP
+165892,Sweden,SE
+165892,"United States of America",US
+165895,Australia,AU
+165895,China,CN
+165895,Croatia,HR
+165895,Germany,DE
+165895,Japan,JP
+165895,Sweden,SE
+165895,"United States of America",US
+165981,Serbia,RS
+165997,Nepal,NP
+166014,Nepal,NP
+166236,Malaysia,MY
+166287,Serbia,RS
+166327,Croatia,HR
+166351,"Czech Republic",CZ
+166448,"Czech Republic",CZ
+166464,Switzerland,CH
+166508,"Czech Republic",CZ
+166530,Zimbabwe,ZW
