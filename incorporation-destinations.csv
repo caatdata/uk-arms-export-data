@@ -135666,6 +135666,7 @@ licence_cohort_id,destination,iso2
 198379,"United Kingdom",GB
 198379,"United States of America",US
 198403,"United Kingdom",GB
+198408,Canada,CA
 198408,China,CN
 198408,Finland,FI
 198408,Indonesia,ID
@@ -141598,6 +141599,7 @@ licence_cohort_id,destination,iso2
 204632,"United Arab Emirates",AE
 204632,"United Kingdom",GB
 204632,"United States of America",US
+204657,Bangladesh,BD
 204657,Egypt,EG
 204657,Germany,DE
 204657,Qatar,QA
@@ -141672,6 +141674,7 @@ licence_cohort_id,destination,iso2
 204762,"United Kingdom",GB
 204763,Germany,DE
 204768,Austria,AT
+204768,Bangladesh,BD
 204768,Egypt,EG
 204768,Germany,DE
 204768,Kuwait,KW
@@ -141690,6 +141693,7 @@ licence_cohort_id,destination,iso2
 204786,Netherlands,NL
 204786,Portugal,PT
 204796,Austria,AT
+204796,Bangladesh,BD
 204796,Egypt,EG
 204796,Germany,DE
 204796,Kuwait,KW
@@ -141730,6 +141734,7 @@ licence_cohort_id,destination,iso2
 204849,"Saudi Arabia",SA
 204849,"United Arab Emirates",AE
 204876,Austria,AT
+204876,Bangladesh,BD
 204876,Egypt,EG
 204876,Germany,DE
 204876,Greece,GR
@@ -141745,6 +141750,7 @@ licence_cohort_id,destination,iso2
 204882,Germany,DE
 204882,Greece,GR
 204882,Qatar,QA
+204882,"United Kingdom",GB
 204888,Netherlands,NL
 204897,Finland,FI
 204897,Germany,DE
@@ -141770,6 +141776,7 @@ licence_cohort_id,destination,iso2
 204903,"United Arab Emirates",AE
 204903,"United Kingdom",GB
 204909,Austria,AT
+204909,Bangladesh,BD
 204909,Egypt,EG
 204909,Germany,DE
 204909,Greece,GR
@@ -141784,320 +141791,331 @@ licence_cohort_id,destination,iso2
 204928,Bangladesh,BD
 204928,"Saudi Arabia",SA
 204928,"United Arab Emirates",AE
-204977,Australia,AU
-204977,Belgium,BE
-204977,Brazil,BR
-204977,Croatia,HR
-204977,Denmark,DK
-204977,Egypt,EG
-204977,Finland,FI
-204977,Germany,DE
-204977,Greece,GR
-204977,India,IN
-204977,Indonesia,ID
-204977,Japan,JP
-204977,Netherlands,NL
-204977,"New Zealand",NZ
-204977,Norway,NO
-204977,Oman,OM
-204977,Portugal,PT
-204977,Qatar,QA
-204977,Serbia,RS
-204977,Sweden,SE
-204977,"United Arab Emirates",AE
-204977,"United Kingdom",GB
-205001,Austria,AT
-205001,Egypt,EG
-205001,France,FR
-205001,Germany,DE
-205001,Greece,GR
-205001,Kuwait,KW
-205001,Oman,OM
-205001,Qatar,QA
-205001,"Saudi Arabia",SA
-205001,Spain,ES
-205001,Sweden,SE
-205001,Turkmenistan,TM
-205001,"United Arab Emirates",AE
-205001,"United Kingdom",GB
-205063,Finland,FI
-205063,Germany,DE
-205063,Indonesia,ID
-205063,Switzerland,CH
-205076,Nigeria,NG
-205076,Pakistan,PK
-205088,Brazil,BR
-205088,France,FR
-205088,India,IN
-205088,Israel,IL
-205088,Pakistan,PK
-205088,"Saudi Arabia",SA
-205088,"South Korea",KR
-205088,Sweden,SE
-205088,"United Arab Emirates",AE
-205088,"United Kingdom",GB
-205097,Austria,AT
-205097,Brazil,BR
-205097,Egypt,EG
-205097,France,FR
-205097,Hungary,HU
-205097,Italy,IT
-205097,Kuwait,KW
-205097,Lithuania,LT
-205097,Morocco,MA
-205097,Netherlands,NL
-205097,Norway,NO
-205097,Oman,OM
-205097,Qatar,QA
-205097,"Saudi Arabia",SA
-205097,"South Korea",KR
-205097,Spain,ES
-205097,Sweden,SE
-205097,Ukraine,UA
-205097,"United Kingdom",GB
-205100,"United States of America",US
-205106,Belgium,BE
-205106,France,FR
-205106,Germany,DE
-205106,Kazakhstan,KZ
-205106,Luxembourg,LU
-205106,Malaysia,MY
-205106,"Saudi Arabia",SA
-205106,"South Korea",KR
-205106,Turkey,TR
-205106,"United Arab Emirates",AE
-205106,"United Kingdom",GB
-205158,Australia,AU
-205158,Brazil,BR
-205158,Canada,CA
-205158,India,IN
-205158,Israel,IL
-205158,Kuwait,KW
-205158,Luxembourg,LU
-205158,Qatar,QA
-205158,"South Korea",KR
-205158,Sweden,SE
-205158,"United Arab Emirates",AE
-205158,"United Kingdom",GB
-205174,Belgium,BE
-205174,Brazil,BR
-205174,Croatia,HR
-205174,Denmark,DK
-205174,Egypt,EG
-205174,Greece,GR
-205174,India,IN
-205174,Indonesia,ID
-205174,Netherlands,NL
-205174,Qatar,QA
-205174,"United Arab Emirates",AE
-205178,Colombia,CO
-205178,Egypt,EG
-205178,Germany,DE
-205178,Greece,GR
-205178,Israel,IL
-205178,Kuwait,KW
-205178,Nigeria,NG
-205178,Oman,OM
-205178,Poland,PL
-205178,Qatar,QA
-205178,Singapore,SG
-205178,Spain,ES
-205178,Sweden,SE
-205178,Turkmenistan,TM
-205178,"United Arab Emirates",AE
-205178,"United Kingdom",GB
-205179,Spain,ES
-205199,Bangladesh,BD
-205201,Australia,AU
-205201,Brazil,BR
-205201,Canada,CA
-205201,India,IN
-205201,Israel,IL
-205201,Kuwait,KW
-205201,Luxembourg,LU
-205201,Qatar,QA
-205201,"South Korea",KR
-205201,Sweden,SE
-205201,"United Kingdom",GB
-205204,Egypt,EG
-205204,Germany,DE
-205204,Greece,GR
-205204,Kuwait,KW
-205204,Oman,OM
-205204,Qatar,QA
-205204,Singapore,SG
-205204,Spain,ES
-205204,Sweden,SE
-205204,"United Arab Emirates",AE
-205204,"United Kingdom",GB
-205209,Belgium,BE
-205209,France,FR
-205209,Germany,DE
-205209,Kazakhstan,KZ
-205209,Luxembourg,LU
-205209,Malaysia,MY
-205209,"Saudi Arabia",SA
-205209,"South Korea",KR
-205209,Turkey,TR
-205209,"United Arab Emirates",AE
-205209,"United Kingdom",GB
-205217,France,FR
-205217,Germany,DE
-205217,Greece,GR
-205217,Qatar,QA
-205226,Belgium,BE
-205226,France,FR
-205226,Germany,DE
-205226,Indonesia,ID
-205226,Kazakhstan,KZ
-205226,Luxembourg,LU
-205226,Malaysia,MY
-205226,"Saudi Arabia",SA
-205226,"South Korea",KR
-205226,Turkey,TR
-205226,"United Arab Emirates",AE
-205226,"United Kingdom",GB
-205229,Brazil,BR
-205229,Finland,FI
-205229,Germany,DE
-205229,Switzerland,CH
-205257,Brazil,BR
-205257,Croatia,HR
-205257,Egypt,EG
-205257,Greece,GR
-205257,India,IN
-205257,Indonesia,ID
-205257,Peru,PE
-205257,Qatar,QA
-205257,Taiwan,TW
-205257,"United Arab Emirates",AE
-205260,Australia,AU
-205260,Belgium,BE
-205260,Brazil,BR
-205260,Egypt,EG
-205260,Finland,FI
-205260,France,FR
-205260,Greece,GR
-205260,Hungary,HU
-205260,Italy,IT
-205260,Lithuania,LT
-205260,Netherlands,NL
-205260,"New Zealand",NZ
-205260,Norway,NO
-205260,Oman,OM
-205260,Qatar,QA
-205260,"Saudi Arabia",SA
-205260,"South Korea",KR
-205260,Spain,ES
-205260,Sweden,SE
-205260,Ukraine,UA
-205260,"United Kingdom",GB
+204978,Australia,AU
+204978,Belgium,BE
+204978,Brazil,BR
+204978,Croatia,HR
+204978,Denmark,DK
+204978,Egypt,EG
+204978,Finland,FI
+204978,Germany,DE
+204978,Greece,GR
+204978,India,IN
+204978,Indonesia,ID
+204978,Japan,JP
+204978,Netherlands,NL
+204978,"New Zealand",NZ
+204978,Norway,NO
+204978,Oman,OM
+204978,Portugal,PT
+204978,Qatar,QA
+204978,Serbia,RS
+204978,Sweden,SE
+204978,"United Arab Emirates",AE
+204978,"United Kingdom",GB
+205002,Austria,AT
+205002,Bangladesh,BD
+205002,Egypt,EG
+205002,France,FR
+205002,Germany,DE
+205002,Greece,GR
+205002,Kuwait,KW
+205002,Oman,OM
+205002,Qatar,QA
+205002,"Saudi Arabia",SA
+205002,Spain,ES
+205002,Sweden,SE
+205002,Turkmenistan,TM
+205002,"United Arab Emirates",AE
+205002,"United Kingdom",GB
+205065,Finland,FI
+205065,Germany,DE
+205065,Indonesia,ID
+205065,Switzerland,CH
+205078,Nigeria,NG
+205078,Pakistan,PK
+205090,Brazil,BR
+205090,France,FR
+205090,India,IN
+205090,Israel,IL
+205090,Pakistan,PK
+205090,"Saudi Arabia",SA
+205090,"South Korea",KR
+205090,Sweden,SE
+205090,"United Arab Emirates",AE
+205090,"United Kingdom",GB
+205099,Austria,AT
+205099,Brazil,BR
+205099,Egypt,EG
+205099,France,FR
+205099,Hungary,HU
+205099,Italy,IT
+205099,Kuwait,KW
+205099,Lithuania,LT
+205099,Morocco,MA
+205099,Netherlands,NL
+205099,Norway,NO
+205099,Oman,OM
+205099,Qatar,QA
+205099,"Saudi Arabia",SA
+205099,"South Korea",KR
+205099,Spain,ES
+205099,Sweden,SE
+205099,Ukraine,UA
+205099,"United Kingdom",GB
+205102,"United States of America",US
+205108,Belgium,BE
+205108,France,FR
+205108,Germany,DE
+205108,Kazakhstan,KZ
+205108,Luxembourg,LU
+205108,Malaysia,MY
+205108,"Saudi Arabia",SA
+205108,"South Korea",KR
+205108,Turkey,TR
+205108,"United Arab Emirates",AE
+205108,"United Kingdom",GB
+205160,Australia,AU
+205160,Brazil,BR
+205160,Canada,CA
+205160,India,IN
+205160,Israel,IL
+205160,Kuwait,KW
+205160,Luxembourg,LU
+205160,Qatar,QA
+205160,"South Korea",KR
+205160,Sweden,SE
+205160,"United Arab Emirates",AE
+205160,"United Kingdom",GB
+205176,Belgium,BE
+205176,Brazil,BR
+205176,Croatia,HR
+205176,Denmark,DK
+205176,Egypt,EG
+205176,Greece,GR
+205176,India,IN
+205176,Indonesia,ID
+205176,Netherlands,NL
+205176,Qatar,QA
+205176,"United Arab Emirates",AE
+205180,Bangladesh,BD
+205180,Colombia,CO
+205180,Egypt,EG
+205180,Germany,DE
+205180,Greece,GR
+205180,Israel,IL
+205180,Kuwait,KW
+205180,Nigeria,NG
+205180,Oman,OM
+205180,Poland,PL
+205180,Qatar,QA
+205180,"Saudi Arabia",SA
+205180,Singapore,SG
+205180,Spain,ES
+205180,Sweden,SE
+205180,Turkmenistan,TM
+205180,"United Arab Emirates",AE
+205180,"United Kingdom",GB
+205181,Spain,ES
+205201,Bangladesh,BD
+205203,Australia,AU
+205203,Brazil,BR
+205203,Canada,CA
+205203,India,IN
+205203,Israel,IL
+205203,Kuwait,KW
+205203,Luxembourg,LU
+205203,Qatar,QA
+205203,"South Korea",KR
+205203,Sweden,SE
+205203,"United Kingdom",GB
+205206,Bangladesh,BD
+205206,Egypt,EG
+205206,Germany,DE
+205206,Greece,GR
+205206,Kuwait,KW
+205206,Oman,OM
+205206,Qatar,QA
+205206,"Saudi Arabia",SA
+205206,Singapore,SG
+205206,Spain,ES
+205206,Sweden,SE
+205206,"United Arab Emirates",AE
+205206,"United Kingdom",GB
+205211,Belgium,BE
+205211,France,FR
+205211,Germany,DE
+205211,Kazakhstan,KZ
+205211,Luxembourg,LU
+205211,Malaysia,MY
+205211,"Saudi Arabia",SA
+205211,"South Korea",KR
+205211,Turkey,TR
+205211,"United Arab Emirates",AE
+205211,"United Kingdom",GB
+205219,France,FR
+205219,Germany,DE
+205219,Greece,GR
+205219,Qatar,QA
+205219,"United Kingdom",GB
+205228,Belgium,BE
+205228,France,FR
+205228,Germany,DE
+205228,Indonesia,ID
+205228,Kazakhstan,KZ
+205228,Luxembourg,LU
+205228,Malaysia,MY
+205228,"Saudi Arabia",SA
+205228,"South Korea",KR
+205228,Turkey,TR
+205228,"United Arab Emirates",AE
+205228,"United Kingdom",GB
+205230,Brazil,BR
+205230,Finland,FI
+205230,Germany,DE
+205230,Mexico,MX
+205230,Switzerland,CH
+205258,Brazil,BR
+205258,Croatia,HR
+205258,Egypt,EG
+205258,Greece,GR
+205258,India,IN
+205258,Indonesia,ID
+205258,Peru,PE
+205258,Qatar,QA
+205258,Taiwan,TW
+205258,"United Arab Emirates",AE
+205261,Australia,AU
+205261,Belgium,BE
+205261,Brazil,BR
+205261,Egypt,EG
+205261,Finland,FI
+205261,France,FR
+205261,Greece,GR
+205261,Hungary,HU
+205261,Italy,IT
+205261,Lithuania,LT
+205261,Netherlands,NL
+205261,"New Zealand",NZ
+205261,Norway,NO
+205261,Oman,OM
+205261,Qatar,QA
+205261,"Saudi Arabia",SA
+205261,"South Korea",KR
+205261,Spain,ES
+205261,Sweden,SE
+205261,Ukraine,UA
 205261,"United Kingdom",GB
-205270,Brazil,BR
-205270,Mexico,MX
-205270,"United States of America",US
-205272,Egypt,EG
-205272,Germany,DE
-205272,Greece,GR
-205272,Kuwait,KW
-205272,Oman,OM
-205272,Poland,PL
-205272,Qatar,QA
-205272,"Saudi Arabia",SA
-205272,Spain,ES
-205272,Sweden,SE
-205272,"United Arab Emirates",AE
-205272,"United Kingdom",GB
-205296,Belgium,BE
-205296,France,FR
-205296,Germany,DE
-205296,Indonesia,ID
-205296,Kazakhstan,KZ
-205296,Luxembourg,LU
-205296,Malaysia,MY
-205296,"Saudi Arabia",SA
-205296,"South Korea",KR
-205296,Turkey,TR
-205296,"United Arab Emirates",AE
-205296,"United Kingdom",GB
-205302,Nigeria,NG
-205302,Pakistan,PK
-205316,Hungary,HU
-205316,Portugal,PT
-205331,Ukraine,UA
-205344,Nigeria,NG
-205344,Pakistan,PK
-205372,India,IN
-205372,"United States of America",US
-205422,Egypt,EG
-205422,Germany,DE
-205422,Greece,GR
-205422,Kuwait,KW
-205422,Oman,OM
-205422,Poland,PL
-205422,Qatar,QA
-205422,"Saudi Arabia",SA
-205422,Spain,ES
-205422,Sweden,SE
-205422,"United Arab Emirates",AE
-205422,"United Kingdom",GB
-205439,Brazil,BR
-205439,Germany,DE
-205439,Switzerland,CH
-205439,"United Arab Emirates",AE
-205454,Australia,AU
-205454,Brazil,BR
-205454,Canada,CA
-205454,India,IN
-205454,Israel,IL
-205454,Kuwait,KW
-205454,Luxembourg,LU
-205454,Qatar,QA
-205454,"South Africa",ZA
-205454,"South Korea",KR
-205454,Sweden,SE
-205454,"United Kingdom",GB
-205486,Croatia,HR
-205486,Egypt,EG
-205486,Greece,GR
-205486,India,IN
-205486,Indonesia,ID
-205486,Qatar,QA
-205486,"United Arab Emirates",AE
-205488,Australia,AU
-205488,Brazil,BR
-205488,Egypt,EG
-205488,Hungary,HU
-205488,Italy,IT
-205488,Lithuania,LT
-205488,Montenegro,ME
-205488,Netherlands,NL
-205488,Oman,OM
-205488,Qatar,QA
-205488,"Saudi Arabia",SA
-205488,"South Korea",KR
-205488,Spain,ES
-205488,Sweden,SE
-205488,Thailand,TH
-205488,Ukraine,UA
-205488,"United Kingdom",GB
-205519,"United Arab Emirates",AE
-205522,Belgium,BE
-205522,France,FR
-205522,Germany,DE
-205522,Indonesia,ID
-205522,Kazakhstan,KZ
-205522,Luxembourg,LU
-205522,Malaysia,MY
-205522,"Saudi Arabia",SA
-205522,"South Korea",KR
-205522,Turkey,TR
-205522,"United Arab Emirates",AE
-205522,"United Kingdom",GB
-205526,Brazil,BR
-205526,Germany,DE
-205526,Pakistan,PK
-205526,Switzerland,CH
+205262,"United Kingdom",GB
+205271,Brazil,BR
+205271,Mexico,MX
+205271,"United States of America",US
+205273,Bangladesh,BD
+205273,Egypt,EG
+205273,Germany,DE
+205273,Greece,GR
+205273,Kuwait,KW
+205273,Oman,OM
+205273,Poland,PL
+205273,Qatar,QA
+205273,"Saudi Arabia",SA
+205273,Spain,ES
+205273,Sweden,SE
+205273,"United Arab Emirates",AE
+205273,"United Kingdom",GB
+205297,Belgium,BE
+205297,France,FR
+205297,Germany,DE
+205297,Indonesia,ID
+205297,Kazakhstan,KZ
+205297,Luxembourg,LU
+205297,Malaysia,MY
+205297,"Saudi Arabia",SA
+205297,"South Korea",KR
+205297,Turkey,TR
+205297,"United Arab Emirates",AE
+205297,"United Kingdom",GB
+205303,Nigeria,NG
+205303,Pakistan,PK
+205317,Hungary,HU
+205317,Portugal,PT
+205332,Ukraine,UA
+205345,Nigeria,NG
+205345,Pakistan,PK
+205373,India,IN
+205373,"United States of America",US
+205423,Bangladesh,BD
+205423,Egypt,EG
+205423,Germany,DE
+205423,Greece,GR
+205423,Kuwait,KW
+205423,Oman,OM
+205423,Poland,PL
+205423,Qatar,QA
+205423,"Saudi Arabia",SA
+205423,Spain,ES
+205423,Sweden,SE
+205423,"United Arab Emirates",AE
+205423,"United Kingdom",GB
+205427,Ukraine,UA
+205440,Brazil,BR
+205440,Germany,DE
+205440,Switzerland,CH
+205440,"United Arab Emirates",AE
+205455,Australia,AU
+205455,Brazil,BR
+205455,Canada,CA
+205455,India,IN
+205455,Israel,IL
+205455,Kuwait,KW
+205455,Luxembourg,LU
+205455,Qatar,QA
+205455,"South Africa",ZA
+205455,"South Korea",KR
+205455,Sweden,SE
+205455,"United Kingdom",GB
+205487,Croatia,HR
+205487,Egypt,EG
+205487,Greece,GR
+205487,India,IN
+205487,Indonesia,ID
+205487,Qatar,QA
+205487,"United Arab Emirates",AE
+205489,Australia,AU
+205489,Brazil,BR
+205489,Egypt,EG
+205489,Hungary,HU
+205489,Italy,IT
+205489,Lithuania,LT
+205489,Montenegro,ME
+205489,Netherlands,NL
+205489,Oman,OM
+205489,Qatar,QA
+205489,"Saudi Arabia",SA
+205489,"South Korea",KR
+205489,Spain,ES
+205489,Sweden,SE
+205489,Thailand,TH
+205489,Ukraine,UA
+205489,"United Kingdom",GB
+205520,"United Arab Emirates",AE
+205523,Belgium,BE
+205523,France,FR
+205523,Germany,DE
+205523,Indonesia,ID
+205523,Kazakhstan,KZ
+205523,Luxembourg,LU
+205523,Malaysia,MY
+205523,"Saudi Arabia",SA
+205523,"South Korea",KR
+205523,Turkey,TR
+205523,"United Arab Emirates",AE
+205523,"United Kingdom",GB
+205527,Brazil,BR
+205527,Germany,DE
+205527,Pakistan,PK
+205527,Switzerland,CH
+205528,Cyprus,CY
 205528,"United Arab Emirates",AE
 205589,Australia,AU
 205589,Brazil,BR
@@ -142120,6 +142138,7 @@ licence_cohort_id,destination,iso2
 205602,Germany,DE
 205602,Greece,GR
 205602,Qatar,QA
+205602,"United Kingdom",GB
 205616,France,FR
 205648,Algeria,DZ
 205648,Australia,AU
@@ -142165,6 +142184,8 @@ licence_cohort_id,destination,iso2
 205655,"United Kingdom",GB
 205672,Nigeria,NG
 205684,Brazil,BR
+205684,"United Arab Emirates",AE
+205689,"United Kingdom",GB
 205692,Egypt,EG
 205692,Germany,DE
 205692,Greece,GR
@@ -142282,1855 +142303,6153 @@ licence_cohort_id,destination,iso2
 205855,"South Korea",KR
 205855,Spain,ES
 205855,Thailand,TH
+205855,Ukraine,UA
 205855,"United Kingdom",GB
-205864,Egypt,EG
-205864,Germany,DE
-205864,Greece,GR
-205864,Kuwait,KW
-205864,Nigeria,NG
-205864,Oman,OM
-205864,Poland,PL
-205864,Qatar,QA
-205864,"Saudi Arabia",SA
-205864,Singapore,SG
-205864,Spain,ES
-205864,"United Arab Emirates",AE
-205864,"United Kingdom",GB
-205906,Belgium,BE
-205906,France,FR
-205906,Gabon,GA
+205863,Bangladesh,BD
+205863,Egypt,EG
+205863,Germany,DE
+205863,Greece,GR
+205863,Kuwait,KW
+205863,Nigeria,NG
+205863,Oman,OM
+205863,Poland,PL
+205863,Qatar,QA
+205863,"Saudi Arabia",SA
+205863,Singapore,SG
+205863,Spain,ES
+205863,"United Arab Emirates",AE
+205863,"United Kingdom",GB
+205905,Belgium,BE
+205905,France,FR
+205905,Gabon,GA
+205905,Germany,DE
+205905,Indonesia,ID
+205905,Italy,IT
+205905,Kazakhstan,KZ
+205905,Luxembourg,LU
+205905,Malaysia,MY
+205905,"Saudi Arabia",SA
+205905,"South Korea",KR
+205905,"United Arab Emirates",AE
+205905,"United Kingdom",GB
+205906,Brazil,BR
 205906,Germany,DE
-205906,Indonesia,ID
-205906,Kazakhstan,KZ
-205906,Luxembourg,LU
-205906,Malaysia,MY
-205906,"Saudi Arabia",SA
-205906,"South Korea",KR
-205906,"United Kingdom",GB
-205907,Brazil,BR
-205907,Germany,DE
-205907,Pakistan,PK
-205907,"United Arab Emirates",AE
-205923,Angola,AO
-205923,Austria,AT
+205906,Pakistan,PK
+205906,"United Arab Emirates",AE
+205917,Brazil,BR
+205922,Angola,AO
+205922,Austria,AT
+205922,Egypt,EG
+205922,Germany,DE
+205922,Greece,GR
+205922,Nigeria,NG
+205922,Oman,OM
+205922,Poland,PL
+205922,Qatar,QA
+205922,"Saudi Arabia",SA
+205922,Singapore,SG
+205922,Spain,ES
+205922,"United Arab Emirates",AE
+205922,"United Kingdom",GB
+205923,Croatia,HR
 205923,Egypt,EG
+205923,France,FR
 205923,Germany,DE
 205923,Greece,GR
-205923,Nigeria,NG
-205923,Oman,OM
-205923,Poland,PL
+205923,India,IN
+205923,Indonesia,ID
+205923,Lithuania,LT
 205923,Qatar,QA
-205923,"Saudi Arabia",SA
-205923,Singapore,SG
-205923,Spain,ES
 205923,"United Arab Emirates",AE
 205923,"United Kingdom",GB
-205925,Croatia,HR
-205925,Egypt,EG
-205925,France,FR
-205925,Greece,GR
-205925,India,IN
-205925,Indonesia,ID
-205925,Qatar,QA
-205925,"United Arab Emirates",AE
-205928,"United States of America",US
-205950,Ukraine,UA
-205959,Oman,OM
-205973,Australia,AU
-205973,Brazil,BR
-205973,Egypt,EG
-205973,Hungary,HU
-205973,Lithuania,LT
-205973,Netherlands,NL
-205973,Oman,OM
-205973,"South Korea",KR
-205973,Spain,ES
-205973,Sweden,SE
-205973,"United Kingdom",GB
-205976,Austria,AT
-205976,Egypt,EG
-205976,Germany,DE
-205976,Greece,GR
-205976,Israel,IL
-205976,Nigeria,NG
-205976,Oman,OM
-205976,Pakistan,PK
-205976,Poland,PL
-205976,Portugal,PT
-205976,Qatar,QA
-205976,"Saudi Arabia",SA
-205976,Singapore,SG
-205976,Spain,ES
-205976,"United Arab Emirates",AE
-205976,"United Kingdom",GB
-205979,China,CN
-205982,Ukraine,UA
-206003,Australia,AU
-206003,Austria,AT
-206003,Belgium,BE
-206003,Egypt,EG
-206003,Finland,FI
-206003,France,FR
-206003,Germany,DE
-206003,Greece,GR
-206003,Israel,IL
-206003,Netherlands,NL
-206003,"New Zealand",NZ
-206003,Nigeria,NG
-206003,Norway,NO
-206003,Oman,OM
-206003,Pakistan,PK
-206003,Poland,PL
-206003,Portugal,PT
-206003,Qatar,QA
-206003,"Saudi Arabia",SA
-206003,Singapore,SG
-206003,Spain,ES
-206003,Sweden,SE
-206003,"United Arab Emirates",AE
-206003,"United Kingdom",GB
-206066,Brazil,BR
-206066,Pakistan,PK
-206066,"United Arab Emirates",AE
-206070,Nigeria,NG
-206109,Australia,AU
-206109,Belgium,BE
-206109,Canada,CA
-206109,"Czech Republic",CZ
-206109,Denmark,DK
-206109,Finland,FI
-206109,France,FR
-206109,Germany,DE
-206109,India,IN
-206109,Iraq,IQ
-206109,Israel,IL
-206109,Italy,IT
-206109,Japan,JP
-206109,Netherlands,NL
-206109,Norway,NO
-206109,Poland,PL
-206109,"Saudi Arabia",SA
-206109,Singapore,SG
-206109,"South Korea",KR
-206109,Switzerland,CH
-206109,"United Arab Emirates",AE
-206109,"United Kingdom",GB
-206131,Belgium,BE
-206131,France,FR
-206131,Gabon,GA
-206131,Germany,DE
-206131,Indonesia,ID
-206131,Kazakhstan,KZ
-206131,Luxembourg,LU
-206131,Malaysia,MY
-206131,"Saudi Arabia",SA
-206131,"South Korea",KR
-206131,"United Arab Emirates",AE
-206131,"United Kingdom",GB
-206171,Australia,AU
-206171,Belgium,BE
-206171,Egypt,EG
-206171,Finland,FI
-206171,France,FR
-206171,Germany,DE
-206171,Greece,GR
-206171,Indonesia,ID
-206171,Morocco,MA
-206171,Netherlands,NL
-206171,"New Zealand",NZ
-206171,Norway,NO
-206171,Oman,OM
-206171,Pakistan,PK
-206171,Poland,PL
-206171,Portugal,PT
-206171,Qatar,QA
-206171,Romania,RO
-206171,"Saudi Arabia",SA
-206171,Spain,ES
-206171,Sweden,SE
-206171,"United Arab Emirates",AE
-206171,"United Kingdom",GB
-206191,Australia,AU
-206233,Belgium,BE
-206233,France,FR
-206233,Gabon,GA
-206233,Germany,DE
-206233,Indonesia,ID
-206233,Ireland,IE
-206233,Kazakhstan,KZ
-206233,Luxembourg,LU
-206233,Malaysia,MY
-206233,"Saudi Arabia",SA
-206233,"South Korea",KR
-206233,"United Arab Emirates",AE
-206233,"United Kingdom",GB
-206241,Australia,AU
-206241,Brazil,BR
-206241,Egypt,EG
-206241,Hungary,HU
-206241,Italy,IT
-206241,Lithuania,LT
-206241,Netherlands,NL
-206241,Oman,OM
-206241,Qatar,QA
-206241,"South Korea",KR
-206241,Spain,ES
-206241,Sweden,SE
-206241,Taiwan,TW
-206241,"United Kingdom",GB
-206247,Australia,AU
-206247,Germany,DE
-206268,Australia,AU
-206268,Brazil,BR
-206268,Egypt,EG
-206268,Hungary,HU
-206268,Italy,IT
-206268,Lithuania,LT
-206268,Netherlands,NL
-206268,Oman,OM
-206268,Qatar,QA
-206268,Serbia,RS
-206268,"South Korea",KR
-206268,Spain,ES
-206268,Sweden,SE
-206268,"United Kingdom",GB
+205926,"United States of America",US
+205944,Austria,AT
+205944,Egypt,EG
+205944,Germany,DE
+205944,Greece,GR
+205944,Nigeria,NG
+205944,Oman,OM
+205944,Poland,PL
+205944,Qatar,QA
+205944,"Saudi Arabia",SA
+205944,Singapore,SG
+205944,Spain,ES
+205944,"United Arab Emirates",AE
+205944,"United Kingdom",GB
+205948,Ukraine,UA
+205957,Oman,OM
+205971,Australia,AU
+205971,Brazil,BR
+205971,Egypt,EG
+205971,Hungary,HU
+205971,Lithuania,LT
+205971,Netherlands,NL
+205971,Oman,OM
+205971,"South Korea",KR
+205971,Spain,ES
+205971,Sweden,SE
+205971,Ukraine,UA
+205971,"United Kingdom",GB
+205974,Austria,AT
+205974,Egypt,EG
+205974,Germany,DE
+205974,Greece,GR
+205974,Israel,IL
+205974,Nigeria,NG
+205974,Oman,OM
+205974,Pakistan,PK
+205974,Poland,PL
+205974,Portugal,PT
+205974,Qatar,QA
+205974,"Saudi Arabia",SA
+205974,Singapore,SG
+205974,Spain,ES
+205974,"United Arab Emirates",AE
+205974,"United Kingdom",GB
+205977,China,CN
+205980,Ukraine,UA
+205994,Belgium,BE
+205994,Croatia,HR
+205994,Egypt,EG
+205994,Greece,GR
+205994,India,IN
+205994,Indonesia,ID
+205994,Qatar,QA
+205994,"United Arab Emirates",AE
+206001,Australia,AU
+206001,Austria,AT
+206001,Belgium,BE
+206001,Egypt,EG
+206001,Finland,FI
+206001,France,FR
+206001,Germany,DE
+206001,Greece,GR
+206001,Israel,IL
+206001,Netherlands,NL
+206001,"New Zealand",NZ
+206001,Nigeria,NG
+206001,Norway,NO
+206001,Oman,OM
+206001,Pakistan,PK
+206001,Poland,PL
+206001,Portugal,PT
+206001,Qatar,QA
+206001,"Saudi Arabia",SA
+206001,Singapore,SG
+206001,Spain,ES
+206001,Sweden,SE
+206001,"United Arab Emirates",AE
+206001,"United Kingdom",GB
+206061,Philippines,PH
+206064,Brazil,BR
+206064,Pakistan,PK
+206064,"United Arab Emirates",AE
+206068,Nigeria,NG
+206107,Australia,AU
+206107,Belgium,BE
+206107,Canada,CA
+206107,"Czech Republic",CZ
+206107,Denmark,DK
+206107,Finland,FI
+206107,France,FR
+206107,Germany,DE
+206107,India,IN
+206107,Iraq,IQ
+206107,Israel,IL
+206107,Italy,IT
+206107,Japan,JP
+206107,Netherlands,NL
+206107,Norway,NO
+206107,Poland,PL
+206107,"Saudi Arabia",SA
+206107,Singapore,SG
+206107,"South Korea",KR
+206107,Switzerland,CH
+206107,"United Arab Emirates",AE
+206107,"United Kingdom",GB
+206123,Spain,ES
+206129,Belgium,BE
+206129,France,FR
+206129,Gabon,GA
+206129,Germany,DE
+206129,Indonesia,ID
+206129,Kazakhstan,KZ
+206129,Luxembourg,LU
+206129,Malaysia,MY
+206129,"Saudi Arabia",SA
+206129,"South Korea",KR
+206129,"United Arab Emirates",AE
+206129,"United Kingdom",GB
+206169,Australia,AU
+206169,Belgium,BE
+206169,Egypt,EG
+206169,Finland,FI
+206169,France,FR
+206169,Germany,DE
+206169,Greece,GR
+206169,Indonesia,ID
+206169,Morocco,MA
+206169,Netherlands,NL
+206169,"New Zealand",NZ
+206169,Norway,NO
+206169,Oman,OM
+206169,Pakistan,PK
+206169,Poland,PL
+206169,Portugal,PT
+206169,Qatar,QA
+206169,Romania,RO
+206169,"Saudi Arabia",SA
+206169,Spain,ES
+206169,Sweden,SE
+206169,"United Arab Emirates",AE
+206169,"United Kingdom",GB
+206189,Australia,AU
+206228,Croatia,HR
+206228,Egypt,EG
+206228,Greece,GR
+206228,India,IN
+206228,Indonesia,ID
+206228,Qatar,QA
+206228,"United Arab Emirates",AE
+206228,"United States of America",US
+206231,Belgium,BE
+206231,France,FR
+206231,Gabon,GA
+206231,Germany,DE
+206231,Indonesia,ID
+206231,Ireland,IE
+206231,Kazakhstan,KZ
+206231,Luxembourg,LU
+206231,Malaysia,MY
+206231,"Saudi Arabia",SA
+206231,"South Korea",KR
+206231,"United Arab Emirates",AE
+206231,"United Kingdom",GB
+206239,Australia,AU
+206239,Brazil,BR
+206239,Egypt,EG
+206239,Hungary,HU
+206239,Italy,IT
+206239,Lithuania,LT
+206239,Netherlands,NL
+206239,Oman,OM
+206239,Qatar,QA
+206239,"South Korea",KR
+206239,Spain,ES
+206239,Sweden,SE
+206239,Taiwan,TW
+206239,Ukraine,UA
+206239,"United Kingdom",GB
+206245,Australia,AU
+206245,Germany,DE
+206266,Australia,AU
+206266,Brazil,BR
+206266,Egypt,EG
+206266,Hungary,HU
+206266,Italy,IT
+206266,Lithuania,LT
+206266,Netherlands,NL
+206266,Oman,OM
+206266,Qatar,QA
+206266,Serbia,RS
+206266,"South Korea",KR
+206266,Spain,ES
+206266,Sweden,SE
+206266,Ukraine,UA
+206266,"United Kingdom",GB
+206275,Belgium,BE
+206275,France,FR
+206275,Gabon,GA
+206275,Germany,DE
+206275,Indonesia,ID
+206275,Ireland,IE
+206275,Kazakhstan,KZ
+206275,Luxembourg,LU
+206275,Malaysia,MY
+206275,"Saudi Arabia",SA
+206275,"South Korea",KR
+206275,"United Arab Emirates",AE
+206275,"United Kingdom",GB
+206276,Brazil,BR
+206276,Germany,DE
+206276,Pakistan,PK
+206276,"Saudi Arabia",SA
+206276,"United Arab Emirates",AE
+206277,Australia,AU
 206277,Belgium,BE
+206277,Canada,CA
+206277,"Czech Republic",CZ
+206277,Denmark,DK
+206277,Finland,FI
 206277,France,FR
-206277,Gabon,GA
 206277,Germany,DE
-206277,Indonesia,ID
-206277,Ireland,IE
-206277,Kazakhstan,KZ
-206277,Luxembourg,LU
-206277,Malaysia,MY
+206277,India,IN
+206277,Iraq,IQ
+206277,Israel,IL
+206277,Italy,IT
+206277,Japan,JP
+206277,Netherlands,NL
+206277,Norway,NO
+206277,Poland,PL
 206277,"Saudi Arabia",SA
+206277,Singapore,SG
 206277,"South Korea",KR
-206277,"United Arab Emirates",AE
-206278,Brazil,BR
-206278,Germany,DE
-206278,Pakistan,PK
-206278,"Saudi Arabia",SA
-206278,"United Arab Emirates",AE
-206279,Australia,AU
-206279,Belgium,BE
-206279,Canada,CA
-206279,"Czech Republic",CZ
-206279,Denmark,DK
-206279,Finland,FI
-206279,France,FR
-206279,Germany,DE
-206279,India,IN
-206279,Iraq,IQ
-206279,Israel,IL
-206279,Italy,IT
-206279,Japan,JP
-206279,Netherlands,NL
-206279,Norway,NO
-206279,Poland,PL
-206279,"Saudi Arabia",SA
-206279,Singapore,SG
-206279,"South Korea",KR
-206279,Switzerland,CH
-206279,"United Kingdom",GB
-206311,Algeria,DZ
-206311,Australia,AU
-206311,Brazil,BR
-206311,Egypt,EG
-206311,Hungary,HU
-206311,Italy,IT
-206311,Lithuania,LT
-206311,Malaysia,MY
-206311,Netherlands,NL
-206311,Oman,OM
-206311,Philippines,PH
-206311,Portugal,PT
-206311,Qatar,QA
-206311,"South Korea",KR
-206311,Spain,ES
-206311,Sweden,SE
-206311,Thailand,TH
-206311,Turkey,TR
-206311,"United Kingdom",GB
-206320,Australia,AU
-206320,Belgium,BE
-206320,Egypt,EG
-206320,Finland,FI
-206320,France,FR
-206320,Germany,DE
-206320,Greece,GR
-206320,Netherlands,NL
-206320,"New Zealand",NZ
-206320,Norway,NO
-206320,Oman,OM
-206320,Pakistan,PK
-206320,Poland,PL
-206320,Portugal,PT
-206320,Qatar,QA
-206320,Spain,ES
-206320,Sweden,SE
-206320,"United Kingdom",GB
-206337,"Saudi Arabia",SA
-206341,Gabon,GA
-206341,Germany,DE
-206341,Ireland,IE
-206341,Kazakhstan,KZ
-206341,"Saudi Arabia",SA
-206341,"South Korea",KR
-206341,"United Arab Emirates",AE
-206378,Australia,AU
-206378,Belgium,BE
-206378,Egypt,EG
-206378,Finland,FI
-206378,France,FR
-206378,Germany,DE
-206378,Greece,GR
-206378,Netherlands,NL
-206378,"New Zealand",NZ
-206378,Nigeria,NG
-206378,Norway,NO
-206378,Oman,OM
-206378,Pakistan,PK
-206378,Philippines,PH
-206378,Poland,PL
-206378,Portugal,PT
-206378,Qatar,QA
-206378,Spain,ES
-206378,Sweden,SE
-206378,Turkey,TR
-206378,"United Kingdom",GB
-206389,"United Kingdom",GB
-206397,Brazil,BR
-206397,Germany,DE
-206397,"Saudi Arabia",SA
-206397,"South Korea",KR
-206409,Australia,AU
-206409,Belgium,BE
-206409,Canada,CA
-206409,"Czech Republic",CZ
-206409,Denmark,DK
-206409,Finland,FI
-206409,France,FR
-206409,Germany,DE
-206409,India,IN
-206409,Iraq,IQ
-206409,Israel,IL
-206409,Italy,IT
-206409,Japan,JP
-206409,Netherlands,NL
-206409,Norway,NO
-206409,Poland,PL
-206409,"Saudi Arabia",SA
-206409,Singapore,SG
-206409,"South Korea",KR
-206409,Switzerland,CH
-206409,"United Kingdom",GB
-206424,Australia,AU
-206424,Brazil,BR
-206424,Egypt,EG
-206424,Hungary,HU
-206424,Italy,IT
-206424,Lithuania,LT
-206424,Netherlands,NL
-206424,Oman,OM
-206424,Qatar,QA
-206424,"South Korea",KR
-206424,Spain,ES
-206424,Sweden,SE
-206424,Thailand,TH
-206424,"United Kingdom",GB
-206442,Brazil,BR
-206442,Germany,DE
-206442,"Saudi Arabia",SA
-206442,"United Arab Emirates",AE
-206453,Australia,AU
-206453,Belgium,BE
-206453,Canada,CA
-206453,"Czech Republic",CZ
-206453,Denmark,DK
-206453,Finland,FI
-206453,France,FR
-206453,Germany,DE
-206453,India,IN
-206453,Iraq,IQ
-206453,Israel,IL
-206453,Italy,IT
-206453,Japan,JP
-206453,Netherlands,NL
-206453,Norway,NO
-206453,Poland,PL
-206453,"Saudi Arabia",SA
-206453,Singapore,SG
-206453,"South Korea",KR
-206453,Switzerland,CH
-206453,"United Kingdom",GB
-206478,Australia,AU
-206478,Belgium,BE
-206478,Canada,CA
-206478,"Czech Republic",CZ
-206478,Denmark,DK
-206478,Finland,FI
-206478,France,FR
-206478,Germany,DE
-206478,India,IN
-206478,Iraq,IQ
-206478,Israel,IL
-206478,Italy,IT
-206478,Japan,JP
-206478,Netherlands,NL
-206478,Norway,NO
-206478,Poland,PL
-206478,"Saudi Arabia",SA
-206478,Singapore,SG
-206478,"South Korea",KR
-206478,Switzerland,CH
-206478,"United Arab Emirates",AE
-206478,"United Kingdom",GB
-206490,China,CN
-206490,Vietnam,VN
-206494,Australia,AU
-206494,Belgium,BE
-206494,Egypt,EG
-206494,Finland,FI
-206494,France,FR
-206494,Germany,DE
-206494,Greece,GR
-206494,Netherlands,NL
-206494,"New Zealand",NZ
-206494,Nigeria,NG
-206494,Norway,NO
-206494,Oman,OM
-206494,Pakistan,PK
-206494,Poland,PL
-206494,Portugal,PT
-206494,Qatar,QA
-206494,Singapore,SG
-206494,Spain,ES
-206494,Sweden,SE
-206494,"United Kingdom",GB
-206499,Gabon,GA
-206499,Germany,DE
-206499,Ireland,IE
-206499,Kazakhstan,KZ
-206499,"South Korea",KR
-206499,"United Arab Emirates",AE
-206508,Australia,AU
-206508,Belgium,BE
-206508,Canada,CA
-206508,"Czech Republic",CZ
-206508,Denmark,DK
-206508,Finland,FI
-206508,France,FR
-206508,Germany,DE
-206508,India,IN
-206508,Israel,IL
-206508,Italy,IT
-206508,Japan,JP
-206508,Netherlands,NL
-206508,Norway,NO
-206508,Poland,PL
-206508,"Saudi Arabia",SA
-206508,Singapore,SG
-206508,"South Korea",KR
-206508,Switzerland,CH
-206508,"United Arab Emirates",AE
-206508,"United Kingdom",GB
-206518,Australia,AU
-206518,Brazil,BR
-206518,Canada,CA
-206518,Egypt,EG
-206518,Hungary,HU
-206518,Italy,IT
-206518,Netherlands,NL
-206518,Oman,OM
-206518,Qatar,QA
-206518,"South Korea",KR
-206518,Spain,ES
-206518,Sweden,SE
-206518,Thailand,TH
-206518,"United Kingdom",GB
-206523,Montenegro,ME
-206546,Denmark,DK
-206546,France,FR
-206546,India,IN
-206546,Iraq,IQ
-206546,Israel,IL
-206546,Italy,IT
-206546,Morocco,MA
-206546,Netherlands,NL
-206546,Norway,NO
-206546,"Saudi Arabia",SA
-206546,"South Korea",KR
-206546,"United Arab Emirates",AE
-206546,"United Kingdom",GB
-206558,Ukraine,UA
+206277,Switzerland,CH
+206277,"United Kingdom",GB
+206309,Algeria,DZ
+206309,Australia,AU
+206309,Brazil,BR
+206309,Egypt,EG
+206309,Hungary,HU
+206309,Italy,IT
+206309,Lithuania,LT
+206309,Malaysia,MY
+206309,Netherlands,NL
+206309,Oman,OM
+206309,Philippines,PH
+206309,Portugal,PT
+206309,Qatar,QA
+206309,"South Korea",KR
+206309,Spain,ES
+206309,Sweden,SE
+206309,Thailand,TH
+206309,Turkey,TR
+206309,Ukraine,UA
+206309,"United Kingdom",GB
+206318,Australia,AU
+206318,Belgium,BE
+206318,Egypt,EG
+206318,Finland,FI
+206318,France,FR
+206318,Germany,DE
+206318,Greece,GR
+206318,Netherlands,NL
+206318,"New Zealand",NZ
+206318,Norway,NO
+206318,Oman,OM
+206318,Pakistan,PK
+206318,Poland,PL
+206318,Portugal,PT
+206318,Qatar,QA
+206318,Spain,ES
+206318,Sweden,SE
+206318,"United Kingdom",GB
+206335,"Saudi Arabia",SA
+206339,France,FR
+206339,Gabon,GA
+206339,Germany,DE
+206339,Indonesia,ID
+206339,Ireland,IE
+206339,Kazakhstan,KZ
+206339,"Saudi Arabia",SA
+206339,"South Korea",KR
+206339,"United Arab Emirates",AE
+206339,"United Kingdom",GB
+206375,Australia,AU
+206375,Belgium,BE
+206375,Egypt,EG
+206375,Finland,FI
+206375,France,FR
+206375,Germany,DE
+206375,Greece,GR
+206375,Netherlands,NL
+206375,"New Zealand",NZ
+206375,Nigeria,NG
+206375,Norway,NO
+206375,Oman,OM
+206375,Pakistan,PK
+206375,Philippines,PH
+206375,Poland,PL
+206375,Portugal,PT
+206375,Qatar,QA
+206375,Spain,ES
+206375,Sweden,SE
+206375,Turkey,TR
+206375,"United Kingdom",GB
+206386,"United Kingdom",GB
+206394,Brazil,BR
+206394,Germany,DE
+206394,"Saudi Arabia",SA
+206394,"South Korea",KR
+206406,Australia,AU
+206406,Belgium,BE
+206406,Canada,CA
+206406,"Czech Republic",CZ
+206406,Denmark,DK
+206406,Finland,FI
+206406,France,FR
+206406,Germany,DE
+206406,India,IN
+206406,Iraq,IQ
+206406,Israel,IL
+206406,Italy,IT
+206406,Japan,JP
+206406,Netherlands,NL
+206406,Norway,NO
+206406,Poland,PL
+206406,"Saudi Arabia",SA
+206406,Singapore,SG
+206406,"South Korea",KR
+206406,Switzerland,CH
+206406,"United Kingdom",GB
+206421,Australia,AU
+206421,Brazil,BR
+206421,Egypt,EG
+206421,Hungary,HU
+206421,Italy,IT
+206421,Lithuania,LT
+206421,Netherlands,NL
+206421,Oman,OM
+206421,Qatar,QA
+206421,"South Korea",KR
+206421,Spain,ES
+206421,Sweden,SE
+206421,Thailand,TH
+206421,Ukraine,UA
+206421,"United Kingdom",GB
+206439,Brazil,BR
+206439,Germany,DE
+206439,"Saudi Arabia",SA
+206439,"United Arab Emirates",AE
+206450,Australia,AU
+206450,Belgium,BE
+206450,Canada,CA
+206450,"Czech Republic",CZ
+206450,Denmark,DK
+206450,Finland,FI
+206450,France,FR
+206450,Germany,DE
+206450,India,IN
+206450,Iraq,IQ
+206450,Israel,IL
+206450,Italy,IT
+206450,Japan,JP
+206450,Netherlands,NL
+206450,Norway,NO
+206450,Poland,PL
+206450,"Saudi Arabia",SA
+206450,Singapore,SG
+206450,"South Korea",KR
+206450,Switzerland,CH
+206450,"United Kingdom",GB
+206475,Australia,AU
+206475,Belgium,BE
+206475,Canada,CA
+206475,"Czech Republic",CZ
+206475,Denmark,DK
+206475,Finland,FI
+206475,France,FR
+206475,Germany,DE
+206475,India,IN
+206475,Iraq,IQ
+206475,Israel,IL
+206475,Italy,IT
+206475,Japan,JP
+206475,Netherlands,NL
+206475,Norway,NO
+206475,Poland,PL
+206475,"Saudi Arabia",SA
+206475,Singapore,SG
+206475,"South Korea",KR
+206475,Switzerland,CH
+206475,"United Arab Emirates",AE
+206475,"United Kingdom",GB
+206487,China,CN
+206487,Vietnam,VN
+206491,Australia,AU
+206491,Belgium,BE
+206491,Egypt,EG
+206491,Finland,FI
+206491,France,FR
+206491,Germany,DE
+206491,Greece,GR
+206491,Netherlands,NL
+206491,"New Zealand",NZ
+206491,Nigeria,NG
+206491,Norway,NO
+206491,Oman,OM
+206491,Pakistan,PK
+206491,Poland,PL
+206491,Portugal,PT
+206491,Qatar,QA
+206491,Singapore,SG
+206491,Spain,ES
+206491,Sweden,SE
+206491,"United Kingdom",GB
+206496,France,FR
+206496,Gabon,GA
+206496,Germany,DE
+206496,Indonesia,ID
+206496,Ireland,IE
+206496,Kazakhstan,KZ
+206496,"Saudi Arabia",SA
+206496,"South Korea",KR
+206496,"United Arab Emirates",AE
+206496,"United Kingdom",GB
+206505,Australia,AU
+206505,Belgium,BE
+206505,Canada,CA
+206505,"Czech Republic",CZ
+206505,Denmark,DK
+206505,Finland,FI
+206505,France,FR
+206505,Germany,DE
+206505,India,IN
+206505,Israel,IL
+206505,Italy,IT
+206505,Japan,JP
+206505,Netherlands,NL
+206505,Norway,NO
+206505,Poland,PL
+206505,"Saudi Arabia",SA
+206505,Singapore,SG
+206505,"South Korea",KR
+206505,Switzerland,CH
+206505,"United Arab Emirates",AE
+206505,"United Kingdom",GB
+206514,Australia,AU
+206514,Brazil,BR
+206514,Canada,CA
+206514,Egypt,EG
+206514,Hungary,HU
+206514,Italy,IT
+206514,Netherlands,NL
+206514,Oman,OM
+206514,Qatar,QA
+206514,"South Korea",KR
+206514,Spain,ES
+206514,Sweden,SE
+206514,Thailand,TH
+206514,Ukraine,UA
+206514,"United Kingdom",GB
+206519,Montenegro,ME
+206542,Denmark,DK
+206542,France,FR
+206542,India,IN
+206542,Iraq,IQ
+206542,Israel,IL
+206542,Italy,IT
+206542,Morocco,MA
+206542,Netherlands,NL
+206542,Norway,NO
+206542,"Saudi Arabia",SA
+206542,"South Korea",KR
+206542,"United Arab Emirates",AE
+206542,"United Kingdom",GB
+206554,Ukraine,UA
+206559,France,FR
+206559,Gabon,GA
+206559,Germany,DE
+206559,Indonesia,ID
+206559,Ireland,IE
+206559,Kazakhstan,KZ
+206559,"Saudi Arabia",SA
+206559,"South Korea",KR
+206559,"United Arab Emirates",AE
+206559,"United Kingdom",GB
+206576,Greece,GR
+206576,"United Arab Emirates",AE
+206576,"United States of America",US
+206579,Australia,AU
+206579,Austria,AT
+206579,Belgium,BE
+206579,Egypt,EG
+206579,Finland,FI
+206579,France,FR
+206579,Germany,DE
 206579,Greece,GR
-206582,Australia,AU
-206582,Austria,AT
-206582,Belgium,BE
-206582,Egypt,EG
-206582,Finland,FI
-206582,France,FR
-206582,Germany,DE
-206582,Greece,GR
-206582,Netherlands,NL
-206582,"New Zealand",NZ
-206582,Nigeria,NG
-206582,Norway,NO
-206582,Oman,OM
-206582,Poland,PL
-206582,Qatar,QA
-206582,Singapore,SG
-206582,Spain,ES
-206582,Sweden,SE
-206582,"United Arab Emirates",AE
-206582,"United Kingdom",GB
-206589,Chile,CL
-206601,Australia,AU
-206601,Canada,CA
-206601,Denmark,DK
-206601,France,FR
-206601,Germany,DE
-206601,India,IN
-206601,Iraq,IQ
-206601,Israel,IL
-206601,Italy,IT
-206601,Japan,JP
-206601,Morocco,MA
-206601,Netherlands,NL
-206601,Norway,NO
-206601,"Saudi Arabia",SA
-206601,"South Korea",KR
-206601,"United Arab Emirates",AE
-206601,"United Kingdom",GB
-206628,Gabon,GA
-206628,Germany,DE
-206628,Kazakhstan,KZ
-206628,"South Korea",KR
-206641,Croatia,HR
-206641,Egypt,EG
-206641,Greece,GR
-206641,India,IN
-206641,Indonesia,ID
-206641,Qatar,QA
-206641,"Saudi Arabia",SA
-206641,"United Arab Emirates",AE
-206641,"United States of America",US
-206654,Australia,AU
-206654,Belgium,BE
-206654,Canada,CA
-206654,Finland,FI
-206654,France,FR
-206654,Germany,DE
-206654,Greece,GR
-206654,Israel,IL
-206654,Netherlands,NL
-206654,"New Zealand",NZ
-206654,Nigeria,NG
-206654,Norway,NO
-206654,Oman,OM
-206654,Pakistan,PK
-206654,Poland,PL
-206654,Portugal,PT
-206654,Qatar,QA
-206654,Singapore,SG
-206654,Spain,ES
-206654,Sweden,SE
-206654,"United Arab Emirates",AE
-206654,"United Kingdom",GB
-206654,"United States of America",US
-206676,Malaysia,MY
-206676,Poland,PL
-206676,Senegal,SN
-206677,Gabon,GA
-206677,Germany,DE
-206677,Kazakhstan,KZ
-206677,"South Korea",KR
-206677,"United Arab Emirates",AE
-206684,Nigeria,NG
-206684,Philippines,PH
-206694,Australia,AU
-206694,Canada,CA
-206694,Denmark,DK
-206694,France,FR
-206694,Germany,DE
-206694,India,IN
-206694,Iraq,IQ
-206694,Israel,IL
-206694,Italy,IT
-206694,Japan,JP
-206694,Jordan,JO
-206694,Lithuania,LT
-206694,Morocco,MA
-206694,Netherlands,NL
-206694,Norway,NO
-206694,"Saudi Arabia",SA
-206694,"South Korea",KR
-206694,Spain,ES
-206694,"United Arab Emirates",AE
-206694,"United Kingdom",GB
-206713,Belgium,BE
-206713,Croatia,HR
-206713,Egypt,EG
-206713,Greece,GR
-206713,India,IN
-206713,Indonesia,ID
-206713,Qatar,QA
-206713,"Saudi Arabia",SA
-206713,"United Arab Emirates",AE
-206713,"United States of America",US
-206714,Australia,AU
-206714,Brazil,BR
-206714,Egypt,EG
-206714,Hungary,HU
-206714,Netherlands,NL
-206714,Oman,OM
-206714,"South Korea",KR
-206714,Spain,ES
-206714,Sweden,SE
-206714,Thailand,TH
-206714,"United Kingdom",GB
-206755,Brazil,BR
-206755,Gabon,GA
-206755,Germany,DE
-206755,Kazakhstan,KZ
-206755,"South Korea",KR
-206757,Australia,AU
-206757,France,FR
-206757,Spain,ES
-206757,"United Arab Emirates",AE
-206757,"United Kingdom",GB
-206770,"United Kingdom",GB
-206795,Nigeria,NG
-206795,Philippines,PH
-206798,Australia,AU
-206798,Canada,CA
-206798,Denmark,DK
-206798,France,FR
-206798,Germany,DE
-206798,India,IN
-206798,Iraq,IQ
-206798,Israel,IL
-206798,Italy,IT
-206798,Japan,JP
-206798,Lithuania,LT
-206798,Morocco,MA
-206798,Norway,NO
-206798,"Saudi Arabia",SA
-206798,"South Korea",KR
-206798,Spain,ES
-206798,"United Arab Emirates",AE
-206798,"United Kingdom",GB
-206799,Austria,AT
-206799,Belgium,BE
-206799,Canada,CA
-206799,Denmark,DK
-206799,Finland,FI
-206799,France,FR
-206799,Germany,DE
-206799,Iceland,IS
-206799,Ireland,IE
-206799,Italy,IT
-206799,Japan,JP
-206799,Netherlands,NL
-206799,"New Zealand",NZ
-206799,Norway,NO
-206799,Sweden,SE
-206799,"United Kingdom",GB
-206799,"United States of America",US
-206814,Sweden,SE
-206815,Belgium,BE
-206815,Croatia,HR
-206815,Egypt,EG
-206815,Greece,GR
-206815,India,IN
-206815,Indonesia,ID
-206815,Qatar,QA
-206815,"Saudi Arabia",SA
-206815,"United Arab Emirates",AE
-206815,"United States of America",US
-206851,Australia,AU
-206851,Canada,CA
-206851,Denmark,DK
-206851,France,FR
-206851,Germany,DE
-206851,India,IN
-206851,Iraq,IQ
-206851,Israel,IL
-206851,Italy,IT
-206851,Japan,JP
-206851,Lithuania,LT
-206851,Morocco,MA
-206851,Norway,NO
-206851,"Saudi Arabia",SA
-206851,"South Korea",KR
-206851,Spain,ES
-206851,"United Arab Emirates",AE
-206851,"United Kingdom",GB
-206860,Sweden,SE
-206864,Denmark,DK
-206883,Australia,AU
-206883,Austria,AT
+206579,Netherlands,NL
+206579,"New Zealand",NZ
+206579,Nigeria,NG
+206579,Norway,NO
+206579,Oman,OM
+206579,Poland,PL
+206579,Qatar,QA
+206579,Singapore,SG
+206579,Spain,ES
+206579,Sweden,SE
+206579,"United Arab Emirates",AE
+206579,"United Kingdom",GB
+206586,Chile,CL
+206591,Egypt,EG
+206591,France,FR
+206591,Gabon,GA
+206591,Germany,DE
+206591,Greece,GR
+206591,Indonesia,ID
+206591,Italy,IT
+206591,Kazakhstan,KZ
+206591,Morocco,MA
+206591,Poland,PL
+206591,Romania,RO
+206591,"Saudi Arabia",SA
+206591,"South Korea",KR
+206591,"United Arab Emirates",AE
+206591,"United Kingdom",GB
+206599,Australia,AU
+206599,Canada,CA
+206599,Denmark,DK
+206599,France,FR
+206599,Germany,DE
+206599,India,IN
+206599,Iraq,IQ
+206599,Israel,IL
+206599,Italy,IT
+206599,Japan,JP
+206599,Morocco,MA
+206599,Netherlands,NL
+206599,Norway,NO
+206599,"Saudi Arabia",SA
+206599,"South Korea",KR
+206599,"United Arab Emirates",AE
+206599,"United Kingdom",GB
+206626,Gabon,GA
+206626,Germany,DE
+206626,Kazakhstan,KZ
+206626,"South Korea",KR
+206626,"United Arab Emirates",AE
+206639,Croatia,HR
+206639,Egypt,EG
+206639,Greece,GR
+206639,India,IN
+206639,Indonesia,ID
+206639,Qatar,QA
+206639,"Saudi Arabia",SA
+206639,"United Arab Emirates",AE
+206639,"United States of America",US
+206652,Australia,AU
+206652,Belgium,BE
+206652,Canada,CA
+206652,Finland,FI
+206652,France,FR
+206652,Germany,DE
+206652,Greece,GR
+206652,Israel,IL
+206652,Netherlands,NL
+206652,"New Zealand",NZ
+206652,Nigeria,NG
+206652,Norway,NO
+206652,Oman,OM
+206652,Pakistan,PK
+206652,Poland,PL
+206652,Portugal,PT
+206652,Qatar,QA
+206652,Singapore,SG
+206652,Spain,ES
+206652,Sweden,SE
+206652,"United Arab Emirates",AE
+206652,"United Kingdom",GB
+206652,"United States of America",US
+206674,Malaysia,MY
+206674,Poland,PL
+206674,Senegal,SN
+206675,Gabon,GA
+206675,Germany,DE
+206675,Kazakhstan,KZ
+206675,"South Korea",KR
+206675,"United Arab Emirates",AE
+206682,Nigeria,NG
+206682,Philippines,PH
+206692,Australia,AU
+206692,Canada,CA
+206692,Denmark,DK
+206692,France,FR
+206692,Germany,DE
+206692,India,IN
+206692,Iraq,IQ
+206692,Israel,IL
+206692,Italy,IT
+206692,Japan,JP
+206692,Jordan,JO
+206692,Lithuania,LT
+206692,Morocco,MA
+206692,Netherlands,NL
+206692,Norway,NO
+206692,"Saudi Arabia",SA
+206692,"South Korea",KR
+206692,Spain,ES
+206692,"United Arab Emirates",AE
+206692,"United Kingdom",GB
+206711,Belgium,BE
+206711,Croatia,HR
+206711,Egypt,EG
+206711,Greece,GR
+206711,India,IN
+206711,Indonesia,ID
+206711,Qatar,QA
+206711,"Saudi Arabia",SA
+206711,"United Arab Emirates",AE
+206711,"United States of America",US
+206712,Australia,AU
+206712,Brazil,BR
+206712,Egypt,EG
+206712,Hungary,HU
+206712,Netherlands,NL
+206712,Oman,OM
+206712,"South Korea",KR
+206712,Spain,ES
+206712,Sweden,SE
+206712,Thailand,TH
+206712,"United Kingdom",GB
+206753,Brazil,BR
+206753,Gabon,GA
+206753,Germany,DE
+206753,Kazakhstan,KZ
+206753,"South Korea",KR
+206755,Australia,AU
+206755,France,FR
+206755,Spain,ES
+206755,"United Arab Emirates",AE
+206755,"United Kingdom",GB
+206768,"United Kingdom",GB
+206793,Nigeria,NG
+206793,Philippines,PH
+206796,Australia,AU
+206796,Canada,CA
+206796,Denmark,DK
+206796,France,FR
+206796,Germany,DE
+206796,India,IN
+206796,Iraq,IQ
+206796,Israel,IL
+206796,Italy,IT
+206796,Japan,JP
+206796,Lithuania,LT
+206796,Morocco,MA
+206796,Norway,NO
+206796,"Saudi Arabia",SA
+206796,"South Korea",KR
+206796,Spain,ES
+206796,"United Arab Emirates",AE
+206796,"United Kingdom",GB
+206797,Austria,AT
+206797,Belgium,BE
+206797,Canada,CA
+206797,Denmark,DK
+206797,Finland,FI
+206797,France,FR
+206797,Germany,DE
+206797,Iceland,IS
+206797,Ireland,IE
+206797,Italy,IT
+206797,Japan,JP
+206797,Netherlands,NL
+206797,"New Zealand",NZ
+206797,Norway,NO
+206797,Sweden,SE
+206797,"United Kingdom",GB
+206797,"United States of America",US
+206812,Sweden,SE
+206813,Belgium,BE
+206813,Croatia,HR
+206813,Egypt,EG
+206813,Greece,GR
+206813,India,IN
+206813,Indonesia,ID
+206813,Qatar,QA
+206813,"Saudi Arabia",SA
+206813,"United Arab Emirates",AE
+206813,"United States of America",US
+206849,Australia,AU
+206849,Canada,CA
+206849,Denmark,DK
+206849,France,FR
+206849,Germany,DE
+206849,India,IN
+206849,Iraq,IQ
+206849,Israel,IL
+206849,Italy,IT
+206849,Japan,JP
+206849,Lithuania,LT
+206849,Morocco,MA
+206849,Norway,NO
+206849,"Saudi Arabia",SA
+206849,"South Korea",KR
+206849,Spain,ES
+206849,"United Arab Emirates",AE
+206849,"United Kingdom",GB
+206858,Sweden,SE
+206862,Denmark,DK
+206881,Australia,AU
+206881,Austria,AT
+206881,Belgium,BE
+206881,Finland,FI
+206881,France,FR
+206881,Germany,DE
+206881,Greece,GR
+206881,Israel,IL
+206881,Netherlands,NL
+206881,"New Zealand",NZ
+206881,Nigeria,NG
+206881,Norway,NO
+206881,Oman,OM
+206881,Pakistan,PK
+206881,Poland,PL
+206881,Qatar,QA
+206881,"Saudi Arabia",SA
+206881,Singapore,SG
+206881,Spain,ES
+206881,Sweden,SE
+206881,"United Arab Emirates",AE
+206881,"United Kingdom",GB
+206883,Angola,AO
+206883,Bangladesh,BD
 206883,Belgium,BE
-206883,Finland,FI
+206883,Brazil,BR
+206883,Brunei,BN
+206883,Canada,CA
+206883,"Czech Republic",CZ
+206883,Egypt,EG
 206883,France,FR
+206883,Gabon,GA
 206883,Germany,DE
-206883,Greece,GR
-206883,Israel,IL
-206883,Netherlands,NL
-206883,"New Zealand",NZ
-206883,Nigeria,NG
-206883,Norway,NO
-206883,Oman,OM
-206883,Pakistan,PK
-206883,Poland,PL
-206883,Qatar,QA
+206883,India,IN
+206883,Ireland,IE
+206883,Kazakhstan,KZ
+206883,Luxembourg,LU
+206883,Malaysia,MY
+206883,Philippines,PH
 206883,"Saudi Arabia",SA
-206883,Singapore,SG
-206883,Spain,ES
-206883,Sweden,SE
-206883,"United Arab Emirates",AE
+206883,Senegal,SN
+206883,Serbia,RS
+206883,"South Korea",KR
+206883,Thailand,TH
 206883,"United Kingdom",GB
-206885,Angola,AO
-206885,Bangladesh,BD
-206885,Belgium,BE
-206885,Brazil,BR
-206885,Brunei,BN
-206885,Canada,CA
-206885,"Czech Republic",CZ
-206885,France,FR
-206885,Gabon,GA
-206885,Germany,DE
-206885,India,IN
-206885,Ireland,IE
-206885,Kazakhstan,KZ
-206885,Luxembourg,LU
-206885,Malaysia,MY
-206885,Philippines,PH
-206885,"Saudi Arabia",SA
-206885,Senegal,SN
-206885,Serbia,RS
-206885,"South Korea",KR
-206885,Thailand,TH
-206885,"United Kingdom",GB
-206886,Australia,AU
-206886,Austria,AT
-206886,Belgium,BE
-206886,Finland,FI
-206886,France,FR
-206886,Germany,DE
-206886,Greece,GR
-206886,Israel,IL
-206886,Netherlands,NL
-206886,"New Zealand",NZ
-206886,Nigeria,NG
-206886,Norway,NO
-206886,Oman,OM
-206886,Pakistan,PK
-206886,Poland,PL
-206886,Qatar,QA
-206886,"Saudi Arabia",SA
-206886,Singapore,SG
-206886,Spain,ES
-206886,Sweden,SE
-206886,Taiwan,TW
-206886,"United Arab Emirates",AE
-206886,"United Kingdom",GB
-206910,Australia,AU
-206910,Belgium,BE
-206910,Croatia,HR
-206910,Denmark,DK
-206910,Egypt,EG
-206910,Finland,FI
-206910,Germany,DE
-206910,Greece,GR
-206910,India,IN
-206910,Indonesia,ID
-206910,Japan,JP
-206910,Morocco,MA
-206910,Netherlands,NL
-206910,"New Zealand",NZ
-206910,Norway,NO
-206910,Oman,OM
-206910,Portugal,PT
-206910,Qatar,QA
-206910,"Saudi Arabia",SA
-206910,Sweden,SE
-206910,"United Arab Emirates",AE
-206910,"United States of America",US
-206911,Australia,AU
-206911,Belgium,BE
-206911,Brazil,BR
-206911,Finland,FI
-206911,France,FR
-206911,Greece,GR
-206911,Hungary,HU
-206911,Italy,IT
-206911,Netherlands,NL
-206911,"New Zealand",NZ
-206911,Norway,NO
-206911,Oman,OM
-206911,Qatar,QA
-206911,Spain,ES
-206911,Sweden,SE
-206911,Thailand,TH
-206911,"United Kingdom",GB
-206925,India,IN
-206953,Belgium,BE
-206953,Brazil,BR
-206953,Canada,CA
-206953,Germany,DE
-206953,Netherlands,NL
-206953,"Saudi Arabia",SA
-206953,"South Korea",KR
-206965,Belgium,BE
-206965,France,FR
-206965,Germany,DE
-206965,Kazakhstan,KZ
-206965,Nigeria,NG
-206965,Philippines,PH
-206965,Spain,ES
-206965,"United Kingdom",GB
-206977,Indonesia,ID
-206977,"Saudi Arabia",SA
-206990,Australia,AU
-206990,Belgium,BE
-206990,Croatia,HR
-206990,Egypt,EG
-206990,Finland,FI
-206990,Germany,DE
-206990,Greece,GR
-206990,India,IN
-206990,Indonesia,ID
-206990,Netherlands,NL
-206990,"New Zealand",NZ
-206990,Norway,NO
-206990,Oman,OM
-206990,Qatar,QA
-206990,"Saudi Arabia",SA
-206990,Sweden,SE
-206990,"United Arab Emirates",AE
-206990,"United States of America",US
-206999,Germany,DE
-207007,Belgium,BE
-207007,Brunei,BN
-207007,France,FR
-207007,Gabon,GA
-207007,Germany,DE
-207007,Luxembourg,LU
-207007,Malaysia,MY
-207007,"Saudi Arabia",SA
-207007,"South Korea",KR
-207007,"United Kingdom",GB
-207007,Vietnam,VN
-207023,Brazil,BR
-207023,Egypt,EG
-207023,Hungary,HU
-207023,Italy,IT
-207023,Norway,NO
-207023,Oman,OM
-207023,Qatar,QA
-207023,Spain,ES
-207023,Sweden,SE
-207023,Thailand,TH
-207023,"United Kingdom",GB
-207028,Australia,AU
-207028,Austria,AT
-207028,Belgium,BE
-207028,Canada,CA
-207028,Finland,FI
-207028,France,FR
-207028,Germany,DE
-207028,Greece,GR
-207028,Israel,IL
-207028,Netherlands,NL
-207028,"New Zealand",NZ
-207028,Nigeria,NG
-207028,Norway,NO
-207028,Oman,OM
-207028,Pakistan,PK
-207028,Poland,PL
-207028,Portugal,PT
-207028,Qatar,QA
-207028,"Saudi Arabia",SA
-207028,Singapore,SG
-207028,Spain,ES
-207028,Sweden,SE
-207028,"United Arab Emirates",AE
-207028,"United Kingdom",GB
-207028,"United States of America",US
-207035,Greece,GR
-207036,Belgium,BE
-207036,Brunei,BN
-207036,France,FR
-207036,Gabon,GA
-207036,Germany,DE
-207036,Luxembourg,LU
-207036,Malaysia,MY
-207036,"Saudi Arabia",SA
-207036,"South Korea",KR
-207036,"United Kingdom",GB
-207036,Vietnam,VN
-207044,Brazil,BR
-207046,Australia,AU
-207046,Belgium,BE
-207046,Croatia,HR
-207046,Egypt,EG
-207046,Finland,FI
-207046,Germany,DE
-207046,Greece,GR
-207046,Luxembourg,LU
-207046,Netherlands,NL
-207046,"New Zealand",NZ
-207046,Norway,NO
-207046,Oman,OM
-207046,Qatar,QA
-207046,"Saudi Arabia",SA
-207046,Sweden,SE
-207046,"United Arab Emirates",AE
-207046,"United States of America",US
-207065,Australia,AU
-207065,Belgium,BE
-207065,Canada,CA
-207065,"Czech Republic",CZ
-207065,Denmark,DK
-207065,Finland,FI
-207065,France,FR
-207065,Germany,DE
-207065,India,IN
-207065,Iraq,IQ
-207065,Israel,IL
-207065,Italy,IT
-207065,Japan,JP
-207065,Lithuania,LT
-207065,Morocco,MA
-207065,Netherlands,NL
-207065,Norway,NO
-207065,Poland,PL
-207065,"Saudi Arabia",SA
-207065,Singapore,SG
-207065,"South Korea",KR
-207065,Spain,ES
-207065,Switzerland,CH
-207065,"United Arab Emirates",AE
-207065,"United Kingdom",GB
-207066,"United States of America",US
-207079,Australia,AU
-207079,Belgium,BE
-207079,Croatia,HR
-207079,Egypt,EG
-207079,Finland,FI
-207079,Germany,DE
-207079,Greece,GR
-207079,Luxembourg,LU
-207079,Netherlands,NL
-207079,"New Zealand",NZ
-207079,Norway,NO
-207079,Oman,OM
-207079,Qatar,QA
-207079,"Saudi Arabia",SA
-207079,Sweden,SE
-207079,"United Arab Emirates",AE
-207079,"United States of America",US
-207100,Brazil,BR
-207100,Germany,DE
-207100,Netherlands,NL
-207100,"South Korea",KR
-207100,"United Kingdom",GB
-207119,Brazil,BR
-207119,"Czech Republic",CZ
-207119,Egypt,EG
-207119,Hungary,HU
-207119,Italy,IT
-207119,Norway,NO
-207119,Oman,OM
-207119,Qatar,QA
-207119,"South Africa",ZA
-207119,Spain,ES
-207119,Sweden,SE
-207119,Thailand,TH
-207119,"United Kingdom",GB
-207126,Germany,DE
-207139,Brazil,BR
-207139,Germany,DE
-207139,Netherlands,NL
-207139,"South Korea",KR
-207139,"United Kingdom",GB
-207145,Australia,AU
-207145,Belgium,BE
-207145,Canada,CA
-207145,"Czech Republic",CZ
-207145,Denmark,DK
-207145,Finland,FI
-207145,France,FR
-207145,Germany,DE
-207145,India,IN
-207145,Iraq,IQ
-207145,Israel,IL
-207145,Italy,IT
-207145,Japan,JP
-207145,Lithuania,LT
-207145,Morocco,MA
-207145,Netherlands,NL
-207145,Norway,NO
-207145,Poland,PL
-207145,"Saudi Arabia",SA
-207145,Singapore,SG
-207145,"South Korea",KR
-207145,Spain,ES
-207145,Switzerland,CH
-207145,"United Arab Emirates",AE
-207145,"United Kingdom",GB
-207153,Brunei,BN
-207153,Gabon,GA
-207153,Germany,DE
-207153,"Saudi Arabia",SA
-207153,"South Korea",KR
-207153,Vietnam,VN
-207154,Brazil,BR
-207154,Germany,DE
-207154,Netherlands,NL
-207154,"South Korea",KR
-207154,"United Kingdom",GB
-207166,Australia,AU
-207166,Belgium,BE
-207166,Croatia,HR
-207166,Egypt,EG
-207166,Finland,FI
-207166,Germany,DE
-207166,Greece,GR
-207166,Luxembourg,LU
-207166,Netherlands,NL
-207166,"New Zealand",NZ
-207166,Norway,NO
-207166,Oman,OM
-207166,Qatar,QA
-207166,"Saudi Arabia",SA
-207166,Sweden,SE
-207166,"United Arab Emirates",AE
-207166,"United States of America",US
-207183,Brunei,BN
-207183,Gabon,GA
-207183,Germany,DE
-207183,"Saudi Arabia",SA
-207183,"South Korea",KR
-207183,Vietnam,VN
-207238,Brazil,BR
-207238,"Czech Republic",CZ
-207238,Egypt,EG
-207238,Hungary,HU
-207238,Italy,IT
-207238,Norway,NO
-207238,Oman,OM
-207238,Qatar,QA
-207238,"South Africa",ZA
-207238,Spain,ES
-207238,Sweden,SE
-207238,Thailand,TH
-207238,"United Kingdom",GB
-207250,Australia,AU
-207250,Austria,AT
-207250,Belgium,BE
-207250,Canada,CA
-207250,Finland,FI
-207250,France,FR
-207250,Germany,DE
-207250,Greece,GR
-207250,Israel,IL
-207250,Netherlands,NL
-207250,"New Zealand",NZ
-207250,Nigeria,NG
-207250,Norway,NO
-207250,Oman,OM
-207250,Pakistan,PK
-207250,Poland,PL
-207250,Portugal,PT
-207250,Qatar,QA
-207250,Singapore,SG
-207250,Spain,ES
-207250,Sweden,SE
-207250,Turkmenistan,TM
-207250,"United Kingdom",GB
-207250,"United States of America",US
-207269,Brunei,BN
-207269,Gabon,GA
-207269,Germany,DE
-207269,"South Korea",KR
-207269,Vietnam,VN
-207270,Germany,DE
-207283,Australia,AU
-207283,Belgium,BE
-207283,Canada,CA
-207283,"Czech Republic",CZ
-207283,Denmark,DK
-207283,Finland,FI
-207283,France,FR
-207283,Germany,DE
-207283,India,IN
-207283,Iraq,IQ
-207283,Israel,IL
-207283,Italy,IT
-207283,Japan,JP
-207283,Lithuania,LT
-207283,Morocco,MA
-207283,Netherlands,NL
-207283,Norway,NO
-207283,Poland,PL
-207283,"Saudi Arabia",SA
-207283,Singapore,SG
-207283,"South Korea",KR
-207283,Spain,ES
-207283,Switzerland,CH
-207283,"United Arab Emirates",AE
-207283,"United Kingdom",GB
-207293,Brazil,BR
-207305,Australia,AU
-207305,Austria,AT
-207305,Belgium,BE
-207305,Canada,CA
-207305,Finland,FI
-207305,France,FR
-207305,Germany,DE
-207305,Greece,GR
-207305,Israel,IL
-207305,Netherlands,NL
-207305,"New Zealand",NZ
-207305,Nigeria,NG
-207305,Norway,NO
-207305,Oman,OM
-207305,Pakistan,PK
-207305,Poland,PL
-207305,Portugal,PT
-207305,Qatar,QA
-207305,Singapore,SG
-207305,Spain,ES
-207305,Sweden,SE
-207305,Turkmenistan,TM
-207305,"United Kingdom",GB
-207305,"United States of America",US
-207309,Qatar,QA
-207333,Australia,AU
-207333,Belgium,BE
-207333,Croatia,HR
-207333,Egypt,EG
-207333,Finland,FI
-207333,Germany,DE
-207333,Greece,GR
-207333,Luxembourg,LU
-207333,Netherlands,NL
-207333,"New Zealand",NZ
-207333,Norway,NO
-207333,Oman,OM
-207333,Qatar,QA
-207333,"Saudi Arabia",SA
-207333,Sweden,SE
-207333,"United Arab Emirates",AE
-207333,"United States of America",US
-207344,Australia,AU
-207344,Austria,AT
-207344,Belgium,BE
-207344,Canada,CA
-207344,Finland,FI
-207344,France,FR
-207344,Germany,DE
-207344,Greece,GR
-207344,Israel,IL
-207344,Netherlands,NL
-207344,"New Zealand",NZ
-207344,Nigeria,NG
-207344,Norway,NO
-207344,Oman,OM
-207344,Pakistan,PK
-207344,Poland,PL
-207344,Portugal,PT
-207344,Qatar,QA
-207344,Singapore,SG
-207344,Spain,ES
-207344,Sweden,SE
-207344,Turkmenistan,TM
-207344,"United Arab Emirates",AE
-207344,"United Kingdom",GB
-207344,"United States of America",US
-207362,Brunei,BN
-207362,Gabon,GA
-207362,Germany,DE
-207362,"South Korea",KR
-207362,Vietnam,VN
-207368,Nigeria,NG
-207368,Philippines,PH
-207378,Australia,AU
-207378,Belgium,BE
-207378,Canada,CA
-207378,"Czech Republic",CZ
-207378,Denmark,DK
-207378,Finland,FI
-207378,France,FR
-207378,Germany,DE
-207378,India,IN
-207378,Iraq,IQ
-207378,Israel,IL
-207378,Italy,IT
-207378,Japan,JP
-207378,Lithuania,LT
-207378,Morocco,MA
-207378,Netherlands,NL
-207378,Norway,NO
-207378,Poland,PL
-207378,"Saudi Arabia",SA
-207378,Singapore,SG
-207378,"South Korea",KR
-207378,Spain,ES
-207378,Switzerland,CH
-207378,"United Arab Emirates",AE
-207378,"United Kingdom",GB
-207396,Australia,AU
-207396,Austria,AT
-207396,Belgium,BE
-207396,Canada,CA
-207396,Finland,FI
-207396,France,FR
-207396,Germany,DE
-207396,Greece,GR
-207396,Israel,IL
-207396,Netherlands,NL
-207396,"New Zealand",NZ
-207396,Nigeria,NG
-207396,Norway,NO
-207396,Oman,OM
-207396,Pakistan,PK
-207396,Poland,PL
-207396,Portugal,PT
-207396,Qatar,QA
-207396,Singapore,SG
-207396,Spain,ES
-207396,Sweden,SE
-207396,Turkmenistan,TM
-207396,"United Arab Emirates",AE
-207396,"United Kingdom",GB
-207396,"United States of America",US
-207408,Brazil,BR
-207408,Germany,DE
-207408,India,IN
-207408,Netherlands,NL
-207408,"United Kingdom",GB
-207415,Denmark,DK
-207415,France,FR
-207415,India,IN
-207415,Iraq,IQ
-207415,Israel,IL
-207415,Italy,IT
-207415,Lithuania,LT
-207415,Morocco,MA
-207415,Netherlands,NL
-207415,Norway,NO
-207415,Romania,RO
-207415,"Saudi Arabia",SA
-207415,"South Korea",KR
-207415,Spain,ES
-207415,"United Arab Emirates",AE
-207415,"United Kingdom",GB
-207428,Brazil,BR
-207432,Brazil,BR
-207432,Hungary,HU
-207432,Portugal,PT
-207447,Brunei,BN
-207447,Gabon,GA
+206884,Australia,AU
+206884,Austria,AT
+206884,Belgium,BE
+206884,Finland,FI
+206884,France,FR
+206884,Germany,DE
+206884,Greece,GR
+206884,Israel,IL
+206884,Netherlands,NL
+206884,"New Zealand",NZ
+206884,Nigeria,NG
+206884,Norway,NO
+206884,Oman,OM
+206884,Pakistan,PK
+206884,Poland,PL
+206884,Qatar,QA
+206884,"Saudi Arabia",SA
+206884,Singapore,SG
+206884,Spain,ES
+206884,Sweden,SE
+206884,Taiwan,TW
+206884,"United Arab Emirates",AE
+206884,"United Kingdom",GB
+206908,Australia,AU
+206908,Belgium,BE
+206908,Croatia,HR
+206908,Denmark,DK
+206908,Egypt,EG
+206908,Finland,FI
+206908,Germany,DE
+206908,Greece,GR
+206908,India,IN
+206908,Indonesia,ID
+206908,Japan,JP
+206908,Morocco,MA
+206908,Netherlands,NL
+206908,"New Zealand",NZ
+206908,Norway,NO
+206908,Oman,OM
+206908,Portugal,PT
+206908,Qatar,QA
+206908,"Saudi Arabia",SA
+206908,Sweden,SE
+206908,"United Arab Emirates",AE
+206908,"United States of America",US
+206909,Australia,AU
+206909,Belgium,BE
+206909,Brazil,BR
+206909,Finland,FI
+206909,France,FR
+206909,Greece,GR
+206909,Hungary,HU
+206909,Italy,IT
+206909,Netherlands,NL
+206909,"New Zealand",NZ
+206909,Norway,NO
+206909,Oman,OM
+206909,Qatar,QA
+206909,Spain,ES
+206909,Sweden,SE
+206909,Thailand,TH
+206909,"United Kingdom",GB
+206923,India,IN
+206951,Belgium,BE
+206951,Brazil,BR
+206951,Canada,CA
+206951,Germany,DE
+206951,Netherlands,NL
+206951,"Saudi Arabia",SA
+206951,"South Korea",KR
+206963,Belgium,BE
+206963,France,FR
+206963,Germany,DE
+206963,Kazakhstan,KZ
+206963,Nigeria,NG
+206963,Philippines,PH
+206963,Spain,ES
+206963,"United Kingdom",GB
+206975,Indonesia,ID
+206975,"Saudi Arabia",SA
+206987,Australia,AU
+206987,Belgium,BE
+206987,Croatia,HR
+206987,Denmark,DK
+206987,Egypt,EG
+206987,Finland,FI
+206987,Germany,DE
+206987,Greece,GR
+206987,India,IN
+206987,Indonesia,ID
+206987,Japan,JP
+206987,Netherlands,NL
+206987,"New Zealand",NZ
+206987,Norway,NO
+206987,Oman,OM
+206987,Portugal,PT
+206987,Qatar,QA
+206987,"Saudi Arabia",SA
+206987,Sweden,SE
+206987,"United Arab Emirates",AE
+206987,"United Kingdom",GB
+206987,"United States of America",US
+206996,Germany,DE
+207004,Belgium,BE
+207004,Brunei,BN
+207004,Egypt,EG
+207004,France,FR
+207004,Gabon,GA
+207004,Germany,DE
+207004,Kazakhstan,KZ
+207004,Luxembourg,LU
+207004,Malaysia,MY
+207004,"Saudi Arabia",SA
+207004,"South Korea",KR
+207004,"United Kingdom",GB
+207004,Vietnam,VN
+207020,Brazil,BR
+207020,Egypt,EG
+207020,Hungary,HU
+207020,Italy,IT
+207020,Norway,NO
+207020,Oman,OM
+207020,Qatar,QA
+207020,Spain,ES
+207020,Sweden,SE
+207020,Thailand,TH
+207020,Ukraine,UA
+207020,"United Kingdom",GB
+207025,Australia,AU
+207025,Austria,AT
+207025,Belgium,BE
+207025,Canada,CA
+207025,Finland,FI
+207025,France,FR
+207025,Germany,DE
+207025,Greece,GR
+207025,Israel,IL
+207025,Netherlands,NL
+207025,"New Zealand",NZ
+207025,Nigeria,NG
+207025,Norway,NO
+207025,Oman,OM
+207025,Pakistan,PK
+207025,Poland,PL
+207025,Portugal,PT
+207025,Qatar,QA
+207025,"Saudi Arabia",SA
+207025,Singapore,SG
+207025,Spain,ES
+207025,Sweden,SE
+207025,"United Arab Emirates",AE
+207025,"United Kingdom",GB
+207025,"United States of America",US
+207032,Greece,GR
+207033,Belgium,BE
+207033,Brunei,BN
+207033,Egypt,EG
+207033,France,FR
+207033,Gabon,GA
+207033,Germany,DE
+207033,Kazakhstan,KZ
+207033,Luxembourg,LU
+207033,Malaysia,MY
+207033,"Saudi Arabia",SA
+207033,"South Korea",KR
+207033,"United Kingdom",GB
+207033,Vietnam,VN
+207041,Brazil,BR
+207043,Australia,AU
+207043,Belgium,BE
+207043,Croatia,HR
+207043,Egypt,EG
+207043,Finland,FI
+207043,Germany,DE
+207043,Greece,GR
+207043,India,IN
+207043,Luxembourg,LU
+207043,Netherlands,NL
+207043,"New Zealand",NZ
+207043,Norway,NO
+207043,Oman,OM
+207043,Qatar,QA
+207043,"Saudi Arabia",SA
+207043,Sweden,SE
+207043,"United Arab Emirates",AE
+207043,"United States of America",US
+207062,Australia,AU
+207062,Belgium,BE
+207062,Canada,CA
+207062,"Czech Republic",CZ
+207062,Denmark,DK
+207062,Finland,FI
+207062,France,FR
+207062,Germany,DE
+207062,India,IN
+207062,Iraq,IQ
+207062,Israel,IL
+207062,Italy,IT
+207062,Japan,JP
+207062,Lithuania,LT
+207062,Morocco,MA
+207062,Netherlands,NL
+207062,Norway,NO
+207062,Poland,PL
+207062,"Saudi Arabia",SA
+207062,Singapore,SG
+207062,"South Korea",KR
+207062,Spain,ES
+207062,Switzerland,CH
+207062,"United Arab Emirates",AE
+207062,"United Kingdom",GB
+207063,"United States of America",US
+207076,Australia,AU
+207076,Belgium,BE
+207076,Croatia,HR
+207076,Egypt,EG
+207076,Finland,FI
+207076,Germany,DE
+207076,Greece,GR
+207076,India,IN
+207076,Netherlands,NL
+207076,"New Zealand",NZ
+207076,Norway,NO
+207076,Oman,OM
+207076,Qatar,QA
+207076,"Saudi Arabia",SA
+207076,Sweden,SE
+207076,"United Arab Emirates",AE
+207076,"United States of America",US
+207097,Brazil,BR
+207097,Germany,DE
+207097,Netherlands,NL
+207097,"South Korea",KR
+207097,"United Kingdom",GB
+207116,Brazil,BR
+207116,"Czech Republic",CZ
+207116,Egypt,EG
+207116,Hungary,HU
+207116,Italy,IT
+207116,Norway,NO
+207116,Oman,OM
+207116,Qatar,QA
+207116,"South Africa",ZA
+207116,Spain,ES
+207116,Sweden,SE
+207116,Thailand,TH
+207116,Ukraine,UA
+207116,"United Kingdom",GB
+207123,Germany,DE
+207136,Brazil,BR
+207136,Germany,DE
+207136,Netherlands,NL
+207136,"South Korea",KR
+207142,Australia,AU
+207142,Belgium,BE
+207142,Canada,CA
+207142,"Czech Republic",CZ
+207142,Denmark,DK
+207142,Finland,FI
+207142,France,FR
+207142,Germany,DE
+207142,India,IN
+207142,Iraq,IQ
+207142,Israel,IL
+207142,Italy,IT
+207142,Japan,JP
+207142,Lithuania,LT
+207142,Morocco,MA
+207142,Netherlands,NL
+207142,Norway,NO
+207142,Poland,PL
+207142,"Saudi Arabia",SA
+207142,Singapore,SG
+207142,"South Korea",KR
+207142,Spain,ES
+207142,Switzerland,CH
+207142,"United Arab Emirates",AE
+207142,"United Kingdom",GB
+207150,Egypt,EG
+207150,France,FR
+207150,Gabon,GA
+207150,Germany,DE
+207150,Kazakhstan,KZ
+207150,"Saudi Arabia",SA
+207150,"South Korea",KR
+207150,"United Kingdom",GB
+207150,Vietnam,VN
+207151,Brazil,BR
+207151,Germany,DE
+207151,Netherlands,NL
+207151,"South Korea",KR
+207163,Australia,AU
+207163,Belgium,BE
+207163,Croatia,HR
+207163,Egypt,EG
+207163,Finland,FI
+207163,Germany,DE
+207163,Greece,GR
+207163,India,IN
+207163,Netherlands,NL
+207163,"New Zealand",NZ
+207163,Norway,NO
+207163,Oman,OM
+207163,Qatar,QA
+207163,"Saudi Arabia",SA
+207163,Sweden,SE
+207163,"United Arab Emirates",AE
+207163,"United States of America",US
+207180,Angola,AO
+207180,Egypt,EG
+207180,France,FR
+207180,Gabon,GA
+207180,Germany,DE
+207180,Kazakhstan,KZ
+207180,"Saudi Arabia",SA
+207180,"South Korea",KR
+207180,"United Kingdom",GB
+207180,Vietnam,VN
+207235,Brazil,BR
+207235,Egypt,EG
+207235,Italy,IT
+207235,Norway,NO
+207235,Oman,OM
+207235,Qatar,QA
+207235,Spain,ES
+207235,Ukraine,UA
+207235,"United Kingdom",GB
+207247,Australia,AU
+207247,Austria,AT
+207247,Belgium,BE
+207247,Canada,CA
+207247,Finland,FI
+207247,France,FR
+207247,Germany,DE
+207247,Greece,GR
+207247,Israel,IL
+207247,Netherlands,NL
+207247,"New Zealand",NZ
+207247,Nigeria,NG
+207247,Norway,NO
+207247,Oman,OM
+207247,Poland,PL
+207247,Portugal,PT
+207247,Qatar,QA
+207247,Singapore,SG
+207247,Spain,ES
+207247,Sweden,SE
+207247,Taiwan,TW
+207247,Turkmenistan,TM
+207247,"United Kingdom",GB
+207247,"United States of America",US
+207266,Angola,AO
+207266,Egypt,EG
+207266,France,FR
+207266,Gabon,GA
+207266,Germany,DE
+207266,Kazakhstan,KZ
+207266,"Saudi Arabia",SA
+207266,"South Korea",KR
+207266,"United Kingdom",GB
+207267,Germany,DE
+207280,Australia,AU
+207280,Belgium,BE
+207280,Canada,CA
+207280,"Czech Republic",CZ
+207280,Denmark,DK
+207280,Finland,FI
+207280,France,FR
+207280,Germany,DE
+207280,India,IN
+207280,Iraq,IQ
+207280,Israel,IL
+207280,Italy,IT
+207280,Japan,JP
+207280,Lithuania,LT
+207280,Morocco,MA
+207280,Netherlands,NL
+207280,Norway,NO
+207280,Poland,PL
+207280,"Saudi Arabia",SA
+207280,Singapore,SG
+207280,"South Korea",KR
+207280,Spain,ES
+207280,Switzerland,CH
+207280,"United Arab Emirates",AE
+207280,"United Kingdom",GB
+207290,Brazil,BR
+207301,Australia,AU
+207301,Austria,AT
+207301,Belgium,BE
+207301,Canada,CA
+207301,Finland,FI
+207301,France,FR
+207301,Germany,DE
+207301,Greece,GR
+207301,Israel,IL
+207301,Netherlands,NL
+207301,"New Zealand",NZ
+207301,Nigeria,NG
+207301,Norway,NO
+207301,Oman,OM
+207301,Poland,PL
+207301,Portugal,PT
+207301,Qatar,QA
+207301,Singapore,SG
+207301,Spain,ES
+207301,Sweden,SE
+207301,Taiwan,TW
+207301,Turkmenistan,TM
+207301,"United Kingdom",GB
+207301,"United States of America",US
+207304,Japan,JP
+207304,Qatar,QA
+207328,Australia,AU
+207328,Belgium,BE
+207328,Croatia,HR
+207328,Egypt,EG
+207328,Finland,FI
+207328,Germany,DE
+207328,Greece,GR
+207328,India,IN
+207328,Netherlands,NL
+207328,"New Zealand",NZ
+207328,Norway,NO
+207328,Oman,OM
+207328,Qatar,QA
+207328,"Saudi Arabia",SA
+207328,Sweden,SE
+207328,"United Arab Emirates",AE
+207328,"United States of America",US
+207339,Australia,AU
+207339,Austria,AT
+207339,Belgium,BE
+207339,Canada,CA
+207339,Finland,FI
+207339,France,FR
+207339,Germany,DE
+207339,Greece,GR
+207339,Israel,IL
+207339,Netherlands,NL
+207339,"New Zealand",NZ
+207339,Nigeria,NG
+207339,Norway,NO
+207339,Oman,OM
+207339,Poland,PL
+207339,Portugal,PT
+207339,Qatar,QA
+207339,Singapore,SG
+207339,Spain,ES
+207339,Sweden,SE
+207339,Taiwan,TW
+207339,Turkmenistan,TM
+207339,"United Arab Emirates",AE
+207339,"United Kingdom",GB
+207339,"United States of America",US
+207357,Angola,AO
+207357,Egypt,EG
+207357,France,FR
+207357,Gabon,GA
+207357,Germany,DE
+207357,Kazakhstan,KZ
+207357,"Saudi Arabia",SA
+207357,"South Korea",KR
+207357,"United Kingdom",GB
+207363,Belgium,BE
+207363,France,FR
+207363,Kazakhstan,KZ
+207363,Nigeria,NG
+207363,Philippines,PH
+207363,Spain,ES
+207363,"United Kingdom",GB
+207373,Australia,AU
+207373,Belgium,BE
+207373,Canada,CA
+207373,"Czech Republic",CZ
+207373,Denmark,DK
+207373,Finland,FI
+207373,France,FR
+207373,Germany,DE
+207373,India,IN
+207373,Iraq,IQ
+207373,Israel,IL
+207373,Italy,IT
+207373,Japan,JP
+207373,Lithuania,LT
+207373,Morocco,MA
+207373,Netherlands,NL
+207373,Norway,NO
+207373,Poland,PL
+207373,"Saudi Arabia",SA
+207373,Singapore,SG
+207373,"South Korea",KR
+207373,Spain,ES
+207373,Switzerland,CH
+207373,"United Arab Emirates",AE
+207373,"United Kingdom",GB
+207382,Australia,AU
+207382,Belgium,BE
+207382,Croatia,HR
+207382,Egypt,EG
+207382,Finland,FI
+207382,Germany,DE
+207382,Greece,GR
+207382,India,IN
+207382,Netherlands,NL
+207382,"New Zealand",NZ
+207382,Norway,NO
+207382,Oman,OM
+207382,Peru,PE
+207382,Qatar,QA
+207382,Sweden,SE
+207382,Taiwan,TW
+207382,"United Arab Emirates",AE
+207382,"United States of America",US
+207391,Australia,AU
+207391,Austria,AT
+207391,Belgium,BE
+207391,Canada,CA
+207391,Egypt,EG
+207391,Finland,FI
+207391,France,FR
+207391,Germany,DE
+207391,Greece,GR
+207391,Israel,IL
+207391,Netherlands,NL
+207391,"New Zealand",NZ
+207391,Nigeria,NG
+207391,Norway,NO
+207391,Oman,OM
+207391,Poland,PL
+207391,Portugal,PT
+207391,Qatar,QA
+207391,Singapore,SG
+207391,Spain,ES
+207391,Sweden,SE
+207391,Taiwan,TW
+207391,Turkmenistan,TM
+207391,"United Arab Emirates",AE
+207391,"United Kingdom",GB
+207391,"United States of America",US
+207403,Brazil,BR
+207403,Germany,DE
+207403,India,IN
+207410,Denmark,DK
+207410,France,FR
+207410,India,IN
+207410,Iraq,IQ
+207410,Israel,IL
+207410,Italy,IT
+207410,Lithuania,LT
+207410,Morocco,MA
+207410,Netherlands,NL
+207410,Norway,NO
+207410,Romania,RO
+207410,"Saudi Arabia",SA
+207410,"South Korea",KR
+207410,Spain,ES
+207410,"United Arab Emirates",AE
+207410,"United Kingdom",GB
+207423,Brazil,BR
+207427,Brazil,BR
+207427,Hungary,HU
+207427,Portugal,PT
+207442,Angola,AO
+207442,Egypt,EG
+207442,France,FR
+207442,Gabon,GA
+207442,Germany,DE
+207442,Kazakhstan,KZ
+207442,"Saudi Arabia",SA
+207442,Singapore,SG
+207442,"South Korea",KR
+207442,"United Kingdom",GB
+207443,Brazil,BR
+207443,Germany,DE
+207447,Algeria,DZ
+207447,Australia,AU
+207447,Bahrain,BH
+207447,Bangladesh,BD
+207447,Bulgaria,BG
+207447,Canada,CA
+207447,Chad,TD
+207447,Denmark,DK
+207447,France,FR
 207447,Germany,DE
-207447,Singapore,SG
+207447,Greece,GR
+207447,India,IN
+207447,Iraq,IQ
+207447,Israel,IL
+207447,Italy,IT
+207447,Japan,JP
+207447,Kenya,KE
+207447,Kuwait,KW
+207447,Lithuania,LT
+207447,Mexico,MX
+207447,Morocco,MA
+207447,Netherlands,NL
+207447,"New Zealand",NZ
+207447,Norway,NO
+207447,Oman,OM
+207447,Peru,PE
+207447,Qatar,QA
+207447,Romania,RO
+207447,"Saudi Arabia",SA
+207447,Slovakia,SK
 207447,"South Korea",KR
-207447,Vietnam,VN
-207448,Brazil,BR
-207448,Germany,DE
-207448,India,IN
-207448,Netherlands,NL
-207448,"United Kingdom",GB
-207452,Algeria,DZ
-207452,Australia,AU
-207452,Bahrain,BH
-207452,Bangladesh,BD
-207452,Bulgaria,BG
-207452,Canada,CA
-207452,Chad,TD
-207452,Denmark,DK
-207452,France,FR
-207452,Germany,DE
-207452,Greece,GR
-207452,India,IN
-207452,Iraq,IQ
-207452,Israel,IL
-207452,Italy,IT
-207452,Japan,JP
-207452,Kenya,KE
-207452,Kuwait,KW
-207452,Lithuania,LT
-207452,Mexico,MX
-207452,Morocco,MA
-207452,Netherlands,NL
-207452,"New Zealand",NZ
-207452,Norway,NO
-207452,Oman,OM
-207452,Peru,PE
-207452,Qatar,QA
-207452,Romania,RO
-207452,"Saudi Arabia",SA
-207452,Slovakia,SK
-207452,"South Korea",KR
-207452,Spain,ES
-207452,Tunisia,TN
-207452,Turkey,TR
-207452,Turkmenistan,TM
-207452,"United Arab Emirates",AE
-207452,"United Kingdom",GB
-207452,Zambia,ZM
-207465,Australia,AU
-207465,Belgium,BE
-207465,Canada,CA
-207465,Finland,FI
-207465,France,FR
-207465,Germany,DE
-207465,Greece,GR
-207465,Israel,IL
-207465,Netherlands,NL
-207465,"New Zealand",NZ
-207465,Nigeria,NG
-207465,Norway,NO
-207465,Oman,OM
-207465,Pakistan,PK
-207465,Poland,PL
-207465,Portugal,PT
-207465,Qatar,QA
-207465,Singapore,SG
-207465,Spain,ES
-207465,Sweden,SE
-207465,Turkmenistan,TM
-207465,"United Arab Emirates",AE
-207465,"United Kingdom",GB
-207465,"United States of America",US
-207482,Nigeria,NG
-207482,Philippines,PH
-207504,Brazil,BR
-207504,Ukraine,UA
-207519,Australia,AU
-207519,Belgium,BE
-207519,Canada,CA
-207519,Finland,FI
-207519,France,FR
-207519,Germany,DE
-207519,Greece,GR
-207519,Israel,IL
-207519,Netherlands,NL
-207519,"New Zealand",NZ
-207519,Nigeria,NG
-207519,Norway,NO
-207519,Oman,OM
-207519,Pakistan,PK
-207519,Poland,PL
-207519,Portugal,PT
-207519,Qatar,QA
-207519,Singapore,SG
-207519,Spain,ES
-207519,Sweden,SE
-207519,Turkmenistan,TM
-207519,"United Arab Emirates",AE
-207519,"United Kingdom",GB
-207519,"United States of America",US
-207565,Algeria,DZ
-207565,Australia,AU
-207565,Bahrain,BH
-207565,Bangladesh,BD
-207565,Brazil,BR
-207565,Bulgaria,BG
-207565,Canada,CA
-207565,Chad,TD
-207565,Denmark,DK
-207565,France,FR
-207565,Germany,DE
-207565,Greece,GR
-207565,India,IN
-207565,Iraq,IQ
-207565,Israel,IL
-207565,Italy,IT
-207565,Japan,JP
-207565,Kenya,KE
-207565,Kuwait,KW
-207565,Lithuania,LT
-207565,Mexico,MX
-207565,Morocco,MA
-207565,Netherlands,NL
-207565,"New Zealand",NZ
-207565,Norway,NO
-207565,Oman,OM
-207565,Peru,PE
-207565,Qatar,QA
-207565,Romania,RO
-207565,"Saudi Arabia",SA
-207565,Slovakia,SK
-207565,"South Korea",KR
-207565,Spain,ES
-207565,Tunisia,TN
-207565,Turkey,TR
-207565,Turkmenistan,TM
-207565,"United Arab Emirates",AE
-207565,"United Kingdom",GB
-207565,Zambia,ZM
-207595,India,IN
-207607,Belgium,BE
-207607,Brunei,BN
-207607,Egypt,EG
-207607,France,FR
-207607,Gabon,GA
-207607,Germany,DE
-207607,Luxembourg,LU
-207607,Malaysia,MY
-207607,Singapore,SG
-207607,"South Korea",KR
-207607,Turkey,TR
-207607,"United Kingdom",GB
-207607,Vietnam,VN
-207609,Brazil,BR
-207609,"Czech Republic",CZ
-207609,Germany,DE
-207609,Hungary,HU
-207609,India,IN
-207609,Netherlands,NL
-207609,"South Korea",KR
-207609,Thailand,TH
-207609,"United Kingdom",GB
-207692,Belgium,BE
-207692,Brunei,BN
-207692,Egypt,EG
-207692,France,FR
-207692,Gabon,GA
-207692,Germany,DE
-207692,Luxembourg,LU
-207692,Malaysia,MY
-207692,"Saudi Arabia",SA
-207692,Singapore,SG
-207692,"South Korea",KR
-207692,Turkey,TR
-207692,"United Kingdom",GB
-207692,Vietnam,VN
-207713,Austria,AT
-207713,Brazil,BR
-207713,"Czech Republic",CZ
-207713,Hungary,HU
-207713,Italy,IT
-207713,Kuwait,KW
-207713,Norway,NO
-207713,Oman,OM
-207713,Qatar,QA
-207713,"Saudi Arabia",SA
-207713,"South Africa",ZA
-207713,Spain,ES
-207713,Sweden,SE
-207713,Switzerland,CH
-207713,Thailand,TH
-207713,"United Kingdom",GB
-207714,Austria,AT
-207714,Brazil,BR
-207714,"Czech Republic",CZ
-207714,Hungary,HU
-207714,Italy,IT
-207714,Kuwait,KW
-207714,Norway,NO
-207714,Oman,OM
-207714,Qatar,QA
-207714,"Saudi Arabia",SA
-207714,"South Africa",ZA
-207714,Spain,ES
-207714,Sweden,SE
-207714,Switzerland,CH
-207714,Thailand,TH
-207714,"United Kingdom",GB
-207718,Australia,AU
-207718,Belgium,BE
-207718,Finland,FI
-207718,France,FR
-207718,Germany,DE
-207718,Greece,GR
-207718,Israel,IL
-207718,Netherlands,NL
-207718,"New Zealand",NZ
-207718,Nigeria,NG
-207718,Norway,NO
-207718,Oman,OM
-207718,Pakistan,PK
-207718,Poland,PL
-207718,Qatar,QA
-207718,Singapore,SG
-207718,Spain,ES
-207718,Sweden,SE
-207718,Turkmenistan,TM
-207718,Ukraine,UA
-207718,"United Arab Emirates",AE
-207776,Australia,AU
-207776,Austria,AT
-207776,Belgium,BE
-207776,Botswana,BW
-207776,Brunei,BN
-207776,Bulgaria,BG
-207776,Croatia,HR
-207776,Finland,FI
-207776,France,FR
-207776,Germany,DE
-207776,Greece,GR
-207776,India,IN
-207776,Ireland,IE
-207776,Israel,IL
-207776,Jordan,JO
-207776,Malaysia,MY
-207776,Mexico,MX
-207776,Netherlands,NL
-207776,"New Zealand",NZ
-207776,Nigeria,NG
-207776,Norway,NO
-207776,Oman,OM
-207776,Pakistan,PK
-207776,Poland,PL
-207776,Qatar,QA
-207776,"Saudi Arabia",SA
-207776,Singapore,SG
-207776,Slovenia,SI
-207776,Spain,ES
-207776,Sweden,SE
-207776,Switzerland,CH
-207776,Thailand,TH
-207776,Turkmenistan,TM
-207776,Ukraine,UA
-207776,"United Arab Emirates",AE
-207776,"United Kingdom",GB
-207776,Uruguay,UY
-207780,"United Kingdom",GB
-207807,Botswana,BW
-207807,Germany,DE
-207807,India,IN
-207819,Algeria,DZ
-207819,Australia,AU
-207819,Bahrain,BH
-207819,Bangladesh,BD
-207819,Brazil,BR
-207819,Bulgaria,BG
-207819,Canada,CA
-207819,Chad,TD
-207819,Denmark,DK
-207819,France,FR
-207819,Germany,DE
-207819,Greece,GR
-207819,India,IN
-207819,Iraq,IQ
-207819,Israel,IL
-207819,Italy,IT
-207819,Japan,JP
-207819,Kenya,KE
-207819,Kuwait,KW
-207819,Lithuania,LT
-207819,Mexico,MX
-207819,Morocco,MA
-207819,"New Zealand",NZ
-207819,Norway,NO
-207819,Oman,OM
-207819,Peru,PE
-207819,Qatar,QA
-207819,Romania,RO
-207819,"Saudi Arabia",SA
-207819,Slovakia,SK
-207819,"South Korea",KR
-207819,Spain,ES
-207819,Tunisia,TN
-207819,Turkey,TR
-207819,Turkmenistan,TM
-207819,"United Arab Emirates",AE
-207819,"United Kingdom",GB
-207819,Zambia,ZM
-207844,Ukraine,UA
-207862,Algeria,DZ
-207862,Australia,AU
-207862,Bahrain,BH
-207862,Bangladesh,BD
-207862,Belgium,BE
-207862,Brazil,BR
-207862,Bulgaria,BG
-207862,Canada,CA
-207862,Chad,TD
-207862,"Czech Republic",CZ
-207862,Denmark,DK
-207862,Finland,FI
-207862,France,FR
-207862,Germany,DE
-207862,Greece,GR
-207862,India,IN
-207862,Iraq,IQ
-207862,Israel,IL
-207862,Italy,IT
-207862,Japan,JP
-207862,Kenya,KE
-207862,Kuwait,KW
-207862,Lithuania,LT
-207862,Mexico,MX
-207862,Morocco,MA
-207862,Netherlands,NL
-207862,"New Zealand",NZ
-207862,Norway,NO
-207862,Oman,OM
-207862,Peru,PE
-207862,Poland,PL
-207862,Qatar,QA
-207862,Romania,RO
-207862,"Saudi Arabia",SA
-207862,Singapore,SG
-207862,Slovakia,SK
-207862,"South Korea",KR
-207862,Spain,ES
-207862,Switzerland,CH
-207862,Tunisia,TN
-207862,Turkey,TR
-207862,Turkmenistan,TM
-207862,"United Arab Emirates",AE
-207862,"United Kingdom",GB
-207862,Zambia,ZM
-207879,"United States of America",US
-207887,Australia,AU
+207447,Spain,ES
+207447,Tunisia,TN
+207447,Turkey,TR
+207447,Turkmenistan,TM
+207447,"United Arab Emirates",AE
+207447,"United Kingdom",GB
+207447,Zambia,ZM
+207460,Australia,AU
+207460,Belgium,BE
+207460,Canada,CA
+207460,Finland,FI
+207460,France,FR
+207460,Germany,DE
+207460,Greece,GR
+207460,Israel,IL
+207460,Netherlands,NL
+207460,"New Zealand",NZ
+207460,Nigeria,NG
+207460,Norway,NO
+207460,Oman,OM
+207460,Poland,PL
+207460,Portugal,PT
+207460,Qatar,QA
+207460,Singapore,SG
+207460,Spain,ES
+207460,Sweden,SE
+207460,Taiwan,TW
+207460,Turkmenistan,TM
+207460,"United Arab Emirates",AE
+207460,"United Kingdom",GB
+207460,"United States of America",US
+207477,Belgium,BE
+207477,France,FR
+207477,Kazakhstan,KZ
+207477,Philippines,PH
+207477,Spain,ES
+207477,"United Kingdom",GB
+207499,Ukraine,UA
+207514,Australia,AU
+207514,Belgium,BE
+207514,Canada,CA
+207514,Finland,FI
+207514,France,FR
+207514,Germany,DE
+207514,Greece,GR
+207514,Israel,IL
+207514,Netherlands,NL
+207514,"New Zealand",NZ
+207514,Nigeria,NG
+207514,Norway,NO
+207514,Oman,OM
+207514,Poland,PL
+207514,Portugal,PT
+207514,Qatar,QA
+207514,Singapore,SG
+207514,Spain,ES
+207514,Sweden,SE
+207514,Taiwan,TW
+207514,Turkmenistan,TM
+207514,"United Arab Emirates",AE
+207514,"United Kingdom",GB
+207514,"United States of America",US
+207560,Algeria,DZ
+207560,Australia,AU
+207560,Brazil,BR
+207560,Bulgaria,BG
+207560,Canada,CA
+207560,Chad,TD
+207560,Denmark,DK
+207560,Germany,DE
+207560,Greece,GR
+207560,Israel,IL
+207560,Italy,IT
+207560,Japan,JP
+207560,Kenya,KE
+207560,Lithuania,LT
+207560,Mexico,MX
+207560,Morocco,MA
+207560,Netherlands,NL
+207560,"New Zealand",NZ
+207560,Norway,NO
+207560,Peru,PE
+207560,Qatar,QA
+207560,Romania,RO
+207560,Slovakia,SK
+207560,"South Korea",KR
+207560,Turkmenistan,TM
+207560,"United Arab Emirates",AE
+207560,"United Kingdom",GB
+207560,Zambia,ZM
+207583,Australia,AU
+207583,Belgium,BE
+207583,Croatia,HR
+207583,Egypt,EG
+207583,Finland,FI
+207583,Germany,DE
+207583,Greece,GR
+207583,India,IN
+207583,Netherlands,NL
+207583,"New Zealand",NZ
+207583,Norway,NO
+207583,Oman,OM
+207583,Qatar,QA
+207583,"Saudi Arabia",SA
+207583,Sweden,SE
+207583,"United Arab Emirates",AE
+207583,"United States of America",US
+207586,France,FR
+207586,India,IN
+207591,India,IN
+207603,Angola,AO
+207603,Belgium,BE
+207603,Brunei,BN
+207603,Egypt,EG
+207603,France,FR
+207603,Gabon,GA
+207603,Germany,DE
+207603,Ireland,IE
+207603,Kazakhstan,KZ
+207603,Luxembourg,LU
+207603,Malaysia,MY
+207603,"South Korea",KR
+207603,Turkey,TR
+207603,"United Kingdom",GB
+207603,Vietnam,VN
+207605,Brazil,BR
+207605,"Czech Republic",CZ
+207605,Hungary,HU
+207605,"South Korea",KR
+207605,Thailand,TH
+207610,Belgium,BE
+207610,France,FR
+207610,Kazakhstan,KZ
+207610,Philippines,PH
+207610,Spain,ES
+207610,"United Kingdom",GB
+207618,Algeria,DZ
+207618,Australia,AU
+207618,Bulgaria,BG
+207618,Canada,CA
+207618,Chad,TD
+207618,Denmark,DK
+207618,Germany,DE
+207618,Greece,GR
+207618,Israel,IL
+207618,Italy,IT
+207618,Japan,JP
+207618,Kenya,KE
+207618,Lithuania,LT
+207618,Luxembourg,LU
+207618,Mexico,MX
+207618,Morocco,MA
+207618,"New Zealand",NZ
+207618,Norway,NO
+207618,Peru,PE
+207618,Portugal,PT
+207618,Qatar,QA
+207618,Romania,RO
+207618,Slovakia,SK
+207618,"South Korea",KR
+207618,Turkmenistan,TM
+207618,"United Arab Emirates",AE
+207618,"United Kingdom",GB
+207618,Zambia,ZM
+207689,Angola,AO
+207689,Brunei,BN
+207689,Gabon,GA
+207689,Germany,DE
+207689,Ireland,IE
+207689,"Saudi Arabia",SA
+207689,"South Korea",KR
+207689,"United Kingdom",GB
+207689,Vietnam,VN
+207710,Austria,AT
+207710,Brazil,BR
+207710,"Czech Republic",CZ
+207710,France,FR
+207710,Hungary,HU
+207710,Italy,IT
+207710,Kuwait,KW
+207710,Norway,NO
+207710,Oman,OM
+207710,Qatar,QA
+207710,"Saudi Arabia",SA
+207710,"South Africa",ZA
+207710,Spain,ES
+207710,Sweden,SE
+207710,Switzerland,CH
+207710,Thailand,TH
+207710,"United Kingdom",GB
+207711,Austria,AT
+207711,Brazil,BR
+207711,"Czech Republic",CZ
+207711,France,FR
+207711,Hungary,HU
+207711,Italy,IT
+207711,Kuwait,KW
+207711,Norway,NO
+207711,Oman,OM
+207711,Qatar,QA
+207711,"Saudi Arabia",SA
+207711,"South Africa",ZA
+207711,Spain,ES
+207711,Sweden,SE
+207711,Switzerland,CH
+207711,Thailand,TH
+207711,"United Kingdom",GB
+207715,Australia,AU
+207715,Belgium,BE
+207715,Finland,FI
+207715,France,FR
+207715,Germany,DE
+207715,Greece,GR
+207715,Israel,IL
+207715,Netherlands,NL
+207715,"New Zealand",NZ
+207715,Nigeria,NG
+207715,Norway,NO
+207715,Oman,OM
+207715,Poland,PL
+207715,Qatar,QA
+207715,Singapore,SG
+207715,Spain,ES
+207715,Sweden,SE
+207715,Taiwan,TW
+207715,Turkmenistan,TM
+207715,Ukraine,UA
+207715,"United Arab Emirates",AE
+207773,Australia,AU
+207773,Austria,AT
+207773,Belgium,BE
+207773,Botswana,BW
+207773,Brunei,BN
+207773,Bulgaria,BG
+207773,Croatia,HR
+207773,Finland,FI
+207773,France,FR
+207773,Germany,DE
+207773,Greece,GR
+207773,India,IN
+207773,Ireland,IE
+207773,Israel,IL
+207773,Jordan,JO
+207773,Malaysia,MY
+207773,Mexico,MX
+207773,Netherlands,NL
+207773,"New Zealand",NZ
+207773,Nigeria,NG
+207773,Norway,NO
+207773,Oman,OM
+207773,Poland,PL
+207773,Qatar,QA
+207773,"Saudi Arabia",SA
+207773,Singapore,SG
+207773,Slovenia,SI
+207773,Spain,ES
+207773,Sweden,SE
+207773,Switzerland,CH
+207773,Taiwan,TW
+207773,Thailand,TH
+207773,Turkmenistan,TM
+207773,Ukraine,UA
+207773,"United Arab Emirates",AE
+207773,"United Kingdom",GB
+207773,Uruguay,UY
+207777,"United Kingdom",GB
+207804,Botswana,BW
+207804,Germany,DE
+207804,India,IN
+207816,Australia,AU
+207816,Canada,CA
+207816,Denmark,DK
+207816,Germany,DE
+207816,Israel,IL
+207816,Italy,IT
+207816,Japan,JP
+207816,"New Zealand",NZ
+207816,Norway,NO
+207816,Qatar,QA
+207816,"South Korea",KR
+207816,"United Arab Emirates",AE
+207816,"United Kingdom",GB
+207841,Ukraine,UA
+207859,Australia,AU
+207859,Belgium,BE
+207859,Canada,CA
+207859,"Czech Republic",CZ
+207859,Denmark,DK
+207859,Finland,FI
+207859,Germany,DE
+207859,Israel,IL
+207859,Italy,IT
+207859,Japan,JP
+207859,Netherlands,NL
+207859,"New Zealand",NZ
+207859,Norway,NO
+207859,Poland,PL
+207859,Qatar,QA
+207859,Singapore,SG
+207859,"South Korea",KR
+207859,Switzerland,CH
+207859,"United Kingdom",GB
+207876,"United States of America",US
+207884,Australia,AU
+207884,Belgium,BE
+207884,Bulgaria,BG
+207884,Croatia,HR
+207884,Denmark,DK
+207884,Egypt,EG
+207884,Finland,FI
+207884,Germany,DE
+207884,Greece,GR
+207884,India,IN
+207884,Indonesia,ID
+207884,Japan,JP
+207884,Morocco,MA
+207884,Netherlands,NL
+207884,"New Zealand",NZ
+207884,Norway,NO
+207884,Oman,OM
+207884,Philippines,PH
+207884,Portugal,PT
+207884,Qatar,QA
+207884,"Saudi Arabia",SA
+207884,Sweden,SE
+207884,Ukraine,UA
+207884,"United Arab Emirates",AE
+207884,"United Kingdom",GB
+207884,"United States of America",US
+207887,Austria,AT
 207887,Belgium,BE
-207887,Bulgaria,BG
-207887,Croatia,HR
-207887,Egypt,EG
-207887,Finland,FI
-207887,Germany,DE
-207887,Greece,GR
-207887,Luxembourg,LU
-207887,Netherlands,NL
-207887,"New Zealand",NZ
+207887,Brazil,BR
+207887,"Czech Republic",CZ
+207887,France,FR
+207887,Hungary,HU
+207887,Italy,IT
+207887,Kuwait,KW
 207887,Norway,NO
 207887,Oman,OM
-207887,Philippines,PH
 207887,Qatar,QA
 207887,"Saudi Arabia",SA
+207887,"South Africa",ZA
+207887,Spain,ES
 207887,Sweden,SE
-207887,Ukraine,UA
-207887,"United Arab Emirates",AE
-207887,"United States of America",US
-207890,Austria,AT
-207890,Brazil,BR
-207890,"Czech Republic",CZ
-207890,Hungary,HU
-207890,Italy,IT
-207890,Kuwait,KW
-207890,Norway,NO
-207890,Oman,OM
-207890,Qatar,QA
-207890,"Saudi Arabia",SA
-207890,"South Africa",ZA
-207890,Spain,ES
-207890,Sweden,SE
-207890,Switzerland,CH
-207890,Thailand,TH
-207890,"United Kingdom",GB
-207926,Nigeria,NG
-207926,Philippines,PH
-207940,Algeria,DZ
-207940,Australia,AU
-207940,Bahrain,BH
-207940,Bangladesh,BD
-207940,Belgium,BE
-207940,Brazil,BR
-207940,Bulgaria,BG
-207940,Canada,CA
-207940,Chad,TD
-207940,"Czech Republic",CZ
-207940,Denmark,DK
-207940,Finland,FI
-207940,France,FR
-207940,Germany,DE
-207940,Greece,GR
-207940,India,IN
-207940,Iraq,IQ
-207940,Israel,IL
-207940,Italy,IT
-207940,Japan,JP
-207940,Kenya,KE
-207940,Kuwait,KW
-207940,Lithuania,LT
-207940,Mexico,MX
-207940,Morocco,MA
-207940,Netherlands,NL
-207940,"New Zealand",NZ
-207940,Norway,NO
-207940,Oman,OM
-207940,Peru,PE
-207940,Poland,PL
-207940,Qatar,QA
-207940,Romania,RO
-207940,"Saudi Arabia",SA
-207940,Singapore,SG
-207940,Slovakia,SK
-207940,"South Korea",KR
-207940,Spain,ES
-207940,Switzerland,CH
-207940,Tunisia,TN
-207940,Turkey,TR
-207940,Turkmenistan,TM
-207940,"United Arab Emirates",AE
-207940,"United Kingdom",GB
-207940,Zambia,ZM
-207949,Australia,AU
-207949,Belgium,BE
-207949,Bulgaria,BG
-207949,Croatia,HR
-207949,Egypt,EG
-207949,Finland,FI
-207949,Germany,DE
-207949,Greece,GR
-207949,Luxembourg,LU
-207949,Netherlands,NL
-207949,"New Zealand",NZ
-207949,Norway,NO
-207949,Oman,OM
-207949,Philippines,PH
-207949,Qatar,QA
-207949,"Saudi Arabia",SA
-207949,Sweden,SE
-207949,Ukraine,UA
-207949,"United Arab Emirates",AE
-207949,"United States of America",US
-207951,Austria,AT
-207951,Brazil,BR
-207951,"Czech Republic",CZ
-207951,Hungary,HU
-207951,Italy,IT
-207951,Kuwait,KW
-207951,Norway,NO
-207951,Oman,OM
-207951,Qatar,QA
-207951,"Saudi Arabia",SA
-207951,"South Africa",ZA
-207951,Spain,ES
-207951,Sweden,SE
-207951,Switzerland,CH
-207951,Thailand,TH
-207951,Ukraine,UA
-207951,"United Kingdom",GB
-207960,Australia,AU
-207960,Austria,AT
-207960,Belgium,BE
-207960,Botswana,BW
-207960,Brunei,BN
-207960,Bulgaria,BG
-207960,Croatia,HR
-207960,Finland,FI
-207960,France,FR
-207960,Germany,DE
-207960,Greece,GR
-207960,India,IN
-207960,Ireland,IE
-207960,Israel,IL
-207960,Jordan,JO
-207960,Malaysia,MY
-207960,Mexico,MX
-207960,Netherlands,NL
-207960,"New Zealand",NZ
-207960,Nigeria,NG
-207960,Norway,NO
-207960,Oman,OM
-207960,Pakistan,PK
-207960,Poland,PL
-207960,Qatar,QA
-207960,"Saudi Arabia",SA
-207960,Singapore,SG
-207960,Slovenia,SI
-207960,Spain,ES
-207960,Sweden,SE
-207960,Switzerland,CH
-207960,Thailand,TH
-207960,Turkmenistan,TM
-207960,Ukraine,UA
-207960,"United Arab Emirates",AE
-207960,"United Kingdom",GB
-207960,Uruguay,UY
-207968,Austria,AT
-207975,Belgium,BE
-207975,Brunei,BN
-207975,Egypt,EG
-207975,France,FR
-207975,Gabon,GA
-207975,Germany,DE
-207975,Luxembourg,LU
-207975,Malaysia,MY
-207975,"Saudi Arabia",SA
-207975,Singapore,SG
-207975,"South Korea",KR
-207975,Turkey,TR
-207975,"United Kingdom",GB
-207975,Vietnam,VN
-207976,Botswana,BW
-207976,Germany,DE
-207976,Hungary,HU
-207976,India,IN
-207986,"United States of America",US
-207994,Austria,AT
-207994,Brazil,BR
-207994,"Czech Republic",CZ
-207994,Egypt,EG
-207994,Hungary,HU
-207994,Italy,IT
-207994,Kuwait,KW
-207994,Norway,NO
-207994,Oman,OM
-207994,Qatar,QA
-207994,"Saudi Arabia",SA
-207994,"South Africa",ZA
-207994,Spain,ES
-207994,Sweden,SE
-207994,Switzerland,CH
-207994,Thailand,TH
-207994,Ukraine,UA
-207994,"United Kingdom",GB
-208002,Australia,AU
-208002,Austria,AT
-208002,Belgium,BE
-208002,Botswana,BW
-208002,Brazil,BR
-208002,Brunei,BN
-208002,Bulgaria,BG
-208002,Canada,CA
-208002,Croatia,HR
-208002,Finland,FI
-208002,France,FR
-208002,Germany,DE
-208002,Greece,GR
-208002,India,IN
-208002,Ireland,IE
-208002,Israel,IL
-208002,Jordan,JO
-208002,Malaysia,MY
-208002,Mexico,MX
-208002,Netherlands,NL
-208002,"New Zealand",NZ
-208002,Nigeria,NG
-208002,Norway,NO
-208002,Oman,OM
-208002,Pakistan,PK
-208002,Poland,PL
-208002,Portugal,PT
-208002,Qatar,QA
-208002,"Saudi Arabia",SA
-208002,Singapore,SG
-208002,Slovenia,SI
-208002,Spain,ES
-208002,Sweden,SE
-208002,Switzerland,CH
-208002,Thailand,TH
-208002,Turkmenistan,TM
-208002,Ukraine,UA
-208002,"United Arab Emirates",AE
-208002,"United Kingdom",GB
-208002,"United States of America",US
-208002,Uruguay,UY
-208015,Brazil,BR
-208015,"Czech Republic",CZ
-208015,Finland,FI
-208015,Germany,DE
-208015,Hungary,HU
-208015,India,IN
-208015,Netherlands,NL
-208015,"South Korea",KR
-208015,Thailand,TH
-208015,"United Kingdom",GB
+207887,Switzerland,CH
+207887,Thailand,TH
+207887,"United Kingdom",GB
+207914,Egypt,EG
+207923,Philippines,PH
+207937,Israel,IL
+207937,Italy,IT
+207937,"New Zealand",NZ
+207937,Qatar,QA
+207937,"United Kingdom",GB
+207946,Australia,AU
+207946,Belgium,BE
+207946,Croatia,HR
+207946,Denmark,DK
+207946,Egypt,EG
+207946,Finland,FI
+207946,Germany,DE
+207946,Greece,GR
+207946,India,IN
+207946,Indonesia,ID
+207946,Japan,JP
+207946,Morocco,MA
+207946,Netherlands,NL
+207946,"New Zealand",NZ
+207946,Norway,NO
+207946,Oman,OM
+207946,Portugal,PT
+207946,Qatar,QA
+207946,"Saudi Arabia",SA
+207946,Sweden,SE
+207946,"United Arab Emirates",AE
+207946,"United Kingdom",GB
+207946,"United States of America",US
+207948,Austria,AT
+207948,Belgium,BE
+207948,Brazil,BR
+207948,"Czech Republic",CZ
+207948,France,FR
+207948,Hungary,HU
+207948,Italy,IT
+207948,Kuwait,KW
+207948,Norway,NO
+207948,Oman,OM
+207948,Qatar,QA
+207948,"Saudi Arabia",SA
+207948,"South Africa",ZA
+207948,Spain,ES
+207948,Sweden,SE
+207948,Switzerland,CH
+207948,Thailand,TH
+207948,Ukraine,UA
+207948,"United Kingdom",GB
+207957,Australia,AU
+207957,Austria,AT
+207957,Belgium,BE
+207957,Botswana,BW
+207957,Brunei,BN
+207957,Bulgaria,BG
+207957,Croatia,HR
+207957,Finland,FI
+207957,France,FR
+207957,Germany,DE
+207957,Greece,GR
+207957,India,IN
+207957,Ireland,IE
+207957,Israel,IL
+207957,Jordan,JO
+207957,Malaysia,MY
+207957,Mexico,MX
+207957,Netherlands,NL
+207957,"New Zealand",NZ
+207957,Nigeria,NG
+207957,Norway,NO
+207957,Oman,OM
+207957,Poland,PL
+207957,Qatar,QA
+207957,"Saudi Arabia",SA
+207957,Singapore,SG
+207957,Slovenia,SI
+207957,Spain,ES
+207957,Sweden,SE
+207957,Switzerland,CH
+207957,Thailand,TH
+207957,Turkmenistan,TM
+207957,Ukraine,UA
+207957,"United Arab Emirates",AE
+207957,"United Kingdom",GB
+207957,Uruguay,UY
+207965,Austria,AT
+207972,Brunei,BN
+207972,Gabon,GA
+207972,Germany,DE
+207972,Kazakhstan,KZ
+207972,"South Korea",KR
+207972,"United Kingdom",GB
+207972,Vietnam,VN
+207973,Hungary,HU
+207983,"United States of America",US
+207991,Austria,AT
+207991,Brazil,BR
+207991,"Czech Republic",CZ
+207991,Egypt,EG
+207991,Hungary,HU
+207991,Italy,IT
+207991,Kuwait,KW
+207991,Norway,NO
+207991,Oman,OM
+207991,Qatar,QA
+207991,"Saudi Arabia",SA
+207991,"South Africa",ZA
+207991,Spain,ES
+207991,Sweden,SE
+207991,Switzerland,CH
+207991,Thailand,TH
+207991,Ukraine,UA
+207991,"United Kingdom",GB
+207999,Australia,AU
+207999,Austria,AT
+207999,Belgium,BE
+207999,Botswana,BW
+207999,Brazil,BR
+207999,Brunei,BN
+207999,Bulgaria,BG
+207999,Canada,CA
+207999,Croatia,HR
+207999,Finland,FI
+207999,France,FR
+207999,Germany,DE
+207999,Greece,GR
+207999,India,IN
+207999,Ireland,IE
+207999,Israel,IL
+207999,Jordan,JO
+207999,Malaysia,MY
+207999,Mexico,MX
+207999,Netherlands,NL
+207999,"New Zealand",NZ
+207999,Nigeria,NG
+207999,Norway,NO
+207999,Oman,OM
+207999,Poland,PL
+207999,Portugal,PT
+207999,Qatar,QA
+207999,"Saudi Arabia",SA
+207999,Singapore,SG
+207999,Slovenia,SI
+207999,Spain,ES
+207999,Sweden,SE
+207999,Switzerland,CH
+207999,Thailand,TH
+207999,Ukraine,UA
+207999,"United Arab Emirates",AE
+207999,"United Kingdom",GB
+207999,"United States of America",US
+207999,Uruguay,UY
+208012,Brazil,BR
+208012,Finland,FI
+208038,Austria,AT
+208038,Brazil,BR
+208038,"Czech Republic",CZ
+208038,Egypt,EG
+208038,Hungary,HU
+208038,Italy,IT
+208038,Kuwait,KW
+208038,Norway,NO
+208038,Oman,OM
+208038,Pakistan,PK
+208038,Qatar,QA
+208038,"Saudi Arabia",SA
+208038,Somalia,SO
+208038,"South Africa",ZA
+208038,Spain,ES
+208038,Sweden,SE
+208038,Switzerland,CH
+208038,Thailand,TH
+208038,Ukraine,UA
+208038,"United Kingdom",GB
+208041,Australia,AU
+208041,Austria,AT
+208041,Belgium,BE
+208041,Botswana,BW
+208041,Brunei,BN
+208041,Bulgaria,BG
+208041,Croatia,HR
+208041,Finland,FI
+208041,France,FR
+208041,Germany,DE
+208041,Greece,GR
+208041,India,IN
+208041,Ireland,IE
+208041,Jordan,JO
+208041,Malaysia,MY
+208041,Mexico,MX
+208041,Netherlands,NL
+208041,"New Zealand",NZ
+208041,Nigeria,NG
+208041,Norway,NO
+208041,Oman,OM
+208041,Qatar,QA
+208041,"Saudi Arabia",SA
+208041,Singapore,SG
+208041,Slovenia,SI
+208041,Spain,ES
+208041,Sweden,SE
+208041,Switzerland,CH
+208041,Thailand,TH
+208041,Ukraine,UA
+208041,"United Arab Emirates",AE
+208041,"United Kingdom",GB
+208041,Uruguay,UY
+208053,Germany,DE
+208053,Jordan,JO
+208053,Kazakhstan,KZ
+208053,"United Kingdom",GB
+208053,Vietnam,VN
+208067,Australia,AU
+208067,Belgium,BE
+208067,Croatia,HR
+208067,Egypt,EG
+208067,Finland,FI
+208067,Germany,DE
+208067,Greece,GR
+208067,India,IN
+208067,Netherlands,NL
+208067,"New Zealand",NZ
+208067,Norway,NO
+208067,Oman,OM
+208067,Qatar,QA
+208067,"Saudi Arabia",SA
+208067,Sweden,SE
+208067,"United Arab Emirates",AE
+208067,"United States of America",US
+208070,"United Kingdom",GB
+208076,Australia,AU
+208076,Austria,AT
+208076,Belgium,BE
+208076,Botswana,BW
+208076,Brunei,BN
+208076,Bulgaria,BG
+208076,Croatia,HR
+208076,Finland,FI
+208076,France,FR
+208076,Germany,DE
+208076,Greece,GR
+208076,India,IN
+208076,Ireland,IE
+208076,Jordan,JO
+208076,Malaysia,MY
+208076,Mexico,MX
+208076,Netherlands,NL
+208076,"New Zealand",NZ
+208076,Nigeria,NG
+208076,Norway,NO
+208076,Oman,OM
+208076,Qatar,QA
+208076,"Saudi Arabia",SA
+208076,Singapore,SG
+208076,Slovenia,SI
+208076,Spain,ES
+208076,Sweden,SE
+208076,Switzerland,CH
+208076,Thailand,TH
+208076,Ukraine,UA
+208076,"United Arab Emirates",AE
+208076,"United Kingdom",GB
+208076,Uruguay,UY
+208093,"United Kingdom",GB
+208119,Australia,AU
+208119,Austria,AT
+208119,Belgium,BE
+208119,Botswana,BW
+208119,Brunei,BN
+208119,Bulgaria,BG
+208119,Croatia,HR
+208119,Finland,FI
+208119,France,FR
+208119,Germany,DE
+208119,Greece,GR
+208119,India,IN
+208119,Ireland,IE
+208119,Jordan,JO
+208119,Malaysia,MY
+208119,Mexico,MX
+208119,Netherlands,NL
+208119,"New Zealand",NZ
+208119,Nigeria,NG
+208119,Norway,NO
+208119,Oman,OM
+208119,Qatar,QA
+208119,"Saudi Arabia",SA
+208119,Singapore,SG
+208119,Slovenia,SI
+208119,Spain,ES
+208119,Sweden,SE
+208119,Switzerland,CH
+208119,Taiwan,TW
+208119,Thailand,TH
+208119,Ukraine,UA
+208119,"United Arab Emirates",AE
+208119,"United Kingdom",GB
+208119,Uruguay,UY
+208126,Ukraine,UA
+208129,Brazil,BR
+208129,Finland,FI
+208172,Romania,RO
+208172,Ukraine,UA
+208181,Angola,AO
+208181,Germany,DE
+208181,Kazakhstan,KZ
+208181,"United Kingdom",GB
+208181,Vietnam,VN
+208182,Brazil,BR
+208182,Finland,FI
+208191,Philippines,PH
+208191,"United States of America",US
+208205,Australia,AU
+208205,Belgium,BE
+208205,Croatia,HR
+208205,Egypt,EG
+208205,Finland,FI
+208205,Germany,DE
+208205,Greece,GR
+208205,India,IN
+208205,Netherlands,NL
+208205,"New Zealand",NZ
+208205,Norway,NO
+208205,Oman,OM
+208205,Qatar,QA
+208205,"Saudi Arabia",SA
+208205,Sweden,SE
+208205,"United Arab Emirates",AE
+208205,"United States of America",US
+208241,Australia,AU
+208241,Germany,DE
+208253,Belgium,BE
+208253,France,FR
+208253,Germany,DE
+208253,Kazakhstan,KZ
+208253,Luxembourg,LU
+208253,Malaysia,MY
+208253,"South Korea",KR
+208253,Turkey,TR
+208253,"United Kingdom",GB
+208255,Brazil,BR
+208255,Luxembourg,LU
+208278,Australia,AU
+208278,Austria,AT
+208278,Bangladesh,BD
+208278,Belgium,BE
+208278,Botswana,BW
+208278,Brunei,BN
+208278,Bulgaria,BG
+208278,Croatia,HR
+208278,Finland,FI
+208278,France,FR
+208278,Germany,DE
+208278,Greece,GR
+208278,India,IN
+208278,Ireland,IE
+208278,Jordan,JO
+208278,Malaysia,MY
+208278,Mexico,MX
+208278,Netherlands,NL
+208278,"New Zealand",NZ
+208278,Nigeria,NG
+208278,Norway,NO
+208278,Oman,OM
+208278,Qatar,QA
+208278,"Saudi Arabia",SA
+208278,Singapore,SG
+208278,Slovenia,SI
+208278,Spain,ES
+208278,Sweden,SE
+208278,Switzerland,CH
+208278,Thailand,TH
+208278,Ukraine,UA
+208278,"United Arab Emirates",AE
+208278,"United Kingdom",GB
+208278,Uruguay,UY
+208304,India,IN
+208306,Australia,AU
+208306,Austria,AT
+208306,Belgium,BE
+208306,Botswana,BW
+208306,Brunei,BN
+208306,Bulgaria,BG
+208306,Croatia,HR
+208306,Finland,FI
+208306,France,FR
+208306,Germany,DE
+208306,Greece,GR
+208306,India,IN
+208306,Ireland,IE
+208306,Jordan,JO
+208306,Malaysia,MY
+208306,Mexico,MX
+208306,Netherlands,NL
+208306,"New Zealand",NZ
+208306,Nigeria,NG
+208306,Norway,NO
+208306,Oman,OM
+208306,Qatar,QA
+208306,"Saudi Arabia",SA
+208306,Singapore,SG
+208306,Slovenia,SI
+208306,Spain,ES
+208306,Sweden,SE
+208306,Switzerland,CH
+208306,Thailand,TH
+208306,Ukraine,UA
+208306,"United Arab Emirates",AE
+208306,"United Kingdom",GB
+208306,Uruguay,UY
+208313,Greece,GR
+208316,Brazil,BR
+208316,"Czech Republic",CZ
+208316,Finland,FI
+208316,Germany,DE
+208316,"United Arab Emirates",AE
+208338,Austria,AT
+208338,Brazil,BR
+208338,Egypt,EG
+208338,Italy,IT
+208338,Kuwait,KW
+208338,Norway,NO
+208338,Oman,OM
+208338,Pakistan,PK
+208338,Qatar,QA
+208338,"Saudi Arabia",SA
+208338,Somalia,SO
+208338,Spain,ES
+208338,Switzerland,CH
+208338,Ukraine,UA
+208338,"United Kingdom",GB
+208345,Australia,AU
+208345,Austria,AT
+208345,Belgium,BE
+208345,Botswana,BW
+208345,Brunei,BN
+208345,Bulgaria,BG
+208345,Croatia,HR
+208345,Egypt,EG
+208345,Finland,FI
+208345,France,FR
+208345,Germany,DE
+208345,Greece,GR
+208345,India,IN
+208345,Ireland,IE
+208345,Jordan,JO
+208345,Malaysia,MY
+208345,Mexico,MX
+208345,Netherlands,NL
+208345,"New Zealand",NZ
+208345,Nigeria,NG
+208345,Norway,NO
+208345,Oman,OM
+208345,Qatar,QA
+208345,"Saudi Arabia",SA
+208345,Singapore,SG
+208345,Slovenia,SI
+208345,Spain,ES
+208345,Sweden,SE
+208345,Switzerland,CH
+208345,Thailand,TH
+208345,Ukraine,UA
+208345,"United Arab Emirates",AE
+208345,"United Kingdom",GB
+208345,Uruguay,UY
+208356,Ukraine,UA
+208364,Senegal,SN
+208364,"United Arab Emirates",AE
+208376,Belgium,BE
+208376,India,IN
+208376,Israel,IL
+208376,Italy,IT
+208376,"New Zealand",NZ
+208376,Qatar,QA
+208376,"South Korea",KR
+208376,"United Kingdom",GB
+208381,Australia,AU
+208381,Belgium,BE
+208381,Bulgaria,BG
+208381,Croatia,HR
+208381,Egypt,EG
+208381,Finland,FI
+208381,Germany,DE
+208381,Greece,GR
+208381,India,IN
+208381,Netherlands,NL
+208381,"New Zealand",NZ
+208381,Norway,NO
+208381,Oman,OM
+208381,Philippines,PH
+208381,Qatar,QA
+208381,"Saudi Arabia",SA
+208381,Sweden,SE
+208381,Ukraine,UA
+208381,"United Arab Emirates",AE
+208381,"United States of America",US
+208382,Austria,AT
+208382,Brazil,BR
+208382,Egypt,EG
+208382,Italy,IT
+208382,Kuwait,KW
+208382,Norway,NO
+208382,Oman,OM
+208382,Pakistan,PK
+208382,Qatar,QA
+208382,"Saudi Arabia",SA
+208382,Somalia,SO
+208382,Spain,ES
+208382,Switzerland,CH
+208382,Ukraine,UA
+208382,"United Kingdom",GB
+208386,India,IN
+208386,"South Korea",KR
+208395,Belgium,BE
+208395,France,FR
+208395,Germany,DE
+208395,Kazakhstan,KZ
+208395,Luxembourg,LU
+208395,Malaysia,MY
+208395,"South Korea",KR
+208395,Turkey,TR
+208395,"United Arab Emirates",AE
+208395,"United Kingdom",GB
+208399,Belgium,BE
+208399,"New Zealand",NZ
+208399,Qatar,QA
+208399,"South Korea",KR
+208399,"United Kingdom",GB
+208413,Austria,AT
+208413,Brazil,BR
+208413,Egypt,EG
+208413,Italy,IT
+208413,Kuwait,KW
+208413,Norway,NO
+208413,Oman,OM
+208413,Pakistan,PK
+208413,Qatar,QA
+208413,"Saudi Arabia",SA
+208413,Somalia,SO
+208413,Spain,ES
+208413,Switzerland,CH
+208413,Ukraine,UA
+208413,"United Kingdom",GB
+208417,Australia,AU
+208417,Austria,AT
+208417,Belgium,BE
+208417,Botswana,BW
+208417,Brazil,BR
+208417,Brunei,BN
+208417,Bulgaria,BG
+208417,Croatia,HR
+208417,Finland,FI
+208417,France,FR
+208417,Germany,DE
+208417,Greece,GR
+208417,India,IN
+208417,Ireland,IE
+208417,Jordan,JO
+208417,Malaysia,MY
+208417,Mexico,MX
+208417,Netherlands,NL
+208417,"New Zealand",NZ
+208417,Nigeria,NG
+208417,Norway,NO
+208417,Oman,OM
+208417,Qatar,QA
+208417,"Saudi Arabia",SA
+208417,Singapore,SG
+208417,Slovenia,SI
+208417,Spain,ES
+208417,Sweden,SE
+208417,Switzerland,CH
+208417,Thailand,TH
+208417,Ukraine,UA
+208417,"United Arab Emirates",AE
+208417,"United Kingdom",GB
+208417,Uruguay,UY
+208426,Belgium,BE
+208426,France,FR
+208426,Germany,DE
+208426,Kazakhstan,KZ
+208426,Luxembourg,LU
+208426,Malaysia,MY
+208426,"South Korea",KR
+208426,Turkey,TR
+208426,"United Kingdom",GB
+208426,Vietnam,VN
+208437,Hungary,HU
+208451,Australia,AU
+208451,Germany,DE
+208451,"United Kingdom",GB
+208458,Belgium,BE
+208458,Brunei,BN
+208458,France,FR
+208458,Germany,DE
+208458,Ireland,IE
+208458,Kazakhstan,KZ
+208458,Luxembourg,LU
+208458,Malaysia,MY
+208458,"South Korea",KR
+208458,Turkey,TR
+208458,"United Kingdom",GB
+208458,Vietnam,VN
+208466,"Saudi Arabia",SA
+208474,Austria,AT
+208474,Brazil,BR
+208474,Croatia,HR
+208474,Denmark,DK
+208474,Egypt,EG
+208474,France,FR
+208474,Italy,IT
+208474,Kuwait,KW
+208474,Lithuania,LT
+208474,Norway,NO
+208474,Oman,OM
+208474,Pakistan,PK
+208474,Qatar,QA
+208474,Romania,RO
+208474,"Saudi Arabia",SA
+208474,Singapore,SG
+208474,"South Korea",KR
+208474,Spain,ES
+208474,Sweden,SE
+208474,Switzerland,CH
+208474,Ukraine,UA
+208474,"United Kingdom",GB
+208474,"United States of America",US
+208492,Belgium,BE
+208492,France,FR
+208492,Germany,DE
+208492,Kazakhstan,KZ
+208492,Luxembourg,LU
+208492,Malaysia,MY
+208492,"South Korea",KR
+208492,Turkey,TR
+208492,"United Kingdom",GB
+208492,Vietnam,VN
+208506,Switzerland,CH
+208508,Australia,AU
+208508,Belgium,BE
+208508,Bulgaria,BG
+208508,Croatia,HR
+208508,Egypt,EG
+208508,Finland,FI
+208508,Germany,DE
+208508,Greece,GR
+208508,India,IN
+208508,Netherlands,NL
+208508,"New Zealand",NZ
+208508,Norway,NO
+208508,Oman,OM
+208508,Philippines,PH
+208508,Qatar,QA
+208508,"Saudi Arabia",SA
+208508,Sweden,SE
+208508,Ukraine,UA
+208508,"United Arab Emirates",AE
+208508,"United States of America",US
+208509,Austria,AT
+208509,Brazil,BR
+208509,"Czech Republic",CZ
+208509,Egypt,EG
+208509,France,FR
+208509,Hungary,HU
+208509,Italy,IT
+208509,Kuwait,KW
+208509,Norway,NO
+208509,Oman,OM
+208509,Pakistan,PK
+208509,Qatar,QA
+208509,"Saudi Arabia",SA
+208509,"South Africa",ZA
+208509,Spain,ES
+208509,Sweden,SE
+208509,Thailand,TH
+208509,Ukraine,UA
+208509,"United Kingdom",GB
+208514,Australia,AU
+208514,Austria,AT
+208514,Belgium,BE
+208514,Botswana,BW
+208514,Brazil,BR
+208514,Brunei,BN
+208514,Bulgaria,BG
+208514,Croatia,HR
+208514,Finland,FI
+208514,France,FR
+208514,Germany,DE
+208514,Greece,GR
+208514,India,IN
+208514,Ireland,IE
+208514,Jordan,JO
+208514,Malaysia,MY
+208514,Mexico,MX
+208514,Netherlands,NL
+208514,"New Zealand",NZ
+208514,Nigeria,NG
+208514,Norway,NO
+208514,Oman,OM
+208514,Qatar,QA
+208514,"Saudi Arabia",SA
+208514,Singapore,SG
+208514,Slovenia,SI
+208514,Spain,ES
+208514,Sweden,SE
+208514,Switzerland,CH
+208514,Thailand,TH
+208514,Ukraine,UA
+208514,"United Arab Emirates",AE
+208514,"United Kingdom",GB
+208514,Uruguay,UY
+208522,Sweden,SE
+208524,Pakistan,PK
+208537,Hungary,HU
+208548,Australia,AU
+208548,Belgium,BE
+208548,Bulgaria,BG
+208548,Cameroon,CM
+208548,Canada,CA
+208548,Croatia,HR
+208548,Denmark,DK
+208548,Egypt,EG
+208548,Finland,FI
+208548,Germany,DE
+208548,Greece,GR
+208548,India,IN
+208548,Japan,JP
+208548,Morocco,MA
+208548,Netherlands,NL
+208548,"New Zealand",NZ
+208548,Nigeria,NG
+208548,Norway,NO
+208548,Oman,OM
+208548,Philippines,PH
+208548,Portugal,PT
+208548,Qatar,QA
+208548,"Saudi Arabia",SA
+208548,Sweden,SE
+208548,Ukraine,UA
+208548,"United Arab Emirates",AE
+208548,"United Kingdom",GB
+208548,"United States of America",US
+208553,Austria,AT
+208553,Egypt,EG
+208553,France,FR
+208553,Italy,IT
+208553,Kuwait,KW
+208553,Norway,NO
+208553,Oman,OM
+208553,Pakistan,PK
+208553,Qatar,QA
+208553,"Saudi Arabia",SA
+208553,Singapore,SG
+208553,Spain,ES
+208553,Sweden,SE
+208553,Ukraine,UA
+208553,"United Kingdom",GB
+208562,Australia,AU
+208562,Austria,AT
+208562,Belgium,BE
+208562,Botswana,BW
+208562,Brazil,BR
+208562,Brunei,BN
+208562,Bulgaria,BG
+208562,Croatia,HR
+208562,Finland,FI
+208562,France,FR
+208562,Germany,DE
+208562,Greece,GR
+208562,India,IN
+208562,Ireland,IE
+208562,Jordan,JO
+208562,Malaysia,MY
+208562,Mexico,MX
+208562,Netherlands,NL
+208562,"New Zealand",NZ
+208562,Nigeria,NG
+208562,Norway,NO
+208562,Oman,OM
+208562,Qatar,QA
+208562,"Saudi Arabia",SA
+208562,Singapore,SG
+208562,Slovenia,SI
+208562,Spain,ES
+208562,Sweden,SE
+208562,Switzerland,CH
+208562,Thailand,TH
+208562,Ukraine,UA
+208562,"United Arab Emirates",AE
+208562,"United Kingdom",GB
+208562,Uruguay,UY
+208582,Germany,DE
+208582,Kazakhstan,KZ
+208582,"South Korea",KR
+208582,"United Kingdom",GB
+208582,Vietnam,VN
+208592,Philippines,PH
+208605,Australia,AU
+208605,Belgium,BE
+208605,Bulgaria,BG
+208605,Croatia,HR
+208605,Denmark,DK
+208605,Egypt,EG
+208605,Finland,FI
+208605,Germany,DE
+208605,Greece,GR
+208605,India,IN
+208605,Indonesia,ID
+208605,Japan,JP
+208605,Morocco,MA
+208605,Netherlands,NL
+208605,"New Zealand",NZ
+208605,Norway,NO
+208605,Oman,OM
+208605,Philippines,PH
+208605,Portugal,PT
+208605,Qatar,QA
+208605,"Saudi Arabia",SA
+208605,Sweden,SE
+208605,Ukraine,UA
+208605,"United Arab Emirates",AE
+208605,"United Kingdom",GB
+208605,"United States of America",US
+208608,Austria,AT
+208608,Belgium,BE
+208608,Egypt,EG
+208608,France,FR
+208608,Italy,IT
+208608,Kuwait,KW
+208608,Norway,NO
+208608,Oman,OM
+208608,Pakistan,PK
+208608,Qatar,QA
+208608,"Saudi Arabia",SA
+208608,Singapore,SG
+208608,Spain,ES
+208608,Sweden,SE
+208608,Ukraine,UA
+208608,"United Kingdom",GB
+208626,Finland,FI
+208626,France,FR
+208632,France,FR
+208632,Germany,DE
+208632,Indonesia,ID
+208632,Kazakhstan,KZ
+208632,Luxembourg,LU
+208632,Malaysia,MY
+208632,Spain,ES
+208632,Turkey,TR
+208632,"United Kingdom",GB
+208640,Australia,AU
+208640,Belgium,BE
+208640,Bulgaria,BG
+208640,Croatia,HR
+208640,Denmark,DK
+208640,Egypt,EG
+208640,Finland,FI
+208640,Germany,DE
+208640,Greece,GR
+208640,India,IN
+208640,Indonesia,ID
+208640,Japan,JP
+208640,Morocco,MA
+208640,Netherlands,NL
+208640,"New Zealand",NZ
+208640,Norway,NO
+208640,Oman,OM
+208640,Pakistan,PK
+208640,Philippines,PH
+208640,Portugal,PT
+208640,Qatar,QA
+208640,"Saudi Arabia",SA
+208640,Sweden,SE
+208640,Ukraine,UA
+208640,"United Arab Emirates",AE
+208640,"United Kingdom",GB
+208640,"United States of America",US
+208643,Austria,AT
+208643,Belgium,BE
+208643,Brazil,BR
+208643,Egypt,EG
+208643,France,FR
+208643,Italy,IT
+208643,Kuwait,KW
+208643,Norway,NO
+208643,Oman,OM
+208643,Pakistan,PK
+208643,Qatar,QA
+208643,"Saudi Arabia",SA
+208643,Singapore,SG
+208643,"South Africa",ZA
+208643,"South Korea",KR
+208643,Spain,ES
+208643,Sweden,SE
+208643,Switzerland,CH
+208643,Ukraine,UA
+208643,"United Kingdom",GB
+208643,"United States of America",US
+208654,Germany,DE
+208654,India,IN
+208654,Kazakhstan,KZ
+208654,"South Korea",KR
+208654,"United Kingdom",GB
+208654,Vietnam,VN
+208702,Australia,AU
+208702,Belgium,BE
+208702,Bulgaria,BG
+208702,Croatia,HR
+208702,Denmark,DK
+208702,Egypt,EG
+208702,Finland,FI
+208702,Germany,DE
+208702,Greece,GR
+208702,India,IN
+208702,Indonesia,ID
+208702,Japan,JP
+208702,Morocco,MA
+208702,Netherlands,NL
+208702,"New Zealand",NZ
+208702,Norway,NO
+208702,Oman,OM
+208702,Philippines,PH
+208702,Portugal,PT
+208702,Qatar,QA
+208702,"Saudi Arabia",SA
+208702,Singapore,SG
+208702,Sweden,SE
+208702,Ukraine,UA
+208702,"United Arab Emirates",AE
+208702,"United Kingdom",GB
+208702,"United States of America",US
+208708,India,IN
+208709,Australia,AU
+208709,Austria,AT
+208709,Belgium,BE
+208709,Botswana,BW
+208709,Brazil,BR
+208709,Brunei,BN
+208709,Bulgaria,BG
+208709,Croatia,HR
+208709,Finland,FI
+208709,France,FR
+208709,Germany,DE
+208709,Greece,GR
+208709,India,IN
+208709,Ireland,IE
+208709,Jordan,JO
+208709,Malaysia,MY
+208709,Mexico,MX
+208709,Netherlands,NL
+208709,"New Zealand",NZ
+208709,Norway,NO
+208709,Oman,OM
+208709,Qatar,QA
+208709,"Saudi Arabia",SA
+208709,Singapore,SG
+208709,Slovenia,SI
+208709,Spain,ES
+208709,Sweden,SE
+208709,Switzerland,CH
+208709,Thailand,TH
+208709,Ukraine,UA
+208709,"United Arab Emirates",AE
+208709,"United Kingdom",GB
+208709,Uruguay,UY
+208731,Brazil,BR
+208731,Finland,FI
+208731,France,FR
+208731,Switzerland,CH
+208750,Qatar,QA
+208750,"South Korea",KR
+208750,"United Kingdom",GB
+208775,Canada,CA
+208776,Algeria,DZ
+208776,Australia,AU
+208776,Bangladesh,BD
+208776,Bulgaria,BG
+208776,Denmark,DK
+208776,Ecuador,EC
+208776,France,FR
+208776,Germany,DE
+208776,Greece,GR
+208776,India,IN
+208776,Malaysia,MY
+208776,Mexico,MX
+208776,Norway,NO
+208776,Peru,PE
+208776,Philippines,PH
+208776,Poland,PL
+208776,Portugal,PT
+208776,Qatar,QA
+208776,Romania,RO
+208776,"Saudi Arabia",SA
+208776,Singapore,SG
+208776,"South Korea",KR
+208776,Spain,ES
+208776,Sweden,SE
+208776,Thailand,TH
+208776,"United Arab Emirates",AE
+208776,"United Kingdom",GB
+208776,"United States of America",US
+208776,Vietnam,VN
+208777,"United Kingdom",GB
+208781,Indonesia,ID
+208781,Senegal,SN
+208781,"United Arab Emirates",AE
+208783,Germany,DE
+208783,Ghana,GH
+208783,Kazakhstan,KZ
+208783,"United Kingdom",GB
+208783,Vietnam,VN
+208796,India,IN
+208796,"South Korea",KR
+208796,"United Kingdom",GB
+208817,Australia,AU
+208817,Austria,AT
+208817,Belgium,BE
+208817,Botswana,BW
+208817,Brunei,BN
+208817,Bulgaria,BG
+208817,Croatia,HR
+208817,Estonia,EE
+208817,Finland,FI
+208817,France,FR
+208817,Germany,DE
+208817,Greece,GR
+208817,India,IN
+208817,Ireland,IE
+208817,Jordan,JO
+208817,Malaysia,MY
+208817,Mexico,MX
+208817,Netherlands,NL
+208817,"New Zealand",NZ
+208817,Norway,NO
+208817,Oman,OM
+208817,Qatar,QA
+208817,"Saudi Arabia",SA
+208817,Singapore,SG
+208817,Slovenia,SI
+208817,Spain,ES
+208817,Sweden,SE
+208817,Switzerland,CH
+208817,Thailand,TH
+208817,Ukraine,UA
+208817,"United Arab Emirates",AE
+208817,"United Kingdom",GB
+208817,Uruguay,UY
+208825,Australia,AU
+208825,Germany,DE
+208825,Spain,ES
+208825,"United Kingdom",GB
+208825,"United States of America",US
+208829,Senegal,SN
+208829,"United Arab Emirates",AE
+208847,"Saudi Arabia",SA
+208847,"United States of America",US
+208856,Sweden,SE
+208856,"United States of America",US
+208860,Australia,AU
+208860,Belgium,BE
+208860,Croatia,HR
+208860,Denmark,DK
+208860,Egypt,EG
+208860,Finland,FI
+208860,Germany,DE
+208860,Greece,GR
+208860,India,IN
+208860,Indonesia,ID
+208860,Italy,IT
+208860,Japan,JP
+208860,Morocco,MA
+208860,Netherlands,NL
+208860,"New Zealand",NZ
+208860,Norway,NO
+208860,Oman,OM
+208860,Portugal,PT
+208860,Qatar,QA
+208860,"Saudi Arabia",SA
+208860,Singapore,SG
+208860,Sweden,SE
+208860,"United Arab Emirates",AE
+208860,"United Kingdom",GB
+208860,"United States of America",US
+208863,Austria,AT
+208863,Belgium,BE
+208863,Brazil,BR
+208863,Chile,CL
+208863,Egypt,EG
+208863,France,FR
+208863,Italy,IT
+208863,Japan,JP
+208863,Kuwait,KW
+208863,Norway,NO
+208863,Oman,OM
+208863,Pakistan,PK
+208863,Qatar,QA
+208863,"Saudi Arabia",SA
+208863,Singapore,SG
+208863,"South Africa",ZA
+208863,"South Korea",KR
+208863,Spain,ES
+208863,Sweden,SE
+208863,Switzerland,CH
+208863,Ukraine,UA
+208863,"United Kingdom",GB
+208863,"United States of America",US
+208869,Australia,AU
+208869,Austria,AT
+208869,Belgium,BE
+208869,Botswana,BW
+208869,Brunei,BN
+208869,Bulgaria,BG
+208869,Croatia,HR
+208869,Finland,FI
+208869,France,FR
+208869,Germany,DE
+208869,Greece,GR
+208869,India,IN
+208869,Ireland,IE
+208869,Jordan,JO
+208869,Malaysia,MY
+208869,Mexico,MX
+208869,Netherlands,NL
+208869,"New Zealand",NZ
+208869,Norway,NO
+208869,Oman,OM
+208869,Qatar,QA
+208869,"Saudi Arabia",SA
+208869,Singapore,SG
+208869,Slovenia,SI
+208869,Spain,ES
+208869,Sweden,SE
+208869,Switzerland,CH
+208869,Thailand,TH
+208869,"United Arab Emirates",AE
+208869,"United Kingdom",GB
+208869,Uruguay,UY
+208890,"United Arab Emirates",AE
+208890,Vietnam,VN
+208893,Pakistan,PK
+208907,Belgium,BE
+208907,"South Korea",KR
+208907,"United Kingdom",GB
+208909,France,FR
+208909,Germany,DE
+208909,Indonesia,ID
+208909,Kazakhstan,KZ
+208909,Luxembourg,LU
+208909,Malaysia,MY
+208909,Spain,ES
+208909,Turkey,TR
+208909,"United Kingdom",GB
+208909,"United States of America",US
+208916,Australia,AU
+208916,Belgium,BE
+208916,Croatia,HR
+208916,Denmark,DK
+208916,Egypt,EG
+208916,Finland,FI
+208916,Germany,DE
+208916,Greece,GR
+208916,India,IN
+208916,Indonesia,ID
+208916,Italy,IT
+208916,Japan,JP
+208916,Morocco,MA
+208916,Netherlands,NL
+208916,"New Zealand",NZ
+208916,Norway,NO
+208916,Oman,OM
+208916,Portugal,PT
+208916,Qatar,QA
+208916,"Saudi Arabia",SA
+208916,Singapore,SG
+208916,Sweden,SE
+208916,"United Arab Emirates",AE
+208916,"United Kingdom",GB
+208916,"United States of America",US
+208929,Finland,FI
+208929,Sweden,SE
+208929,Ukraine,UA
+208929,"United Kingdom",GB
+208933,Germany,DE
+208933,Kazakhstan,KZ
+208933,"United Kingdom",GB
+208933,Vietnam,VN
+208934,Pakistan,PK
+208938,Kuwait,KW
+208938,Qatar,QA
+208997,Germany,DE
+208997,Kazakhstan,KZ
+208997,"United Kingdom",GB
+208997,Vietnam,VN
+209005,Philippines,PH
+209016,France,FR
+209016,Germany,DE
+209016,Indonesia,ID
+209016,Kazakhstan,KZ
+209016,Luxembourg,LU
+209016,Malaysia,MY
+209016,Spain,ES
+209016,Turkey,TR
+209016,"United Kingdom",GB
+209028,Sweden,SE
+209029,Australia,AU
+209029,Belgium,BE
+209029,Croatia,HR
+209029,Denmark,DK
+209029,Egypt,EG
+209029,Finland,FI
+209029,Germany,DE
+209029,Greece,GR
+209029,India,IN
+209029,Indonesia,ID
+209029,Italy,IT
+209029,Japan,JP
+209029,Morocco,MA
+209029,Netherlands,NL
+209029,"New Zealand",NZ
+209029,Norway,NO
+209029,Oman,OM
+209029,Portugal,PT
+209029,Qatar,QA
+209029,"Saudi Arabia",SA
+209029,Singapore,SG
+209029,Sweden,SE
+209029,"United Arab Emirates",AE
+209029,"United Kingdom",GB
+209029,"United States of America",US
+209036,Australia,AU
+209036,Austria,AT
+209036,Botswana,BW
+209036,Brunei,BN
+209036,Bulgaria,BG
+209036,Croatia,HR
+209036,France,FR
+209036,Germany,DE
+209036,India,IN
+209036,Ireland,IE
+209036,Jordan,JO
+209036,Kuwait,KW
+209036,Malaysia,MY
+209036,Mexico,MX
+209036,Netherlands,NL
+209036,Nigeria,NG
+209036,Oman,OM
+209036,Qatar,QA
+209036,"Saudi Arabia",SA
+209036,Singapore,SG
+209036,Slovenia,SI
+209036,Spain,ES
+209036,Switzerland,CH
+209036,Thailand,TH
+209036,"United Arab Emirates",AE
+209036,"United Kingdom",GB
+209036,Uruguay,UY
+209043,Australia,AU
+209043,Belgium,BE
+209043,Finland,FI
+209043,France,FR
+209043,Germany,DE
+209043,Greece,GR
+209043,Italy,IT
+209043,"New Zealand",NZ
+209043,Norway,NO
+209043,Oman,OM
+209043,Qatar,QA
+209043,Spain,ES
+209043,Sweden,SE
+209053,Ecuador,EC
+209053,Germany,DE
+209053,Kazakhstan,KZ
+209053,"United Kingdom",GB
+209053,Vietnam,VN
+209064,"South Korea",KR
+209064,"United Kingdom",GB
+209119,Belgium,BE
+209119,Ecuador,EC
+209119,France,FR
+209119,Germany,DE
+209119,Indonesia,ID
+209119,Kazakhstan,KZ
+209119,Luxembourg,LU
+209119,Malaysia,MY
+209119,Turkey,TR
+209119,"United Kingdom",GB
+209119,Vietnam,VN
+209139,Ukraine,UA
+209139,"United Kingdom",GB
+209145,Brazil,BR
+209145,Ecuador,EC
+209145,Germany,DE
+209145,Italy,IT
+209145,Qatar,QA
+209145,"South Korea",KR
+209145,Sweden,SE
+209145,Vietnam,VN
+209157,France,FR
+209157,Germany,DE
+209157,Indonesia,ID
+209157,Kazakhstan,KZ
+209157,Luxembourg,LU
+209157,Malaysia,MY
+209157,Spain,ES
+209157,Turkey,TR
+209157,"United Kingdom",GB
+209165,Belgium,BE
+209165,Brazil,BR
+209165,Egypt,EG
+209165,France,FR
+209165,Italy,IT
+209165,Kuwait,KW
+209165,Norway,NO
+209165,Oman,OM
+209165,Pakistan,PK
+209165,Qatar,QA
+209165,"Saudi Arabia",SA
+209165,Singapore,SG
+209165,"South Africa",ZA
+209165,"South Korea",KR
+209165,Spain,ES
+209165,Sweden,SE
+209165,Switzerland,CH
+209165,Ukraine,UA
+209165,"United Kingdom",GB
+209165,"United States of America",US
+209174,Australia,AU
+209174,Germany,DE
+209174,Hungary,HU
+209174,Ukraine,UA
+209174,"United States of America",US
+209179,Ecuador,EC
+209179,"South Korea",KR
+209179,Vietnam,VN
+209180,Australia,AU
+209180,Brazil,BR
+209180,"Czech Republic",CZ
+209180,Finland,FI
+209180,Indonesia,ID
+209180,Latvia,LV
+209180,Lithuania,LT
+209180,Malaysia,MY
+209180,Pakistan,PK
+209180,Singapore,SG
+209180,Tunisia,TN
+209199,Australia,AU
+209199,Belgium,BE
+209199,Croatia,HR
+209199,Denmark,DK
+209199,Egypt,EG
+209199,Finland,FI
+209199,Germany,DE
+209199,Greece,GR
+209199,India,IN
+209199,Indonesia,ID
+209199,Italy,IT
+209199,Japan,JP
+209199,Malaysia,MY
+209199,Mexico,MX
+209199,Morocco,MA
+209199,Netherlands,NL
+209199,"New Zealand",NZ
+209199,Norway,NO
+209199,Oman,OM
+209199,Portugal,PT
+209199,Qatar,QA
+209199,"Saudi Arabia",SA
+209199,Singapore,SG
+209199,Sweden,SE
+209199,"United Arab Emirates",AE
+209199,"United Kingdom",GB
+209199,"United States of America",US
+209200,Belgium,BE
+209200,Brazil,BR
+209200,Egypt,EG
+209200,France,FR
+209200,Italy,IT
+209200,Kuwait,KW
+209200,Norway,NO
+209200,Oman,OM
+209200,Pakistan,PK
+209200,Qatar,QA
+209200,"Saudi Arabia",SA
+209200,Singapore,SG
+209200,"South Africa",ZA
+209200,"South Korea",KR
+209200,Spain,ES
+209200,Sweden,SE
+209200,Switzerland,CH
+209200,Ukraine,UA
+209200,"United Kingdom",GB
+209200,"United States of America",US
+209216,"South Korea",KR
+209216,Vietnam,VN
+209218,Belgium,BE
+209218,Brazil,BR
+209218,Canada,CA
+209218,Germany,DE
+209218,Netherlands,NL
+209230,Qatar,QA
+209230,"South Korea",KR
+209230,"United Kingdom",GB
+209239,Australia,AU
+209239,Belgium,BE
+209239,Croatia,HR
+209239,Denmark,DK
+209239,Egypt,EG
+209239,Finland,FI
+209239,Germany,DE
+209239,Greece,GR
+209239,India,IN
+209239,Indonesia,ID
+209239,Japan,JP
+209239,Netherlands,NL
+209239,"New Zealand",NZ
+209239,Norway,NO
+209239,Oman,OM
+209239,Portugal,PT
+209239,Qatar,QA
+209239,"Saudi Arabia",SA
+209239,Singapore,SG
+209239,Sweden,SE
+209239,"United Arab Emirates",AE
+209239,"United Kingdom",GB
+209239,"United States of America",US
+209240,Portugal,PT
+209243,Australia,AU
+209243,Austria,AT
+209243,Belgium,BE
+209243,Botswana,BW
+209243,Brunei,BN
+209243,Bulgaria,BG
+209243,Croatia,HR
+209243,Finland,FI
+209243,France,FR
+209243,Germany,DE
+209243,Greece,GR
+209243,India,IN
+209243,Ireland,IE
+209243,Jordan,JO
+209243,Malaysia,MY
+209243,Mexico,MX
+209243,Netherlands,NL
+209243,"New Zealand",NZ
+209243,Nigeria,NG
+209243,Norway,NO
+209243,Oman,OM
+209243,Qatar,QA
+209243,"Saudi Arabia",SA
+209243,Singapore,SG
+209243,Slovenia,SI
+209243,Spain,ES
+209243,Sweden,SE
+209243,Switzerland,CH
+209243,Thailand,TH
+209243,"United Arab Emirates",AE
+209243,"United Kingdom",GB
+209243,Uruguay,UY
+209265,Australia,AU
+209265,Bulgaria,BG
+209265,Cameroon,CM
+209265,Canada,CA
+209265,Croatia,HR
+209265,Egypt,EG
+209265,Finland,FI
+209265,Greece,GR
+209265,India,IN
+209265,Indonesia,ID
+209265,Malaysia,MY
+209265,Mexico,MX
+209265,Morocco,MA
+209265,Nigeria,NG
+209265,Oman,OM
+209265,Philippines,PH
+209265,Portugal,PT
+209265,Qatar,QA
+209265,"Saudi Arabia",SA
+209265,Serbia,RS
+209265,Singapore,SG
+209265,Sweden,SE
+209265,Ukraine,UA
+209265,"United Arab Emirates",AE
+209265,"United States of America",US
+209267,Australia,AU
+209267,Belgium,BE
+209267,Brazil,BR
+209267,Finland,FI
+209267,France,FR
+209267,Greece,GR
+209267,Italy,IT
+209267,Kuwait,KW
+209267,Netherlands,NL
+209267,"New Zealand",NZ
+209267,Norway,NO
+209267,Oman,OM
+209267,Qatar,QA
+209267,"Saudi Arabia",SA
+209267,Singapore,SG
+209267,"South Africa",ZA
+209267,"South Korea",KR
+209267,Spain,ES
+209267,Sweden,SE
+209267,Switzerland,CH
+209267,Ukraine,UA
+209267,"United Kingdom",GB
+209267,"United States of America",US
+209273,Angola,AO
+209273,Australia,AU
+209273,Austria,AT
+209273,Belgium,BE
+209273,Botswana,BW
+209273,Brazil,BR
+209273,Brunei,BN
+209273,Bulgaria,BG
+209273,Croatia,HR
+209273,Finland,FI
+209273,France,FR
+209273,Germany,DE
+209273,Greece,GR
+209273,India,IN
+209273,Ireland,IE
+209273,Jordan,JO
+209273,Malaysia,MY
+209273,Mexico,MX
+209273,Netherlands,NL
+209273,"New Zealand",NZ
+209273,Nigeria,NG
+209273,Norway,NO
+209273,Oman,OM
+209273,Qatar,QA
+209273,"Saudi Arabia",SA
+209273,Singapore,SG
+209273,Slovenia,SI
+209273,Spain,ES
+209273,Sweden,SE
+209273,Switzerland,CH
+209273,Thailand,TH
+209273,"United Arab Emirates",AE
+209273,"United Kingdom",GB
+209273,Uruguay,UY
+209294,Philippines,PH
+209294,"United Kingdom",GB
+209321,Australia,AU
+209321,Belgium,BE
+209321,Canada,CA
+209321,Denmark,DK
+209321,Germany,DE
+209321,Netherlands,NL
+209321,Norway,NO
+209321,Portugal,PT
+209321,Spain,ES
+209321,Turkey,TR
+209321,"United States of America",US
+209326,"United Kingdom",GB
+209331,Australia,AU
+209331,Austria,AT
+209331,Belgium,BE
+209331,Botswana,BW
+209331,Brunei,BN
+209331,Bulgaria,BG
+209331,Croatia,HR
+209331,Finland,FI
+209331,France,FR
+209331,Germany,DE
+209331,Greece,GR
+209331,India,IN
+209331,Ireland,IE
+209331,Jordan,JO
+209331,Malaysia,MY
+209331,Mexico,MX
+209331,Netherlands,NL
+209331,"New Zealand",NZ
+209331,Nigeria,NG
+209331,Norway,NO
+209331,Oman,OM
+209331,Qatar,QA
+209331,"Saudi Arabia",SA
+209331,Singapore,SG
+209331,Slovenia,SI
+209331,Spain,ES
+209331,Sweden,SE
+209331,Switzerland,CH
+209331,Thailand,TH
+209331,"United Arab Emirates",AE
+209331,"United Kingdom",GB
+209331,Uruguay,UY
+209336,China,CN
+209336,Germany,DE
+209336,Japan,JP
+209336,Singapore,SG
+209336,"United Kingdom",GB
+209336,"United States of America",US
+209363,Nigeria,NG
+209363,Philippines,PH
+209379,"United Arab Emirates",AE
+209379,"United Kingdom",GB
+209382,Australia,AU
+209382,Austria,AT
+209382,Belgium,BE
+209382,Botswana,BW
+209382,Brunei,BN
+209382,Bulgaria,BG
+209382,Croatia,HR
+209382,Finland,FI
+209382,France,FR
+209382,Germany,DE
+209382,Greece,GR
+209382,India,IN
+209382,Ireland,IE
+209382,Jordan,JO
+209382,Malaysia,MY
+209382,Mexico,MX
+209382,Netherlands,NL
+209382,"New Zealand",NZ
+209382,Nigeria,NG
+209382,Norway,NO
+209382,Oman,OM
+209382,Qatar,QA
+209382,"Saudi Arabia",SA
+209382,Singapore,SG
+209382,Slovenia,SI
+209382,Spain,ES
+209382,Sweden,SE
+209382,Switzerland,CH
+209382,Thailand,TH
+209382,"United Arab Emirates",AE
+209382,"United Kingdom",GB
+209382,Uruguay,UY
+209384,Australia,AU
+209384,Belgium,BE
+209384,Finland,FI
+209384,France,FR
+209384,Germany,DE
+209384,Greece,GR
+209384,Italy,IT
+209384,"New Zealand",NZ
+209384,Norway,NO
+209384,Oman,OM
+209384,Qatar,QA
+209384,Spain,ES
+209384,Sweden,SE
+209386,Ukraine,UA
+209386,"United Kingdom",GB
+209402,Norway,NO
+209402,"United Kingdom",GB
+209425,Singapore,SG
+209425,"South Korea",KR
+209425,"United Arab Emirates",AE
+209425,"United Kingdom",GB
+209428,"Saudi Arabia",SA
+209428,"United States of America",US
+209433,Australia,AU
+209433,Cameroon,CM
+209433,Canada,CA
+209433,Croatia,HR
+209433,Egypt,EG
+209433,Finland,FI
+209433,Greece,GR
+209433,India,IN
+209433,Indonesia,ID
+209433,Malaysia,MY
+209433,Mexico,MX
+209433,Morocco,MA
+209433,Nigeria,NG
+209433,Oman,OM
+209433,Philippines,PH
+209433,Portugal,PT
+209433,Qatar,QA
+209433,"Saudi Arabia",SA
+209433,Serbia,RS
+209433,Singapore,SG
+209433,Sweden,SE
+209433,Ukraine,UA
+209433,"United Arab Emirates",AE
+209433,"United States of America",US
+209456,"United Arab Emirates",AE
+209460,Jordan,JO
+209462,Bangladesh,BD
+209481,Australia,AU
+209481,Cameroon,CM
+209481,Canada,CA
+209481,Croatia,HR
+209481,Egypt,EG
+209481,Finland,FI
+209481,Greece,GR
+209481,India,IN
+209481,Indonesia,ID
+209481,Malaysia,MY
+209481,Mexico,MX
+209481,Morocco,MA
+209481,Nigeria,NG
+209481,Oman,OM
+209481,Philippines,PH
+209481,Portugal,PT
+209481,Qatar,QA
+209481,"Saudi Arabia",SA
+209481,Serbia,RS
+209481,Singapore,SG
+209481,Sweden,SE
+209481,Ukraine,UA
+209481,"United Arab Emirates",AE
+209481,"United States of America",US
+209483,Australia,AU
+209483,Finland,FI
+209483,France,FR
+209483,Greece,GR
+209483,Italy,IT
+209483,Kuwait,KW
+209483,Oman,OM
+209483,Qatar,QA
+209483,"Saudi Arabia",SA
+209483,Singapore,SG
+209483,Spain,ES
+209483,Sweden,SE
+209483,Ukraine,UA
+209483,"United Kingdom",GB
+209523,Bahrain,BH
+209523,India,IN
+209525,Australia,AU
+209525,Austria,AT
+209525,Belgium,BE
+209525,Botswana,BW
+209525,Brunei,BN
+209525,Bulgaria,BG
+209525,Croatia,HR
+209525,Finland,FI
+209525,France,FR
+209525,Germany,DE
+209525,Greece,GR
+209525,India,IN
+209525,Ireland,IE
+209525,Jordan,JO
+209525,Malaysia,MY
+209525,Mexico,MX
+209525,Netherlands,NL
+209525,"New Zealand",NZ
+209525,Nigeria,NG
+209525,Norway,NO
+209525,Oman,OM
+209525,Qatar,QA
+209525,"Saudi Arabia",SA
+209525,Singapore,SG
+209525,Slovenia,SI
+209525,Spain,ES
+209525,Sweden,SE
+209525,Switzerland,CH
+209525,Thailand,TH
+209525,Turkey,TR
+209525,"United Arab Emirates",AE
+209525,"United Kingdom",GB
+209525,Uruguay,UY
+209540,Oman,OM
+209568,Australia,AU
+209568,Botswana,BW
+209568,Croatia,HR
+209568,Egypt,EG
+209568,Finland,FI
+209568,Greece,GR
+209568,India,IN
+209568,Indonesia,ID
+209568,Malaysia,MY
+209568,Mexico,MX
+209568,Morocco,MA
+209568,Oman,OM
+209568,Philippines,PH
+209568,Portugal,PT
+209568,Qatar,QA
+209568,"Saudi Arabia",SA
+209568,Serbia,RS
+209568,Singapore,SG
+209568,Sweden,SE
+209568,Ukraine,UA
+209568,"United Arab Emirates",AE
+209568,"United States of America",US
+209571,Australia,AU
+209571,Bahrain,BH
+209571,Brazil,BR
+209571,Canada,CA
+209571,Finland,FI
+209571,France,FR
+209571,Greece,GR
+209571,India,IN
+209571,Indonesia,ID
+209571,Italy,IT
+209571,Kenya,KE
+209571,Kuwait,KW
+209571,Malaysia,MY
+209571,Norway,NO
+209571,Oman,OM
+209571,Qatar,QA
+209571,"Saudi Arabia",SA
+209571,"South Africa",ZA
+209571,"South Korea",KR
+209571,Spain,ES
+209571,Sweden,SE
+209571,Switzerland,CH
+209571,"United Arab Emirates",AE
+209571,"United Kingdom",GB
+209571,"United States of America",US
+209576,Greece,GR
+209576,India,IN
+209579,Australia,AU
+209579,Austria,AT
+209579,Belgium,BE
+209579,Botswana,BW
+209579,Brunei,BN
+209579,Bulgaria,BG
+209579,Croatia,HR
+209579,Finland,FI
+209579,France,FR
+209579,Germany,DE
+209579,Greece,GR
+209579,India,IN
+209579,Ireland,IE
+209579,Jordan,JO
+209579,Malaysia,MY
+209579,Mexico,MX
+209579,Netherlands,NL
+209579,"New Zealand",NZ
+209579,Norway,NO
+209579,Oman,OM
+209579,Qatar,QA
+209579,"Saudi Arabia",SA
+209579,Singapore,SG
+209579,Slovenia,SI
+209579,Spain,ES
+209579,Sweden,SE
+209579,Switzerland,CH
+209579,Thailand,TH
+209579,Turkey,TR
+209579,"United Arab Emirates",AE
+209579,"United Kingdom",GB
+209579,Uruguay,UY
+209587,Australia,AU
+209587,Belgium,BE
+209587,Finland,FI
+209587,France,FR
+209587,Germany,DE
+209587,Greece,GR
+209587,Italy,IT
+209587,"New Zealand",NZ
+209587,Norway,NO
+209587,Oman,OM
+209587,Qatar,QA
+209587,Spain,ES
+209587,Sweden,SE
+209608,Spain,ES
+209608,"United Arab Emirates",AE
+209631,"Saudi Arabia",SA
+209631,"United States of America",US
+209644,Brazil,BR
+209644,France,FR
+209644,Greece,GR
+209644,India,IN
+209644,Italy,IT
+209644,Norway,NO
+209644,Qatar,QA
+209644,"South Korea",KR
+209644,Spain,ES
+209644,Sweden,SE
+209644,"United Kingdom",GB
+209651,India,IN
+209656,"United Kingdom",GB
+209696,Belgium,BE
+209696,India,IN
+209696,Qatar,QA
+209696,Singapore,SG
+209696,"South Korea",KR
+209696,"United Arab Emirates",AE
+209696,"United Kingdom",GB
+209704,"United States of America",US
+209706,Australia,AU
+209706,India,IN
+209706,Kuwait,KW
+209706,"United States of America",US
+209709,"United Kingdom",GB
+209736,Greece,GR
+209736,Sweden,SE
+209747,France,FR
+209747,Germany,DE
+209747,Indonesia,ID
+209747,Kazakhstan,KZ
+209747,Luxembourg,LU
+209747,Malaysia,MY
+209747,Spain,ES
+209747,Turkey,TR
+209747,"United Kingdom",GB
+209756,Australia,AU
+209756,Egypt,EG
+209756,Finland,FI
+209756,India,IN
+209756,Indonesia,ID
+209756,Malaysia,MY
+209756,Mexico,MX
+209756,Morocco,MA
+209756,Oman,OM
+209756,Philippines,PH
+209756,Portugal,PT
+209756,Qatar,QA
+209756,Serbia,RS
+209756,Singapore,SG
+209756,Sweden,SE
+209756,Ukraine,UA
+209756,"United Arab Emirates",AE
+209756,"United Kingdom",GB
+209756,"United States of America",US
+209757,Brazil,BR
+209757,France,FR
+209757,Greece,GR
+209757,India,IN
+209757,Italy,IT
+209757,Norway,NO
+209757,Qatar,QA
+209757,"South Korea",KR
+209757,Spain,ES
+209757,Sweden,SE
+209757,"United Kingdom",GB
+209775,"Saudi Arabia",SA
+209775,Spain,ES
+209775,"United Arab Emirates",AE
+209786,"United States of America",US
+209799,Portugal,PT
+209851,Australia,AU
+209851,Egypt,EG
+209851,Finland,FI
+209851,India,IN
+209851,Indonesia,ID
+209851,Malaysia,MY
+209851,Mexico,MX
+209851,Morocco,MA
+209851,Oman,OM
+209851,Philippines,PH
+209851,Portugal,PT
+209851,Qatar,QA
+209851,Serbia,RS
+209851,Singapore,SG
+209851,Sweden,SE
+209851,Taiwan,TW
+209851,"United Arab Emirates",AE
+209851,"United Kingdom",GB
+209851,"United States of America",US
+209859,Australia,AU
+209859,France,FR
+209859,Germany,DE
+209859,India,IN
+209859,Malaysia,MY
+209859,Netherlands,NL
+209859,Nigeria,NG
+209859,Oman,OM
+209859,Qatar,QA
+209859,Singapore,SG
+209859,Spain,ES
+209859,Turkey,TR
+209859,"United Arab Emirates",AE
+209907,Australia,AU
+209907,Brazil,BR
+209907,Egypt,EG
+209907,Finland,FI
+209907,India,IN
+209907,Indonesia,ID
+209907,Malaysia,MY
+209907,Mexico,MX
+209907,Morocco,MA
+209907,Oman,OM
+209907,Philippines,PH
+209907,Portugal,PT
+209907,Qatar,QA
+209907,Serbia,RS
+209907,Singapore,SG
+209907,Sweden,SE
+209907,"United Arab Emirates",AE
+209907,"United Kingdom",GB
+209907,"United States of America",US
+209910,Brazil,BR
+209910,France,FR
+209910,Greece,GR
+209910,India,IN
+209910,Italy,IT
+209910,Norway,NO
+209910,Qatar,QA
+209910,"South Korea",KR
+209910,Spain,ES
+209910,Sweden,SE
+209910,"United Kingdom",GB
+209910,"United States of America",US
+209923,India,IN
+209923,Italy,IT
+209923,"United States of America",US
+209928,"United Kingdom",GB
+210016,Australia,AU
+210016,France,FR
+210016,Germany,DE
+210016,India,IN
+210016,Malaysia,MY
+210016,Netherlands,NL
+210016,Nigeria,NG
+210016,Oman,OM
+210016,Qatar,QA
+210016,Singapore,SG
+210016,Spain,ES
+210016,Turkey,TR
+210016,"United Arab Emirates",AE
+210027,Australia,AU
+210027,Germany,DE
+210027,Hungary,HU
+210027,Malaysia,MY
+210027,Ukraine,UA
+210027,"United States of America",US
+210044,Bangladesh,BD
+210044,Brazil,BR
+210044,France,FR
+210044,Germany,DE
+210044,Italy,IT
+210044,Qatar,QA
+210044,"South Korea",KR
+210044,Sweden,SE
+210044,"United Kingdom",GB
+210062,Qatar,QA
+210062,Singapore,SG
+210062,"South Korea",KR
+210062,"United Arab Emirates",AE
+210062,"United Kingdom",GB
+210080,Germany,DE
+210080,Italy,IT
+210080,Spain,ES
+210080,"United Kingdom",GB
+210085,Australia,AU
+210085,Brazil,BR
+210085,Egypt,EG
+210085,Finland,FI
+210085,India,IN
+210085,Indonesia,ID
+210085,Malaysia,MY
+210085,Mexico,MX
+210085,Morocco,MA
+210085,Oman,OM
+210085,Philippines,PH
+210085,Portugal,PT
+210085,Qatar,QA
+210085,Serbia,RS
+210085,Singapore,SG
+210085,Sweden,SE
+210085,"United Arab Emirates",AE
+210085,"United Kingdom",GB
+210085,"United States of America",US
+210103,Australia,AU
+210103,France,FR
+210103,Germany,DE
+210103,Malaysia,MY
+210103,Netherlands,NL
+210103,Nigeria,NG
+210103,Oman,OM
+210103,Qatar,QA
+210103,Singapore,SG
+210103,Spain,ES
+210103,Turkey,TR
+210103,"United Arab Emirates",AE
+210129,"United Arab Emirates",AE
+210134,Brazil,BR
+210134,Germany,DE
+210135,Bangladesh,BD
+210135,Spain,ES
+210135,"United Arab Emirates",AE
+210140,Morocco,MA
+210161,Australia,AU
+210161,Brazil,BR
+210161,Egypt,EG
+210161,Finland,FI
+210161,India,IN
+210161,Indonesia,ID
+210161,Malaysia,MY
+210161,Mexico,MX
+210161,Morocco,MA
+210161,Oman,OM
+210161,Philippines,PH
+210161,Portugal,PT
+210161,Qatar,QA
+210161,Serbia,RS
+210161,Singapore,SG
+210161,Sweden,SE
+210161,"United Arab Emirates",AE
+210161,"United Kingdom",GB
+210161,"United States of America",US
+210175,"United States of America",US
+210192,Australia,AU
+210192,France,FR
+210192,Germany,DE
+210192,Malaysia,MY
+210192,Netherlands,NL
+210192,Nigeria,NG
+210192,Oman,OM
+210192,Qatar,QA
+210192,Singapore,SG
+210192,Spain,ES
+210192,"United Arab Emirates",AE
+210202,Taiwan,TW
+210211,Brazil,BR
+210211,France,FR
+210211,Greece,GR
+210211,India,IN
+210211,Italy,IT
+210211,Norway,NO
+210211,Qatar,QA
+210211,"South Korea",KR
+210211,Spain,ES
+210211,Sweden,SE
+210211,"United Kingdom",GB
+210211,"United States of America",US
+210221,India,IN
+210221,Romania,RO
+210221,"United States of America",US
+210251,Pakistan,PK
+210257,Brazil,BR
+210257,Qatar,QA
+210257,Singapore,SG
+210257,"South Korea",KR
+210257,Spain,ES
+210257,"United Arab Emirates",AE
+210257,"United Kingdom",GB
+210283,Brazil,BR
+210283,France,FR
+210283,Greece,GR
+210283,India,IN
+210283,Italy,IT
+210283,Norway,NO
+210283,Qatar,QA
+210283,"South Korea",KR
+210283,Spain,ES
+210283,Sweden,SE
+210283,"United Kingdom",GB
+210283,"United States of America",US
+210297,"United Kingdom",GB
+210303,India,IN
+210305,Australia,AU
+210305,Belgium,BE
+210305,Finland,FI
+210305,France,FR
+210305,Germany,DE
+210305,Greece,GR
+210305,Malaysia,MY
+210305,Netherlands,NL
+210305,"New Zealand",NZ
+210305,Nigeria,NG
+210305,Norway,NO
+210305,Oman,OM
+210305,Qatar,QA
+210305,Singapore,SG
+210305,Spain,ES
+210305,Sweden,SE
+210305,"United Arab Emirates",AE
+210315,Australia,AU
+210315,Belgium,BE
+210315,Finland,FI
+210315,France,FR
+210315,Germany,DE
+210315,Greece,GR
+210315,Italy,IT
+210315,"New Zealand",NZ
+210315,Norway,NO
+210315,Oman,OM
+210315,Qatar,QA
+210315,Spain,ES
+210315,Sweden,SE
+210317,Hungary,HU
+210317,Lithuania,LT
+210317,Poland,PL
+210317,Switzerland,CH
+210317,Ukraine,UA
+210317,"United States of America",US
+210337,"United Kingdom",GB
+210348,Brazil,BR
+210348,Chile,CL
+210348,Iraq,IQ
+210348,Pakistan,PK
+210348,Singapore,SG
+210348,"South Korea",KR
+210348,Spain,ES
+210348,"United Kingdom",GB
+210359,Vietnam,VN
+210362,Brazil,BR
+210362,Norway,NO
+210362,Qatar,QA
+210362,Spain,ES
+210362,"United Kingdom",GB
+210362,"United States of America",US
+210372,Australia,AU
+210372,Belgium,BE
+210372,Finland,FI
+210372,France,FR
+210372,Germany,DE
+210372,Greece,GR
+210372,Malaysia,MY
+210372,Netherlands,NL
+210372,"New Zealand",NZ
+210372,Nigeria,NG
+210372,Norway,NO
+210372,Oman,OM
+210372,Qatar,QA
+210372,Singapore,SG
+210372,Spain,ES
+210372,Sweden,SE
+210372,"United Arab Emirates",AE
+210392,"United States of America",US
+210396,Austria,AT
+210396,Brazil,BR
+210396,France,FR
+210396,Germany,DE
+210396,Italy,IT
+210396,Kuwait,KW
+210396,Oman,OM
+210396,Qatar,QA
+210396,"Saudi Arabia",SA
+210396,"South Korea",KR
+210396,Sweden,SE
+210396,"United Arab Emirates",AE
+210396,"United Kingdom",GB
+210420,Romania,RO
+210420,Ukraine,UA
+210422,Algeria,DZ
+210422,Angola,AO
+210422,Australia,AU
+210422,Bahrain,BH
+210422,Bangladesh,BD
+210422,Belgium,BE
+210422,Bolivia,BO
+210422,Brazil,BR
+210422,Brunei,BN
+210422,Cameroon,CM
+210422,Canada,CA
+210422,Chile,CL
+210422,Colombia,CO
+210422,"Czech Republic",CZ
+210422,Denmark,DK
+210422,"Dominican Republic",DO
+210422,Ecuador,EC
+210422,Egypt,EG
+210422,Finland,FI
+210422,Gabon,GA
+210422,Germany,DE
+210422,Ghana,GH
+210422,Greece,GR
+210422,India,IN
+210422,Indonesia,ID
+210422,Ireland,IE
+210422,"Ivory Coast",CI
+210422,Japan,JP
+210422,Jordan,JO
+210422,Kazakhstan,KZ
+210422,Malaysia,MY
+210422,Mexico,MX
+210422,Morocco,MA
+210422,Netherlands,NL
+210422,"New Zealand",NZ
+210422,Nigeria,NG
+210422,Norway,NO
+210422,Oman,OM
+210422,Paraguay,PY
+210422,Peru,PE
+210422,Philippines,PH
+210422,Poland,PL
+210422,Portugal,PT
+210422,Qatar,QA
+210422,Serbia,RS
+210422,Singapore,SG
+210422,"South Africa",ZA
+210422,"South Korea",KR
+210422,Spain,ES
+210422,Sweden,SE
+210422,Thailand,TH
+210422,Turkey,TR
+210422,"United Arab Emirates",AE
+210422,"United Kingdom",GB
+210422,"United States of America",US
+210422,Uruguay,UY
+210422,Uzbekistan,UZ
+210422,Vietnam,VN
+210426,Australia,AU
+210426,Belgium,BE
+210426,Finland,FI
+210426,France,FR
+210426,Germany,DE
+210426,Greece,GR
+210426,Israel,IL
+210426,Malaysia,MY
+210426,Netherlands,NL
+210426,"New Zealand",NZ
+210426,Nigeria,NG
+210426,Norway,NO
+210426,Oman,OM
+210426,Poland,PL
+210426,Qatar,QA
+210426,Singapore,SG
+210426,Spain,ES
+210426,Sweden,SE
+210426,Turkmenistan,TM
+210426,"United Arab Emirates",AE
+210438,Germany,DE
+210438,"United Kingdom",GB
+210444,Nigeria,NG
+210450,Brazil,BR
+210450,Croatia,HR
+210450,Egypt,EG
+210450,Singapore,SG
+210450,"South Korea",KR
+210450,Spain,ES
+210450,"United Kingdom",GB
+210456,Vietnam,VN
+210469,"United Kingdom",GB
+210480,Brazil,BR
+210480,Singapore,SG
+210480,"South Korea",KR
+210480,Spain,ES
+210480,"United Kingdom",GB
+210489,Ukraine,UA
+210490,Australia,AU
+210490,Chile,CL
+210490,Egypt,EG
+210490,Finland,FI
+210490,Greece,GR
+210490,Hungary,HU
+210490,India,IN
+210490,Indonesia,ID
+210490,Oman,OM
+210490,Portugal,PT
+210490,Qatar,QA
+210490,Sweden,SE
+210490,"United Arab Emirates",AE
+210490,"United States of America",US
+210500,Hungary,HU
+210500,Sweden,SE
+210503,Brazil,BR
+210503,Singapore,SG
+210503,"South Korea",KR
+210503,Spain,ES
+210503,Taiwan,TW
+210503,"United Kingdom",GB
+210513,Brazil,BR
+210513,Spain,ES
+210513,"United Kingdom",GB
+210513,"United States of America",US
+210542,Australia,AU
+210542,"United States of America",US
+210549,Albania,AL
+210549,"Saudi Arabia",SA
+210549,"United States of America",US
+210571,Philippines,PH
+210593,Sweden,SE
+210601,Germany,DE
+210601,"South Korea",KR
+210601,"United Kingdom",GB
+210602,Australia,AU
+210602,France,FR
+210602,Germany,DE
+210602,Spain,ES
+210602,"United Arab Emirates",AE
+210603,"United States of America",US
+210605,"United Kingdom",GB
+210618,"United States of America",US
+210622,"Saudi Arabia",SA
+210622,"United States of America",US
+210630,Australia,AU
+210630,Chile,CL
+210630,Croatia,HR
+210630,Egypt,EG
+210630,Finland,FI
+210630,Greece,GR
+210630,India,IN
+210630,Indonesia,ID
+210630,Oman,OM
+210630,Portugal,PT
+210630,Qatar,QA
+210630,Sweden,SE
+210630,"United Arab Emirates",AE
+210630,"United States of America",US
+210638,Australia,AU
+210638,Belgium,BE
+210638,Finland,FI
+210638,France,FR
+210638,Germany,DE
+210638,Greece,GR
+210638,Malaysia,MY
+210638,Netherlands,NL
+210638,"New Zealand",NZ
+210638,Nigeria,NG
+210638,Norway,NO
+210638,Oman,OM
+210638,Qatar,QA
+210638,Spain,ES
+210638,Sweden,SE
+210638,"United Arab Emirates",AE
+210644,Australia,AU
+210644,Belgium,BE
+210644,Finland,FI
+210644,France,FR
+210644,Germany,DE
+210644,Greece,GR
+210644,Italy,IT
+210644,"New Zealand",NZ
+210644,Norway,NO
+210644,Oman,OM
+210644,Qatar,QA
+210644,Spain,ES
+210644,Sweden,SE
+210651,"North Macedonia",MK
+210662,Australia,AU
+210662,Botswana,BW
+210662,Brunei,BN
+210662,France,FR
+210662,India,IN
+210662,Malaysia,MY
+210662,"South Africa",ZA
+210662,Spain,ES
+210662,"United Arab Emirates",AE
+210662,"United Kingdom",GB
+210682,Australia,AU
+210682,Chile,CL
+210682,Croatia,HR
+210682,Egypt,EG
+210682,Finland,FI
+210682,Greece,GR
+210682,India,IN
+210682,Indonesia,ID
+210682,Oman,OM
+210682,Portugal,PT
+210682,Qatar,QA
+210682,Sweden,SE
+210682,"United Arab Emirates",AE
+210682,"United States of America",US
+210687,"United Kingdom",GB
+210727,Australia,AU
+210727,Chile,CL
+210727,Croatia,HR
+210727,Egypt,EG
+210727,Finland,FI
+210727,Greece,GR
+210727,India,IN
+210727,Indonesia,ID
+210727,Oman,OM
+210727,Portugal,PT
+210727,Qatar,QA
+210727,Sweden,SE
+210727,"United Arab Emirates",AE
+210727,"United States of America",US
+210731,Brazil,BR
+210731,Norway,NO
+210731,Spain,ES
+210731,"United Kingdom",GB
+210731,"United States of America",US
+210737,"United Kingdom",GB
+210756,Brunei,BN
+210756,"United Arab Emirates",AE
+210771,Australia,AU
+210771,Bahrain,BH
+210771,Belgium,BE
+210771,Brazil,BR
+210771,Canada,CA
+210771,Finland,FI
+210771,France,FR
+210771,Germany,DE
+210771,India,IN
+210771,Indonesia,ID
+210771,Kuwait,KW
+210771,Luxembourg,LU
+210771,Malaysia,MY
+210771,Netherlands,NL
+210771,Norway,NO
+210771,Oman,OM
+210771,Qatar,QA
+210771,"Saudi Arabia",SA
+210771,Singapore,SG
+210771,"South Africa",ZA
+210771,"South Korea",KR
+210771,Spain,ES
+210771,Taiwan,TW
+210771,Turkey,TR
+210771,"United Kingdom",GB
+210783,Australia,AU
+210783,Chile,CL
+210783,Cyprus,CY
+210783,Egypt,EG
+210783,Finland,FI
+210783,India,IN
+210783,Indonesia,ID
+210783,Oman,OM
+210783,Portugal,PT
+210783,Qatar,QA
+210783,Sweden,SE
+210783,"United Arab Emirates",AE
+210783,"United Kingdom",GB
+210783,"United States of America",US
+210787,Ukraine,UA
+210796,Egypt,EG
+210796,India,IN
+210796,Jordan,JO
+210796,Taiwan,TW
+210811,Germany,DE
+210811,Nigeria,NG
+210811,Pakistan,PK
+210811,"United Arab Emirates",AE
+210827,Hungary,HU
+210833,Australia,AU
+210833,Brazil,BR
+210833,Chile,CL
+210833,Cyprus,CY
+210833,Egypt,EG
+210833,Finland,FI
+210833,India,IN
+210833,Indonesia,ID
+210833,Oman,OM
+210833,Portugal,PT
+210833,Qatar,QA
+210833,Sweden,SE
+210833,"United Arab Emirates",AE
+210833,"United Kingdom",GB
+210833,"United States of America",US
+210835,Italy,IT
+210835,Norway,NO
+210835,"United Kingdom",GB
+210838,Germany,DE
+210838,Nigeria,NG
+210838,Qatar,QA
+210838,"United Arab Emirates",AE
+210864,Australia,AU
+210864,Brazil,BR
+210864,Cyprus,CY
+210864,Egypt,EG
+210864,Finland,FI
+210864,India,IN
+210864,Indonesia,ID
+210864,Oman,OM
+210864,Portugal,PT
+210864,Qatar,QA
+210864,Sweden,SE
+210864,"United Arab Emirates",AE
+210864,"United Kingdom",GB
+210864,"United States of America",US
+210870,Belgium,BE
+210870,Finland,FI
+210870,France,FR
+210870,Germany,DE
+210870,Greece,GR
+210870,Malaysia,MY
+210870,Netherlands,NL
+210870,Nigeria,NG
+210870,Norway,NO
+210870,Poland,PL
+210870,Qatar,QA
+210870,Spain,ES
+210870,Sweden,SE
+210870,"United Arab Emirates",AE
+210873,Spain,ES
+210928,Australia,AU
+210928,Brazil,BR
+210928,Cyprus,CY
+210928,Egypt,EG
+210928,Finland,FI
+210928,India,IN
+210928,Indonesia,ID
+210928,Oman,OM
+210928,Portugal,PT
+210928,Qatar,QA
+210928,Sweden,SE
+210928,"United Arab Emirates",AE
+210928,"United Kingdom",GB
+210928,"United States of America",US
+210942,"Saudi Arabia",SA
+210953,Australia,AU
+210953,Belgium,BE
+210953,"Democratic Republic of Congo",CD
+210953,Finland,FI
+210953,France,FR
+210953,Germany,DE
+210953,Greece,GR
+210953,Netherlands,NL
+210953,"New Zealand",NZ
+210953,Nigeria,NG
+210953,Norway,NO
+210953,Oman,OM
+210953,Poland,PL
+210953,Qatar,QA
+210953,Spain,ES
+210953,Sweden,SE
+210953,"United Arab Emirates",AE
+210953,"United States of America",US
+210968,China,CN
+210983,Italy,IT
+210983,"United Kingdom",GB
+210983,"United States of America",US
+211009,Hungary,HU
+211012,Australia,AU
+211012,Belgium,BE
+211012,Finland,FI
+211012,France,FR
+211012,Germany,DE
+211012,Greece,GR
+211012,Netherlands,NL
+211012,"New Zealand",NZ
+211012,Nigeria,NG
+211012,Norway,NO
+211012,Oman,OM
+211012,Poland,PL
+211012,Qatar,QA
+211012,Spain,ES
+211012,Sweden,SE
+211012,Turkmenistan,TM
+211012,"United Arab Emirates",AE
+211044,Philippines,PH
+211044,"United Kingdom",GB
+211063,France,FR
+211063,Hungary,HU
+211063,Italy,IT
+211063,Qatar,QA
+211063,"United Kingdom",GB
+211063,"United States of America",US
+211097,Algeria,DZ
+211097,Australia,AU
+211097,Brazil,BR
+211097,Chile,CL
+211097,Cyprus,CY
+211097,Egypt,EG
+211097,Finland,FI
+211097,India,IN
+211097,Indonesia,ID
+211097,Morocco,MA
+211097,Oman,OM
+211097,Portugal,PT
+211097,Qatar,QA
+211097,Singapore,SG
+211097,Sweden,SE
+211097,"United Arab Emirates",AE
+211097,"United Kingdom",GB
+211097,"United States of America",US
+211098,France,FR
+211098,Italy,IT
+211098,Qatar,QA
+211098,Thailand,TH
+211098,"United Kingdom",GB
+211099,Morocco,MA
+211099,"United States of America",US
+211102,Australia,AU
+211102,Belgium,BE
+211102,Finland,FI
+211102,France,FR
+211102,Germany,DE
+211102,Greece,GR
+211102,Netherlands,NL
+211102,"New Zealand",NZ
+211102,Nigeria,NG
+211102,Norway,NO
+211102,Oman,OM
+211102,Poland,PL
+211102,Qatar,QA
+211102,Spain,ES
+211102,Sweden,SE
+211102,Turkmenistan,TM
+211102,"United Arab Emirates",AE
+211113,Germany,DE
+211113,"South Korea",KR
+211113,"United Kingdom",GB
+211132,Algeria,DZ
+211132,Australia,AU
+211132,Belgium,BE
+211132,Brazil,BR
+211132,Chile,CL
+211132,Cyprus,CY
+211132,Denmark,DK
+211132,Egypt,EG
+211132,Finland,FI
+211132,Germany,DE
+211132,Greece,GR
+211132,India,IN
+211132,Indonesia,ID
+211132,Japan,JP
+211132,Morocco,MA
+211132,Netherlands,NL
+211132,"New Zealand",NZ
+211132,Norway,NO
+211132,Oman,OM
+211132,Portugal,PT
+211132,Qatar,QA
+211132,Singapore,SG
+211132,Sweden,SE
+211132,"United Arab Emirates",AE
+211132,"United Kingdom",GB
+211152,"South Korea",KR
+211152,"United Kingdom",GB
+211152,"United States of America",US
+211163,Pakistan,PK
+211164,Germany,DE
+211174,Algeria,DZ
+211174,Australia,AU
+211174,Belgium,BE
+211174,Brazil,BR
+211174,Chile,CL
+211174,Cyprus,CY
+211174,Denmark,DK
+211174,Egypt,EG
+211174,Finland,FI
+211174,Germany,DE
+211174,Greece,GR
+211174,India,IN
+211174,Indonesia,ID
+211174,Japan,JP
+211174,Morocco,MA
+211174,Netherlands,NL
+211174,"New Zealand",NZ
+211174,Norway,NO
+211174,Oman,OM
+211174,Portugal,PT
+211174,Qatar,QA
+211174,Singapore,SG
+211174,Sweden,SE
+211174,"United Arab Emirates",AE
+211174,"United Kingdom",GB
+211177,"United Kingdom",GB
+211186,"United Kingdom",GB
+211187,Brunei,BN
+211187,"United Arab Emirates",AE
+211195,Albania,AL
+211195,Australia,AU
+211195,Bahrain,BH
+211195,Belgium,BE
+211195,Brazil,BR
+211195,Canada,CA
+211195,Egypt,EG
+211195,Finland,FI
+211195,France,FR
+211195,Germany,DE
+211195,India,IN
+211195,Indonesia,ID
+211195,Jordan,JO
+211195,Kuwait,KW
+211195,Luxembourg,LU
+211195,Malaysia,MY
+211195,Netherlands,NL
+211195,Norway,NO
+211195,Oman,OM
+211195,Qatar,QA
+211195,"Saudi Arabia",SA
+211195,Singapore,SG
+211195,"South Africa",ZA
+211195,"South Korea",KR
+211195,Spain,ES
+211195,Taiwan,TW
+211195,Thailand,TH
+211195,Turkey,TR
+211195,Ukraine,UA
+211195,"United Kingdom",GB
+211241,Australia,AU
+211241,Belgium,BE
+211241,Chile,CL
+211241,Cyprus,CY
+211241,Denmark,DK
+211241,Egypt,EG
+211241,Finland,FI
+211241,Germany,DE
+211241,Greece,GR
+211241,India,IN
+211241,Indonesia,ID
+211241,Japan,JP
+211241,Netherlands,NL
+211241,"New Zealand",NZ
+211241,Norway,NO
+211241,Oman,OM
+211241,Portugal,PT
+211241,Qatar,QA
+211241,Sweden,SE
+211241,"United Arab Emirates",AE
+211241,"United Kingdom",GB
+211249,"United States of America",US
+211261,Australia,AU
+211261,Bahrain,BH
+211261,Belgium,BE
+211261,Brazil,BR
+211261,Canada,CA
+211261,Finland,FI
+211261,France,FR
+211261,Germany,DE
+211261,India,IN
+211261,Indonesia,ID
+211261,Jordan,JO
+211261,Kuwait,KW
+211261,Luxembourg,LU
+211261,Malaysia,MY
+211261,Netherlands,NL
+211261,Norway,NO
+211261,Oman,OM
+211261,Qatar,QA
+211261,"Saudi Arabia",SA
+211261,Singapore,SG
+211261,"South Africa",ZA
+211261,"South Korea",KR
+211261,Spain,ES
+211261,Taiwan,TW
+211261,Thailand,TH
+211261,Turkey,TR
+211261,"United Kingdom",GB
+211272,Hungary,HU
+211297,Australia,AU
+211297,Belgium,BE
+211297,Chile,CL
+211297,Croatia,HR
+211297,Cyprus,CY
+211297,Denmark,DK
+211297,Egypt,EG
+211297,Finland,FI
+211297,Germany,DE
+211297,Greece,GR
+211297,India,IN
+211297,Indonesia,ID
+211297,Japan,JP
+211297,Netherlands,NL
+211297,"New Zealand",NZ
+211297,Norway,NO
+211297,Oman,OM
+211297,Portugal,PT
+211297,Qatar,QA
+211297,Sweden,SE
+211297,"United Arab Emirates",AE
+211297,"United Kingdom",GB
+211314,Australia,AU
+211314,Belgium,BE
+211314,Finland,FI
+211314,France,FR
+211314,Germany,DE
+211314,Greece,GR
+211314,Netherlands,NL
+211314,"New Zealand",NZ
+211314,Nigeria,NG
+211314,Norway,NO
+211314,Oman,OM
+211314,Qatar,QA
+211314,Spain,ES
+211314,Sweden,SE
+211314,"United Arab Emirates",AE
+211360,Brunei,BN
+211360,"United Arab Emirates",AE
+211374,Pakistan,PK
+211379,Australia,AU
+211379,Bahrain,BH
+211379,Belgium,BE
+211379,Brazil,BR
+211379,Canada,CA
+211379,Finland,FI
+211379,France,FR
+211379,Germany,DE
+211379,India,IN
+211379,Indonesia,ID
+211379,Israel,IL
+211379,Jordan,JO
+211379,Kuwait,KW
+211379,Luxembourg,LU
+211379,Malaysia,MY
+211379,Netherlands,NL
+211379,Norway,NO
+211379,Oman,OM
+211379,Qatar,QA
+211379,"Saudi Arabia",SA
+211379,Singapore,SG
+211379,"South Africa",ZA
+211379,"South Korea",KR
+211379,Spain,ES
+211379,Taiwan,TW
+211379,Thailand,TH
+211379,Turkey,TR
+211379,"United Kingdom",GB
+211391,Guyana,GY
+211403,"United Arab Emirates",AE
+211429,Australia,AU
+211429,Canada,CA
+211429,Denmark,DK
+211429,Estonia,EE
+211429,Finland,FI
+211429,Hungary,HU
+211429,India,IN
+211429,Japan,JP
+211429,Latvia,LV
+211429,Lithuania,LT
+211429,Malaysia,MY
+211429,"New Zealand",NZ
+211429,Norway,NO
+211429,Poland,PL
+211429,"South Africa",ZA
+211429,"South Korea",KR
+211429,Tunisia,TN
+211429,"United Kingdom",GB
+211429,"United States of America",US
+211430,Botswana,BW
+211430,Brunei,BN
+211430,France,FR
+211430,Germany,DE
+211430,India,IN
+211430,Malaysia,MY
+211430,"South Africa",ZA
+211430,Spain,ES
+211430,"United Arab Emirates",AE
+211447,Australia,AU
+211455,Philippines,PH
+211473,Australia,AU
+211473,Canada,CA
+211473,Denmark,DK
+211473,Estonia,EE
+211473,India,IN
+211473,Japan,JP
+211473,Latvia,LV
+211473,Lithuania,LT
+211473,Malaysia,MY
+211473,"New Zealand",NZ
+211473,Norway,NO
+211473,Poland,PL
+211473,"South Africa",ZA
+211473,"South Korea",KR
+211473,Tunisia,TN
+211473,"United Kingdom",GB
+211473,"United States of America",US
+211476,Pakistan,PK
+211476,Ukraine,UA
+211485,Kuwait,KW
+211494,Australia,AU
+211494,Belgium,BE
+211494,Chile,CL
+211494,Croatia,HR
+211494,Cyprus,CY
+211494,Denmark,DK
+211494,Egypt,EG
+211494,Finland,FI
+211494,Germany,DE
+211494,Greece,GR
+211494,India,IN
+211494,Indonesia,ID
+211494,Japan,JP
+211494,Netherlands,NL
+211494,"New Zealand",NZ
+211494,Norway,NO
+211494,Oman,OM
+211494,Portugal,PT
+211494,Qatar,QA
+211494,Sweden,SE
+211494,"United Arab Emirates",AE
+211494,"United Kingdom",GB
+211497,Algeria,DZ
+211497,Hungary,HU
+211497,Philippines,PH
+211497,"United Kingdom",GB
+211518,Indonesia,ID
+211519,Brunei,BN
+211519,Vietnam,VN
+211533,Brunei,BN
+211537,Hungary,HU
+211537,Italy,IT
+211537,"Saudi Arabia",SA
+211537,Thailand,TH
+211537,"United Kingdom",GB
+211538,Egypt,EG
+211538,"United Arab Emirates",AE
+211545,"United States of America",US
+211558,Australia,AU
+211558,Brazil,BR
+211558,Canada,CA
+211558,Denmark,DK
+211558,Estonia,EE
+211558,India,IN
+211558,Japan,JP
+211558,Latvia,LV
+211558,Lithuania,LT
+211558,Malaysia,MY
+211558,"New Zealand",NZ
+211558,Norway,NO
+211558,"South Africa",ZA
+211558,"South Korea",KR
+211558,Tunisia,TN
+211558,"United Kingdom",GB
+211558,"United States of America",US
+211566,Egypt,EG
+211566,India,IN
+211566,Jordan,JO
+211566,Taiwan,TW
+211566,Thailand,TH
+211586,Hungary,HU
+211586,Thailand,TH
+211586,"United Kingdom",GB
+211613,Singapore,SG
+211631,Ukraine,UA
+211634,Greece,GR
+211634,"United Arab Emirates",AE
+211640,India,IN
+211640,Indonesia,ID
+211640,Jordan,JO
+211640,Taiwan,TW
+211640,Thailand,TH
+211647,Australia,AU
+211647,Belgium,BE
+211647,Brazil,BR
+211647,Chile,CL
+211647,Cyprus,CY
+211647,Denmark,DK
+211647,Egypt,EG
+211647,Finland,FI
+211647,Germany,DE
+211647,Greece,GR
+211647,Japan,JP
+211647,Netherlands,NL
+211647,"New Zealand",NZ
+211647,Norway,NO
+211647,Oman,OM
+211647,Portugal,PT
+211647,Qatar,QA
+211647,Sweden,SE
+211647,"United Arab Emirates",AE
+211647,"United Kingdom",GB
+211650,Singapore,SG
+211651,Germany,DE
+211651,Nigeria,NG
+211651,Qatar,QA
+211657,"United Kingdom",GB
+211663,Brunei,BN
+211669,Pakistan,PK
+211669,Philippines,PH
+211669,Ukraine,UA
+211681,Morocco,MA
+211691,Austria,AT
+211691,Belgium,BE
+211691,Bulgaria,BG
+211691,Croatia,HR
+211691,"Czech Republic",CZ
+211691,Denmark,DK
+211691,Estonia,EE
+211691,Finland,FI
+211691,France,FR
+211691,Germany,DE
+211691,Greece,GR
+211691,Hungary,HU
+211691,Latvia,LV
+211691,Lithuania,LT
+211691,Netherlands,NL
+211691,Nigeria,NG
+211691,"North Macedonia",MK
+211691,Norway,NO
+211691,Poland,PL
+211691,Portugal,PT
+211691,Qatar,QA
+211691,Romania,RO
+211691,Slovakia,SK
+211691,Slovenia,SI
+211691,Spain,ES
+211691,Sweden,SE
+211691,Switzerland,CH
+211692,Austria,AT
+211692,Belgium,BE
+211692,Bulgaria,BG
+211692,Croatia,HR
+211692,"Czech Republic",CZ
+211692,Denmark,DK
+211692,Estonia,EE
+211692,Finland,FI
+211692,France,FR
+211692,Germany,DE
+211692,Greece,GR
+211692,Hungary,HU
+211692,Latvia,LV
+211692,Lithuania,LT
+211692,Netherlands,NL
+211692,Nigeria,NG
+211692,"North Macedonia",MK
+211692,Norway,NO
+211692,Poland,PL
+211692,Portugal,PT
+211692,Qatar,QA
+211692,Romania,RO
+211692,Slovakia,SK
+211692,Slovenia,SI
+211692,Spain,ES
+211692,Sweden,SE
+211692,Switzerland,CH
+211704,Australia,AU
+211704,Philippines,PH
+211705,Rwanda,RW
+211737,Pakistan,PK
+211737,Philippines,PH
+211737,Ukraine,UA
+211739,Bahrain,BH
+211739,India,IN
+211739,Kuwait,KW
+211739,Oman,OM
+211739,Qatar,QA
+211739,"Saudi Arabia",SA
+211742,India,IN
+211742,Indonesia,ID
+211742,Romania,RO
+211742,Taiwan,TW
+211742,Thailand,TH
+211767,Angola,AO
+211767,Rwanda,RW
+211767,Serbia,RS
+211767,Thailand,TH
+211774,Belgium,BE
+211774,Cyprus,CY
+211774,Egypt,EG
+211774,Greece,GR
+211774,Qatar,QA
+211774,Sweden,SE
+211774,"United Arab Emirates",AE
+211774,"United Kingdom",GB
+211793,Australia,AU
+211793,Austria,AT
+211793,Belgium,BE
+211793,Finland,FI
+211793,France,FR
+211793,Germany,DE
+211793,Greece,GR
+211793,Netherlands,NL
+211793,"New Zealand",NZ
+211793,Norway,NO
+211793,Oman,OM
+211793,Qatar,QA
+211793,Spain,ES
+211793,Sweden,SE
+211831,India,IN
+211831,Indonesia,ID
+211831,Taiwan,TW
+211831,Thailand,TH
+211831,"United Arab Emirates",AE
+211838,Chile,CL
+211838,Cyprus,CY
+211838,Egypt,EG
+211838,Greece,GR
+211838,Qatar,QA
+211838,Sweden,SE
+211838,"United Arab Emirates",AE
+211838,"United Kingdom",GB
+211846,Ukraine,UA
+211851,Pakistan,PK
+211851,Philippines,PH
+211851,Ukraine,UA
+211865,Cyprus,CY
+211865,Egypt,EG
+211865,Greece,GR
+211865,Qatar,QA
+211865,Sweden,SE
+211865,"United Arab Emirates",AE
+211865,"United Kingdom",GB
+211868,Australia,AU
+211868,Austria,AT
+211868,Belgium,BE
+211868,Finland,FI
+211868,France,FR
+211868,Germany,DE
+211868,Greece,GR
+211868,Netherlands,NL
+211868,"New Zealand",NZ
+211868,Norway,NO
+211868,Oman,OM
+211868,Qatar,QA
+211868,Spain,ES
+211868,Sweden,SE
+211868,Turkmenistan,TM
+211891,Bulgaria,BG
+211891,France,FR
+211891,Hungary,HU
+211891,Italy,IT
+211891,"Saudi Arabia",SA
+211891,Thailand,TH
+211891,"United Kingdom",GB
+211900,Australia,AU
+211900,Austria,AT
+211900,Belgium,BE
+211900,Finland,FI
+211900,France,FR
+211900,Germany,DE
+211900,Greece,GR
+211900,Netherlands,NL
+211900,"New Zealand",NZ
+211900,Norway,NO
+211900,Oman,OM
+211900,Qatar,QA
+211900,Spain,ES
+211900,Sweden,SE
+211918,Australia,AU
+211918,Brazil,BR
+211918,Canada,CA
+211918,Denmark,DK
+211918,Estonia,EE
+211918,India,IN
+211918,Japan,JP
+211918,Latvia,LV
+211918,Lithuania,LT
+211918,Malaysia,MY
+211918,"New Zealand",NZ
+211918,Norway,NO
+211918,"South Africa",ZA
+211918,"South Korea",KR
+211918,Thailand,TH
+211918,Tunisia,TN
+211918,"United Kingdom",GB
+211918,"United States of America",US
+211944,Algeria,DZ
+211944,Australia,AU
+211944,Austria,AT
+211944,Belgium,BE
+211944,Cyprus,CY
+211944,Denmark,DK
+211944,Egypt,EG
+211944,Estonia,EE
+211944,Finland,FI
+211944,Germany,DE
+211944,Greece,GR
+211944,India,IN
+211944,Indonesia,ID
+211944,Italy,IT
+211944,Japan,JP
+211944,Morocco,MA
+211944,Netherlands,NL
+211944,"New Zealand",NZ
+211944,Norway,NO
+211944,Oman,OM
+211944,Portugal,PT
+211944,Qatar,QA
+211944,"Saudi Arabia",SA
+211944,Singapore,SG
+211944,Sweden,SE
+211944,"United Arab Emirates",AE
+211944,"United Kingdom",GB
+211948,Hungary,HU
+211948,Italy,IT
+211948,Qatar,QA
+211948,"Saudi Arabia",SA
+211948,Singapore,SG
+211948,Thailand,TH
+211948,Ukraine,UA
+211948,"United Kingdom",GB
+211960,Australia,AU
+211960,Austria,AT
+211960,Belgium,BE
+211960,Finland,FI
+211960,France,FR
+211960,Germany,DE
+211960,Greece,GR
+211960,Kuwait,KW
+211960,Netherlands,NL
+211960,"New Zealand",NZ
+211960,Norway,NO
+211960,Oman,OM
+211960,Qatar,QA
+211960,"Saudi Arabia",SA
+211960,Spain,ES
+211960,Sweden,SE
+211960,Taiwan,TW
+211960,"United Kingdom",GB
+212002,Belgium,BE
+212002,France,FR
+212002,Germany,DE
+212002,Kazakhstan,KZ
+212002,Pakistan,PK
+212002,Philippines,PH
+212002,Spain,ES
+212002,"United Kingdom",GB
+212056,Egypt,EG
+212056,Hungary,HU
+212056,Italy,IT
+212056,Qatar,QA
+212056,"Saudi Arabia",SA
+212056,Singapore,SG
+212056,Thailand,TH
+212056,Ukraine,UA
+212056,"United Kingdom",GB
+212068,Australia,AU
+212068,Austria,AT
+212068,Belgium,BE
+212068,Finland,FI
+212068,France,FR
+212068,Germany,DE
+212068,Greece,GR
+212068,Kuwait,KW
+212068,Netherlands,NL
+212068,"New Zealand",NZ
+212068,Norway,NO
+212068,Oman,OM
+212068,Qatar,QA
+212068,"Saudi Arabia",SA
+212068,Spain,ES
+212068,Sweden,SE
+212068,"United Kingdom",GB
+212084,Ukraine,UA
+212084,"United Kingdom",GB
+212104,Poland,PL
+212108,Austria,AT
+212108,Botswana,BW
+212108,Brunei,BN
+212108,Chile,CL
+212108,France,FR
+212108,Germany,DE
+212108,India,IN
+212108,Malaysia,MY
+212108,Mexico,MX
+212108,Netherlands,NL
+212108,"South Africa",ZA
+212108,"United Arab Emirates",AE
+212108,"United States of America",US
+212108,Uruguay,UY
+212115,Nigeria,NG
+212115,Pakistan,PK
+212115,Philippines,PH
+212130,Australia,AU
+212130,Bahrain,BH
+212130,Belgium,BE
+212130,Brazil,BR
+212130,Canada,CA
+212130,Finland,FI
+212130,France,FR
+212130,Germany,DE
+212130,India,IN
+212130,Indonesia,ID
+212130,Kuwait,KW
+212130,Luxembourg,LU
+212130,Malaysia,MY
+212130,Mexico,MX
+212130,Netherlands,NL
+212130,Norway,NO
+212130,Oman,OM
+212130,Qatar,QA
+212130,"Saudi Arabia",SA
+212130,Singapore,SG
+212130,"South Africa",ZA
+212130,"South Korea",KR
+212130,Spain,ES
+212130,Taiwan,TW
+212130,Thailand,TH
+212130,Turkey,TR
+212130,"United Arab Emirates",AE
+212130,"United Kingdom",GB
+212131,Australia,AU
+212131,Bahrain,BH
+212131,Belgium,BE
+212131,Brazil,BR
+212131,Canada,CA
+212131,Finland,FI
+212131,France,FR
+212131,Germany,DE
+212131,India,IN
+212131,Indonesia,ID
+212131,Kuwait,KW
+212131,Luxembourg,LU
+212131,Malaysia,MY
+212131,Mexico,MX
+212131,Netherlands,NL
+212131,Norway,NO
+212131,Oman,OM
+212131,Qatar,QA
+212131,"Saudi Arabia",SA
+212131,Singapore,SG
+212131,"South Africa",ZA
+212131,"South Korea",KR
+212131,Spain,ES
+212131,Taiwan,TW
+212131,Thailand,TH
+212131,Turkey,TR
+212131,"United Arab Emirates",AE
+212131,"United Kingdom",GB
+212137,Australia,AU
+212137,Belgium,BE
+212137,Denmark,DK
+212137,Finland,FI
+212137,Germany,DE
+212137,Greece,GR
+212137,India,IN
+212137,Indonesia,ID
+212137,Italy,IT
+212137,Japan,JP
+212137,Netherlands,NL
+212137,"New Zealand",NZ
+212137,Norway,NO
+212137,Oman,OM
+212137,Portugal,PT
+212137,Qatar,QA
+212137,"Saudi Arabia",SA
+212137,Singapore,SG
+212137,Sweden,SE
+212137,"United Arab Emirates",AE
+212137,"United Kingdom",GB
+212141,Australia,AU
+212141,Belgium,BE
+212141,Finland,FI
+212141,France,FR
+212141,Germany,DE
+212141,Greece,GR
+212141,Kuwait,KW
+212141,Netherlands,NL
+212141,"New Zealand",NZ
+212141,Norway,NO
+212141,Oman,OM
+212141,Qatar,QA
+212141,"Saudi Arabia",SA
+212141,Spain,ES
+212141,Sweden,SE
+212150,Brazil,BR
+212150,Canada,CA
+212150,"South Korea",KR
+212150,Thailand,TH
+212150,"United Kingdom",GB
+212150,"United States of America",US
+212158,Nigeria,NG
+212158,Pakistan,PK
+212158,Philippines,PH
+212165,Brazil,BR
+212165,Colombia,CO
+212165,Ghana,GH
+212165,India,IN
+212165,Malaysia,MY
+212165,Netherlands,NL
+212165,"Saudi Arabia",SA
+212165,Taiwan,TW
+212165,Thailand,TH
+212165,"United Arab Emirates",AE
+212165,"United Kingdom",GB
+212167,India,IN
+212176,Ukraine,UA
+212176,"United Kingdom",GB
+212176,"United States of America",US
+212188,Brazil,BR
+212188,Canada,CA
+212188,"South Korea",KR
+212188,Thailand,TH
+212188,"United Kingdom",GB
+212188,"United States of America",US
+212239,Malaysia,MY
+212239,Poland,PL
+212241,Pakistan,PK
+212242,Brazil,BR
+212242,Canada,CA
+212242,"South Korea",KR
+212242,"United Kingdom",GB
+212242,"United States of America",US
+212259,Brazil,BR
+212259,India,IN
+212259,Malaysia,MY
+212259,Netherlands,NL
+212259,"Saudi Arabia",SA
+212259,Taiwan,TW
+212259,Thailand,TH
+212259,"United Arab Emirates",AE
+212259,"United Kingdom",GB
+212268,Ukraine,UA
+212270,Egypt,EG
+212270,Estonia,EE
+212270,Italy,IT
+212270,Latvia,LV
+212270,Qatar,QA
+212270,"Saudi Arabia",SA
+212270,Slovakia,SK
+212270,Slovenia,SI
+212270,Ukraine,UA
+212270,"United Kingdom",GB
+212274,Australia,AU
+212274,Belgium,BE
+212274,Finland,FI
+212274,France,FR
+212274,Germany,DE
+212274,Greece,GR
+212274,Kuwait,KW
+212274,Netherlands,NL
+212274,"New Zealand",NZ
+212274,Norway,NO
+212274,Oman,OM
+212274,Qatar,QA
+212274,"Saudi Arabia",SA
+212274,Spain,ES
+212274,Sweden,SE
+212277,Finland,FI
+212286,Pakistan,PK
+212289,Nigeria,NG
+212289,Pakistan,PK
+212289,Philippines,PH
+212292,Australia,AU
+212292,India,IN
+212292,Malaysia,MY
+212292,Morocco,MA
+212292,Netherlands,NL
+212292,"Saudi Arabia",SA
+212292,"United Arab Emirates",AE
+212292,"United Kingdom",GB
+212294,India,IN
+212294,Italy,IT
+212303,Egypt,EG
+212303,Estonia,EE
+212303,Hungary,HU
+212303,Italy,IT
+212303,Latvia,LV
+212303,Qatar,QA
+212303,"Saudi Arabia",SA
+212303,Singapore,SG
+212303,Slovakia,SK
+212303,Slovenia,SI
+212303,Ukraine,UA
+212303,"United Kingdom",GB
+212312,Ukraine,UA
+212312,"United Kingdom",GB
+212312,"United States of America",US
+212324,Malaysia,MY
+212324,Philippines,PH
+212324,Poland,PL
+212341,Australia,AU
+212341,India,IN
+212341,Malaysia,MY
+212341,Netherlands,NL
+212341,"Saudi Arabia",SA
+212341,Taiwan,TW
+212341,Thailand,TH
+212341,"United Arab Emirates",AE
+212341,"United Kingdom",GB
+212357,Australia,AU
+212357,Germany,DE
+212357,Netherlands,NL
+212357,Ukraine,UA
+212357,"United Kingdom",GB
+212357,"United States of America",US
+212362,Malaysia,MY
+212362,Poland,PL
+212366,Nigeria,NG
+212366,Pakistan,PK
+212366,Philippines,PH
+212372,Australia,AU
+212372,India,IN
+212372,Malaysia,MY
+212372,Netherlands,NL
+212372,"Saudi Arabia",SA
+212372,"United Arab Emirates",AE
+212372,"United Kingdom",GB
+212377,Kosovo,RS
+212380,Australia,AU
+212380,Belgium,BE
+212380,Denmark,DK
+212380,Finland,FI
+212380,Germany,DE
+212380,Greece,GR
+212380,India,IN
+212380,Indonesia,ID
+212380,Italy,IT
+212380,Japan,JP
+212380,Netherlands,NL
+212380,"New Zealand",NZ
+212380,Norway,NO
+212380,Oman,OM
+212380,Portugal,PT
+212380,Qatar,QA
+212380,"Saudi Arabia",SA
+212380,Singapore,SG
+212380,Sweden,SE
+212380,"United Arab Emirates",AE
+212380,"United Kingdom",GB
+212381,Egypt,EG
+212381,Estonia,EE
+212381,Hungary,HU
+212381,Italy,IT
+212381,Latvia,LV
+212381,Qatar,QA
+212381,"Saudi Arabia",SA
+212381,Singapore,SG
+212381,Slovakia,SK
+212381,Slovenia,SI
+212381,Ukraine,UA
+212381,"United Kingdom",GB
+212384,Australia,AU
+212384,Belgium,BE
+212384,Finland,FI
+212384,France,FR
+212384,Germany,DE
+212384,Greece,GR
+212384,Netherlands,NL
+212384,"New Zealand",NZ
+212384,Norway,NO
+212384,Oman,OM
+212384,Qatar,QA
+212384,"Saudi Arabia",SA
+212384,Spain,ES
+212384,Sweden,SE
+212392,Australia,AU
+212392,France,FR
+212392,Germany,DE
+212392,Netherlands,NL
+212392,Ukraine,UA
+212392,"United Kingdom",GB
+212392,"United States of America",US
+212401,Angola,AO
+212401,Vietnam,VN
+212402,Australia,AU
+212402,Canada,CA
+212402,Denmark,DK
+212402,Estonia,EE
+212402,Finland,FI
+212402,Hungary,HU
+212402,India,IN
+212402,Japan,JP
+212402,Latvia,LV
+212402,Lithuania,LT
+212402,Malaysia,MY
+212402,"New Zealand",NZ
+212402,Norway,NO
+212402,Poland,PL
+212402,"South Africa",ZA
+212402,"South Korea",KR
+212402,Tunisia,TN
+212402,"United Kingdom",GB
+212402,"United States of America",US
+212413,"South Korea",KR
+212416,Hungary,HU
+212416,Netherlands,NL
+212416,Portugal,PT
+212424,Romania,RO
+212427,Australia,AU
+212427,Belgium,BE
+212427,Denmark,DK
+212427,Finland,FI
+212427,Germany,DE
+212427,Greece,GR
+212427,India,IN
+212427,Indonesia,ID
+212427,Italy,IT
+212427,Japan,JP
+212427,Netherlands,NL
+212427,"New Zealand",NZ
+212427,Norway,NO
+212427,Oman,OM
+212427,Portugal,PT
+212427,Qatar,QA
+212427,"Saudi Arabia",SA
+212427,Singapore,SG
+212427,Sweden,SE
+212427,Taiwan,TW
+212427,"United Arab Emirates",AE
+212427,"United Kingdom",GB
+212430,Egypt,EG
+212430,Hungary,HU
+212430,Italy,IT
+212430,Qatar,QA
+212430,"Saudi Arabia",SA
+212430,Singapore,SG
+212430,Sweden,SE
+212430,Ukraine,UA
+212430,"United Kingdom",GB
+212443,Australia,AU
+212443,Germany,DE
+212443,Netherlands,NL
+212443,Ukraine,UA
+212443,"United Kingdom",GB
+212443,"United States of America",US
+212454,Indonesia,ID
+212454,Malaysia,MY
+212454,Poland,PL
+212476,Australia,AU
+212476,Germany,DE
+212476,Netherlands,NL
+212476,Poland,PL
+212476,Ukraine,UA
+212476,"United Kingdom",GB
+212476,"United States of America",US
+212500,Sweden,SE
+212508,Australia,AU
+212508,Austria,AT
+212508,Belgium,BE
+212508,Cyprus,CY
+212508,Denmark,DK
+212508,Estonia,EE
+212508,Finland,FI
+212508,Germany,DE
+212508,Greece,GR
+212508,Italy,IT
+212508,Japan,JP
+212508,Morocco,MA
+212508,Netherlands,NL
+212508,"New Zealand",NZ
+212508,Norway,NO
+212508,Oman,OM
+212508,Portugal,PT
+212508,Qatar,QA
+212508,"Saudi Arabia",SA
+212508,Singapore,SG
+212508,Sweden,SE
+212508,"United Arab Emirates",AE
+212508,"United Kingdom",GB
+212509,Brazil,BR
+212509,"Czech Republic",CZ
+212509,Egypt,EG
+212509,Hungary,HU
+212509,Italy,IT
+212509,Japan,JP
+212509,Qatar,QA
+212509,"Saudi Arabia",SA
+212509,Singapore,SG
+212509,"South Africa",ZA
+212509,Sweden,SE
+212509,Thailand,TH
+212509,Ukraine,UA
+212509,"United Kingdom",GB
+212521,Australia,AU
+212521,Canada,CA
+212521,Denmark,DK
+212521,Estonia,EE
+212521,India,IN
+212521,Japan,JP
+212521,Latvia,LV
+212521,Lithuania,LT
+212521,Malaysia,MY
+212521,"New Zealand",NZ
+212521,Norway,NO
+212521,"South Africa",ZA
+212521,"South Korea",KR
+212521,Tunisia,TN
+212521,"United Kingdom",GB
+212521,"United States of America",US
+212536,India,IN
+212548,Australia,AU
+212548,Austria,AT
+212548,Belgium,BE
+212548,Cyprus,CY
+212548,Denmark,DK
+212548,Estonia,EE
+212548,Finland,FI
+212548,Germany,DE
+212548,Greece,GR
+212548,Italy,IT
+212548,Japan,JP
+212548,Luxembourg,LU
+212548,Morocco,MA
+212548,Netherlands,NL
+212548,"New Zealand",NZ
+212548,Norway,NO
+212548,Oman,OM
+212548,Portugal,PT
+212548,Qatar,QA
+212548,"Saudi Arabia",SA
+212548,Singapore,SG
+212548,Sweden,SE
+212548,"United Arab Emirates",AE
+212548,"United Kingdom",GB
+212585,Australia,AU
+212585,Canada,CA
+212585,Denmark,DK
+212585,Estonia,EE
+212585,France,FR
+212585,India,IN
+212585,Japan,JP
+212585,Latvia,LV
+212585,Lithuania,LT
+212585,Malaysia,MY
+212585,"New Zealand",NZ
+212585,Norway,NO
+212585,"South Africa",ZA
+212585,Tunisia,TN
+212585,"United Kingdom",GB
+212585,"United States of America",US
+212594,Australia,AU
+212594,India,IN
+212594,Malaysia,MY
+212594,"Saudi Arabia",SA
+212602,Australia,AU
+212602,Austria,AT
+212602,Belgium,BE
+212602,Cyprus,CY
+212602,Denmark,DK
+212602,Estonia,EE
+212602,Finland,FI
+212602,Germany,DE
+212602,Greece,GR
+212602,Italy,IT
+212602,Japan,JP
+212602,Morocco,MA
+212602,Netherlands,NL
+212602,"New Zealand",NZ
+212602,Norway,NO
+212602,Oman,OM
+212602,Portugal,PT
+212602,Qatar,QA
+212602,"Saudi Arabia",SA
+212602,Singapore,SG
+212602,Sweden,SE
+212602,"United Arab Emirates",AE
+212602,"United Kingdom",GB
+212604,Brazil,BR
+212604,Egypt,EG
+212604,Hungary,HU
+212604,Qatar,QA
+212604,Singapore,SG
+212604,"South Africa",ZA
+212604,Sweden,SE
+212604,Thailand,TH
+212604,Ukraine,UA
+212604,"United Kingdom",GB
+212628,Belgium,BE
+212628,France,FR
+212628,Germany,DE
+212628,Luxembourg,LU
+212628,Malaysia,MY
+212628,Turkey,TR
+212628,"United Kingdom",GB
+212632,Botswana,BW
+212632,Germany,DE
+212632,Mexico,MX
+212677,Angola,AO
+212677,Australia,AU
+212677,Belgium,BE
+212677,Finland,FI
+212677,France,FR
+212677,Germany,DE
+212677,Greece,GR
+212677,Netherlands,NL
+212677,"New Zealand",NZ
+212677,Norway,NO
+212677,Oman,OM
+212677,Qatar,QA
+212677,"Saudi Arabia",SA
+212677,Spain,ES
+212677,Sweden,SE
+212693,Australia,AU
+212693,Germany,DE
+212693,Netherlands,NL
+212693,Poland,PL
+212693,Ukraine,UA
+212693,"United Kingdom",GB
+212693,"United States of America",US
+212763,"Ivory Coast",CI
+212763,Nigeria,NG
+212763,Pakistan,PK
+212763,Philippines,PH
+212763,Rwanda,RW
+212772,Canada,CA
+212772,"United States of America",US
+212774,"United Kingdom",GB
+212774,"United States of America",US
+212802,Indonesia,ID
+212802,Malaysia,MY
+212802,Poland,PL
+212802,Thailand,TH
+212804,Vietnam,VN
+212808,Nigeria,NG
+212808,Pakistan,PK
+212808,Philippines,PH
+212825,Austria,AT
+212825,Brazil,BR
+212825,Brunei,BN
+212825,Egypt,EG
+212825,Hungary,HU
+212825,Italy,IT
+212825,Kuwait,KW
+212825,Oman,OM
+212825,Qatar,QA
+212825,"Saudi Arabia",SA
+212825,Singapore,SG
+212825,"South Africa",ZA
+212825,Spain,ES
+212825,Sweden,SE
+212825,Thailand,TH
+212825,Ukraine,UA
+212825,"United Arab Emirates",AE
+212825,"United Kingdom",GB
+212837,Bulgaria,BG
+212846,Australia,AU
+212846,Malaysia,MY
+212846,Nigeria,NG
+212846,"Saudi Arabia",SA
+212850,Australia,AU
+212850,Hungary,HU
+212858,Austria,AT
+212858,Belgium,BE
+212858,Cyprus,CY
+212858,Estonia,EE
+212858,Greece,GR
+212858,Italy,IT
+212858,Morocco,MA
+212858,Qatar,QA
+212858,"Saudi Arabia",SA
+212858,Sweden,SE
+212858,Ukraine,UA
+212858,"United Arab Emirates",AE
+212858,"United Kingdom",GB
+212868,Australia,AU
+212868,Belgium,BE
+212868,Finland,FI
+212868,France,FR
+212868,Germany,DE
+212868,Greece,GR
+212868,Netherlands,NL
+212868,"New Zealand",NZ
+212868,Norway,NO
+212868,Oman,OM
+212868,Pakistan,PK
+212868,Qatar,QA
+212868,"Saudi Arabia",SA
+212868,Spain,ES
+212868,Sweden,SE
+212871,Australia,AU
+212871,Germany,DE
+212871,Netherlands,NL
+212871,Poland,PL
+212871,Ukraine,UA
+212871,"United Kingdom",GB
+212871,"United States of America",US
+212882,India,IN
+212885,Indonesia,ID
+212885,Malaysia,MY
+212885,Poland,PL
+212885,Senegal,SN
+212898,"Saudi Arabia",SA
+212907,Hungary,HU
+212907,Netherlands,NL
+212907,Portugal,PT
+212909,"Saudi Arabia",SA
+212909,"United States of America",US
+212922,Egypt,EG
+212922,Hungary,HU
+212922,Qatar,QA
+212922,"Saudi Arabia",SA
+212922,Singapore,SG
+212922,Spain,ES
+212922,Ukraine,UA
+212927,Australia,AU
+212927,Belgium,BE
+212927,Finland,FI
+212927,France,FR
+212927,Germany,DE
+212927,Greece,GR
+212927,Netherlands,NL
+212927,"New Zealand",NZ
+212927,Norway,NO
+212927,Oman,OM
+212927,Pakistan,PK
+212927,Qatar,QA
+212927,"Saudi Arabia",SA
+212927,Spain,ES
+212927,Sweden,SE
+212935,Australia,AU
+212935,Germany,DE
+212935,Netherlands,NL
+212935,Poland,PL
+212935,Romania,RO
+212935,Ukraine,UA
+212935,"United Kingdom",GB
+212935,"United States of America",US
+212939,"United Kingdom",GB
+212946,Australia,AU
+212946,Canada,CA
+212946,Denmark,DK
+212946,Estonia,EE
+212946,India,IN
+212946,Japan,JP
+212946,Latvia,LV
+212946,Lithuania,LT
+212946,Malaysia,MY
+212946,"New Zealand",NZ
+212946,Norway,NO
+212946,"South Africa",ZA
+212946,Tunisia,TN
+212946,"United Kingdom",GB
+212946,"United States of America",US
+212957,"Saudi Arabia",SA
+212978,Austria,AT
+212978,Cyprus,CY
+212978,Estonia,EE
+212978,Greece,GR
+212978,India,IN
+212978,Indonesia,ID
+212978,Morocco,MA
+212978,Qatar,QA
+212978,"Saudi Arabia",SA
+212978,Sweden,SE
+212978,"United Arab Emirates",AE
+212978,"United Kingdom",GB
+212988,Australia,AU
+212988,Belgium,BE
+212988,Finland,FI
+212988,France,FR
+212988,Germany,DE
+212988,Greece,GR
+212988,Netherlands,NL
+212988,"New Zealand",NZ
+212988,Norway,NO
+212988,Oman,OM
+212988,Pakistan,PK
+212988,Qatar,QA
+212988,Spain,ES
+212988,Sweden,SE
+212994,Australia,AU
+212994,Germany,DE
+212994,Netherlands,NL
+212994,Romania,RO
+212994,Ukraine,UA
+212994,"United Kingdom",GB
+212994,"United States of America",US
+213005,Ecuador,EC
+213010,Nigeria,NG
+213010,Pakistan,PK
+213010,Philippines,PH
+213026,Australia,AU
+213026,Austria,AT
+213026,Belgium,BE
+213026,Cyprus,CY
+213026,Denmark,DK
+213026,Estonia,EE
+213026,Finland,FI
+213026,Germany,DE
+213026,Greece,GR
+213026,India,IN
+213026,Indonesia,ID
+213026,Japan,JP
+213026,Morocco,MA
+213026,Netherlands,NL
+213026,"New Zealand",NZ
+213026,Norway,NO
+213026,Oman,OM
+213026,Portugal,PT
+213026,Qatar,QA
+213026,"Saudi Arabia",SA
+213026,Sweden,SE
+213026,"United Arab Emirates",AE
+213026,"United Kingdom",GB
+213028,Germany,DE
+213065,"Saudi Arabia",SA
+213065,"United States of America",US
+213070,Australia,AU
+213070,Austria,AT
+213070,Belgium,BE
+213070,Cyprus,CY
+213070,Denmark,DK
+213070,Estonia,EE
+213070,Finland,FI
+213070,Germany,DE
+213070,Greece,GR
+213070,India,IN
+213070,Indonesia,ID
+213070,Japan,JP
+213070,Kuwait,KW
+213070,Morocco,MA
+213070,Netherlands,NL
+213070,"New Zealand",NZ
+213070,Norway,NO
+213070,Oman,OM
+213070,Portugal,PT
+213070,Qatar,QA
+213070,"Saudi Arabia",SA
+213070,Serbia,RS
+213070,Sweden,SE
+213070,"United Arab Emirates",AE
+213070,"United Kingdom",GB
+213082,Australia,AU
+213082,Belgium,BE
+213082,Finland,FI
+213082,France,FR
+213082,Germany,DE
+213082,Greece,GR
+213082,Netherlands,NL
+213082,"New Zealand",NZ
+213082,Norway,NO
+213082,Oman,OM
+213082,Pakistan,PK
+213082,Qatar,QA
+213082,Spain,ES
+213082,Sweden,SE
+213085,Australia,AU
+213092,Australia,AU
+213092,Germany,DE
+213092,Netherlands,NL
+213092,Romania,RO
+213092,Ukraine,UA
+213092,"United Kingdom",GB
+213092,"United States of America",US
+213096,"United Kingdom",GB
+213110,Germany,DE
+213110,Ireland,IE
+213110,Mexico,MX
+213122,Australia,AU
+213122,"Saudi Arabia",SA
+213135,Armenia,AM
+213137,Egypt,EG
+213137,Qatar,QA
+213137,Singapore,SG
+213137,Somalia,SO
+213137,Spain,ES
+213137,Ukraine,UA
+213160,"Saudi Arabia",SA
+213186,Australia,AU
+213186,Belgium,BE
+213186,Denmark,DK
+213186,Finland,FI
+213186,Germany,DE
+213186,Greece,GR
+213186,India,IN
+213186,Indonesia,ID
+213186,Japan,JP
+213186,Kuwait,KW
+213186,Netherlands,NL
+213186,"New Zealand",NZ
+213186,Norway,NO
+213186,Oman,OM
+213186,Portugal,PT
+213186,Qatar,QA
+213186,"Saudi Arabia",SA
+213186,Senegal,SN
+213186,Serbia,RS
+213186,Sweden,SE
+213186,"United Arab Emirates",AE
+213186,"United Kingdom",GB
+213221,Indonesia,ID
+213231,Bulgaria,BG
+213231,Croatia,HR
+213231,Germany,DE
+213231,Ireland,IE
+213231,Mexico,MX
+213231,Oman,OM
+213231,Slovenia,SI
+213231,Thailand,TH
+213237,Nigeria,NG
+213237,Pakistan,PK
+213237,Philippines,PH
+213237,"United States of America",US
+213258,Egypt,EG
+213258,Qatar,QA
+213258,Somalia,SO
+213258,Spain,ES
+213258,Ukraine,UA
+213267,Australia,AU
+213267,Germany,DE
+213267,Netherlands,NL
+213267,Romania,RO
+213267,Ukraine,UA
+213267,"United Kingdom",GB
+213267,"United States of America",US
+213270,Poland,PL
+213303,Egypt,EG
+213303,Qatar,QA
+213303,Somalia,SO
+213303,Spain,ES
+213303,Ukraine,UA
+213337,Australia,AU
+213337,"Saudi Arabia",SA
+213380,Egypt,EG
+213380,Qatar,QA
+213380,Singapore,SG
+213380,Somalia,SO
+213380,Spain,ES
+213380,Ukraine,UA
+213412,Australia,AU
+213412,Germany,DE
+213412,Netherlands,NL
+213412,Romania,RO
+213412,Ukraine,UA
+213412,"United Kingdom",GB
+213412,"United States of America",US
+213471,Australia,AU
+213471,Bangladesh,BD
+213471,Belgium,BE
+213471,Finland,FI
+213471,France,FR
+213471,Germany,DE
+213471,Greece,GR
+213471,Netherlands,NL
+213471,"New Zealand",NZ
+213471,Norway,NO
+213471,Oman,OM
+213471,Pakistan,PK
+213471,Qatar,QA
+213471,Spain,ES
+213471,Sweden,SE
+213487,Australia,AU
+213487,Canada,CA
+213487,Denmark,DK
+213487,Estonia,EE
+213487,Finland,FI
+213487,Hungary,HU
+213487,India,IN
+213487,Japan,JP
+213487,Latvia,LV
+213487,Lithuania,LT
+213487,Malaysia,MY
+213487,"New Zealand",NZ
+213487,Norway,NO
+213487,Poland,PL
+213487,"South Africa",ZA
+213487,Tunisia,TN
+213487,"United Kingdom",GB
+213487,"United States of America",US
+213493,Nigeria,NG
+213493,Pakistan,PK
+213493,Philippines,PH
+213493,"United States of America",US
+213516,Ecuador,EC
+213516,India,IN
+213529,Australia,AU
+213529,Austria,AT
+213529,Belgium,BE
+213529,Croatia,HR
+213529,Cyprus,CY
+213529,Denmark,DK
+213529,Estonia,EE
+213529,Finland,FI
+213529,Germany,DE
+213529,Greece,GR
+213529,India,IN
+213529,Indonesia,ID
+213529,Japan,JP
+213529,Kuwait,KW
+213529,Morocco,MA
+213529,Netherlands,NL
+213529,"New Zealand",NZ
+213529,"North Macedonia",MK
+213529,Norway,NO
+213529,Oman,OM
+213529,Portugal,PT
+213529,Qatar,QA
+213529,"Saudi Arabia",SA
+213529,Senegal,SN
+213529,Serbia,RS
+213529,Sweden,SE
+213529,"United Arab Emirates",AE
+213529,"United Kingdom",GB
+213539,Austria,AT
+213553,Australia,AU
+213553,Canada,CA
+213553,Denmark,DK
+213553,Estonia,EE
+213553,Finland,FI
+213553,Hungary,HU
+213553,India,IN
+213553,Japan,JP
+213553,Latvia,LV
+213553,Lithuania,LT
+213553,Malaysia,MY
+213553,"New Zealand",NZ
+213553,Norway,NO
+213553,Poland,PL
+213553,"South Africa",ZA
+213553,Tunisia,TN
+213553,"United Kingdom",GB
+213553,"United States of America",US
+213584,Egypt,EG
+213584,Qatar,QA
+213584,Singapore,SG
+213584,Somalia,SO
+213584,Spain,ES
+213584,Ukraine,UA
+213592,Australia,AU
+213592,Bangladesh,BD
+213592,Belgium,BE
+213592,Egypt,EG
+213592,Finland,FI
+213592,France,FR
+213592,Germany,DE
+213592,Greece,GR
+213592,Netherlands,NL
+213592,"New Zealand",NZ
+213592,Norway,NO
+213592,Oman,OM
+213592,Pakistan,PK
+213592,Qatar,QA
+213592,Spain,ES
+213592,Sweden,SE
+213600,Austria,AT
+213600,Germany,DE
+213611,Poland,PL
+213614,Australia,AU
+213614,Canada,CA
+213614,Denmark,DK
+213614,Estonia,EE
+213614,Finland,FI
+213614,Hungary,HU
+213614,India,IN
+213614,Japan,JP
+213614,Latvia,LV
+213614,Lithuania,LT
+213614,Malaysia,MY
+213614,"New Zealand",NZ
+213614,Norway,NO
+213614,Poland,PL
+213614,"South Africa",ZA
+213614,Tunisia,TN
+213614,"United Kingdom",GB
+213614,"United States of America",US
+213616,Bulgaria,BG
+213616,Croatia,HR
+213616,Germany,DE
+213616,Ireland,IE
+213616,Mexico,MX
+213616,Oman,OM
+213616,Slovenia,SI
+213616,Thailand,TH
+213626,Hungary,HU
+213626,Netherlands,NL
+213626,Portugal,PT
+213644,"United Kingdom",GB
+213644,"United States of America",US
+213650,Nigeria,NG
+213650,Pakistan,PK
+213650,Philippines,PH
+213650,"United States of America",US
+213656,"United Kingdom",GB
+213674,"Saudi Arabia",SA
+213694,Australia,AU
+213694,Germany,DE
+213694,Malaysia,MY
+213694,Netherlands,NL
+213694,Romania,RO
+213694,Ukraine,UA
+213694,"United Kingdom",GB
+213694,"United States of America",US
+213713,"United Kingdom",GB
+213721,Australia,AU
+213721,Austria,AT
+213721,Belgium,BE
+213721,Croatia,HR
+213721,Cyprus,CY
+213721,Denmark,DK
+213721,Estonia,EE
+213721,Finland,FI
+213721,Germany,DE
+213721,Greece,GR
+213721,India,IN
+213721,Indonesia,ID
+213721,Japan,JP
+213721,Kuwait,KW
+213721,Morocco,MA
+213721,Netherlands,NL
+213721,"New Zealand",NZ
+213721,"North Macedonia",MK
+213721,Norway,NO
+213721,Oman,OM
+213721,Portugal,PT
+213721,Qatar,QA
+213721,"Saudi Arabia",SA
+213721,Senegal,SN
+213721,Serbia,RS
+213721,Sweden,SE
+213721,"United Arab Emirates",AE
+213721,"United Kingdom",GB
+213730,Australia,AU
+213730,Bangladesh,BD
+213730,Belgium,BE
+213730,Egypt,EG
+213730,Finland,FI
+213730,France,FR
+213730,Germany,DE
+213730,Greece,GR
+213730,Netherlands,NL
+213730,"New Zealand",NZ
+213730,Norway,NO
+213730,Oman,OM
+213730,Pakistan,PK
+213730,Qatar,QA
+213730,Spain,ES
+213730,Sweden,SE
+213730,"United States of America",US
+213775,Denmark,DK
+213775,Italy,IT
+213775,Singapore,SG
+213775,Sweden,SE
+213776,Denmark,DK
+213776,Italy,IT
+213776,Singapore,SG
+213776,Sweden,SE
+213777,Australia,AU
+213777,Bangladesh,BD
+213777,Belgium,BE
+213777,Egypt,EG
+213777,Finland,FI
+213777,France,FR
+213777,Germany,DE
+213777,Greece,GR
+213777,Netherlands,NL
+213777,"New Zealand",NZ
+213777,Norway,NO
+213777,Oman,OM
+213777,Pakistan,PK
+213777,Qatar,QA
+213777,Spain,ES
+213777,Sweden,SE
+213777,"United States of America",US
+213805,Israel,IL
+213805,Nigeria,NG
+213805,Pakistan,PK
+213805,Philippines,PH
+213805,"United States of America",US
+213806,Israel,IL
+213806,Nigeria,NG
+213806,Pakistan,PK
+213806,Philippines,PH
+213806,"United States of America",US
+213819,"United States of America",US
+213821,"United Kingdom",GB

@@ -65,6 +65,7 @@ PL9012,0,"Submersible vessels","Submersible vessels"
 1B003,0,"Special materials and related equipment","Special materials and related equipment"
 1B101,0,"Special materials and related equipment","Special materials and related equipment"
 1B102,0,"Special materials and related equipment","Special materials and related equipment"
+1B117,0,"Special materials and related equipment","Special materials and related equipment"
 1B201,0,"Special materials and related equipment","Special materials and related equipment"
 1B225,0,"Special materials and related equipment","Special materials and related equipment"
 1B226,0,"Special materials and related equipment","Special materials and related equipment"
@@ -293,10 +294,12 @@ PL9012,0,"Submersible vessels","Submersible vessels"
 9E101,0,"Aerospace and propulsion","Aerospace and propulsion"
 9E102,0,"Aerospace and propulsion","Aerospace and propulsion"
 "Art 4B",0,"Libyan bank notes and coins","Libyan bank notes and coins"
+BLR,0,,
 "End Use",0,"May be intended for WMD purposes","May be intended for WMD purposes"
 "FR AI",0,"Non-military firearms (Firearms Regulation Annex I)","Non-military firearms (Firearms Regulation Annex I)"
 IRN,0,,
 "IRN OG",0,"Iran oil and gas industry equipment/materials","Iran oil and gas industry equipment/materials"
+LBN,0,,
 LBY,0,,
 MEND,0,,
 PRK,0,,
